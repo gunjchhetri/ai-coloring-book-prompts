@@ -1,7 +1,8 @@
 # Prompt data
 
 Every prompt in this library lives here, one JSON file per kind of book. The
-pages under `prompts/` and the website in `docs/` are generated from these files
+pages under `prompts/`, `prompts.json`, `llms.txt` and `library.json` (which the
+website at inkchamps.com/prompts/ is built from) are generated from these files
 by `python3 tools/build.py`. Never edit the generated files by hand.
 
 ## File shape

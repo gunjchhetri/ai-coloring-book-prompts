@@ -1,13 +1,12 @@
 """Builds the library from data/*.json.
 
     python3 tools/build.py          validate, then write README.md, prompts/,
-                                    prompts.json, llms.txt and the site in docs/
+                                    prompts.json, library.json and llms.txt
     python3 tools/build.py --check  validate only
 
-Everything it writes is generated; edit data/ or guides/ instead.
+Everything it writes is generated; edit data/ instead.
 """
 
-import html
 import json
 import re
 import shutil
@@ -19,17 +18,14 @@ from urllib.parse import quote, urlencode
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import images  # noqa: E402
-import mdlite  # noqa: E402
 import schema as S  # noqa: E402
 import validate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO = "gunjchhetri/ai-coloring-book-prompts"
 REPO_URL = f"https://github.com/{REPO}"
-SITE = "https://gunjchhetri.github.io/ai-coloring-book-prompts"
 INKCHAMPS = "https://inkchamps.com"
-# The library's home. These github.io pages point their canonical here so
-# Google ranks inkchamps.com, and the README links here.
+# The library's home: the README, every prompt page and llms.txt link here.
 LIBRARY = f"{INKCHAMPS}/prompts"
 CAMPAIGN = "ai-coloring-book-prompts"
 SITE_NAME = "AI Coloring Book Prompts"
@@ -69,11 +65,6 @@ def theme_name(page):
     return page["title"].split(" Prompts")[0]
 
 CATEGORY_ORDER = list(S.CATEGORIES)
-NAV_LABELS = {
-    "coloring-books": "Coloring", "story-coloring-books": "Story coloring",
-    "illustrated-story-books": "Picture books", "activity-books": "Activity",
-    "educational-coloring-books": "Educational", "kdp-book-covers": "KDP covers",
-}
 
 
 def ages_of(page):
@@ -88,11 +79,16 @@ CATEGORY_BLURBS = {
     "kdp-book-covers": "Print-ready Amazon KDP paperback covers with front, spine and back.",
 }
 
+# (file in guides/, title, where llms.txt sends a reader): the guide's page on
+# InkChamps, or its markdown in this repository when it has no other home.
 GUIDES = [
-    ("how-to-use-these-prompts", "How to use these prompts"),
-    ("gemini-gem-and-custom-gpt", "Make a Gemini Gem or custom GPT that writes book prompts"),
-    ("ai-agents-mcp", "Order books from Claude, Cursor and other AI agents (MCP)"),
-    ("sell-ai-coloring-books-on-amazon-kdp", "Can you sell AI coloring books on Amazon KDP?"),
+    ("how-to-use-these-prompts", "How to use these prompts", f"{LIBRARY}/"),
+    ("gemini-gem-and-custom-gpt", "Make a Gemini Gem or custom GPT that writes book prompts",
+     f"{REPO_URL}/blob/main/guides/gemini-gem-and-custom-gpt.md"),
+    ("ai-agents-mcp", "Order books from Claude, Cursor and other AI agents (MCP)",
+     f"{INKCHAMPS}/blog/how-to-automate-coloring-book-creation-with-inkchamps-mcp/"),
+    ("sell-ai-coloring-books-on-amazon-kdp", "Can you sell AI coloring books on Amazon KDP?",
+     f"{INKCHAMPS}/blog/sell-ai-generated-coloring-books-amazon/"),
 ]
 
 
@@ -271,10 +267,6 @@ def md_category_index(category, pages):
     return "\n".join(out)
 
 
-def guide_markdown(name):
-    return (ROOT / "guides" / f"{name}.md").read_text()
-
-
 def md_readme(data):
     total = count_prompts(data)
     themes = sum(len(p) for p in data.values())
@@ -325,7 +317,7 @@ def md_readme(data):
         "## Guides",
         "",
     ]
-    out += [f"- [{title}](guides/{name}.md)" for name, title in GUIDES]
+    out += [f"- [{title}](guides/{name}.md)" for name, title, _ in GUIDES]
     out += [
         "",
         "## FAQ",
@@ -368,156 +360,6 @@ FAQ = [
     ("Are the prompts free?",
      "Yes, every prompt is free to use. Making the book on InkChamps uses credits; each prompt lists its cost at Standard and Premium quality."),
 ]
-
-
-# ---------------------------------------------------------------- html (GitHub Pages)
-#
-# The library's website is inkchamps.com/prompts/. GitHub Pages only forwards:
-# every page it used to serve is a one-line redirect (an instant meta refresh,
-# which Google treats as a permanent redirect, plus a canonical) to the page
-# that replaced it, so there is one version of each page for search engines.
-# The one page that stays here is the Gemini Gem / custom GPT guide, which has
-# no other home.
-
-# Guides that now live elsewhere; the rest keep a page here.
-GUIDE_HOMES = {
-    "how-to-use-these-prompts": f"{LIBRARY}/",
-    "ai-agents-mcp": f"{INKCHAMPS}/blog/how-to-automate-coloring-book-creation-with-inkchamps-mcp/",
-    "sell-ai-coloring-books-on-amazon-kdp": f"{INKCHAMPS}/blog/sell-ai-generated-coloring-books-amazon/",
-}
-
-FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800"
-         "&family=Inter:wght@400;500;600&display=swap")
-
-CSS = """
-:root{
-  --bg:oklch(99.2% 0.002 285);--surface:#fff;--sunk:oklch(97% 0.006 285);
-  --ink:oklch(26% 0.045 285);--ink-2:oklch(44% 0.03 285);--ink-3:oklch(56% 0.02 285);
-  --line:oklch(91.5% 0.01 285);--accent-ink:oklch(52% 0.17 32);
-  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;--body:"Inter",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
-}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.6 var(--body);-webkit-font-smoothing:antialiased}
-a{color:inherit}
-:focus-visible{outline:2px solid var(--accent-ink);outline-offset:3px;border-radius:4px}
-.wrap{width:min(1160px,100% - 40px);margin-inline:auto}
-h1,h2,h3{font-family:var(--display);color:var(--ink);text-wrap:balance;letter-spacing:-0.02em;margin:0}
-h1{font-size:clamp(2rem,1.5rem + 2vw,3rem);line-height:1.08;font-weight:800}
-.top{border-bottom:1px solid var(--line);background:#fff}
-.top .wrap{display:flex;align-items:center;gap:24px;min-height:64px;flex-wrap:wrap}
-.brand{font:800 1.08rem/1 var(--display);letter-spacing:-0.02em;text-decoration:none}
-.nav{display:flex;gap:4px;margin-left:auto;overflow-x:auto;scrollbar-width:none}
-.nav a{white-space:nowrap;text-decoration:none;color:var(--ink-2);font-size:.92rem;font-weight:500;padding:8px 10px;border-radius:8px}
-.nav a:hover{color:var(--ink);background:var(--sunk)}
-.crumbs{font-size:.85rem;color:var(--ink-3);padding-top:24px}
-.crumbs a{color:var(--ink-2);text-decoration:none}
-.prose{max-width:72ch;padding:8px 0 40px}
-.prose h1{margin:8px 0 18px}
-.prose h2{margin:40px 0 12px;font-size:1.5rem}
-.prose p,.prose li{color:var(--ink-2);text-wrap:pretty}
-.prose p{margin:0 0 14px}
-.prose ul,.prose ol{padding-left:22px;margin:0 0 16px}
-.prose li{margin:6px 0}
-.prose a{color:var(--accent-ink)}
-.prose strong{color:var(--ink)}
-.prose code{background:var(--sunk);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:.88em}
-.prose pre{background:var(--ink);color:oklch(94% 0.01 285);border-radius:12px;padding:16px;overflow:auto;font-size:.85rem;line-height:1.6;margin:0 0 18px;white-space:pre-wrap}
-.prose pre code{background:none;border:0;padding:0;color:inherit}
-.band{background:var(--ink);color:#fff;border-radius:22px;padding:clamp(28px,4vw,48px);display:grid;grid-template-columns:1fr auto;gap:24px;align-items:center;margin:clamp(24px,4vw,48px) 0}
-.band h2{color:#fff}
-.band p{color:oklch(86% 0.02 285);margin:8px 0 0;max-width:56ch}
-.band .btn{display:inline-flex;gap:8px;align-items:center;background:#fff;color:var(--ink);font-weight:600;text-decoration:none;border-radius:999px;padding:13px 20px}
-.foot{border-top:1px solid var(--line);padding:28px 0 44px;font-size:.88rem;color:var(--ink-3)}
-.foot a{color:var(--ink-2)}
-@media (max-width:760px){.nav{order:3;width:100%;margin:0}.band{grid-template-columns:1fr}}
-"""
-
-
-def esc(text):
-    return html.escape(text, quote=True)
-
-
-def redirect_html(target):
-    """A forwarding page: instant refresh plus canonical, so search engines see one page."""
-    t = esc(target)
-    return f"""<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Moved to InkChamps</title>
-<link rel="canonical" href="{t}">
-<meta http-equiv="refresh" content="0; url={t}">
-<script>location.replace({json.dumps(target)})</script>
-</head>
-<body><p>This page moved to <a href="{t}">{t}</a>.</p></body>
-</html>
-"""
-
-
-def page_html(path, title, description, body, breadcrumbs):
-    url = f"{SITE}/{path}"
-    crumbs_ld = {
-        "@context": "https://schema.org", "@type": "BreadcrumbList",
-        "itemListElement": [
-            {"@type": "ListItem", "position": i + 1, "name": name, "item": href}
-            for i, (name, href) in enumerate(breadcrumbs)
-        ],
-    }
-    crumbs = " / ".join(
-        f'<a href="{esc(href)}">{esc(name)}</a>' if i < len(breadcrumbs) - 1 else f'<span aria-current="page">{esc(name)}</span>'
-        for i, (name, href) in enumerate(breadcrumbs)
-    )
-    nav = "".join(f'<a href="{LIBRARY}/{c}/">{esc(NAV_LABELS[c])}</a>' for c in CATEGORY_ORDER)
-    return f"""<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(title)}</title>
-<meta name="description" content="{esc(description)}">
-<link rel="canonical" href="{url}">
-<meta property="og:type" content="article">
-<meta property="og:title" content="{esc(title)}">
-<meta property="og:description" content="{esc(description)}">
-<meta property="og:url" content="{url}">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="{FONTS}">
-<style>{CSS}</style>
-<script type="application/ld+json">{json.dumps(crumbs_ld, ensure_ascii=False)}</script>
-</head>
-<body>
-<header class="top"><div class="wrap">
-<a class="brand" href="{LIBRARY}/">{SITE_NAME}</a>
-<nav class="nav" aria-label="Kinds of book">{nav}</nav>
-</div></header>
-<nav class="crumbs wrap" aria-label="Breadcrumb">{crumbs}</nav>
-<main>
-{body}
-</main>
-<footer class="foot"><div class="wrap">Prompts licensed <a href="{REPO_URL}/blob/main/LICENSE">CC BY 4.0</a> · <a href="{REPO_URL}">GitHub</a> · <a href="{LIBRARY}/">The prompt library on InkChamps</a></div></footer>
-</body>
-</html>
-"""
-
-
-def band(source):
-    return f"""<section class="wrap"><div class="band">
-<div><h2>Browse the prompt library</h2><p>Ready-made briefs for coloring, story, activity and educational books and KDP covers, each with its age band, page count and style.</p></div>
-<a class="btn" href="{LIBRARY}/">Open the library <span aria-hidden="true">→</span></a>
-</div></section>"""
-
-
-def html_guide(name, title):
-    text = guide_markdown(name)
-    first = re.search(r"^(?!#)(.+)$", text, re.M)
-    description = re.sub(r"[*`\[\]]|\(http[^)]+\)", "", first.group(1))[:155] if first else title
-    # Links into the repo's markdown pages point at their InkChamps equivalents.
-    text = text.replace("](../prompts.json)", "](../../prompts.json)")
-    text = re.sub(r"\]\(\.\./prompts/([a-z\-]+)/README\.md\)", lambda m: f"]({LIBRARY}/{m.group(1)}/)", text)
-    body = f'<article class="wrap prose">{mdlite.to_html(text)}</article>{band(name)}'
-    return page_html(f"guides/{name}/", f"{title} | {SITE_NAME}", description, body,
-                     [("Prompt library", f"{LIBRARY}/"), (title, f"{SITE}/guides/{name}/")])
 
 
 # ---------------------------------------------------------------- library.json (inkchamps.com/prompts)
@@ -592,38 +434,16 @@ def build():
     llms = [f"# {SITE_NAME}", "",
             f"> {len(records)} free, validated AI prompts for coloring books, story coloring books, illustrated children's picture books, activity books (mazes, word search, sudoku, tracing), educational coloring books and Amazon KDP covers. "
             f"Each prompt is a brief with age band, page count, page size and style, and opens in InkChamps ({INKCHAMPS}) with one click to make a print-ready PDF.",
-            "", f"Browse: {LIBRARY}/ · Full data with exact InkChamps order settings: {SITE}/prompts.json", ""]
+            "", f"Browse: {LIBRARY}/ · Full data with exact InkChamps order settings: "
+            f"https://raw.githubusercontent.com/{REPO}/main/prompts.json", ""]
     for category, pages in data.items():
         llms.append(f"## {S.CATEGORIES[category]['label']}")
         llms += [f"- [{p['title']}]({library_url(category, p)}): {p['metaDescription']}" for p in pages]
         llms.append("")
     llms.append("## Guides")
-    llms += [f"- [{t}]({GUIDE_HOMES.get(n, f'{SITE}/guides/{n}/')})" for n, t in GUIDES]
+    llms += [f"- [{title}]({home})" for _, title, home in GUIDES]
     write(ROOT / "llms.txt", "\n".join(llms) + "\n")
-
-    # GitHub Pages: every old page forwards to its InkChamps replacement.
-    docs = ROOT / "docs"
-    shutil.rmtree(docs, ignore_errors=True)
-    write(docs / "index.html", redirect_html(f"{LIBRARY}/"))
-    for category, pages in data.items():
-        write(docs / category / "index.html", redirect_html(library_url(category)))
-        for page in pages:
-            write(docs / category / page["slug"] / "index.html", redirect_html(library_url(category, page)))
-    urls = []
-    for name, title in GUIDES:
-        if name in GUIDE_HOMES:
-            write(docs / "guides" / name / "index.html", redirect_html(GUIDE_HOMES[name]))
-        else:
-            write(docs / "guides" / name / "index.html", html_guide(name, title))
-            urls.append(f"{SITE}/guides/{name}/")
-    write(docs / "404.html", redirect_html(f"{LIBRARY}/"))
-    write(docs / "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-          + "".join(f"  <url><loc>{u}</loc><lastmod>{DATA_DATE}</lastmod></url>\n" for u in urls) + "</urlset>\n")
-    write(docs / "robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
-    write(docs / "llms.txt", "\n".join(llms) + "\n")
-    write(docs / "prompts.json", prompts_json + "\n")
-    write(docs / ".nojekyll", "")
-    return len(records), len(urls)
+    return len(records)
 
 
 if __name__ == "__main__":
@@ -635,5 +455,4 @@ if __name__ == "__main__":
     if "--check" in sys.argv:
         print("All prompts valid.")
         sys.exit(0)
-    prompts, pages = build()
-    print(f"Built {prompts} prompts; GitHub Pages keeps {pages} page and forwards the rest to inkchamps.com.")
+    print(f"Built {build()} prompts.")
