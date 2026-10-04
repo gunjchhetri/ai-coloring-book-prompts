@@ -1,0 +1,290 @@
+{
+  "category": "kdp-book-covers",
+  "pages": [
+    {
+      "slug": "coloring-book-cover-prompts",
+      "title": "Coloring Book Cover Prompts for Amazon KDP (Front, Spine & Back)",
+      "metaDescription": "Coloring book cover prompts for Amazon KDP: full wraparound covers with front, spine and back for kids' and adult coloring books, sized to your sheets.",
+      "intro": "A coloring book cover has about one second to sell the book in an Amazon thumbnail, so the art has to show exactly what is inside. These coloring book cover prompts set up full KDP wraparound covers, front, spine and back, for a kids' animal book, an adult mandala book and a toddler dinosaur book. Enter your sheet count and InkChamps sizes the spine to match.",
+      "keywords": [
+        "coloring book cover",
+        "kdp coloring book cover",
+        "coloring book cover design",
+        "amazon kdp cover template",
+        "adult coloring book cover",
+        "kids coloring book cover"
+      ],
+      "tips": [
+        "Show two or three sample pages' worth of characters on the front; buyers want to see the style they are paying for.",
+        "Count sheets, not pages: a coloring book printed on one side has as many sheets as coloring pages.",
+        "Use high contrast and big shapes; the cover must still read at thumbnail size on a phone."
+      ],
+      "prompts": [
+        {
+          "name": "Cute animals coloring book cover for kids",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A bright, happy front cover full of cute baby animals peeking out from a big flower meadow: a puppy, a kitten, a bunny, a fox cub, a panda and a duckling. Sunny yellow sky, rainbow accents and a playful title area at the top. The back repeats a few of the animals as small line-art previews. Cheerful, gift-ready, for kids ages 4-8.",
+            "title": "Cute Baby Animals Coloring Book for Kids",
+            "bookType": "coloring_book",
+            "sheetCount": 50,
+            "interiorPaperType": "white"
+          },
+          "why": "KDP sellers in the crowded kids' animal niche need a cover that shows lots of characters at a glance, so the thumbnail promises a full, fun book."
+        },
+        {
+          "name": "Adult mandala coloring book cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "An elegant cover for an adult mandala coloring book: one large, intricate mandala on the front, half colored in deep teal, gold and plum and half left as crisp black line art, so buyers see both the finished look and the pages to color. Dark navy background, calm and premium. The back shows two smaller mandala previews.",
+            "title": "Mindful Mandalas: Stress Relief Coloring Book for Adults",
+            "bookType": "coloring_book",
+            "sheetCount": 60,
+            "interiorPaperType": "white"
+          },
+          "why": "The half-colored, half-line-art mandala is the classic adult coloring cover that sells because it shows the result and the challenge at once."
+        },
+        {
+          "name": "Toddler dinosaur coloring book cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A chunky, simple cover for toddlers: three big smiling dinosaurs, a green brachiosaurus, an orange triceratops and a blue baby T. rex, standing together in front of a gentle volcano and palm trees. Bold shapes, soft rounded lines, bright primary colors and lots of empty space for a large title. Friendly, never scary, for ages 2-4.",
+            "title": "My First Dinosaur Coloring Book for Toddlers",
+            "bookType": "coloring_book",
+            "sheetCount": 40,
+            "interiorPaperType": "white"
+          },
+          "why": "Parents searching for toddler coloring books look for big, simple shapes on the cover, which signals pages a two-year-old can manage."
+        }
+      ]
+    },
+    {
+      "slug": "childrens-picture-book-cover-prompts",
+      "title": "Children's Picture Book Cover Prompts for KDP Paperbacks",
+      "metaDescription": "Children's picture book cover prompts for KDP: warm, original storybook covers with front, spine and back, sized for a 32-page color paperback.",
+      "intro": "A children's picture book cover has to promise a story, a character and a feeling before the parent ever opens it. These prompts set up full paperback covers for a bedtime book, an adventure about a brave little mouse and a first-day-of-school story, each with an original character. They are sized for square and letter picture books printed in color on both sides.",
+      "keywords": [
+        "children's book cover",
+        "picture book cover design",
+        "kdp children's book cover",
+        "kids book cover ideas",
+        "storybook cover",
+        "self publishing children's book cover"
+      ],
+      "tips": [
+        "Put the main character large on the front and looking toward the story; readers bond with a face.",
+        "A 32-page picture book printed on both sides is 16 sheets; KDP's minimum is 24 pages, which is 12 sheets.",
+        "Choose color interior paper for picture books so the cover's spine width matches a full-color book."
+      ],
+      "prompts": [
+        {
+          "name": "Bedtime picture book cover",
+          "pageSize": "8.5x8.5",
+          "fields": {
+            "description": "A soft, dreamy bedtime cover: a sleepy little bear in striped pajamas sitting on a crescent moon, holding a glowing lantern, above a quiet village of rooftops and pine trees. Deep blue night sky with soft stars, warm golden lantern light, a gentle and cozy mood. The back cover continues the starry sky with a short blurb area. For ages 2-6.",
+            "title": "Goodnight, Little Lantern Bear",
+            "bookType": "story_book",
+            "sheetCount": 16,
+            "interiorPaperType": "color"
+          },
+          "why": "Bedtime books are an evergreen gift category, and a calm blue-and-gold palette tells parents at a glance that this book winds kids down."
+        },
+        {
+          "name": "Brave mouse adventure cover",
+          "pageSize": "8.5x8.5",
+          "fields": {
+            "description": "An adventurous storybook cover: a tiny gray mouse in a red scarf standing on the rocks at the foot of a tall striped lighthouse, holding a small lantern up against a stormy sea. Crashing waves, a gull, a warm beam of light cutting through blue-green clouds. Brave, warm and a little exciting, for ages 4-8. The back shows the calm harbor at sunrise.",
+            "title": "Pip and the Lighthouse Storm",
+            "bookType": "story_book",
+            "sheetCount": 16,
+            "interiorPaperType": "color"
+          },
+          "why": "Self-publishing authors need a cover that sells a small hero facing a big challenge, the core promise of a read-aloud adventure."
+        },
+        {
+          "name": "First day of school picture book cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A cheerful, reassuring cover: a girl with brown skin, curly hair and a yellow backpack standing at the open doors of a bright school, a little nervous but smiling, with a friendly classmate waving from the steps. Autumn leaves, a red school bus and a sunny morning sky. Warm, encouraging, for ages 4-7. The back shows the two friends walking home together.",
+            "title": "Mia's Big Brave First Day",
+            "bookType": "story_book",
+            "sheetCount": 20,
+            "interiorPaperType": "color"
+          },
+          "why": "First-day-of-school books sell every July and August, and a cover showing nerves turning to friendship speaks straight to anxious parents."
+        }
+      ]
+    },
+    {
+      "slug": "activity-puzzle-book-cover-prompts",
+      "title": "Activity and Puzzle Book Cover Prompts for Amazon KDP",
+      "metaDescription": "Activity and puzzle book cover prompts for KDP: bold kids' activity book, maze book and sudoku book covers with front, spine and back, sized by sheets.",
+      "intro": "Activity and puzzle book covers sell on energy and clarity: the buyer must see at once that the book is packed with mazes, dot-to-dots or sudoku. These prompts set up full KDP covers for a big kids' activity book, a maze book and a sudoku book for older kids. Each describes art that previews the puzzles inside.",
+      "keywords": [
+        "activity book cover",
+        "puzzle book cover",
+        "kdp activity book cover",
+        "maze book cover",
+        "sudoku book cover",
+        "kids activity book cover design"
+      ],
+      "tips": [
+        "Show a sample puzzle on the front, like a bit of maze or a sudoku grid; it tells the shopper what kind of book it is in one glance.",
+        "Activity books are usually printed on both sides, so sheets are half the page count.",
+        "Use bold, saturated colors; activity book thumbnails compete with dozens of bright covers."
+      ],
+      "prompts": [
+        {
+          "name": "Big kids' activity book cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A busy, fun cover for a big activity book: a smiling kid and a cartoon robot surrounded by puzzle previews, a corner of a maze, a dot-to-dot star, a spot-the-difference pair of cupcakes, a word search grid and crayons. Bright orange, teal and yellow with confetti shapes. Energetic and full, for ages 4-8. The back lists the activity types with small icons.",
+            "title": "The Big Fun Activity Book for Kids",
+            "bookType": "puzzle",
+            "sheetCount": 50,
+            "interiorPaperType": "white"
+          },
+          "why": "Parents scanning dozens of activity books pick the one that visibly promises variety, and puzzle previews on the cover do exactly that."
+        },
+        {
+          "name": "Maze adventure book cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "An adventure maze cover: a young explorer with a backpack and map standing at the entrance of a giant hedge maze that winds toward a treasure chest on a hill, seen from slightly above so the twisting paths show. Lush greens, a golden treasure glow and a blue sky. Exciting and inviting, for ages 6-10. The back shows a small maze preview.",
+            "title": "Amazing Maze Adventures for Kids",
+            "bookType": "puzzle",
+            "sheetCount": 30,
+            "interiorPaperType": "white"
+          },
+          "why": "A maze seen from above with a clear goal tells shoppers what the book is in a thumbnail, and the explorer adds story appeal."
+        },
+        {
+          "name": "Sudoku book cover for kids 8-12",
+          "pageSize": "6x9",
+          "fields": {
+            "description": "A clean, clever cover for a kids' sudoku book: a large 9x9 sudoku grid tilted on the front with a few bright numbers filled in, a cartoon owl in glasses holding a pencil perched on top, and small stars and lightbulbs around it. Purple, lime green and white, smart and fun rather than babyish, for ages 8-12.",
+            "title": "Sudoku for Smart Kids: Easy to Hard Puzzles",
+            "bookType": "puzzle",
+            "sheetCount": 50,
+            "interiorPaperType": "white"
+          },
+          "why": "Older kids reject babyish covers, and the sudoku grid plus a clever owl reads as a brain-game book that parents and kids both pick."
+        }
+      ]
+    },
+    {
+      "slug": "word-search-book-cover-prompts",
+      "title": "Large Print Word Search Book Cover Prompts for Adults",
+      "metaDescription": "Large print word search book cover prompts for KDP: clear, readable covers for adult and senior puzzle books with front, spine and back included.",
+      "intro": "Large print word search books are bought by and for seniors, so the cover must be calm, readable and obviously large print. These prompts set up full KDP covers for a general large print collection, a gardening edition and a 1960s nostalgia edition. Each one leaves plenty of room for a big, clear title.",
+      "keywords": [
+        "word search book cover",
+        "large print word search cover",
+        "kdp word search cover",
+        "puzzle book cover for adults",
+        "senior puzzle book cover",
+        "word search cover design"
+      ],
+      "tips": [
+        "Show a few letters of a word search grid with one word circled; it is the universal signal for this genre.",
+        "Keep the palette calm and contrast high; many buyers have tired eyes and are shopping on a tablet.",
+        "Count puzzle pages plus solution pages, then halve for both-sided printing to get the sheet count."
+      ],
+      "prompts": [
+        {
+          "name": "Classic large print word search cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A clear, classic cover for a large print word search book for adults: a big section of a letter grid on a cream background with three words circled in bold red, a sharpened pencil and a pair of reading glasses resting on it. Navy, cream and red, calm and very readable, with a large clean title area. The back repeats the grid motif.",
+            "title": "Large Print Word Search for Adults: 60 Puzzles",
+            "bookType": "word_search",
+            "sheetCount": 40,
+            "interiorPaperType": "white"
+          },
+          "why": "The circled-word grid and reading glasses tell seniors and gift buyers exactly what this is, which is how the best-selling covers in this niche work."
+        },
+        {
+          "name": "Garden edition word search cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A fresh, cheerful cover for a gardening-themed large print word search: a sunny cottage garden border of roses, foxgloves and lavender framing a cream panel with a few rows of large letters and one circled word, a watering can and a robin on a fence post. Soft greens, pink and cream, peaceful and pretty.",
+            "title": "Large Print Word Search for Seniors: Garden Edition",
+            "bookType": "word_search",
+            "sheetCount": 55,
+            "interiorPaperType": "cream"
+          },
+          "why": "Gardening is a favorite retiree hobby, and a pretty garden cover turns a puzzle book into a natural Mother's Day or birthday gift."
+        },
+        {
+          "name": "1960s nostalgia word search cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A retro 1960s cover for a nostalgia word search book: a mint-green diner jukebox, a vinyl record, a vintage scooter of no real make and flower-power daisies around a large letter grid with circled words. Orange, teal and mustard yellow with a sunburst pattern, playful and nostalgic, with a bold retro title area. For adults who grew up in the sixties.",
+            "title": "Remember the 60s: Large Print Word Search",
+            "bookType": "word_search",
+            "sheetCount": 50,
+            "interiorPaperType": "white"
+          },
+          "why": "Nostalgia covers grab baby boomers and their kids shopping for gifts, and the 60s palette sells the theme before they read a word."
+        }
+      ]
+    },
+    {
+      "slug": "journal-notebook-cover-prompts",
+      "title": "Journal and Notebook Cover Prompts for Amazon KDP",
+      "metaDescription": "Journal and notebook cover prompts for KDP: gratitude journal, lined notebook and dream journal covers with front, spine and back for low-content books.",
+      "intro": "Journals and notebooks are the classic low-content KDP product, and the cover is almost the whole product. These prompts set up full wraparound covers for a gratitude journal, a lined school notebook and a dream journal. Each one sets the art, mood and palette, and the sheet count sizes the spine.",
+      "keywords": [
+        "journal cover design",
+        "notebook cover kdp",
+        "kdp journal cover",
+        "low content book cover",
+        "gratitude journal cover",
+        "lined notebook cover"
+      ],
+      "tips": [
+        "Choose cream paper for journals; it is easier on the eyes and feels premium for writing.",
+        "A 120-page lined journal printed on both sides is 60 sheets.",
+        "Leave a clear area on the front for the title; many buyers want to see the book's purpose in words."
+      ],
+      "prompts": [
+        {
+          "name": "Gratitude journal cover",
+          "pageSize": "6x9",
+          "fields": {
+            "description": "A calm, uplifting cover for a gratitude journal: soft watercolor wildflowers, chamomile, lavender and small pink cosmos, growing up from the bottom edge toward a gentle sunrise. Sage green, blush pink and warm cream, airy and peaceful with lots of open space for the title. The back continues the flowers with a short line about daily gratitude.",
+            "title": "Today I Am Grateful: A Daily Gratitude Journal",
+            "bookType": "novel",
+            "sheetCount": 60,
+            "interiorPaperType": "cream"
+          },
+          "why": "Gratitude journals sell year-round as self-care gifts, and soft watercolor florals are what that buyer looks for."
+        },
+        {
+          "name": "Lined school notebook cover",
+          "pageSize": "8.5x11",
+          "fields": {
+            "description": "A clean, classic notebook cover: a black-and-white marble pattern with a white label box in the center for a name and subject, and a bright color stripe along the spine. Simple, sturdy and timeless, for students, teachers and anyone who needs a wide-ruled notebook. The back repeats the marble pattern.",
+            "title": "Wide Ruled Notebook",
+            "bookType": "novel",
+            "sheetCount": 60,
+            "interiorPaperType": "white"
+          },
+          "why": "Marble composition-style notebooks are an evergreen back-to-school seller, and teachers buy them in bulk every August."
+        },
+        {
+          "name": "Dream journal cover",
+          "pageSize": "6x9",
+          "fields": {
+            "description": "A mysterious, dreamy cover for a dream journal: a crescent moon cradled in drifting clouds above a calm lake, with a small sailboat floating among reflected stars and a few glowing moths. Deep indigo, violet and silver, quiet and magical. The back continues the night sky. For adults and teens who record their dreams.",
+            "title": "Night Pages: A Dream Journal",
+            "bookType": "novel",
+            "sheetCount": 100,
+            "interiorPaperType": "cream"
+          },
+          "why": "Dream journals are a steady niche with fewer competitors than plain notebooks, and a moody night-sky cover fits the buyer's mindset."
+        }
+      ]
+    }
+  ]
+}

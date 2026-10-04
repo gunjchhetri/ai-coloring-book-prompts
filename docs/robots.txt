@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gunjchhetri.github.io/ai-coloring-book-prompts/sitemap.xml

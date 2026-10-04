@@ -1,0 +1,509 @@
+{
+  "category": "story-coloring-books",
+  "pages": [
+    {
+      "slug": "bedtime-story-coloring-book-prompts",
+      "title": "Bedtime Story Coloring Book Prompts for Calm Evenings",
+      "metaDescription": "Bedtime story coloring book prompts with gentle, sleepy tales: color a page, read its line and wind down with an owl, a little town and a dream kite.",
+      "intro": "A bedtime story coloring book gives the last quiet half hour of the day a shape: color a page, read its line, turn to the next. These prompts are slow, soft stories that wind down instead of winding up, with sleepy animals, darkening towns and dreams that end safely back in bed. They suit parents building a bedtime routine and KDP sellers looking for an evergreen gift niche.",
+      "keywords": [
+        "bedtime story coloring book",
+        "bedtime coloring book for kids",
+        "AI story coloring book",
+        "sleepy story coloring pages",
+        "calm coloring book for toddlers",
+        "bedtime routine activity book"
+      ],
+      "tips": [
+        "Make the story get quieter as it goes: busy scenes early, stillness and closed eyes by the last pages.",
+        "End with the child (or the hero) safely in bed, so the book closes the same way bedtime does.",
+        "KDP paperbacks need at least 24 pages, so keep home-print versions shorter and KDP versions at 24 or more."
+      ],
+      "prompts": [
+        {
+          "name": "Oswin the owl tucks in the forest",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Oswin Says Goodnight",
+            "theme": "Bedtime in the forest",
+            "style": "cute_animals",
+            "description": "Oswin, a young owl with round spectacles and a tiny lantern, flies through the forest at dusk to say goodnight to everyone. He tucks the rabbits under the hedge, sings to the ducklings on the pond, finds the badger's lost pillow, helps the fireflies dim their lights, counts the sheep in the meadow, hums to the deer under the pines and pulls a leaf blanket over the hedgehog. Each friend yawns and settles. At last Oswin yawns too, and his mother wraps him in her wing in their hollow tree. A gentle, repetitive goodnight story that ends in sleep."
+          },
+          "why": "Parents of toddlers get a predictable, soothing pattern of one goodnight per page that works as part of a nightly routine."
+        },
+        {
+          "name": "Goodnight, Little Town",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Goodnight, Little Town",
+            "theme": "A town going to sleep",
+            "style": "story",
+            "description": "Mae, a little girl with two puffy braids and star pajamas, watches from her bedroom window as her town gets ready for night. The baker pulls out the last loaf, the bus driver parks the big red bus, the crane lowers its long arm, the fire engine rests in its station, the lighthouse switches on and the cat curls up on the bakery step. Mae waves goodnight to each one. Finally her dad switches off her lamp and the whole town, and Mae, is asleep."
+          },
+          "why": "Vehicle-loving preschoolers color trucks and cranes while the story quietly steers them toward sleep, which parents and KDP buyers both want."
+        },
+        {
+          "name": "The Dream Kite",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Dream Kite",
+            "theme": "A gentle journey through dreams",
+            "style": "fairy_tale",
+            "description": "Theo, a boy in striped pajamas, finds a paper kite on his windowsill that lifts him into his dreams. He visits a bakery inside a cloud, rides a sleepy whale who hums lullabies, borrows a book from a library on the moon and drifts through a meadow of glowing dandelions. Each dream is softer and slower than the last. As the sky turns pink, the kite lowers Theo back into his bed, and he finds a dandelion seed on his pillow."
+          },
+          "why": "Early readers enjoy a dreamy adventure with richer scenes to color, and the safe return home makes it a reliable bedtime pick for parents."
+        }
+      ]
+    },
+    {
+      "slug": "first-day-of-school-story-coloring-book-prompts",
+      "title": "First Day of School Story Coloring Book Prompts",
+      "metaDescription": "First day of school story coloring book prompts that ease nerves: a brave pebble, a kindergarten morning and chalk planets that win new friends.",
+      "intro": "A first day of school story coloring book lets a nervous child rehearse the day before it happens: the walk in, the cubby, the new teacher, the first friend. Coloring each page slows the story down so worries can be talked through. These prompts suit parents preparing a preschooler or kindergartner, teachers welcoming a new class and KDP sellers stocking back-to-school gifts.",
+      "keywords": [
+        "first day of school story coloring book",
+        "back to school story coloring book",
+        "kindergarten first day book",
+        "starting school activity book",
+        "school nerves story coloring book",
+        "preschool coloring storybook"
+      ],
+      "tips": [
+        "Walk through the real day in order (goodbye, classroom, lunch, recess, pickup) so the book doubles as a rehearsal.",
+        "Give the hero one honest worry and one small coping trick the child can borrow.",
+        "List back-to-school titles in July; for KDP keep the book at 24 pages or more."
+      ],
+      "prompts": [
+        {
+          "name": "Rosie's brave pebble",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Rosie's Brave Pebble",
+            "theme": "Starting preschool",
+            "style": "cute_animals",
+            "description": "Rosie, a small raccoon with a yellow backpack, is nervous about her first day at Willow Hollow School. Her mama slips a smooth pebble into her pocket and calls it her brave pebble. Rosie hangs up her coat, meets her teacher Mr. Moss, a kind tortoise with glasses, paints a sun and eats lunch on the log bench. When a little mouse named Benji cries at the door, Rosie lends him her pebble. At pickup she runs to Mama with her painting and a new friend."
+          },
+          "why": "Parents of anxious preschoolers get a coping idea the child can actually copy, wrapped in a sweet animal story."
+        },
+        {
+          "name": "Amir's kindergarten morning",
+          "ageGroup": "3-6",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Kindergarten, Here I Come",
+            "theme": "First day of kindergarten",
+            "style": "story",
+            "description": "Amir, a boy with curly hair and red sneakers, gets ready for his very first day of kindergarten. He eats breakfast, walks to school holding his dad's hand, finds the cubby with his name on it, sits on the rug for circle time, builds a block tower, eats a sandwich, plays on the slide and listens to a story. He worries his dad won't come back, but at pickup there he is by the gate. On the walk home Amir asks, Can I go back tomorrow?"
+          },
+          "why": "Teachers and parents get a step-by-step picture of a real kindergarten day that answers the questions small children are too shy to ask."
+        },
+        {
+          "name": "Juniper's chalk planets",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Juniper and the Chalk Planets",
+            "theme": "New school after moving",
+            "style": "story",
+            "description": "Juniper, a girl in a big green raincoat, has just moved to a new town and starts at Maple Street School where she knows nobody. She sits alone at lunch and stands by the wall at recess. Then she pulls out her chalk and draws a hopscotch path of planets across the playground, from Mercury to Neptune. One by one, curious kids line up to hop it. By the end of the day her new friends are adding their own planets, and Juniper can't wait for tomorrow."
+          },
+          "why": "Families who have moved get a story about walking into a room of strangers, with a hopeful ending kids aged 6-9 believe."
+        }
+      ]
+    },
+    {
+      "slug": "new-baby-sibling-story-coloring-book-prompts",
+      "title": "New Baby Sibling Story Coloring Book Prompts",
+      "metaDescription": "New baby sibling story coloring book prompts that admit jealousy and end with a job only the big brother or sister can do. A thoughtful gift.",
+      "intro": "A new baby sibling story coloring book gives an older child something of their own while the house fills up with baby things. These stories name the big feelings, waiting, jealousy and feeling left out, and end with the older child finding a job only they can do. They make a thoughtful hospital-bag gift and a steady seller for KDP and Etsy shops in the baby-shower niche.",
+      "keywords": [
+        "new baby sibling story coloring book",
+        "big sister story coloring book",
+        "big brother story coloring book",
+        "new baby story for toddlers",
+        "sibling coloring storybook",
+        "baby shower gift coloring book"
+      ],
+      "tips": [
+        "Let the hero feel a little jealous or left out on one page; children trust a book that admits it.",
+        "Give the older child a special job (singing, reading, making the baby laugh) to end on.",
+        "Offer one version per sibling title (big sister, big brother) so buyers find the exact match."
+      ],
+      "prompts": [
+        {
+          "name": "Big Sister Bea the elephant",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Big Sister Bea",
+            "theme": "Becoming a big sister",
+            "style": "cute_animals",
+            "description": "Bea, a young elephant with a pink bow on one ear, waits for her baby brother to arrive. She gathers soft leaves for his bed and practices gentle trunk hugs. When baby Kito comes, he cries all day and everyone is busy, and Bea feels forgotten. Grandpa Elephant shows her the old watering hole where she once took her first wobbly steps. Bea finds her special job: trumpeting a soft song that rocks Kito to sleep. She is the only one who can do it."
+          },
+          "why": "Parents expecting a second child get a gift that prepares a toddler and gives her a proud role, ideal for the hospital bag."
+        },
+        {
+          "name": "Flurry the penguin waits for the egg",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Flurry Waits for the Egg",
+            "theme": "Waiting for a new baby",
+            "style": "cute_animals",
+            "description": "Flurry, a little penguin with a fluffy grey coat, watches Papa balance a big egg on his feet all through the long, snowy winter. Flurry wants to play, but Papa must keep still. So Flurry brings Papa fish, tells him jokes, builds a snow wall against the wind and counts the stars beside him. One morning the egg goes crack, and out peeks a tiny chick. Flurry gently shows the chick the snow, the sea and the sky, and Papa calls him the best big brother on the ice."
+          },
+          "why": "It turns the long wait for a baby into something a child can help with, which parents love and preschoolers understand."
+        },
+        {
+          "name": "Leo becomes a big brother",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Leo Becomes a Big Brother",
+            "theme": "Jealousy and love for a new sibling",
+            "style": "story",
+            "description": "Leo, a freckled boy in a dinosaur T-shirt, helps paint the nursery and picks a toy giraffe for the baby. When baby Mila arrives, everyone coos over her, and Leo feels invisible. He makes a list of everything he can do that Mila can't: ride a bike, whistle, build a tall tower. Then Mom tells him love doesn't get cut in half when a baby comes; it grows, like a garden. On the last page Leo reads his favorite book to Mila, and she grabs his finger."
+          },
+          "why": "Older siblings aged 6-9 feel seen in a story that admits jealousy and answers it, a gift parents and grandparents both buy."
+        }
+      ]
+    },
+    {
+      "slug": "dinosaur-adventure-story-coloring-book-prompts",
+      "title": "Dinosaur Adventure Story Coloring Book Prompts",
+      "metaDescription": "Dinosaur story coloring book prompts: the littlest T. rex saves the eggs, a baby stegosaurus hides in Grandma's garden and kids read fossil tracks.",
+      "intro": "Dinosaurs are one of the most searched coloring themes, and a dinosaur adventure story coloring book adds a plot that keeps kids turning pages instead of skipping around. These prompts range from a small T. rex who saves the herd to young fossil hunters reading a trail of footprints. They work for dinosaur-mad kids at home and for KDP sellers who want a story angle in a crowded niche.",
+      "keywords": [
+        "dinosaur story coloring book",
+        "dinosaur story coloring book for kids",
+        "dinosaur adventure book",
+        "paleontology story coloring book",
+        "T rex coloring storybook",
+        "fossil coloring book"
+      ],
+      "tips": [
+        "Name each dinosaur species in the brief so the pages draw a real stegosaurus or triceratops, not a generic dino.",
+        "Give the smallest dinosaur the big moment; kids root for the underdog.",
+        "A dinosaur story is a strong KDP angle in a crowded niche; keep it at 24 pages or more."
+      ],
+      "prompts": [
+        {
+          "name": "Rumble the littlest T. rex saves the eggs",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Rumble and the Rolling Eggs",
+            "theme": "Being small can be a strength",
+            "style": "cute_animals",
+            "description": "Rumble, a little green T. rex with a big grin, is the smallest dinosaur in the valley. He can't reach the high leaves like Lulu the brachiosaurus or push logs like Tansy the triceratops. When the volcano rumbles, the herd's eggs roll into a narrow cave. Nobody fits, except Rumble. He wriggles in and nudges the eggs out one by one with his nose. The herd cheers, the eggs hatch, and the babies all want to be just like Rumble."
+          },
+          "why": "Preschoolers who feel small love an underdog hero, and dinosaur fans keep coming back to it, a combination that sells on KDP."
+        },
+        {
+          "name": "The dinosaur in Grandma's garden",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Dinosaur in Grandma's Garden",
+            "theme": "A secret baby dinosaur",
+            "style": "story",
+            "description": "Oliver, a boy with muddy knees, finds a huge speckled egg in Grandma's vegetable patch. It hatches into a baby stegosaurus he names Clementine. She eats all the cabbages, naps in the wheelbarrow and grows bigger every day, until she no longer fits in the shed. Oliver and Grandma follow her tracks to a mossy door at the back of the greenhouse that opens onto a prehistoric jungle. Oliver says goodbye as Clementine joins her herd, and next spring a tiny tail-plate sprouts in the cabbage bed."
+          },
+          "why": "Kids aged 6-9 get humor, a secret and a bittersweet goodbye, and grandparents love gifting a book set in a grandma's garden."
+        },
+        {
+          "name": "Fossil hunters of Red Rock Canyon",
+          "ageGroup": "9-13",
+          "numberOfPages": 36,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Fossil Hunters of Red Rock Canyon",
+            "theme": "Paleontology and discovery",
+            "style": "story",
+            "description": "Siblings Nia and Kofi spend the summer at a desert dig with their aunt, a paleontologist with a wide straw hat. They brush sand from bones, sift gravel and label finds. Then Kofi spots a trail of giant three-toed footprints in the rock. As a storm rolls in, they map the tracks and work out the story: a herd of hadrosaurs crossing a river, chased by a gorgosaurus. Pages switch between the dig and the herd's ancient journey, and the book ends with the footprints named after the two kids."
+          },
+          "why": "Older kids who have outgrown cute dinosaurs get real paleontology and detailed scenes, a gap few KDP dinosaur books fill."
+        }
+      ]
+    },
+    {
+      "slug": "space-adventure-story-coloring-book-prompts",
+      "title": "Space Adventure Story Coloring Book Prompts",
+      "metaDescription": "Space story coloring book prompts: a rocket's cake delivery to the Moon, a girl returning a fallen star and two kids saving a seedling in orbit.",
+      "intro": "A space adventure story coloring book turns the solar system into a journey: each page is a new planet, a moon or a starry rescue. These prompts give curious kids a reason to learn that Saturn has rings and Mars has dust storms while following a hero home. They suit space-mad children, teachers adding a story to a science unit and KDP sellers in the space niche.",
+      "keywords": [
+        "space story coloring book",
+        "space story coloring book for kids",
+        "rocket story coloring book",
+        "planet coloring storybook",
+        "solar system story for kids",
+        "astronaut story coloring book"
+      ],
+      "tips": [
+        "Make each stop a real place (the Moon, Mars, Saturn's rings) so the book teaches a little as it tells the story.",
+        "Bring the hero home at the end; a trip that returns feels finished.",
+        "For KDP, 24 pages is the minimum; a planet-by-planet tour easily fills 30."
+      ],
+      "prompts": [
+        {
+          "name": "Little Rocket's birthday delivery",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Little Rocket's Big Delivery",
+            "theme": "A trip to the Moon",
+            "style": "universe_space",
+            "description": "Zip, a small round rocket with a red nose cone and porthole eyes, has an important job: deliver a birthday cake to the Moon. He blasts off past the clouds, waves to a satellite, dodges a sleepy comet, bounces through a sprinkle of shooting stars and loops around a smiling space station. The cake wobbles but never falls. On the Moon, the moon mice are throwing a party, and they share the cake with Zip before he zooms home to bed."
+          },
+          "why": "Toddlers get a simple there-and-back trip with friendly characters, a safe space pick for parents and preschool teachers."
+        },
+        {
+          "name": "Captain Ada and the lost star",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Captain Ada and the Lost Star",
+            "theme": "Returning a fallen star",
+            "style": "universe_space",
+            "description": "Ada, a girl in a silver helmet two sizes too big, finds a tiny fallen star glowing in her backyard. With her dog Comet in his own fishbowl helmet, she builds a cardboard rocket to take it home. They pass the cratered Moon, crawl through a Mars dust storm, ask Jupiter's great storm for directions and skate on Saturn's icy rings. At the edge of the sky they find the empty gap in a constellation. Ada puts the star back, and the constellation now looks just like Comet."
+          },
+          "why": "Kids aged 6-9 meet real planets inside a rescue story, which makes it work for homeschool science and bedtime alike."
+        },
+        {
+          "name": "Space station kids and the last seed",
+          "ageGroup": "9-13",
+          "numberOfPages": 36,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Last Seed on Station Halcyon",
+            "theme": "Life on a space station",
+            "style": "universe_space",
+            "description": "Ravi and Jo are the only two kids living on Halcyon, a ring-shaped space station orbiting Earth. They float to school, eat from pouches and tend the station greenhouse. When a solar storm knocks out the greenhouse lights, every plant wilts except one tomato seedling. The two of them rewire a lamp from spare parts, take turns watching it through the night shift and hand-pollinate its first flower. The book ends with the whole crew sharing one small red tomato as Earth rises in the window."
+          },
+          "why": "Older kids get believable space-station life and a problem solved with teamwork, a fresh angle for STEM-minded families."
+        }
+      ]
+    },
+    {
+      "slug": "kindness-friendship-story-coloring-book-prompts",
+      "title": "Kindness and Friendship Story Coloring Book Prompts",
+      "metaDescription": "Kindness and friendship story coloring book prompts: a shared umbrella, a kindness jar and two kids who become friends by drawing, one kind act a page.",
+      "intro": "A kindness and friendship story coloring book teaches social skills the way children learn best, by watching a character do it. Each page shows one small kind act, and the story adds them up into a warm ending. Teachers use these for social-emotional learning, parents use them to talk about sharing, and KDP sellers find steady demand in the character-building niche.",
+      "keywords": [
+        "kindness story coloring book",
+        "friendship story coloring book",
+        "SEL story coloring book",
+        "sharing story coloring book",
+        "friendship coloring storybook",
+        "kindness activity book for kids"
+      ],
+      "tips": [
+        "Show kindness as small, copyable actions (holding a door, sharing an umbrella) rather than speeches about it.",
+        "Let kindness come back around at the end so children see why it matters.",
+        "Teachers buy these for SEL lessons; one kind act per page makes a ready discussion prompt."
+      ],
+      "prompts": [
+        {
+          "name": "Bertram's big yellow umbrella",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Bertram's Big Yellow Umbrella",
+            "theme": "Sharing and making room",
+            "style": "cute_animals",
+            "description": "Bertram, a bear with a big yellow umbrella, sets off through the rain to the market. Along the way he meets a soggy squirrel, then a shivering fox, a dripping hedgehog, two chilly rabbits, a mouse with a soaked shopping bag and a family of ducks who say they don't mind the rain but secretly do. Each time Bertram says, There's room for one more. Soon the umbrella is crowded and everyone's toes are wet, so they all laugh and squeeze closer. When the sun comes out, his new friends make Bertram a rain hat from a giant leaf."
+          },
+          "why": "The repeated line gives preschoolers a phrase to say along with the reader, and parents get an easy way to talk about sharing."
+        },
+        {
+          "name": "Ollie's kindness jar",
+          "ageGroup": "3-6",
+          "numberOfPages": 26,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Ollie's Kindness Jar",
+            "theme": "Everyday acts of kindness",
+            "style": "story",
+            "description": "Ollie, a girl with a gap-toothed smile and a polka-dot headband, gets an empty jar from her grandma. For every kind thing she does, she drops in a marble. She waters the neighbor's flowers, helps a boy pick up dropped crayons, saves a seat at lunch, shares her umbrella and draws a card for the mail carrier. The jar fills slowly. On the day it's full, Ollie's friends surprise her with a jar of their own, full of notes about the kind things she did."
+          },
+          "why": "Teachers and parents get a kindness-jar idea children can start the next day, with one concrete good deed on each page."
+        },
+        {
+          "name": "Tomás and Hazel draw a friendship",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Friendship We Drew",
+            "theme": "Friendship across languages",
+            "style": "story",
+            "description": "Tomás has just arrived from far away and doesn't speak much English yet. Hazel, a girl with a sketchbook always under her arm, sits next to him in class. They can't talk, so they draw: Tomás draws his old town by the sea, Hazel draws her treehouse. They trade drawings at recess, teach each other words for dog, rain and pizza, and build a comic together. When Tomás reads his first English sentence aloud to the class, Hazel is the first to clap."
+          },
+          "why": "Classrooms welcoming new students get a gentle story about friendship without shared words, a needed theme teachers search for."
+        }
+      ]
+    },
+    {
+      "slug": "christmas-story-coloring-book-prompts",
+      "title": "Christmas Story Coloring Book Prompts for Kids",
+      "metaDescription": "Christmas story coloring book prompts with original characters: a little reindeer with a loud bell, a muddled elf and a tiny snow globe village.",
+      "intro": "A Christmas story coloring book is a stocking-stuffer that keeps kids busy on the slow days before the holiday and gives them a story to read on Christmas Eve. These prompts feature original holiday characters, a little reindeer, a muddled elf and a tiny snow globe village, so they are safe to sell. They are a seasonal bestseller for KDP and Etsy shops and a family favorite for advent.",
+      "keywords": [
+        "Christmas story coloring book",
+        "Christmas story coloring book for kids",
+        "holiday coloring storybook",
+        "stocking stuffer coloring book",
+        "AI Christmas coloring book",
+        "reindeer story coloring book"
+      ],
+      "tips": [
+        "Publish Christmas titles by October; KDP holiday search traffic peaks in November.",
+        "Use original holiday characters; famous reindeer and film snowmen are trademarked.",
+        "Give the story a cozy Christmas Eve or Christmas morning ending children can look forward to."
+      ],
+      "prompts": [
+        {
+          "name": "Sprig the littlest reindeer",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Sprig's First Flight",
+            "theme": "A little reindeer finds his place",
+            "style": "christmas",
+            "description": "Sprig, the littlest reindeer at the North Pole, wears a jingle-bell collar much too big for him. When he practices flying, his bell jangles so loudly the elves cover their ears and the big reindeer sigh. Sprig tries to fly quietly, but he can't. On Christmas Eve a baby polar bear wanders off into the snowstorm outside the workshop. Nobody can see him in all that white, but he can hear Sprig's bell, and he follows the jingle home. Santa gives every reindeer a bell just like Sprig's."
+          },
+          "why": "Preschoolers love a small hero whose 'problem' turns out to save the day, and it's an original character KDP sellers can safely list."
+        },
+        {
+          "name": "Tinsel the elf's stocking mix-up",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Tinsel's Great Stocking Mix-Up",
+            "theme": "A funny Christmas mistake",
+            "style": "christmas",
+            "description": "Tinsel, a young elf with a crooked green hat, is put in charge of filling the stockings. But he drops his list in the cocoa, and everything goes to the wrong place. A cat gets a dog bone, a baby gets a tuba, Grandpa gets a tutu and a goldfish gets ice skates. On Christmas morning everyone is puzzled, until they start swapping gifts with their neighbors. The whole street ends up laughing together at one big breakfast, and Tinsel decides it was the best mistake ever."
+          },
+          "why": "Silly mismatched gifts on every page make young kids laugh out loud, a strong stocking-stuffer pick for parents."
+        },
+        {
+          "name": "Evie and the snow globe village",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Evie and the Snow Globe Village",
+            "theme": "Magic inside a snow globe",
+            "style": "christmas",
+            "description": "Evie, a girl in a red knitted scarf, shakes her grandmother's old snow globe and shrinks right inside it. The tiny village is getting ready for Christmas, but the tree in the square has no star; it fell into the river last winter. Evie helps the townsfolk, a baker, a clockmaker and a girl with a pet hedgehog, search the bakery, the clock tower and the skating pond. Together they make a new star from a silver button off Evie's coat. Back home, Evie finds her button missing, and a tiny star shining in the globe."
+          },
+          "why": "Early readers get a magical adventure with detailed village scenes to color, a keepsake gift for grandparents to give."
+        }
+      ]
+    },
+    {
+      "slug": "ocean-adventure-story-coloring-book-prompts",
+      "title": "Ocean Adventure Story Coloring Book Prompts",
+      "metaDescription": "Ocean story coloring book prompts: a sea turtle's journey home, an octopus who learns what belongs in the sea and a submarine dive with Grandpa.",
+      "intro": "An ocean adventure story coloring book takes kids from the beach to the deep sea, with coral reefs, kelp forests and shipwrecks to color along the way. These prompts follow a sea turtle hatchling, a tidy-minded octopus and a girl in her grandpa's submarine, and each one carries a gentle message about caring for the sea. They suit ocean-loving kids, summer travel bags and KDP sellers in the sea-life niche.",
+      "keywords": [
+        "ocean story coloring book",
+        "ocean story coloring book for kids",
+        "sea animal coloring storybook",
+        "under the sea story coloring book",
+        "ocean conservation story for kids",
+        "sea turtle story coloring book"
+      ],
+      "tips": [
+        "Move the story through real ocean zones (beach, reef, kelp forest, deep sea) so every page looks different.",
+        "Name the sea creatures in the brief: a clownfish, a manta ray, an anglerfish.",
+        "Summer and beach-vacation buyers peak in May and June; list KDP versions at 24 pages or more."
+      ],
+      "prompts": [
+        {
+          "name": "Shelby the sea turtle finds her way home",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Shelby Finds Her Way Home",
+            "theme": "A sea turtle's journey",
+            "style": "cute_animals",
+            "description": "Shelby, a baby sea turtle with a speckled shell, hatches on a moonlit beach and scurries to the waves. In the big ocean she meets a clownfish who shows her the reef, a manta ray who gives her a ride, and a kind old whale who sings her to sleep. She grows bigger and stronger with every page. Years later, Shelby follows the Earth's hidden pull, like a secret compass, all the way back to the very same beach, where she lays her own eggs in the warm sand."
+          },
+          "why": "Young children follow a full life cycle in a sweet adventure, which makes it a favorite for parents and preschool nature units."
+        },
+        {
+          "name": "Odette the octopus and her collection",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Odette's Overflowing Den",
+            "theme": "Keeping the ocean clean",
+            "style": "cute_animals",
+            "description": "Odette, a purple octopus who loves shiny things, collects everything that drifts to the sea floor: buttons, spoons, bottle caps, a lost sandal and a plastic bag. Her den gets so full she can barely squeeze inside. When a little crab gets stuck in the plastic bag, Odette untangles him with all eight arms and realises not everything belongs in the sea. She and her friends gather the litter into a net and leave it at the beach for the people to take home. Then she keeps only one shiny shell."
+          },
+          "why": "Parents and teachers get a gentle anti-litter message told through a funny, lovable character rather than a lecture."
+        },
+        {
+          "name": "Marisol and Grandpa's submarine",
+          "ageGroup": "9-13",
+          "numberOfPages": 34,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Marisol and the Deep Blue Dive",
+            "theme": "Exploring the ocean zones",
+            "style": "story",
+            "description": "Marisol, a girl with a long dark braid, spends summer with her grandpa, an old sea captain who keeps a small orange submarine called Biscuit under his fishing boat. On trips north and south they dive through a cold kelp forest full of sea otters and a warm coral reef busy with parrotfish, then down through the twilight zone of glowing jellyfish and the dark deep where an anglerfish lights the way. In a sunken ship they find a message in a bottle that Grandpa threw into the sea when he was Marisol's age."
+          },
+          "why": "Older kids get a real tour of the ocean's zones with a heartfelt family twist, good for homeschoolers and ocean fans."
+        }
+      ]
+    }
+  ]
+}

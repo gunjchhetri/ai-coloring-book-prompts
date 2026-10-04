@@ -1,0 +1,1084 @@
+{
+  "category": "activity-books",
+  "pages": [
+    {
+      "slug": "dinosaur-activity-book-prompts",
+      "title": "Dinosaur Activity Book Prompts for Kids (Mazes, Word Search & More)",
+      "metaDescription": "Dinosaur activity book prompts for kids 3-13: mazes, word search, dot-to-dot and spot the difference pages, ready to print for KDP, Etsy or home.",
+      "intro": "Dinosaurs are one of the steadiest sellers in kids' activity books, and they suit every age from first mazes to tricky fossil word searches. These dinosaur activity book prompts mix built puzzles with prehistoric scenes, so every page feels like part of one adventure. Pick the age band, open the prompt and InkChamps lays out a print-ready PDF.",
+      "keywords": [
+        "dinosaur activity book",
+        "dinosaur activity book for kids",
+        "dinosaur mazes for kids",
+        "dinosaur word search",
+        "dinosaur activity pages printable",
+        "dinosaur puzzle book ages 6-9"
+      ],
+      "tips": [
+        "Name real dinosaurs in the brief (triceratops, stegosaurus, brachiosaurus) so the decoration changes from page to page instead of repeating one generic dino.",
+        "For ages 3-6, say the dinosaurs are friendly and gentle; parents return books with snarling teeth.",
+        "Put fossil and period words in the word search list; kids who love dinosaurs like seeing words they already know, like JURASSIC."
+      ],
+      "prompts": [
+        {
+          "name": "Friendly dinosaur valley for preschoolers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Friendly dinosaurs in a sunny prehistoric valley: a baby triceratops hatching from an egg, a brachiosaurus eating treetop leaves, a stegosaurus splashing in a puddle, a pteranodon gliding over a smoking volcano, a little T. rex digging up a bone. Mazes help a hungry dinosaur reach its nest of eggs or a pile of ferns. Keep every dinosaur smiling and gentle, with no fighting or sharp teeth.",
+            "activities": [
+              "connect_the_dots_book",
+              "shadow_matching_book",
+              "maze_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "connect_the_dots_book": "black_and_white",
+              "shadow_matching_book": "color",
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "connect_the_dots_book": 8,
+              "shadow_matching_book": 8,
+              "maze_book": 6,
+              "coloring_book": 8
+            }
+          },
+          "why": "Parents of dinosaur-mad preschoolers want a calm, screen-free book with simple puzzles a 4-year-old can finish alone, and a gentle cast keeps it bedtime-safe."
+        },
+        {
+          "name": "Dinosaur puzzle adventure for ages 6-9",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A dinosaur expedition through jungles, swamps, volcano fields and a riverbank full of footprints. Mazes guide a raptor back to its nest or an explorer jeep through ferns. Word search words: DINOSAUR, HORNS, PLATES, RAPTOR, FOSSIL, VOLCANO, JURASSIC, HERBIVORE, CARNIVORE, SKELETON, FOOTPRINT, EGG, CLAW, TAIL, SWAMP. Spot the difference scenes: a dinosaur picnic, a nest of hatchlings, a museum skeleton hall.",
+            "activities": [
+              "maze_book",
+              "word_search_book",
+              "spot_the_difference_book",
+              "connect_the_dots_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "maze_book": "color",
+              "word_search_book": "black_and_white",
+              "spot_the_difference_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "tube",
+              "round"
+            ],
+            "pagesByType": {
+              "maze_book": 10,
+              "word_search_book": 10,
+              "spot_the_difference_book": 8,
+              "connect_the_dots_book": 6,
+              "coloring_book": 6
+            }
+          },
+          "why": "KDP sellers in the busy 'activity book for kids 6-9' niche need variety per page, and a full dinosaur word list makes the word searches feel themed rather than generic."
+        },
+        {
+          "name": "Fossil hunter logic book for ages 9-13",
+          "ageGroup": "9-13",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A fossil dig in a desert canyon: paleontologists with brushes, picks and sieves, rock layers, a field tent, a museum lab. Word search lists by topic. Periods: TRIASSIC, JURASSIC, CRETACEOUS, MESOZOIC, EXTINCTION. Dinosaurs: ANKYLOSAURUS, TRICERATOPS, SPINOSAURUS, ALLOSAURUS, IGUANODON, DIPLODOCUS. Dig site: TROWEL, BRUSH, SIEVE, PLASTER, CHISEL, SEDIMENT, AMBER. Mazes run through canyon tunnels and dig-site trenches.",
+            "activities": [
+              "word_search_book",
+              "sudoku_book",
+              "maze_book",
+              "spot_the_difference_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white",
+              "sudoku_book": "black_and_white",
+              "maze_book": "black_and_white",
+              "spot_the_difference_book": "color"
+            },
+            "mazeStyles": [
+              "walls",
+              "square_tube",
+              "round"
+            ],
+            "pagesByType": {
+              "word_search_book": 14,
+              "sudoku_book": 12,
+              "maze_book": 14,
+              "spot_the_difference_book": 10
+            }
+          },
+          "why": "Older kids outgrow cartoon dinosaurs fast; real science vocabulary and harder puzzles make this a gift parents and homeschoolers buy for a 10-year-old fossil fan."
+        }
+      ]
+    },
+    {
+      "slug": "preschool-workbook-prompts",
+      "title": "Preschool Workbook Prompts: ABC Tracing, Shapes & Matching (Ages 3-6)",
+      "metaDescription": "Preschool workbook prompts for ages 3-6: A to Z letter tracing, pre-writing lines, shadow matching and simple mazes in one printable activity book.",
+      "intro": "A good preschool workbook builds pencil control first, then letters, then early thinking skills like matching shapes. These prompts set up alphabet pages with a picture for every letter, pre-writing lines and shadow matching for 3 to 6 year olds. They suit parents preparing for kindergarten, homeschoolers and KDP sellers in the evergreen preschool niche.",
+      "keywords": [
+        "preschool workbook",
+        "preschool workbook ages 3-5",
+        "abc tracing workbook",
+        "letter tracing book for kids",
+        "kindergarten readiness workbook",
+        "pre-writing tracing pages",
+        "shadow matching worksheets"
+      ],
+      "tips": [
+        "Order the activities from easiest to hardest: line tracing before letters, letters before matching.",
+        "List one picture word per letter in the brief so the A-Z pages use simple, sayable words (Igloo, not Iguana for a 3-year-old learning sounds).",
+        "Choose color for shadow matching; the colored object next to its black shadow is what makes the match obvious to little kids."
+      ],
+      "prompts": [
+        {
+          "name": "A to Z alphabet tracing workbook",
+          "ageGroup": "3-6",
+          "numberOfPages": 42,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A cheerful first alphabet book, one letter per page with a picture to say the sound: Apple, Ball, Cat, Duck, Egg, Fish, Goat, Hat, Igloo, Jellyfish, Kite, Lion, Moon, Nest, Owl, Pig, Queen, Rabbit, Sun, Turtle, Umbrella, Van, Whale, Box (x at the end), Yo-yo, Zebra. Tracing pages warm up with straight lines, zigzags, waves and circles. Shadow matching uses the same alphabet pictures.",
+            "activities": [
+              "tracing_worksheet_book",
+              "abc_book",
+              "shadow_matching_book"
+            ],
+            "inkByType": {
+              "tracing_worksheet_book": "black_and_white",
+              "shadow_matching_book": "color"
+            },
+            "pagesByType": {
+              "tracing_worksheet_book": 10,
+              "abc_book": 26,
+              "shadow_matching_book": 6
+            }
+          },
+          "why": "Parents and preschool teachers want one workbook that goes from pencil warm-ups to a full A-Z, and reusing the alphabet pictures in the matching pages reinforces each letter."
+        },
+        {
+          "name": "Pre-writing lines and shapes book",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A farm-themed pre-writing book for little hands. Tracing pages: straight lines from a bee to a flower, zigzags down a hill, waves across a pond, loops like a pig's curly tail, then circles, squares, triangles, rectangles, hearts and stars. Shadow matching pairs farm animals and objects: cow, hen, horse, sheep, tractor, barn, pumpkin, watering can. Dot-to-dots are short, simple farm shapes.",
+            "activities": [
+              "tracing_worksheet_book",
+              "shadow_matching_book",
+              "connect_the_dots_book"
+            ],
+            "inkByType": {
+              "tracing_worksheet_book": "black_and_white",
+              "shadow_matching_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "pagesByType": {
+              "tracing_worksheet_book": 16,
+              "shadow_matching_book": 8,
+              "connect_the_dots_book": 6
+            }
+          },
+          "why": "Occupational therapists and parents of 3-year-olds look for line-and-shape tracing before letters, and a single farm theme keeps a young child engaged across 30 pages."
+        },
+        {
+          "name": "Kindergarten readiness big workbook",
+          "ageGroup": "3-6",
+          "numberOfPages": 60,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A get-ready-for-school workbook set in a friendly classroom and playground: backpacks, crayons, a school bus, a reading corner, a sandbox. ABC pages A to Z with one picture each: Ant, Bus, Crayon, Dog, Elephant, Frog, Glue, House, Insect, Jar, Key, Leaf, Map, Notebook, Orange, Pencil, Quilt, Ruler, Scissors, Tree, Umbrella, Violin, Window, Box (x at the end), Yarn, Zipper. Tracing covers lines, shapes and numbers 1 to 10. Easy mazes lead a child to the school door.",
+            "activities": [
+              "tracing_worksheet_book",
+              "abc_book",
+              "shadow_matching_book",
+              "maze_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "tracing_worksheet_book": "black_and_white",
+              "shadow_matching_book": "color",
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "tracing_worksheet_book": 14,
+              "abc_book": 26,
+              "shadow_matching_book": 6,
+              "maze_book": 6,
+              "coloring_book": 8
+            }
+          },
+          "why": "A thick 60-page workbook is the bestselling format for summer-before-kindergarten, and the school setting helps nervous kids picture their first day."
+        }
+      ]
+    },
+    {
+      "slug": "travel-activity-book-prompts",
+      "title": "Travel Activity Book Prompts for Kids: Road Trip & Airplane Fun",
+      "metaDescription": "Travel activity book prompts for kids: road trip and airplane puzzle books with mazes, word search and dot-to-dot for screen-free hours on the go.",
+      "intro": "A travel activity book buys a family hours of quiet in the back seat or on a long flight, without another screen. These prompts build road trip and airplane activity books by age, with puzzles that work on a lap and themes kids can spot out the window. They make great printables for parents and a reliable seasonal seller before summer and holidays.",
+      "keywords": [
+        "travel activity book for kids",
+        "road trip activity book",
+        "airplane activity book for kids",
+        "screen-free activities for kids",
+        "car activities for kids",
+        "kids travel games printable"
+      ],
+      "tips": [
+        "Pick black and white for older kids' puzzles; pencils and pens work on them and they print cheaply for home use before a trip.",
+        "Skip activities that need scissors or glue; everything here works with one pencil on a moving seat.",
+        "Use window-spotting words in the word search (BRIDGE, TUNNEL, COW) so kids connect the puzzle to the trip."
+      ],
+      "prompts": [
+        {
+          "name": "Family road trip activity book",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A family road trip in a camper van across mountains, deserts, farms and the seaside: a gas station stop, a roadside picnic, a campsite with a campfire, a long bridge, a tunnel, a motel pool. Mazes follow winding highways to the beach or the campground. Word search words: HIGHWAY, MAP, SNACKS, TUNNEL, BRIDGE, CAMPER, PICNIC, SUITCASE, COMPASS, MOUNTAIN, BEACH, SUNGLASSES, DETOUR, CACTUS, LAKE.",
+            "activities": [
+              "maze_book",
+              "word_search_book",
+              "spot_the_difference_book",
+              "connect_the_dots_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "maze_book": "black_and_white",
+              "word_search_book": "black_and_white",
+              "spot_the_difference_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "tube"
+            ],
+            "pagesByType": {
+              "maze_book": 10,
+              "word_search_book": 10,
+              "spot_the_difference_book": 8,
+              "connect_the_dots_book": 6,
+              "coloring_book": 6
+            }
+          },
+          "why": "Parents print or buy this the week before summer vacation; road-trip scenes make the book feel made for the journey, and five activity types stop boredom."
+        },
+        {
+          "name": "First airplane trip for little flyers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A child's first plane trip from start to finish: packing a suitcase, the airport check-in desk, the moving luggage belt, looking out the big window at the planes, the friendly pilot and cabin crew, buckling the seatbelt, snacks above the clouds, landing and hugging grandma. Easy mazes help a little plane find the runway or a suitcase reach its owner. Shadows to match: plane, suitcase, pilot hat, cloud, control tower.",
+            "activities": [
+              "shadow_matching_book",
+              "connect_the_dots_book",
+              "maze_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "shadow_matching_book": "color",
+              "connect_the_dots_book": "black_and_white",
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "shadow_matching_book": 8,
+              "connect_the_dots_book": 8,
+              "maze_book": 6,
+              "coloring_book": 8
+            }
+          },
+          "why": "Parents flying with a preschooler want a book that keeps small hands busy and also walks the child through what will happen at the airport, which eases first-flight nerves."
+        },
+        {
+          "name": "Around the world travel puzzles for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 48,
+          "pageSize": "6x9",
+          "highQuality": false,
+          "fields": {
+            "description": "A world travel puzzle book decorated with passport stamps, boarding passes, trains, ferries and landmarks seen from a plane window. Word search lists. Airport: PASSPORT, BOARDING, GATE, LAYOVER, LUGGAGE, RUNWAY, CUSTOMS. Countries: BRAZIL, KENYA, JAPAN, CANADA, EGYPT, NORWAY, PERU, INDIA. Packing: CHARGER, PILLOW, SNACKS, JOURNAL, HEADPHONES. Mazes are city street grids, metro lines and mountain trails.",
+            "activities": [
+              "word_search_book",
+              "sudoku_book",
+              "maze_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white",
+              "sudoku_book": "black_and_white",
+              "maze_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "round"
+            ],
+            "pagesByType": {
+              "word_search_book": 16,
+              "sudoku_book": 16,
+              "maze_book": 16
+            }
+          },
+          "why": "A 6x9 book fits a backpack and a tray table, and tweens on long flights want real puzzles, not baby pages, so sudoku and dense word searches hold their attention."
+        }
+      ]
+    },
+    {
+      "slug": "space-activity-book-prompts",
+      "title": "Space Activity Book Prompts for Kids: Planets, Rockets & Puzzles",
+      "metaDescription": "Space activity book prompts for kids: planet mazes, astronaut dot-to-dots, solar system word search and sudoku, ready as a printable PDF for KDP.",
+      "intro": "Rockets, planets and astronauts pull kids into puzzles they would otherwise skip. These space activity book prompts cover three ages, from simple rocket shadows for preschoolers to a space station logic book for 9 to 13 year olds. The word lists use real planet and science words, so the book quietly teaches while it entertains.",
+      "keywords": [
+        "space activity book for kids",
+        "space activity book",
+        "solar system word search",
+        "astronaut activity book",
+        "planet mazes for kids",
+        "outer space puzzles for kids"
+      ],
+      "tips": [
+        "Use the eight real planet names in word searches; parents and teachers notice when a space book teaches something true.",
+        "Round mazes look like planets and orbits, so they fit a space book better than any other theme.",
+        "Give the little astronaut a pet or a robot friend so preschool pages have a character to follow."
+      ],
+      "prompts": [
+        {
+          "name": "Little astronaut activity book",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A little astronaut and a friendly round robot explore space: a rocket blasting off, waving from the Moon, bouncing in low gravity, a ringed planet, a smiling Sun, shooting stars, a space station with big windows, an alien flower garden on a purple planet. Easy mazes help the rocket fly home to Earth. Shadows to match: rocket, helmet, Moon, star, satellite, telescope, comet, planet with rings.",
+            "activities": [
+              "connect_the_dots_book",
+              "shadow_matching_book",
+              "maze_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "connect_the_dots_book": "black_and_white",
+              "shadow_matching_book": "color",
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "connect_the_dots_book": 8,
+              "shadow_matching_book": 8,
+              "maze_book": 6,
+              "coloring_book": 8
+            }
+          },
+          "why": "Parents of rocket-obsessed preschoolers want a book with a character to follow and puzzles simple enough for a first attempt, and space is a gender-neutral gift choice."
+        },
+        {
+          "name": "Solar system explorer puzzles",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A tour of the solar system, one stop at a time: the hot Sun, rocky Mercury, cloudy Venus, Earth and its Moon, red Mars with a rover, giant Jupiter, ringed Saturn, tilted Uranus, windy blue Neptune, a comet with a long tail. Word search words: MERCURY, VENUS, EARTH, MARS, JUPITER, SATURN, URANUS, NEPTUNE, ORBIT, COMET, GALAXY, ASTRONAUT, TELESCOPE, ROCKET, ASTEROID. Mazes are orbits and asteroid fields.",
+            "activities": [
+              "maze_book",
+              "word_search_book",
+              "spot_the_difference_book",
+              "connect_the_dots_book"
+            ],
+            "inkByType": {
+              "maze_book": "color",
+              "word_search_book": "black_and_white",
+              "spot_the_difference_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "round",
+              "walls",
+              "tube"
+            ],
+            "pagesByType": {
+              "maze_book": 10,
+              "word_search_book": 10,
+              "spot_the_difference_book": 10,
+              "connect_the_dots_book": 10
+            }
+          },
+          "why": "Teachers and homeschoolers running a space unit grab this as a fun follow-up, because every page reinforces the planet order and real space vocabulary."
+        },
+        {
+          "name": "Space station logic book for ages 9-13",
+          "ageGroup": "9-13",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Life on an orbiting space station: astronauts with plain mission patches floating in modules, a robotic arm, solar panel wings, a cupola window over Earth, growing lettuce in space, a docking capsule. Word search lists. Station: MODULE, AIRLOCK, DOCKING, SPACESUIT, GRAVITY, OXYGEN. Sky: NEBULA, PULSAR, SUPERNOVA, QUASAR, ECLIPSE, GALAXY. Mars mission: ROVER, CRATER, DUST STORM, OLYMPUS MONS. Mazes are station corridors and crater fields.",
+            "activities": [
+              "sudoku_book",
+              "word_search_book",
+              "maze_book",
+              "spot_the_difference_book"
+            ],
+            "inkByType": {
+              "sudoku_book": "black_and_white",
+              "word_search_book": "black_and_white",
+              "maze_book": "black_and_white",
+              "spot_the_difference_book": "color"
+            },
+            "mazeStyles": [
+              "walls",
+              "square_tube",
+              "round"
+            ],
+            "pagesByType": {
+              "sudoku_book": 16,
+              "word_search_book": 14,
+              "maze_book": 12,
+              "spot_the_difference_book": 8
+            }
+          },
+          "why": "STEM-minded tweens want harder puzzles and real astronomy words, and parents like a gift that rewards curiosity rather than screen time."
+        }
+      ]
+    },
+    {
+      "slug": "halloween-activity-book-prompts",
+      "title": "Halloween Activity Book Prompts for Kids (Not Too Spooky)",
+      "metaDescription": "Halloween activity book prompts for kids: pumpkin mazes, witch hat dot-to-dots, Halloween word search and sudoku, from cute to spooky by age.",
+      "intro": "Halloween activity books sell hard for six weeks every fall, as party favors, class treats and candy alternatives. These prompts scale the spookiness to the age: smiling pumpkins for preschoolers, a monster costume parade for early readers and a haunted manor puzzle book for tweens. Each one is ready to open and print well before October.",
+      "keywords": [
+        "halloween activity book for kids",
+        "halloween activity book",
+        "halloween word search",
+        "halloween mazes for kids",
+        "halloween activity pages printable",
+        "non-candy halloween treats"
+      ],
+      "tips": [
+        "Publish by early September; Halloween search traffic builds through the whole month before.",
+        "For ages 3-6, say 'smiling' and 'friendly' about every ghost, bat and witch; scary faces get one-star reviews.",
+        "A 24-30 page book printed at home makes a cheap, candy-free class party favor."
+      ],
+      "prompts": [
+        {
+          "name": "Not-so-spooky Halloween for preschoolers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A cozy, not-scary Halloween: smiling jack-o'-lanterns in a pumpkin patch, a friendly ghost waving, a black cat in a witch hat, kids in costumes (a pumpkin, a bee, a dragon) trick-or-treating, candy buckets, a happy bat hanging upside down, an owl on a fence under a big round moon. Easy mazes lead a trick-or-treater to the candy bowl. Shadows to match: pumpkin, ghost, bat, hat, broom, candy, owl, cat.",
+            "activities": [
+              "shadow_matching_book",
+              "connect_the_dots_book",
+              "maze_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "shadow_matching_book": "color",
+              "connect_the_dots_book": "black_and_white",
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "shadow_matching_book": 8,
+              "connect_the_dots_book": 8,
+              "maze_book": 6,
+              "coloring_book": 8
+            }
+          },
+          "why": "Preschool teachers and parents want Halloween fun without the fright, and this works as a candy-free party favor for a class of four-year-olds."
+        },
+        {
+          "name": "Monster costume parade puzzles",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A neighborhood Halloween night: a costume parade, a goofy friendly monster with three eyes, a witch stirring soup in a cauldron, a scarecrow in a cornfield, a hayride, bobbing for apples, a spider spinning a web on a porch. Word search words: PUMPKIN, COSTUME, CANDY, LANTERN, BROOMSTICK, CAULDRON, SPIDER, SKELETON, MUMMY, GHOST, OWL, SCARECROW, HAYRIDE, MOONLIGHT, POTION. Mazes go through a corn maze and a pumpkin patch.",
+            "activities": [
+              "maze_book",
+              "word_search_book",
+              "spot_the_difference_book",
+              "connect_the_dots_book"
+            ],
+            "inkByType": {
+              "maze_book": "color",
+              "word_search_book": "black_and_white",
+              "spot_the_difference_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "tube",
+              "round"
+            ],
+            "pagesByType": {
+              "maze_book": 10,
+              "word_search_book": 10,
+              "spot_the_difference_book": 10,
+              "connect_the_dots_book": 10
+            }
+          },
+          "why": "KDP sellers in the 6-9 Halloween niche need a book that is fun-spooky rather than scary, and the corn-maze mazes are a natural fit for the season."
+        },
+        {
+          "name": "Haunted manor puzzle book for ages 9-13",
+          "ageGroup": "9-13",
+          "numberOfPages": 45,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A creaky old manor on a hill on Halloween night: a library of floating books, a portrait gallery with moving eyes, a candlelit staircase, a cobwebbed attic, a garden of crooked gravestones, a raven on a gate. Word search lists. Haunted house: CANDELABRA, COBWEB, ATTIC, CELLAR, PORTRAIT, LANTERN. Creatures: WEREWOLF, BANSHEE, GOBLIN, VAMPIRE, ZOMBIE, PHANTOM. Mazes are secret passages and hedge labyrinths.",
+            "activities": [
+              "word_search_book",
+              "sudoku_book",
+              "maze_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white",
+              "sudoku_book": "black_and_white",
+              "maze_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "round",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "word_search_book": 15,
+              "sudoku_book": 15,
+              "maze_book": 15
+            }
+          },
+          "why": "Tweens want a spookier book than the cute ones aimed at little kids, and three solid puzzle types keep them busy through Halloween week."
+        }
+      ]
+    },
+    {
+      "slug": "christmas-activity-book-prompts",
+      "title": "Christmas Activity Book Prompts for Kids: Mazes, Word Search & More",
+      "metaDescription": "Christmas activity book prompts for kids: reindeer mazes, holiday word search, gingerbread dot-to-dots and a 24-day advent puzzle book for December.",
+      "intro": "Christmas activity books are a classic stocking stuffer and one of the biggest seasonal sellers on Amazon KDP and Etsy. These prompts cover a cozy preschool book, a busy North Pole puzzle book and a 24-day advent puzzle countdown. Every scene uses original characters, so the book is safe to sell.",
+      "keywords": [
+        "christmas activity book for kids",
+        "christmas activity book",
+        "christmas word search for kids",
+        "christmas mazes",
+        "stocking stuffer activity book",
+        "advent puzzle book"
+      ],
+      "tips": [
+        "Publish Christmas books by early October; KDP review plus holiday shipping eats November.",
+        "Use an original Santa's helper elf or reindeer with a name instead of any character from a holiday film.",
+        "A 24-page advent version, one puzzle a day, gives buyers a reason to start the book on December 1st."
+      ],
+      "prompts": [
+        {
+          "name": "Cozy Christmas for preschoolers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A cozy Christmas at home: decorating the tree, a gingerbread house, hanging stockings by the fireplace, a snowman with a carrot nose, a reindeer in the snow, a sleigh full of gifts, mittens and hot cocoa, cookies for Santa. Tracing pages trace candy cane stripes, snowflake lines and the shapes of a star, bell and tree. Shadows to match: bell, stocking, star, gift, snowman, reindeer, candle, tree.",
+            "activities": [
+              "tracing_worksheet_book",
+              "shadow_matching_book",
+              "connect_the_dots_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "tracing_worksheet_book": "black_and_white",
+              "shadow_matching_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "pagesByType": {
+              "tracing_worksheet_book": 6,
+              "shadow_matching_book": 8,
+              "connect_the_dots_book": 8,
+              "coloring_book": 8
+            }
+          },
+          "why": "Grandparents and parents pick up a cozy, simple book like this as a stocking stuffer for a three- or four-year-old, and the tracing pages make it a little bit educational too."
+        },
+        {
+          "name": "North Pole workshop puzzle book",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A busy North Pole workshop: elves painting wooden toys, wrapping presents on a conveyor belt, a reindeer stable, a mail room full of letters, a polar bear sledding, a sleigh loading up on Christmas Eve. Word search words: REINDEER, SLEIGH, SNOWFLAKE, MISTLETOE, ORNAMENT, STOCKING, CHIMNEY, COOKIES, ELVES, WREATH, CANDY CANE, PRESENTS, CAROLS, TINSEL, COCOA. Mazes guide the sleigh across rooftops to deliver every gift.",
+            "activities": [
+              "maze_book",
+              "word_search_book",
+              "spot_the_difference_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "maze_book": "color",
+              "word_search_book": "black_and_white",
+              "spot_the_difference_book": "color"
+            },
+            "mazeStyles": [
+              "walls",
+              "tube",
+              "round"
+            ],
+            "pagesByType": {
+              "maze_book": 10,
+              "word_search_book": 10,
+              "spot_the_difference_book": 10,
+              "coloring_book": 10
+            }
+          },
+          "why": "This is the core stocking-stuffer book for 6-9 year olds, and a workshop setting gives every page a new busy scene for spot the difference."
+        },
+        {
+          "name": "24-day advent puzzle countdown",
+          "ageGroup": "9-13",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A countdown to Christmas with one puzzle for each day from December 1 to 24, decorated with a snowy village: ice skating on a pond, a holiday market, carolers, a train through snowy pines, a cabin at night. Word search lists. Winter: BLIZZARD, ICICLE, SNOWDRIFT, SNOWFLAKE, TOBOGGAN. Baking: NUTMEG, CINNAMON, SHORTBREAD, FRUITCAKE. Traditions: ADVENT, POINSETTIA, NUTCRACKER, YULE LOG. Mazes are snowy forest paths.",
+            "activities": [
+              "word_search_book",
+              "sudoku_book",
+              "maze_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white",
+              "sudoku_book": "black_and_white",
+              "maze_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "square_tube",
+              "round"
+            ],
+            "pagesByType": {
+              "word_search_book": 8,
+              "sudoku_book": 8,
+              "maze_book": 8
+            }
+          },
+          "why": "Parents of tweens want a no-chocolate advent calendar, and exactly 24 puzzles gives a daily December ritual that is easy to market."
+        }
+      ]
+    },
+    {
+      "slug": "large-print-word-search-prompts",
+      "title": "Large Print Word Search Prompts for Adults and Seniors",
+      "metaDescription": "Large print word search prompts for adults and seniors: themed puzzle books on gardening, travel and 1960s nostalgia, easy to read and print.",
+      "intro": "Large print word search books are one of the most reliable low-content niches on Amazon KDP, bought by seniors, caregivers and memory-care activity staff. The winning books have a clear theme and familiar, upbeat word lists. These prompts give you three themed books, each with full word lists, ready to turn into a large print puzzle PDF.",
+      "keywords": [
+        "large print word search",
+        "large print word search for seniors",
+        "word search for adults",
+        "large print puzzle books",
+        "themed word search books",
+        "word search for people with dementia",
+        "1960s word search"
+      ],
+      "tips": [
+        "Keep words familiar and cheerful; seniors buy word searches to relax, and a theme like gardening or old songs brings back good memories.",
+        "Give 10-15 words per list in the brief so each puzzle has a clear subtopic, like Herbs or Garden Birds.",
+        "Black and white ink only; it keeps the print cost low and the letters crisp for tired eyes."
+      ],
+      "prompts": [
+        {
+          "name": "Gardener's large print word search",
+          "ageGroup": "13+",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A large print gardening word search, each puzzle framed by flowers and watering cans. Flowers: ROSE, TULIP, DAISY, LILAC, PEONY, DAHLIA, PANSY, IRIS, POPPY, ASTER, LILY, ZINNIA. Vegetables: TOMATO, CARROT, RADISH, SPINACH, PUMPKIN, ONION, BEAN, PEA, LEEK, CORN, BEET, KALE. Herbs: BASIL, THYME, MINT, PARSLEY, ROSEMARY, SAGE, DILL, CHIVES, OREGANO, FENNEL, LAVENDER, BAY. Garden birds: ROBIN, FINCH, WREN, CARDINAL, BLUEBIRD, SPARROW, DOVE, JAY, OWL, CROW, THRUSH, HERON. Tools: TROWEL, RAKE, SHEARS, HOSE, SPADE, HOE, FORK, GLOVES, BUCKET, SHED, POT, SEEDS.",
+            "activities": [
+              "word_search_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white"
+            },
+            "pagesByType": {
+              "word_search_book": 30
+            }
+          },
+          "why": "Gardening is a top hobby for retirees, so a themed large print book is an easy gift for a parent or grandparent and a steady KDP seller every spring."
+        },
+        {
+          "name": "Travel the world large print word search",
+          "ageGroup": "13+",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A large print armchair-travel word search, each puzzle framed with postcards and a vintage map. Europe: PARIS, VENICE, LISBON, VIENNA, DUBLIN, ATHENS, ROME, PRAGUE, OSLO, MADRID, BERLIN, NICE. Islands: HAWAII, BALI, SICILY, TAHITI, ICELAND, MALTA, CRETE, FIJI, CUBA, JAVA, CAPRI, SAMOA. Parks: CANYON, GEYSER, REDWOODS, GLACIER, MESA, LAKE, FALLS, TRAIL, CAMP, RIDGE, ARCHES, DUNES. Packing: PASSPORT, CAMERA, SUNHAT, POSTCARD, MAP, TICKET, SCARF, SNACKS, BOOK, PILLOW, SOCKS, KEYS. Ways to go: CRUISE, RAILWAY, FERRY, CARAVAN, AIRPLANE, BUS, TAXI, BIKE, TRAM, BOAT, COACH, CANOE.",
+            "activities": [
+              "word_search_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white"
+            },
+            "pagesByType": {
+              "word_search_book": 30
+            }
+          },
+          "why": "Retirees who love to travel, or miss it, enjoy revisiting places through puzzles, and it is a natural gift for cruise or bon-voyage packages."
+        },
+        {
+          "name": "1960s nostalgia large print word search",
+          "ageGroup": "13+",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A large print 1960s word search, each puzzle decorated with jukeboxes and vinyl records. Fashion: MINISKIRT, BEEHIVE, GOGO BOOTS, TIE DYE, BELL BOTTOMS, BEADS, FRINGE, SANDALS, POLKA DOT, HEADBAND, PLATFORMS, PONCHO. Dances: TWIST, LIMBO, STROLL, SWIM, FRUG, MONKEY, PONY, JERK, HUSTLE, SHIMMY, LOCOMOTION, SHAKE. At home: TV DINNER, PERCOLATOR, FONDUE, JELLO, LAVA LAMP, TRANSISTOR, RECORDS, RADIO, PHONE, SHAG RUG, FORMICA, AVOCADO. Big moments: MOON LANDING, SPACE RACE, PEACE SIGN, SURF MUSIC, ASTRONAUT, ROCKET, WOODSTOCK, DRIVE IN, JUKEBOX, DINER, BEATNIK, FLOWER POWER.",
+            "activities": [
+              "word_search_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white"
+            },
+            "pagesByType": {
+              "word_search_book": 24
+            }
+          },
+          "why": "Nostalgia word searches are loved by people who grew up in the 60s and by memory-care staff, because familiar words spark conversation as well as puzzle time."
+        }
+      ]
+    },
+    {
+      "slug": "maze-book-prompts",
+      "title": "Maze Book Prompts for Kids: Easy to Hard Mazes by Age",
+      "metaDescription": "Maze book prompts for kids by age: big easy mazes for preschoolers, adventure mazes for 6-9 and tricky round and grid mazes for ages 9-13.",
+      "intro": "A maze book is the simplest activity book to sell and one kids return to again and again. These prompts set up a full maze book for each age band, with themed scenes around every maze and the right maze styles for the age. Use them to publish a maze series on KDP or print a stack for a rainy day.",
+      "keywords": [
+        "maze book for kids",
+        "mazes for kids",
+        "maze book ages 4-8",
+        "easy mazes for preschoolers",
+        "hard mazes for kids",
+        "printable maze book",
+        "maze puzzles for kids 9-12"
+      ],
+      "tips": [
+        "Wide tube mazes suit ages 3-6; round mazes are hard to follow at that age and are never drawn for that band.",
+        "Give each maze a start and a goal in the brief (a puppy and its doghouse) so kids know what they are solving for.",
+        "Mix two or three maze styles in a big book; a whole book of one style feels repetitive by page 20."
+      ],
+      "prompts": [
+        {
+          "name": "First mazes: help the animals get home",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Big, easy mazes where friendly animals find their way home: a puppy to its doghouse, a bee to a flower, a duckling to the pond, a squirrel to its acorn, a bunny to the carrot patch, a penguin to its family, a turtle to the sea, a hen to her nest, a fish to the coral, a mouse to the cheese. Each maze has a clear start animal and a goal, with simple garden, farm and seaside scenery around it.",
+            "activities": [
+              "maze_book"
+            ],
+            "inkByType": {
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "maze_book": 30
+            }
+          },
+          "why": "Parents of 3-5 year olds want a first maze book their child can finish without help, and a clear animal-to-home goal on every page makes that happen."
+        },
+        {
+          "name": "Adventure mazes for ages 6-9",
+          "ageGroup": "6-9",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Fifty adventure mazes, each in a new place: a pirate island to the buried treasure chest, a jungle temple to a golden idol, a castle to the dragon's tower, a submarine through a coral reef, a knight through a hedge garden, a train through mountain tunnels, a robot through a factory, a rocket through an asteroid belt, a beaver through a river dam, a camel across desert dunes.",
+            "activities": [
+              "maze_book"
+            ],
+            "inkByType": {
+              "maze_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "tube",
+              "round"
+            ],
+            "pagesByType": {
+              "maze_book": 50
+            }
+          },
+          "why": "A 50-maze book with a new adventure on every page is the bread-and-butter KDP maze product for 6-9, and black and white keeps the print cost low."
+        },
+        {
+          "name": "Challenging labyrinths for ages 9-13",
+          "ageGroup": "9-13",
+          "numberOfPages": 60,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Sixty hard mazes for older kids, themed as escape missions: an ancient stone labyrinth, a city of rooftops and alleys, an underground mine with rail carts, a space station on lockdown, an ice cave, a spy getting out of a laser-guarded museum, a hedge maze at a royal palace, a sewer system, a volcano lair, a lost city in the clouds. Mazes get harder from the start of the book to the end.",
+            "activities": [
+              "maze_book"
+            ],
+            "inkByType": {
+              "maze_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "square_tube",
+              "round"
+            ],
+            "pagesByType": {
+              "maze_book": 60
+            }
+          },
+          "why": "Tweens who breeze through kids' maze books want real challenge, and escape-mission themes make 60 hard mazes feel like a game rather than homework."
+        }
+      ]
+    },
+    {
+      "slug": "sudoku-puzzle-book-prompts",
+      "title": "Sudoku Puzzle Book Prompts for Kids, Teens and Adults",
+      "metaDescription": "Sudoku puzzle book prompts for kids 6-9, tweens and adults: themed sudoku books with fun decoration, ready to print as a PDF for KDP or home.",
+      "intro": "Sudoku teaches logic and patience, and a themed sudoku book stands out from the plain grids that fill Amazon. These prompts set up a picture-friendly sudoku book for 6 to 9 year olds, a detective-themed book for tweens and a calm adult sudoku book for coffee breaks. Sudoku suits ages 6 and up; younger kids do better with matching and mazes.",
+      "keywords": [
+        "sudoku for kids",
+        "sudoku puzzle book",
+        "sudoku for kids 6-8",
+        "sudoku book for adults",
+        "easy sudoku for beginners",
+        "sudoku for kids 8-12"
+      ],
+      "tips": [
+        "Start kids at age 6 or later; sudoku asks for logic that most preschoolers do not have yet.",
+        "Decorate the margins with a theme (fruit, a detective, botanicals) so the book looks different from plain grid books.",
+        "Mix in a few coloring pages for younger kids as a reward break between puzzles."
+      ],
+      "prompts": [
+        {
+          "name": "Fruit garden sudoku for ages 6-9",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A beginner number sudoku book with small, easy grids, set in a sunny fruit garden: each grid is framed by smiling strawberries, pears, cherries, bananas, lemons and watermelon slices, with a ladybug, a snail and a bee as puzzle helpers. Scenes between puzzles: picking apples, a lemonade stand, a fruit market, a picnic blanket. Coloring pages show the garden friends as a reward break.",
+            "activities": [
+              "sudoku_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "sudoku_book": "color"
+            },
+            "pagesByType": {
+              "sudoku_book": 32,
+              "coloring_book": 8
+            }
+          },
+          "why": "Parents introducing sudoku want it to feel like a game, and bright fruit friends plus coloring breaks keep a 7-year-old coming back for the next grid."
+        },
+        {
+          "name": "Detective agency sudoku for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 50,
+          "pageSize": "6x9",
+          "highQuality": false,
+          "fields": {
+            "description": "A sudoku book themed as a young detective agency solving cases: each puzzle page is a new case, decorated with a magnifying glass, fingerprints, a notebook, a locked safe, a train station at night, a museum with a missing gem, a lighthouse, a secret map. A detective kid and a clever dog sidekick appear around the grids. Puzzles start easy and get harder case by case.",
+            "activities": [
+              "sudoku_book"
+            ],
+            "inkByType": {
+              "sudoku_book": "black_and_white"
+            },
+            "pagesByType": {
+              "sudoku_book": 50
+            }
+          },
+          "why": "A case-by-case story gives tweens a reason to keep solving, and the 6x9 size fits a backpack for school trips and car rides."
+        },
+        {
+          "name": "Calm coffee-break sudoku for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 80,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A relaxing sudoku book for adults with quiet botanical decoration around each grid: eucalyptus sprigs, ferns, olive branches, a coffee cup with steam, a teapot, reading glasses, a cat asleep on a windowsill, a rainy window. Puzzles run from easy warm-ups to hard ones in the second half, for a calm morning coffee or an evening wind-down.",
+            "activities": [
+              "sudoku_book"
+            ],
+            "inkByType": {
+              "sudoku_book": "black_and_white"
+            },
+            "pagesByType": {
+              "sudoku_book": 80
+            }
+          },
+          "why": "Adult sudoku buyers want plenty of puzzles and a calm look, and gentle botanical margins set the book apart from bare-grid competitors on KDP."
+        }
+      ]
+    },
+    {
+      "slug": "ocean-activity-book-prompts",
+      "title": "Ocean Activity Book Prompts for Kids: Sea Animal Mazes & Puzzles",
+      "metaDescription": "Ocean activity book prompts for kids: sea animal mazes, shark dot-to-dots, coral reef word search and sudoku, a printable under the sea activity book.",
+      "intro": "Under the sea is a favorite theme for kids' activity books and a natural fit for summer and beach trips. These ocean activity book prompts move from friendly fish and crabs for preschoolers to a coral reef science puzzle book for 9 to 13 year olds. Real sea animal names in every word list make the book a quiet marine biology lesson.",
+      "keywords": [
+        "ocean activity book for kids",
+        "under the sea activity book",
+        "sea animal activity book",
+        "ocean word search for kids",
+        "ocean mazes for kids",
+        "beach activity book"
+      ],
+      "tips": [
+        "Name real sea animals (octopus, sea turtle, clownfish, manta ray) so every page shows a different creature.",
+        "Ocean books sell best from May to August; time the launch for beach season.",
+        "For older kids, use reef science words like PLANKTON and SALINITY; parents and teachers love a puzzle that teaches."
+      ],
+      "prompts": [
+        {
+          "name": "Friendly sea animals for preschoolers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Friendly sea animals in a bright underwater world: a smiling octopus, a sea turtle swimming over coral, a crab on the sand, a pufferfish puffing up, a seahorse holding seagrass, a whale spouting water, a starfish, a family of dolphins jumping waves. Easy mazes help a little fish find its friends or a turtle reach the beach. Shadows to match: shell, crab, whale, starfish, seahorse, octopus, boat, anchor.",
+            "activities": [
+              "shadow_matching_book",
+              "connect_the_dots_book",
+              "maze_book",
+              "coloring_book"
+            ],
+            "inkByType": {
+              "shadow_matching_book": "color",
+              "connect_the_dots_book": "black_and_white",
+              "maze_book": "color"
+            },
+            "mazeStyles": [
+              "tube",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "shadow_matching_book": 8,
+              "connect_the_dots_book": 8,
+              "maze_book": 6,
+              "coloring_book": 8
+            }
+          },
+          "why": "Parents heading to the beach want a gentle sea-animal book for a preschooler, and simple shadows of familiar ocean things build early matching skills."
+        },
+        {
+          "name": "Under the sea puzzle book for ages 6-9",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A dive from a sunny beach to the deep sea: tide pools, a kelp forest with sea otters, a shipwreck with a treasure chest, a coral reef, a manta ray gliding, a submarine with bright lights in the dark deep. Word search words: OCTOPUS, DOLPHIN, SEAHORSE, JELLYFISH, STARFISH, CORAL, SHARK, WHALE, SEA TURTLE, LOBSTER, KELP, TIDE POOL, SHIPWRECK, CLOWNFISH, STINGRAY. Mazes swim through reefs and caves.",
+            "activities": [
+              "maze_book",
+              "word_search_book",
+              "spot_the_difference_book",
+              "connect_the_dots_book"
+            ],
+            "inkByType": {
+              "maze_book": "color",
+              "word_search_book": "black_and_white",
+              "spot_the_difference_book": "color",
+              "connect_the_dots_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "tube",
+              "round"
+            ],
+            "pagesByType": {
+              "maze_book": 10,
+              "word_search_book": 10,
+              "spot_the_difference_book": 10,
+              "connect_the_dots_book": 10
+            }
+          },
+          "why": "A sea-to-deep-sea journey gives KDP sellers a busy, varied ocean book for the summer rush, with plenty of hidden details for spot the difference."
+        },
+        {
+          "name": "Coral reef science puzzles for ages 9-13",
+          "ageGroup": "9-13",
+          "numberOfPages": 46,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A marine science puzzle book set on a research boat and a coral reef: divers with clipboards, a diving bell, an anglerfish glowing in the dark, a giant squid, a hammerhead shark, a parrotfish nibbling coral. Word search lists. Reef: POLYP, ANEMONE, PARROTFISH, SPONGE, LAGOON. Deep sea: ANGLERFISH, TRENCH, ABYSS, GULPER EEL. Science: PLANKTON, SALINITY, CURRENT, TIDE, SONAR.",
+            "activities": [
+              "word_search_book",
+              "sudoku_book",
+              "maze_book"
+            ],
+            "inkByType": {
+              "word_search_book": "black_and_white",
+              "sudoku_book": "black_and_white",
+              "maze_book": "black_and_white"
+            },
+            "mazeStyles": [
+              "walls",
+              "round",
+              "square_tube"
+            ],
+            "pagesByType": {
+              "word_search_book": 16,
+              "sudoku_book": 14,
+              "maze_book": 16
+            }
+          },
+          "why": "Homeschoolers and ocean-loving tweens want puzzles that teach real marine biology words, which turns a puzzle book into a science unit companion."
+        }
+      ]
+    }
+  ]
+}

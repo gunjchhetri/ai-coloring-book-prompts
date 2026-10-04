@@ -1,0 +1,2213 @@
+{
+  "category": "coloring-books",
+  "pages": [
+    {
+      "slug": "dinosaur-coloring-book-prompts",
+      "title": "Dinosaur Coloring Book Prompts for Kids & KDP",
+      "metaDescription": "Copy-ready dinosaur coloring book prompts for toddlers, kids and KDP sellers: friendly T-rexes, fossil digs and a dino ABC, ready to print as a PDF.",
+      "intro": "Dinosaurs are one of the steadiest sellers in kids' coloring on Amazon KDP and Etsy, because every generation of children goes through a dinosaur phase. These dinosaur coloring book prompts cover a cuddly book for toddlers, a dinosaur alphabet that homeschool parents love, and a realistic prehistoric world for older kids. Paste one into InkChamps and get a print-ready coloring book PDF.",
+      "keywords": [
+        "dinosaur coloring book prompts",
+        "dinosaur coloring pages for kids",
+        "dinosaur coloring book for toddlers",
+        "dinosaur coloring book KDP",
+        "printable dinosaur coloring pages",
+        "dinosaur ABC coloring book"
+      ],
+      "tips": [
+        "Keep toddler dinosaur books friendly and never scary: one big, smiling dinosaur per page sells better to parents of 2-5 year olds than roaring predators.",
+        "Mix the famous species (T-rex, triceratops, stegosaurus) with lesser-known ones like ankylosaurus and parasaurolophus so the Look Inside preview shows real variety.",
+        "Dinosaurs doing everyday kid things, like birthdays, bath time or school, is a proven KDP sub-niche that stands apart from plain fossil books."
+      ],
+      "prompts": [
+        {
+          "name": "Baby dinosaurs for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Chubby, smiling baby dinosaurs doing the everyday things little kids love: a T-rex blowing out birthday candles, a triceratops splashing in a bubble bath, a stegosaurus watering a vegetable garden, a brachiosaurus reading a bedtime story, a baby dino hatching from a speckled egg, a pterodactyl flying a kite, a dinosaur picnic, a sandcastle on the beach, and a sleepy dino hugging a teddy bear. Gentle and funny, never scary.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "baby dinosaurs",
+            "title": "My First Dinosaur Coloring Book"
+          },
+          "why": "Parents and grandparents of preschoolers buy cozy, non-scary dinosaur books as gifts, and familiar daily-life scenes keep small kids coloring page after page."
+        },
+        {
+          "name": "Dinosaur ABC book",
+          "ageGroup": "6-9",
+          "numberOfPages": 26,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A dinosaur alphabet, one dinosaur per letter with its name: A ankylosaurus, B brachiosaurus, C compsognathus, D diplodocus, E edmontosaurus, F fukuiraptor, G gallimimus, H hadrosaurus, I iguanodon, J jobaria, K kentrosaurus, L lambeosaurus, M maiasaura, N nodosaurus, O oviraptor, P parasaurolophus, Q qianzhousaurus, R rajasaurus, S stegosaurus, T tyrannosaurus rex, U utahraptor, V velociraptor, W wuerhosaurus, X xenoceratops, Y yangchuanosaurus, Z zuniceratops.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "concept",
+            "theme": "dinosaur alphabet",
+            "title": "Dinosaurs from A to Z"
+          },
+          "why": "Homeschoolers and teachers want coloring that also teaches letters and real species names, and a 26-page alphabet book is an easy, giftable KDP listing."
+        },
+        {
+          "name": "Realistic prehistoric world for older kids",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A detailed prehistoric world full of action and discovery: a T-rex stalking through a fern forest, a herd of triceratops crossing a river, a spinosaurus catching fish in a swamp, pterosaurs soaring past an erupting volcano, an ankylosaurus guarding its nest, a mother maiasaura feeding her hatchlings, a mosasaur breaching the sea, raptors hunting in moonlight, a young paleontologist brushing dust off a giant skull, and a museum hall with a towering skeleton.",
+            "style": "jungle_adventure",
+            "complexity": "medium",
+            "theme": "prehistoric world",
+            "title": "Dinosaur World Coloring Book"
+          },
+          "why": "KDP sellers reach the huge audience of dinosaur-obsessed 9-12 year olds who have outgrown cartoon dinos and want real species in dramatic scenes."
+        }
+      ]
+    },
+    {
+      "slug": "farm-animal-coloring-book-prompts",
+      "title": "Farm Animal Coloring Book Prompts: Cute Barnyard Pages",
+      "metaDescription": "Farm animal coloring book prompts for toddlers and kids: piglets in mud, ducklings, tractors and a 24-animal barnyard book, made print-ready for KDP.",
+      "intro": "Farm animals are often the very first animals a toddler learns to name, which makes a farm animal coloring book a perfect first coloring book and a dependable KDP seller. Parents buy them for road trips and rainy days, and preschool teachers use them alongside farm units. These prompts give you a cuddly barnyard book, a farm animal names book with a caption on every page, and a busy farm-life book for older kids.",
+      "keywords": [
+        "farm animal coloring book prompts",
+        "farm animal coloring pages for toddlers",
+        "barnyard animals coloring book",
+        "cute farm animal coloring pages",
+        "farm coloring book for kids",
+        "farm animal coloring book KDP"
+      ],
+      "tips": [
+        "Baby animals (chicks, piglets, lambs, calves) outsell adult farm animals for the under-5 crowd; lead your cover and first pages with them.",
+        "A named-animal book with one animal per page doubles as a first-words book, which lets you list it under early learning as well as coloring.",
+        "Seasonal farm scenes like pumpkin patches, spring lambs and snowy barns let one farm book rank for several gift seasons."
+      ],
+      "prompts": [
+        {
+          "name": "Barnyard babies for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Sweet baby farm animals on a sunny family farm: a fluffy chick peeking out of its egg, a piglet rolling in a mud puddle, a calf drinking from a bucket, a lamb hopping through clover, ducklings following their mother across the pond, a foal standing by the red barn, a bunny nibbling a carrot in the vegetable patch, a goat kid balancing on a hay bale, and kittens napping in the hayloft.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "baby farm animals",
+            "title": "Barnyard Babies Coloring Book"
+          },
+          "why": "Parents of toddlers want a first coloring book with big, gentle animals their child already knows, and the square format feels like a board book."
+        },
+        {
+          "name": "24 farm animals with names",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A farm animal names book, one animal per page with its name: cow, calf, horse, pony, donkey, pig, sheep, lamb, goat, llama, alpaca, chicken, rooster, chick, duck, goose, turkey, rabbit, barn cat, sheepdog, barn owl, field mouse, honeybee, frog.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "pageCategory": "concept",
+            "theme": "farm animal names",
+            "title": "My Farm Animals Coloring Book"
+          },
+          "why": "Preschool teachers and parents teaching first words buy this as a coloring book and a vocabulary book in one."
+        },
+        {
+          "name": "Busy farm life for kids 6-9",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A busy year on a family farm: a farmer driving a tractor through a cornfield, milking time in the dairy barn, sheep shearing day, a child collecting eggs from the hen house, an autumn pumpkin patch, a county fair with a prize pig and fluffy show rabbits, horses galloping in a paddock, a snowy barn at dawn, a farmers market stall piled with vegetables, and a hayride at sunset.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "farm life",
+            "title": "A Year on the Farm Coloring Book"
+          },
+          "why": "Kids who have outgrown single-animal pages love full scenes with people and machines, and the seasonal spread suits KDP sellers targeting farm-loving families."
+        }
+      ]
+    },
+    {
+      "slug": "ocean-animal-coloring-book-prompts",
+      "title": "Ocean Animal Coloring Book Prompts: Sea Creatures & Coral Reefs",
+      "metaDescription": "Ocean animal coloring book prompts: smiling sea creatures for toddlers, coral reef and deep-sea scenes for kids, and ocean mandalas for adult colorists.",
+      "intro": "Sea creatures work for every age, from a toddler's first smiling whale to an adult colorist's intricate jellyfish mandala. Ocean coloring books sell steadily on KDP and Etsy in summer and as beach-trip gifts, and teachers use them for ocean units. These ocean animal coloring book prompts cover a gentle under-the-sea book, a reef-to-deep-sea explorer book, and a premium ocean mandala collection.",
+      "keywords": [
+        "ocean animal coloring book prompts",
+        "sea creature coloring pages",
+        "under the sea coloring book",
+        "coral reef coloring pages",
+        "ocean mandala coloring book for adults",
+        "deep sea coloring pages for kids"
+      ],
+      "tips": [
+        "Organise an older-kids ocean book by depth, from tide pools and reefs down to the deep sea, so it feels like a journey and not a random collection.",
+        "Ocean mandalas are a strong adult niche; sea turtles, jellyfish and octopuses carry patterns especially well.",
+        "Summer listings and beach-vacation keywords lift ocean books from May to August, so publish ahead of the season."
+      ],
+      "prompts": [
+        {
+          "name": "Under-the-sea friends for little kids",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Smiling sea creatures in a sunny ocean: a baby whale spouting water, a sea turtle swimming past swaying seaweed, a clownfish peeking out of an anemone, a crab building a sandcastle, an octopus juggling seashells, a jellyfish floating among bubbles, a seahorse family, a starfish sunbathing on a rock, a dolphin leaping over a wave, and a pufferfish puffed up in surprise.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "cute sea creatures",
+            "title": "Under the Sea Coloring Book for Toddlers"
+          },
+          "why": "Parents of preschoolers buy happy sea animals for beach trips and bath-time fans, and each friendly creature is easy for small hands to fill."
+        },
+        {
+          "name": "Coral reef to deep sea explorer",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Explore every layer of the ocean: a bright coral reef crowded with angelfish, parrotfish and a reef shark, a sea turtle resting in seagrass, a diver meeting a manta ray, sea otters floating in a kelp forest, a humpback whale and her calf, a glowing anglerfish in the dark deep sea, a giant squid beside a little submarine, a sunken ship with treasure chests, and hermit crabs swapping shells in a tide pool.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "ocean exploration",
+            "title": "Ocean Explorer Coloring Book"
+          },
+          "why": "Curious 6-9 year olds love real sea animals and mysterious deep-sea creatures, and teachers use the reef-to-abyss range for ocean science units."
+        },
+        {
+          "name": "Ocean mandalas for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Intricate patterned sea life for slow, relaxing coloring: a sea turtle whose shell is a web of interlocking designs, a whale filled with waves and swirls, a jellyfish with lace-like trailing tentacles, an octopus wrapped around a round mandala, seahorses framed by branching coral, a school of patterned fish forming a circle, nautilus shells, starfish and sand dollars arranged into medallions, and a manta ray gliding over an ornamental reef.",
+            "style": "mandala_sea",
+            "complexity": "hard",
+            "theme": "ocean mandalas",
+            "title": "Ocean Mandalas: An Adult Coloring Book"
+          },
+          "why": "Adult colorists looking for calm, detailed pages buy sea-themed mandalas year round, and premium detail justifies a higher KDP price."
+        }
+      ]
+    },
+    {
+      "slug": "unicorn-coloring-book-prompts",
+      "title": "Unicorn Coloring Book Prompts: Unicorns & Magical Creatures",
+      "metaDescription": "Unicorn coloring book prompts for every age: baby unicorns on clouds, a magical creature kingdom for kids, and ornate unicorn mandalas for adults.",
+      "intro": "Unicorn coloring books are a perennial best seller on Amazon KDP, especially as birthday and holiday gifts for girls aged 4 to 10. The appeal is simple: rainbows, sparkle and a friendly magical horse that every child can make their own. These unicorn coloring book prompts give you a dreamy toddler book, a whole kingdom of magical creatures for school-age kids, and an elegant unicorn mandala book for teens and adults.",
+      "keywords": [
+        "unicorn coloring book prompts",
+        "unicorn coloring pages for kids",
+        "unicorn coloring book for girls",
+        "magical creatures coloring book",
+        "unicorn mandala coloring pages",
+        "unicorn coloring book KDP"
+      ],
+      "tips": [
+        "Plain unicorn books are crowded on KDP; adding pegasus, griffins, baby dragons and fairies widens the book and the keywords you can rank for.",
+        "Ages 4-8 is the sweet spot for unicorn books, and 30-40 pages at 8.5x11 is the format most top sellers use.",
+        "Give every page an activity (a tea party, a carousel, a picnic) so the unicorns are doing something, not just standing in a field."
+      ],
+      "prompts": [
+        {
+          "name": "Baby unicorns on clouds and rainbows",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Sweet baby unicorns in a soft, dreamy world: a unicorn asleep on a fluffy cloud, sliding down a rainbow, eating a cupcake at a tea party, playing with a bunny in a flower meadow, splashing in a sparkling pond, wearing a flower crown, blowing bubbles, riding a merry-go-round, hugging a star-shaped pillow, and waving goodnight to the moon.",
+            "style": "fairy_tale",
+            "complexity": "easy",
+            "theme": "baby unicorns",
+            "title": "Baby Unicorns Coloring Book"
+          },
+          "why": "Parents and aunts shopping for a 3-5 year old's birthday reach for gentle unicorn books with big, simple shapes."
+        },
+        {
+          "name": "Unicorns and magical creatures kingdom",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "An enchanted kingdom of magical creatures: unicorns galloping through a crystal forest, a winged pegasus over a mountain waterfall, a baby dragon and a unicorn sharing a picnic, a griffin guarding a castle tower, a phoenix rising from glowing flowers, fairies riding butterflies, a gnome village of mushroom houses, a narwhal in an icy sea, a nine-tailed fox spirit, and a unicorn mother and foal beneath a rainbow.",
+            "style": "fairy_tale",
+            "complexity": "medium",
+            "theme": "magical creatures",
+            "title": "Unicorns and Magical Creatures Coloring Book"
+          },
+          "why": "KDP sellers stand out from plain unicorn books by mixing in other magical creatures, which school-age kids find more exciting page to page."
+        },
+        {
+          "name": "Unicorn mandalas for teens and adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Elegant unicorns woven into ornate designs: a rearing unicorn framed by a circular floral mandala, a unicorn head with a mane of paisley and roses, unicorns in a stained-glass forest, a unicorn resting beneath a crescent moon among stars and lace, twin unicorns forming a heart of vines, a unicorn galloping over swirling waves, and a winged unicorn in a garden of peonies and butterflies.",
+            "style": "mandala_animal",
+            "complexity": "hard",
+            "theme": "unicorn mandalas",
+            "title": "Enchanted Unicorns: A Mandala Coloring Book"
+          },
+          "why": "Teens and adult colorists who grew up loving unicorns want a grown-up, detailed version, and it sells as a stress-relief gift."
+        }
+      ]
+    },
+    {
+      "slug": "dragon-coloring-book-prompts",
+      "title": "Dragon Coloring Book Prompts for Kids, Teens & Adults",
+      "metaDescription": "Dragon coloring book prompts: silly baby dragons for little kids, epic fantasy dragons for tweens, and intricate dragon art for adults. Print-ready PDFs.",
+      "intro": "Dragons sit at the crossroads of fantasy and adventure, so a dragon coloring book appeals to boys and girls alike and keeps selling to teens and adults too. On KDP, dragons are a strong alternative to crowded unicorn and dinosaur shelves. These dragon coloring book prompts cover a cuddly baby-dragon book, an epic fantasy book for older kids, and a richly detailed collection for adult colorists.",
+      "keywords": [
+        "dragon coloring book prompts",
+        "dragon coloring pages for kids",
+        "cute baby dragon coloring book",
+        "fantasy dragon coloring book",
+        "dragon coloring book for adults",
+        "dragon coloring pages printable"
+      ],
+      "tips": [
+        "For under-6s, make dragons silly instead of fierce: tiny puffs of fire, wobbly wings and too-big helmets keep the book gift-friendly.",
+        "Vary dragon types (ice, forest, sea, Eastern, celestial) so a 40-page book never repeats the same dragon in a new pose.",
+        "Adult dragon books sell on detail; a premium, highly detailed 40-page book can carry a higher price than kids' books."
+      ],
+      "prompts": [
+        {
+          "name": "Cuddly baby dragons",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Friendly little dragons who are more silly than scary: a baby dragon hatching from a spotted egg, toasting marshmallows with a tiny puff of fire, learning to fly on wobbly wings, napping on a pile of pillows, playing hide and seek in a castle, stomping in a puddle, sharing berries with a squirrel, flying a kite, wearing a knight's helmet that is far too big, and hugging a teddy bear at bedtime.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "baby dragons",
+            "title": "Little Dragons Coloring Book"
+          },
+          "why": "Parents want a dragon book that thrills without frightening, and funny baby dragons are a fresh pick next to the usual toddler animals."
+        },
+        {
+          "name": "Epic dragon adventures for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Epic dragons across a fantasy world: a dragon curled around a mountain of gold coins, a dragon rider soaring over a misty valley, a sea dragon rising from stormy waves, a forest dragon covered in moss and leaves, an ice dragon perched on a glacier cliff, a long Eastern dragon weaving through clouds, a nest of dragon eggs inside a volcano, a young wizard befriending a dragon in a library tower, and two dragons facing off over a canyon.",
+            "style": "mythology",
+            "complexity": "medium",
+            "theme": "fantasy dragons",
+            "title": "Dragon Realms Coloring Book"
+          },
+          "why": "Fantasy-reading tweens want dramatic, adventurous scenes, and KDP sellers find less competition here than in younger dragon books."
+        },
+        {
+          "name": "Intricate dragons for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Majestic, finely detailed dragons for adult colorists: a dragon with every scale patterned like filigree, a dragon coiled around a full-moon mandala, a sleeping dragon in a cave of crystals, a dragon perched on a gothic cathedral, a celestial dragon made of stars and constellations, a dragon in a lotus garden with koi, a close-up dragon eye ringed with ornament, and two dragons circling to form a yin-yang.",
+            "style": "mythology",
+            "complexity": "hard",
+            "theme": "majestic dragons",
+            "title": "Dragons: A Detailed Coloring Book for Adults"
+          },
+          "why": "Adult fantasy fans buy detailed dragon books for relaxation, and the premium finish supports a higher list price."
+        }
+      ]
+    },
+    {
+      "slug": "jungle-safari-coloring-book-prompts",
+      "title": "Jungle & Safari Animal Coloring Book Prompts",
+      "metaDescription": "Jungle safari coloring book prompts: lion cubs and baby elephants for toddlers, rainforest-to-savanna adventures for kids, and safari mandalas for adults.",
+      "intro": "Jungle and safari animals are a classic coloring theme that never fades: lions, elephants, giraffes and monkeys are instantly recognisable, and kids love the adventure of a safari. Parents buy these books for zoo trips, and teachers use them for animal habitat lessons. These jungle safari coloring book prompts cover a baby-animal book for toddlers, a safari adventure for school-age kids, and a detailed safari mandala book for adults.",
+      "keywords": [
+        "jungle safari coloring book prompts",
+        "safari animal coloring pages",
+        "jungle animal coloring book for kids",
+        "wild animal coloring pages",
+        "safari animal mandala coloring book",
+        "zoo animal coloring book for toddlers"
+      ],
+      "tips": [
+        "Pair rainforest animals with savanna animals in one book to rank for both jungle and safari keywords.",
+        "For toddlers, show baby animals with their mothers; for older kids, add explorers, jeeps and binoculars to make it an adventure.",
+        "Elephants, lions and giraffes carry mandala patterns beautifully, which makes safari a good crossover into the adult market."
+      ],
+      "prompts": [
+        {
+          "name": "Little safari friends",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Happy baby animals on a gentle safari: a lion cub chasing a butterfly, a baby elephant spraying water from its trunk, a giraffe stretching for leaves, a zebra foal beside its mother, a hippo blowing bubbles in the river, a monkey swinging on a vine, a sleepy sloth hanging from a branch, a toucan on a banana leaf, a baby rhino rolling in mud, and a tiger cub napping in tall grass.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "baby safari animals",
+            "title": "Little Safari Coloring Book"
+          },
+          "why": "Parents of toddlers buy big, friendly zoo and safari animals to teach animal names and fill a rainy afternoon."
+        },
+        {
+          "name": "Rainforest and savanna adventure",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A safari adventure from rainforest to savanna: kids in a safari jeep watching elephants at a watering hole, a lion pride resting on a rock, a cheetah racing across the grassland, gorillas in a misty mountain forest, a jaguar on a branch above a river, macaws in the rainforest canopy, a crocodile sliding into the water, meerkats standing on lookout, flamingos wading in a lake, and a hot air balloon over the herds at sunrise.",
+            "style": "jungle_adventure",
+            "complexity": "medium",
+            "theme": "safari adventure",
+            "title": "Jungle Safari Adventure Coloring Book"
+          },
+          "why": "School-age kids enjoy full scenes with explorers and real habitats, and teachers use it for animal and habitat lessons."
+        },
+        {
+          "name": "Safari animal mandalas for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Wild animals filled with intricate patterns: a lion whose mane becomes swirling mandalas, an elephant decorated with henna-style designs, a giraffe with ornamental spots, a zebra whose stripes turn into geometric shapes, a tiger peering through patterned jungle leaves, a gorilla cradling its baby among patterned leaves, a rhino at a lily-covered watering hole, a leopard draped over a branch, a chameleon on a fern, and a toucan among tropical flowers.",
+            "style": "mandala_animal",
+            "complexity": "hard",
+            "theme": "safari mandalas",
+            "title": "Wild Safari Mandalas"
+          },
+          "why": "Adult colorists love patterned wildlife, and safari mandalas are one of the most searched animal sub-niches on KDP."
+        }
+      ]
+    },
+    {
+      "slug": "cat-coloring-book-prompts",
+      "title": "Cat Coloring Book Prompts: Kittens, Cozy Cats & Cat Mandalas",
+      "metaDescription": "Cat coloring book prompts for kids and adults: playful kittens, cozy cat-cafe scenes and relaxing cat mandalas. Turn a brief into a printable cat book.",
+      "intro": "Cat lovers are one of the most loyal buyer groups on Amazon KDP and Etsy, and cat coloring books sell to kids, teens and adults alike. Kittens in yarn and cardboard boxes delight preschoolers, while patterned cats are a favourite stress-relief gift for grown-ups. These cat coloring book prompts give you a playful kitten book, a cozy cat-life book for kids, and a zen cat mandala book for adults.",
+      "keywords": [
+        "cat coloring book prompts",
+        "cat coloring pages for kids",
+        "kitten coloring book",
+        "cat coloring book for adults",
+        "cute cat coloring pages printable",
+        "cat mandala coloring pages"
+      ],
+      "tips": [
+        "Cats in cozy settings (window seats, bookshelves, plants, teacups) are a strong adult and teen sub-niche, often sold as gifts for cat owners.",
+        "For kids, give the cats jobs and hobbies, like baking, gardening or reading, so each page tells a tiny story.",
+        "Adult cat books perform well at 40-50 pages with a premium finish, priced as a gift."
+      ],
+      "prompts": [
+        {
+          "name": "Playful kittens for preschoolers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Adorable kittens up to everyday mischief: a kitten tangled in a ball of yarn, napping in a sunny window, peeking out of a cardboard box, chasing a butterfly in the garden, pawing at a fishbowl, curled up in a slipper, wearing a cozy sweater, pouncing on a toy mouse, sitting in a laundry basket, and snuggling up with its mother.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "playful kittens",
+            "title": "Kitten Fun Coloring Book"
+          },
+          "why": "Parents of little cat lovers want simple, funny kitten pages that match what they see their own pets do."
+        },
+        {
+          "name": "Cozy cat life for kids",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A cozy world of cats and their adventures: a cat cafe with cats lounging on shelves and cushions, cats baking cookies in a kitchen, a cat astronaut floating in space, a cat reading in a library, a cat family picnic, a fisherman cat in a rowboat, cats leaping into piles of autumn leaves, a cat gardener among flowerpots, cats sledding down a snowy hill, and a cat band playing on a rooftop at night.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "cozy cats",
+            "title": "Cozy Cats Coloring Book"
+          },
+          "why": "Cat-mad kids enjoy imaginative scenes over plain portraits, and it gives KDP sellers a fresh angle on a busy niche."
+        },
+        {
+          "name": "Zen cat mandalas for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Graceful cats surrounded by intricate patterns: a sleeping cat curled into a circular mandala, a cat silhouette filled with flowers and paisley, a cat on a windowsill framed by lace curtains and potted plants, a cat among cherry blossoms, a cat beneath a crescent moon, kittens in a patterned teacup, a long-haired cat with swirling fur, a cat in a bohemian room full of plants and rugs, and two cats forming a heart.",
+            "style": "mandala_animal",
+            "complexity": "hard",
+            "theme": "cat mandalas",
+            "title": "Zen Cats: A Relaxing Coloring Book"
+          },
+          "why": "Adult cat owners buy relaxing patterned cat books for themselves and as gifts, and it is a steady year-round KDP seller."
+        }
+      ]
+    },
+    {
+      "slug": "dog-puppy-coloring-book-prompts",
+      "title": "Dog & Puppy Coloring Book Prompts for Kids and Adults",
+      "metaDescription": "Dog and puppy coloring book prompts: playful puppies for toddlers, a 25-breed dog book for kids, and detailed dog portraits for adult dog lovers.",
+      "intro": "Dogs are a top-selling coloring theme because almost every family has, or wants, a dog. A puppy coloring book makes an easy gift for kids, and breed-specific pages give dog lovers of every age something personal to color. These dog and puppy coloring book prompts cover a playful toddler book, a dog breeds book with a name on every page, and patterned dog portraits for adults.",
+      "keywords": [
+        "dog coloring book prompts",
+        "puppy coloring pages for kids",
+        "dog breeds coloring book",
+        "cute puppy coloring book",
+        "dog coloring book for adults",
+        "printable dog coloring pages"
+      ],
+      "tips": [
+        "A dog breeds book lets owners find their own dog, which is a strong selling point in the listing and the Look Inside preview.",
+        "Puppy books for toddlers sell best with action: fetching, digging, splashing and bath time.",
+        "Popular breeds such as golden retrievers, dachshunds, corgis and huskies can each carry their own niche book later."
+      ],
+      "prompts": [
+        {
+          "name": "Happy puppies for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Bouncy, happy puppies doing puppy things: a puppy chewing a big bone, chasing its own tail, splashing through a puddle in rain boots, sleeping in a dog bed under a blanket, fetching a ball in the park, getting a bubble bath, digging in the garden, playing tug of war with a rope, carrying a stick far too big for it, and cuddling with a child at bedtime.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "playful puppies",
+            "title": "Puppy Love Coloring Book"
+          },
+          "why": "Parents of young puppy fans want silly, recognisable dog moments in big shapes that are easy to color."
+        },
+        {
+          "name": "25 dog breeds with names",
+          "ageGroup": "6-9",
+          "numberOfPages": 25,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A dog breeds book, one breed per page with its name: Labrador Retriever, Golden Retriever, German Shepherd, Beagle, Dachshund, Poodle, Bulldog, French Bulldog, Corgi, Husky, Dalmatian, Chihuahua, Pug, Border Collie, Shih Tzu, Boxer, Great Dane, Yorkshire Terrier, Cocker Spaniel, Bernese Mountain Dog, Shiba Inu, Saint Bernard, Greyhound, Australian Shepherd, Pomeranian.",
+            "style": "cute_animals",
+            "complexity": "medium",
+            "pageCategory": "concept",
+            "theme": "dog breeds",
+            "title": "Dog Breeds Coloring Book"
+          },
+          "why": "Kids love finding their own dog's breed, and parents see a book that teaches names while it entertains."
+        },
+        {
+          "name": "Patterned dog portraits for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Detailed dog portraits and scenes for grown-up dog lovers: a golden retriever framed by sunflowers, a dachshund filled with floral patterns, a husky howling at an ornamental moon, a corgi asleep on a quilted blanket, a poodle with a coat of curling swirls, a beagle inside an autumn leaf mandala, a border collie in a flowering meadow, a pug in a cozy armchair, and a dog and owner walking at sunset.",
+            "style": "mandala_animal",
+            "complexity": "hard",
+            "theme": "dog portraits",
+            "title": "Dog Lovers Coloring Book for Adults"
+          },
+          "why": "Adult dog owners buy detailed dog books as relaxing hobbies and gifts, and breed variety means most buyers find their own dog."
+        }
+      ]
+    },
+    {
+      "slug": "bird-coloring-book-prompts",
+      "title": "Bird Coloring Book Prompts: Cute Birds, Bird Names & Mandalas",
+      "metaDescription": "Bird coloring book prompts for every age: chubby baby birds for toddlers, a 24-bird names book for kids, and floral bird mandalas for adult colorists.",
+      "intro": "Birds are a quietly strong coloring niche: toddlers love owls, penguins and ducklings, nature-loving families want real backyard birds, and adult colorists adore peacocks and hummingbirds among flowers. Bird coloring books sell to parents, homeschoolers, birdwatchers and gift buyers. These bird coloring book prompts give you a cute baby-bird book, a bird names book with captions, and a floral bird mandala book for adults.",
+      "keywords": [
+        "bird coloring book prompts",
+        "bird coloring pages for kids",
+        "cute bird coloring book",
+        "bird mandala coloring pages for adults",
+        "backyard birds coloring book",
+        "owl coloring pages"
+      ],
+      "tips": [
+        "A named-bird book works for homeschool nature studies and young birdwatchers; mix backyard birds with exotic favourites like toucans and flamingos.",
+        "Owls are the single most popular bird for coloring, so give them a page or two in every bird book.",
+        "For adults, pair birds with flowers (hummingbirds with hibiscus, herons with lotus) to cross into the botanical coloring market."
+      ],
+      "prompts": [
+        {
+          "name": "Chubby baby birds for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Chubby, smiling birds in gardens, ponds and seashores: an owlet peeking out of a tree hollow, a robin tugging a worm, ducklings in a puddle, a penguin chick sliding on its belly, a parrot eating a slice of mango, baby chicks in a nest waiting for breakfast, a flamingo standing on one leg, a hummingbird at a flower, a puffin with a fish, and a toucan in a banana tree.",
+            "style": "cute_birds",
+            "complexity": "easy",
+            "theme": "baby birds",
+            "title": "Little Birds Coloring Book"
+          },
+          "why": "Parents of toddlers want gentle animal books beyond cats and dogs, and round, chubby birds are easy for small hands to color."
+        },
+        {
+          "name": "24 birds of the world with names",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A bird book, one bird per page with its name: robin, blue jay, cardinal, goldfinch, chickadee, woodpecker, hummingbird, barn owl, bald eagle, peacock, flamingo, pelican, puffin, emperor penguin, ostrich, toucan, scarlet macaw, swan, mallard duck, kingfisher, red-tailed hawk, crow, heron, cockatoo.",
+            "style": "cute_birds",
+            "complexity": "medium",
+            "pageCategory": "concept",
+            "theme": "birds of the world",
+            "title": "Birds of the World Coloring Book"
+          },
+          "why": "Homeschoolers and young birdwatchers get a coloring book and a field guide in one, with every bird named."
+        },
+        {
+          "name": "Floral bird mandalas for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Birds among intricate flowers and patterns: a peacock with a fan of ornate feathers, an owl on a branch of patterned leaves, hummingbirds sipping from hibiscus, a pair of lovebirds inside a heart of roses, a heron in a lotus pond, a cardinal on a snowy berry branch, swallows circling a round mandala, a kingfisher above patterned water, and an open birdcage overflowing with vines and blossoms.",
+            "style": "mandala_birds",
+            "complexity": "hard",
+            "theme": "floral birds",
+            "title": "Birds in Bloom: A Mandala Coloring Book"
+          },
+          "why": "Adult colorists and bird lovers buy elegant bird-and-flower designs for relaxation, a gift-friendly niche with less competition than cats."
+        }
+      ]
+    },
+    {
+      "slug": "bug-insect-coloring-book-prompts",
+      "title": "Bug & Insect Coloring Book Prompts for Kids and Adults",
+      "metaDescription": "Bug and insect coloring book prompts: smiling garden bugs for toddlers, a 24-minibeast names book for kids, and ornate butterflies for adults.",
+      "intro": "Bugs fascinate young children, and a bug coloring book turns that curiosity into hours of quiet coloring. Parents buy insect books for garden-loving kids, teachers use them for minibeast units, and adult colorists love ornate butterflies and beetles. These bug and insect coloring book prompts cover a friendly garden-bug book, a minibeast names book with a caption on every page, and a richly detailed butterfly and beetle collection.",
+      "keywords": [
+        "bug coloring book prompts",
+        "insect coloring pages for kids",
+        "cute bug coloring book",
+        "butterfly coloring book for adults",
+        "minibeast coloring pages",
+        "garden bugs coloring book for toddlers"
+      ],
+      "tips": [
+        "Spring and early summer are peak months for bug books, when classrooms run minibeast and life-cycle units.",
+        "Give toddler bugs friendly faces and simple props (a ladybug on a strawberry) so the book never feels creepy.",
+        "Butterflies and beetles are naturally symmetrical, which makes them excellent subjects for detailed adult pages."
+      ],
+      "prompts": [
+        {
+          "name": "Friendly garden bugs",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Smiling little bugs in a sunny garden: a ladybug on a strawberry, a bumblebee buzzing around a sunflower, a caterpillar munching a leaf, a snail climbing a mushroom, a butterfly landing on a daisy, an ant carrying a crumb of bread, a firefly glowing at dusk, a dragonfly over a lily pond, a grasshopper hopping through tall grass, and a spider waving from a dewy web.",
+            "style": "cute_insects",
+            "complexity": "easy",
+            "theme": "garden bugs",
+            "title": "Garden Bugs Coloring Book"
+          },
+          "why": "Parents of bug-hunting preschoolers want friendly insects with big shapes, and it pairs with spring garden play."
+        },
+        {
+          "name": "24 bugs and minibeasts with names",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A bugs and minibeasts book, one creature per page with its name: honeybee, bumblebee, ladybug, monarch butterfly, luna moth, dragonfly, grasshopper, cricket, praying mantis, ant, firefly, stag beetle, rhinoceros beetle, caterpillar, stick insect, cicada, water strider, dung beetle, termite, weevil, wasp, earwig, jewel beetle, garden spider.",
+            "style": "cute_insects",
+            "complexity": "medium",
+            "pageCategory": "concept",
+            "theme": "bugs and minibeasts",
+            "title": "Bugs and Minibeasts Coloring Book"
+          },
+          "why": "Teachers and homeschoolers running a minibeast unit get a named insect on every page, and curious kids learn the real names."
+        },
+        {
+          "name": "Butterflies, moths and beetles for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Butterflies, moths and beetles in rich decorative detail: a monarch with patterned wings over milkweed, a luna moth beneath a full moon, a swallowtail in a garden of foxgloves, jewel beetles arranged like a vintage collector's display, a dragonfly over water lilies, a bee on honeycomb among flowers, butterflies forming a round wreath, a moth with lace-like wings, and a stag beetle on an oak branch with acorns.",
+            "style": "general_coloring",
+            "complexity": "hard",
+            "theme": "butterflies and beetles",
+            "title": "Wings and Shells: An Insect Coloring Book"
+          },
+          "why": "Adult colorists love symmetrical, ornate butterflies and beetles, and the vintage-naturalist look sells well as a gift."
+        }
+      ]
+    },
+    {
+      "slug": "space-coloring-book-prompts",
+      "title": "Space Coloring Book Prompts: Planets, Astronauts & Aliens",
+      "metaDescription": "Space coloring book prompts for kids: rockets and friendly aliens for toddlers, a 24-page planet book, and alien-world adventures for older kids.",
+      "intro": "Space coloring books blend wonder with learning: rockets, planets, astronauts and friendly aliens capture kids' imaginations and give parents a reason to talk about science. They sell well on KDP as gifts for curious kids and to homeschoolers studying the solar system. These space coloring book prompts give you a first-space book for toddlers, a solar system book with every object named, and an alien-world adventure for tweens.",
+      "keywords": [
+        "space coloring book prompts",
+        "space coloring pages for kids",
+        "planet coloring pages",
+        "planet coloring book for kids",
+        "astronaut coloring book",
+        "outer space coloring book KDP"
+      ],
+      "tips": [
+        "A named solar system book (planets, comets, nebulas, rovers) ranks for educational keywords as well as coloring ones.",
+        "Friendly aliens and animals in space helmets keep a toddler space book playful instead of empty and dark.",
+        "For older kids, mix real space exploration with imagined alien worlds so the book appeals to both science fans and dreamers."
+      ],
+      "prompts": [
+        {
+          "name": "First trip to space for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "A friendly first trip to space: a smiling rocket blasting off, a child astronaut waving from the moon, a happy sun next to a sleepy moon, a ringed planet with a big grin, a little alien saying hello from a round spaceship, a puppy in a space helmet, twinkling stars around a crescent moon, an astronaut floating beside a satellite, a comet with a long tail, and a picnic in a moon crater.",
+            "style": "universe_space",
+            "complexity": "easy",
+            "theme": "space for little kids",
+            "title": "My First Space Coloring Book"
+          },
+          "why": "Parents of rocket-loving preschoolers want a cheerful space book with simple, bold shapes and friendly characters."
+        },
+        {
+          "name": "Solar system and space book",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A space book, one subject per page with its name: the Sun, Mercury, Venus, Earth, the Moon, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto (dwarf planet), an asteroid, a comet, a meteor shower, a galaxy, a nebula, a black hole, a constellation, an astronaut with plain mission patches, a rocket, a space station, a satellite, a Mars rover, a telescope.",
+            "style": "universe_space",
+            "complexity": "medium",
+            "pageCategory": "concept",
+            "theme": "planets and space",
+            "title": "Planets and Space Coloring Book"
+          },
+          "why": "Homeschoolers and teachers studying space want each planet and object named on its own page, so the book teaches as kids color."
+        },
+        {
+          "name": "Alien worlds adventure for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A space adventure across the galaxy: astronauts with plain mission patches building a base on Mars, a rover crossing red sand dunes, a spaceship docking at a giant space station, friendly aliens farming glowing plants on their home planet, a spacewalk high above Earth, a rocket launch in billowing smoke, a space whale swimming through a nebula, robots repairing a satellite, a domed city on the moon, and kids stargazing through a backyard telescope.",
+            "style": "universe_space",
+            "complexity": "medium",
+            "theme": "galaxy adventure",
+            "title": "Galaxy Explorers Coloring Book"
+          },
+          "why": "Science-loving tweens want detailed, imaginative space scenes, and KDP sellers find room in this older age band."
+        }
+      ]
+    },
+    {
+      "slug": "vehicle-coloring-book-prompts",
+      "title": "Vehicle Coloring Book Prompts: Trucks, Diggers, Trains & Cars",
+      "metaDescription": "Vehicle coloring book prompts: dump trucks, fire engines and trains for toddlers, a 24-machine construction book, and classic cars for teens and adults.",
+      "intro": "Vehicle coloring books are a top seller for little kids who love anything with wheels, from diggers and fire trucks to tractors and trains. Parents buy them for road trips and waiting rooms, and construction vehicle books are a well-known KDP niche of their own. These vehicle coloring book prompts give you a big-trucks book for toddlers, a construction machine book with names, and a classic car and train book for older fans.",
+      "keywords": [
+        "vehicle coloring book prompts",
+        "truck coloring book for toddlers",
+        "construction vehicle coloring pages",
+        "car coloring book for kids",
+        "train coloring pages",
+        "classic car coloring book for adults"
+      ],
+      "tips": [
+        "Construction vehicles are a strong sub-niche on their own; a named-machine book helps kids learn the difference between an excavator and a backhoe.",
+        "Toddlers want one big vehicle per page doing its job, like a dump truck tipping dirt, not crowded traffic scenes.",
+        "Classic cars and steam trains reach teen and adult buyers, often as gifts for car enthusiasts."
+      ],
+      "prompts": [
+        {
+          "name": "Big trucks and things that go",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Big, friendly vehicles little kids love: a dump truck tipping a load of dirt, an excavator digging a hole, a fire truck with its ladder raised, a school bus full of waving kids, a red tractor pulling a hay wagon, a steam train chugging over a bridge, a garbage truck on its morning route, a police car, a cement mixer, a tow truck, a helicopter, and an airplane above the clouds.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "theme": "things that go",
+            "title": "Things That Go Coloring Book"
+          },
+          "why": "Parents of vehicle-obsessed toddlers buy this for road trips and quiet time, and every page shows a machine they spot in real life."
+        },
+        {
+          "name": "24 construction machines with names",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A construction vehicle book, one machine per page with its name: excavator, bulldozer, dump truck, cement mixer, tower crane, mobile crane, backhoe loader, wheel loader, road roller, forklift, skid steer, motor grader, asphalt paver, drilling rig, trencher, scraper, telehandler, pile driver, wrecking ball crane, flatbed truck, water truck, street sweeper, cherry picker, mini excavator.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "concept",
+            "theme": "construction vehicles",
+            "title": "Construction Machines Coloring Book"
+          },
+          "why": "Kids who love building sites want every machine named, and it lets KDP sellers rank in the busy construction vehicle niche with a learning angle."
+        },
+        {
+          "name": "Classic cars and trains for teens and adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Detailed vintage vehicles of no real make, in nostalgic settings: an unbranded 1950s-style convertible outside a roadside diner, an old pickup truck loaded with pumpkins, a steam locomotive crossing a mountain viaduct, a hot rod in a garage full of tools, a vintage double-decker bus on a rainy city street, a rounded vintage camper parked at the beach, a vintage motorcycle on a desert highway, a vintage fire engine at a small-town parade and a 1920s steam tram in an old town square.",
+            "style": "general_coloring",
+            "complexity": "hard",
+            "theme": "classic vehicles",
+            "title": "Classic Cars and Trains Coloring Book"
+          },
+          "why": "Car and train enthusiasts, and the people shopping for them, buy detailed vintage vehicle books as gifts for teens and adults."
+        }
+      ]
+    },
+    {
+      "slug": "princess-castle-coloring-book-prompts",
+      "title": "Princess & Castle Coloring Book Prompts (Original Characters)",
+      "metaDescription": "Princess and castle coloring book prompts with original characters: tea-party princesses, brave knights and dragons, and ornate fairy-tale castles.",
+      "intro": "Princess coloring books are a perennial gift for young children, and fairy-tale castles keep their charm right into the adult coloring market. Because these prompts use original princesses, knights and kingdoms, the finished books are safe to sell on Amazon KDP and Etsy. You get a sweet princess book for preschoolers, a brave knights-and-dragons adventure, and a detailed fairy-tale castle collection for adults.",
+      "keywords": [
+        "princess coloring book prompts",
+        "princess coloring pages for kids",
+        "castle coloring book",
+        "knights and princesses coloring book",
+        "fairy tale coloring pages",
+        "princess coloring book KDP"
+      ],
+      "tips": [
+        "Use only original princesses: anything that looks or sounds like a film character can get a KDP listing removed.",
+        "Brave, active princesses (sword fighting, inventing, exploring) widen the audience and set your book apart from dress-only books.",
+        "Fairy-tale castles and royal interiors are a strong adult niche; ballrooms, libraries and gardens give pages lots to color."
+      ],
+      "prompts": [
+        {
+          "name": "Little princesses and castles",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Sweet original princesses in a gentle fairy-tale kingdom: a princess having a tea party with her teddy bears, a princess riding a pony through a flower meadow, a castle with tall towers and a drawbridge, a princess and a friendly frog by a pond, a royal birthday cake, a princess twirling at a ball, a little knight and his pony, a carriage pulled by white horses, a princess reading in a tower window, and a royal garden fountain.",
+            "style": "fairy_tale",
+            "complexity": "easy",
+            "theme": "little princesses",
+            "title": "Little Princess Coloring Book"
+          },
+          "why": "Parents shopping for a preschooler's birthday want a sweet, original princess book with simple shapes and familiar fairy-tale moments."
+        },
+        {
+          "name": "Knights, princesses and dragons",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Adventures in a medieval kingdom with princesses and knights of many backgrounds: a brave princess with a sword meeting a friendly dragon, knights jousting at a tournament, a feast in the great hall, a princess and a knight exploring an enchanted forest, a wizard's tower full of potions, a royal ship sailing to a faraway island, a princess inventor building a flying machine, the royal stables, and a secret garden behind the castle walls.",
+            "style": "fairy_tale",
+            "complexity": "medium",
+            "theme": "medieval kingdom",
+            "title": "Knights and Princesses Coloring Book"
+          },
+          "why": "Kids who want adventure as well as gowns get both, which widens the audience for KDP sellers beyond a classic princess book."
+        },
+        {
+          "name": "Ornate fairy-tale castles for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Ornate fairy-tale castles and royal scenes: a cliffside castle above a waterfall, a palace ballroom with chandeliers and dancing couples, a castle reflected in a lake ringed with roses, a princess in a gown of detailed embroidery, a gothic castle under a starry sky, a royal library with spiral staircases, a garden maze of topiaries, a winter palace in a snowy pine forest, and a castle village of timbered houses and market stalls.",
+            "style": "fairy_tale",
+            "complexity": "hard",
+            "theme": "fairy-tale castles",
+            "title": "Fairy Tale Castles: A Coloring Book for Adults"
+          },
+          "why": "Adult colorists love intricate architecture and romantic fairy-tale settings, a niche with fewer competitors than mandalas."
+        }
+      ]
+    },
+    {
+      "slug": "mermaid-coloring-book-prompts",
+      "title": "Mermaid Coloring Book Prompts for Kids, Teens & Adults",
+      "metaDescription": "Mermaid coloring book prompts: young mermaids and sea friends for toddlers, an undersea mermaid kingdom for kids, and ornate mermaid art for adults.",
+      "intro": "Mermaid coloring books combine two favourite themes, magic and the ocean, and they sell strongly as gifts for girls from preschool to the tween years. Detailed mermaids with flowing hair and shell-covered tails are also a popular adult coloring niche. These mermaid coloring book prompts cover a sweet book for little kids, a full undersea kingdom adventure, and an ornate mermaid fantasy book for teens and adults, all with original characters.",
+      "keywords": [
+        "mermaid coloring book prompts",
+        "mermaid coloring pages for kids",
+        "mermaid coloring book for girls",
+        "mermaid coloring book for adults",
+        "under the sea mermaid coloring pages",
+        "printable mermaid coloring book"
+      ],
+      "tips": [
+        "Keep every mermaid original; avoid famous red-haired film mermaids and their sidekicks so the book is safe to sell.",
+        "Add sea friends (turtles, dolphins, octopuses) to almost every page; they make mermaid books far more varied than solo portraits.",
+        "Include merboys and mermaids of different looks, which broadens the gift audience."
+      ],
+      "prompts": [
+        {
+          "name": "Young mermaids and sea friends",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Happy young mermaids in a bright underwater world: a mermaid hugging a sea turtle, riding a dolphin, having a tea party with a sea otter and a starfish, combing her hair with a seashell, playing hide and seek in the coral, sleeping in an open clam shell, blowing bubbles with a pufferfish, swimming with a seahorse, a baby mermaid in a seaweed cradle, and a merboy racing a school of fish.",
+            "style": "fairy_tale",
+            "complexity": "easy",
+            "theme": "young mermaids",
+            "title": "Mermaid Friends Coloring Book"
+          },
+          "why": "Parents of preschoolers want gentle, magical ocean pages with a cute sea friend on each one, and mermaids are a top gift theme."
+        },
+        {
+          "name": "Undersea mermaid kingdom",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A magical undersea mermaid kingdom: a coral palace with seashell towers, mermaids exploring a sunken ship, a mermaid school where merkids learn about fish, a mermaid riding a whale through the deep, a treasure hunt in a glowing sea cave, a festival lit by lantern jellyfish, a mermaid on a rock beside a lighthouse at sunset, a mermaid caring for a baby octopus, a seahorse race, and mermaids playing with otters in a kelp forest.",
+            "style": "fairy_tale",
+            "complexity": "medium",
+            "theme": "mermaid kingdom",
+            "title": "The Mermaid Kingdom Coloring Book"
+          },
+          "why": "School-age mermaid fans get a whole world to explore page by page, which keeps a 40-page book fresh to the end."
+        },
+        {
+          "name": "Ornate mermaid fantasy for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Graceful mermaids in richly detailed ocean scenes: a mermaid whose flowing hair is threaded with shells and pearls, a mermaid curled inside a giant nautilus, a mermaid resting in a moonlit tide pool, a mermaid encircled by a mandala of fish and coral, a mermaid queen on a coral throne, mermaids drifting among jellyfish, a mermaid holding a glowing lantern in the deep, and a tail covered in intricate scales. Every mermaid wears a shell-and-pearl or seaweed top.",
+            "style": "mandala_sea",
+            "complexity": "hard",
+            "theme": "mermaid fantasy",
+            "title": "Mermaid Dreams: An Adult Coloring Book"
+          },
+          "why": "Teen and adult colorists buy ornate mermaid art for relaxation, and it pairs well with ocean mandala books in a KDP catalogue."
+        }
+      ]
+    },
+    {
+      "slug": "robot-coloring-book-prompts",
+      "title": "Robot Coloring Book Prompts for Kids & Tweens",
+      "metaDescription": "Robot coloring book prompts for kids: friendly boxy robots for toddlers, a futuristic robot city for ages 6-9, and giant mechs for tweens.",
+      "intro": "Robot coloring books appeal to kids who love building, gadgets and science fiction, and they make a great STEM-flavoured gift. Robots are also flexible: they can be cute and boxy for toddlers or towering and mechanical for tweens. These robot coloring book prompts give you a friendly first robot book, a futuristic robot world for school-age kids, and a mech and steampunk robot book for older kids.",
+      "keywords": [
+        "robot coloring book prompts",
+        "robot coloring pages for kids",
+        "cute robot coloring book",
+        "STEM coloring book for kids",
+        "mech robot coloring pages",
+        "robot coloring book KDP"
+      ],
+      "tips": [
+        "Pitch robot books as STEM gifts in your listing; parents searching for science gifts are a wider audience than robot fans alone.",
+        "Toddler robots work best with simple boxy shapes, big eyes and everyday jobs like baking or gardening.",
+        "Avoid shape-shifting car robots and other famous designs; giant mechs, robot animals and steampunk bots are safe, original angles."
+      ],
+      "prompts": [
+        {
+          "name": "Friendly robots for little kids",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Cute, boxy robots with big friendly eyes: a robot watering flowers, a robot walking its robot dog, a robot baking cookies, a robot kicking a soccer ball, a robot holding a balloon, a robot stacking a block tower, a robot fixing a toy car with a wrench, a robot dancing to music, a robot and a child sharing an umbrella, and a sleepy robot plugged in to recharge at bedtime.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "theme": "friendly robots",
+            "title": "My Robot Friends Coloring Book"
+          },
+          "why": "Parents of gadget-loving preschoolers want a sweet, simple robot book that feels like a first STEM gift."
+        },
+        {
+          "name": "Robot city and kid inventors",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A futuristic world full of helpful robots: a robot city with flying cars and tall glass towers, a kid inventor building a robot in a garage workshop, giant robots cleaning up after a storm, a robot chef in a busy kitchen, robots exploring the ocean floor, a robot farmer harvesting vegetables, a robot zookeeper feeding giraffes, robots racing on a track, a robot band on stage, and a robot best friend at a sleepover.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "robot city",
+            "title": "Robot City Coloring Book"
+          },
+          "why": "Kids who love inventing and science fiction get imaginative scenes, and parents and teachers see a STEM-friendly book."
+        },
+        {
+          "name": "Giant mechs and steampunk bots",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Giant mechs and inventive robot designs: a towering mech standing over a city at sunset, a robot T-rex, a samurai-style mech with a sword, a robot dragon flying over mountains, a robot sumo ring, a spider robot climbing a cliff, a steampunk robot full of gears and pipes, a pilot inside a mech cockpit, a robot knight guarding a castle gate, and a robot whale exploring the deep sea.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "mechs and robots",
+            "title": "Mega Mechs Coloring Book"
+          },
+          "why": "Tweens who find cute robots babyish want big, mechanical designs, a less crowded KDP age band for robot books."
+        }
+      ]
+    },
+    {
+      "slug": "kawaii-food-coloring-book-prompts",
+      "title": "Kawaii Food Coloring Book Prompts: Cute Desserts, Fruit & Snacks",
+      "metaDescription": "Kawaii food coloring book prompts: smiling fruit for toddlers, cute desserts for kids, and busy kawaii food scenes for teens and adults. Print-ready PDFs.",
+      "intro": "Kawaii food coloring books, with smiling cupcakes, sushi and strawberries, are one of the fastest-growing coloring niches on Amazon KDP and Etsy. They appeal to young kids, tweens and a large teen and adult audience who love cute, bold pages that are relaxing to color. These kawaii food coloring book prompts cover a fruit-and-veggie book for little kids, a desserts book for school-age kids, and busy kawaii food scenes for teens and adults.",
+      "keywords": [
+        "kawaii food coloring book prompts",
+        "cute food coloring pages",
+        "kawaii coloring book for kids",
+        "kawaii dessert coloring pages",
+        "cute food coloring book for adults",
+        "kawaii coloring book KDP"
+      ],
+      "tips": [
+        "Kawaii food is not just for kids; teens and adults buy cute, bold-and-easy books for relaxing, so consider a 13+ version.",
+        "Give the food a scene or activity (a donut floating in a pool ring) instead of a plain portrait; it makes each page memorable.",
+        "Fruit-and-veggie books also sell to parents of picky eaters, which is a handy angle for your listing description."
+      ],
+      "prompts": [
+        {
+          "name": "Smiling fruit and veggie friends",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Happy fruits and vegetables with sweet smiling faces: a strawberry wearing a flower crown, a banana on a skateboard, an avocado hugging its pit, a pineapple in sunglasses, watermelon slices at the beach, a carrot and a pea pod playing tag, a broccoli tree house, an apple and an orange holding hands, a family of grapes, and a lemon diving into a glass of lemonade.",
+            "style": "food_fun",
+            "complexity": "easy",
+            "theme": "kawaii fruit and veggies",
+            "title": "Happy Fruit and Veggies Coloring Book"
+          },
+          "why": "Parents of little kids, including picky eaters, love friendly fruit and vegetable characters with simple shapes."
+        },
+        {
+          "name": "Kawaii desserts and sweet treats",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A sweet world of kawaii desserts with cute faces: a cupcake wearing a cherry hat, a stack of pancakes with dripping syrup, a donut floating on a pool ring, a three-scoop ice cream cone, a slice of birthday cake, macarons in a row, a bubble tea cup full of tapioca pearls, cookies dunking in milk, a candy shop window, a waffle topped with strawberries, and a pie cooling on a windowsill.",
+            "style": "food_fun",
+            "complexity": "medium",
+            "theme": "kawaii desserts",
+            "title": "Kawaii Sweets Coloring Book"
+          },
+          "why": "School-age kids adore cute desserts, and it is one of the most searched kawaii sub-niches for KDP sellers."
+        },
+        {
+          "name": "Busy kawaii food scenes for teens and adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Busy kawaii food scenes packed with cute characters: a conveyor belt of smiling sushi rolls, a ramen bowl hot spring where noodles relax, a bakery shelf crowded with happy breads and croissants, a dumpling party in a bamboo steamer, pizza night with dancing toppings, a breakfast table where eggs and toast play cards, a bento box city, a farmers market of grinning vegetables, and a teapot tea party with cakes.",
+            "style": "food_fun",
+            "complexity": "hard",
+            "theme": "kawaii food scenes",
+            "title": "Cozy Kawaii Food Coloring Book"
+          },
+          "why": "Teens and adults who love cute, relaxing pages buy kawaii food books in large numbers, and full scenes give them more to color than single icons."
+        }
+      ]
+    },
+    {
+      "slug": "mandala-coloring-book-prompts",
+      "title": "Mandala Coloring Book Prompts for Adults & Teens",
+      "metaDescription": "Mandala coloring book prompts for adults and teens: intricate geometric designs, beginner-friendly mandalas and boho sets ready to print.",
+      "intro": "Mandala coloring books are one of the most reliable sellers on Amazon KDP, bought by adults who color to unwind and by teens who love symmetry and detail. These mandala coloring book prompts cover the full range, from dense geometric designs for experienced colorists to open, beginner-friendly mandalas and a celestial boho set for tweens. Each brief asks for a different design on every page, so the book never feels repetitive.",
+      "keywords": [
+        "mandala coloring book prompts",
+        "mandala coloring book for adults",
+        "mandala coloring pages",
+        "easy mandala coloring book for beginners",
+        "intricate mandala coloring book",
+        "mandala coloring book for teens",
+        "geometric mandala coloring pages"
+      ],
+      "tips": [
+        "Name the motifs you want (lotus petals, star polygons, paisley, lace) so each page gets a different design instead of fifty near-identical circles.",
+        "Use the 8.5x8.5 square size for single round mandalas; the design fills the page with no wasted space.",
+        "Sell a beginner and an intricate edition side by side; buyers who finish one often come back for the other."
+      ],
+      "prompts": [
+        {
+          "name": "Intricate geometric mandalas for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 50,
+          "pageSize": "8.5x8.5",
+          "highQuality": true,
+          "fields": {
+            "description": "Fifty intricate circular mandalas, each a different design: layered lotus petals, interlocking star polygons, Moroccan tile rosettes, Celtic knot rings, feathered paisley borders, sunburst rays, honeycomb lattices and lace-like filigree. Some centre on a tiny eight-pointed star, others bloom outward through twelve rings of scallops, teardrops and tiny beads. A calm, meditative collection for long evenings of coloring.",
+            "style": "mandala_abstract",
+            "complexity": "hard",
+            "title": "Mandala Meditations: 50 Intricate Designs"
+          },
+          "why": "Experienced adult colorists and KDP sellers in the core mandala niche want dense, varied designs, and the square format shows each mandala at full size."
+        },
+        {
+          "name": "Beginner-friendly mandalas with big spaces",
+          "ageGroup": "13+",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty simple mandalas for beginners and relaxed colorists: large petals, wide rings and only a few layers in each design. A flower-centred mandala, a sun with wavy rays, a ring of hearts, a five-pointed star mandala, a leaf wreath, a seashell spiral, circles of triangles and dots, a simple lotus and a snowflake-style rosette. Calm, uncluttered and quick to finish in one sitting.",
+            "style": "mandala_abstract",
+            "complexity": "medium"
+          },
+          "why": "New adult colorists, seniors and gift buyers want mandalas they can actually finish, a gap many over-detailed KDP mandala books leave open."
+        },
+        {
+          "name": "Celestial boho mandalas for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty boho celestial mandalas for tweens: crescent moons inside rings of stars, moon-phase circles, suns with patterned faces, crystals and gemstones arranged in a circle, feathers and beads hanging from round hoops, constellation wheels, mushroom and fern rings, and planets wrapped in swirling orbit patterns. Dreamy, trendy and full of night-sky magic.",
+            "style": "mandala_abstract",
+            "complexity": "medium"
+          },
+          "why": "Parents and teens shopping for an aesthetic, room-decor style book pick celestial boho themes over plain geometry, and the medium detail suits ages 9 to 13."
+        }
+      ]
+    },
+    {
+      "slug": "animal-mandala-coloring-book-prompts",
+      "title": "Animal Mandala Coloring Book Prompts",
+      "metaDescription": "Animal mandala coloring book prompts: wild animals, ocean creatures and cute pets filled with mandala patterns, for adults, teens and kids.",
+      "intro": "Animal mandala coloring books combine two bestselling niches: the calm of pattern coloring and the appeal of a favourite animal. Adults buy them as stress relief, while tweens and kids like seeing a lion or a sea turtle filled with swirls and petals. These animal mandala coloring book prompts give you a premium wildlife edition, an ocean set and an easier book for younger colorists.",
+      "keywords": [
+        "animal mandala coloring book prompts",
+        "animal mandala coloring book for adults",
+        "mandala animals coloring pages",
+        "zentangle animal coloring book",
+        "ocean animal mandala coloring book",
+        "animal mandala coloring book for kids"
+      ],
+      "tips": [
+        "List a different animal for every page; animal mandala buyers expect variety, not ten owls.",
+        "Ask for the animal to be filled with patterns AND set against a matching floral or wave backdrop for a full-page design.",
+        "Pick animals with strong silhouettes (elephant, owl, turtle, fox); they read clearly even when filled with pattern."
+      ],
+      "prompts": [
+        {
+          "name": "Wild animal mandalas for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Fifty majestic wild animals, each filled with intricate mandala and zentangle patterns: a lion with a mane of petals, an elephant draped in paisley, a wolf howling under a patterned moon, a great horned owl, a fox curled in a ring of leaves, a tiger, a stag with lace antlers, a grizzly bear, a giraffe, a hummingbird at a lotus, a sea turtle, a peacock and a chameleon, each set against a floral mandala backdrop.",
+            "style": "mandala_animal",
+            "complexity": "hard",
+            "title": "Wild Animal Mandalas"
+          },
+          "why": "Adult colorists looking for premium stress relief pay more for detailed wildlife mandalas, one of the top-selling KDP mandala sub-niches."
+        },
+        {
+          "name": "Ocean creature mandalas for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty sea creatures filled with flowing mandala patterns: a sea turtle with a patterned shell, an octopus with swirling tentacles, a seahorse, a humpback whale, jellyfish trailing lace ribbons, a manta ray, dolphins leaping in a circle, a pufferfish, a hermit crab, a starfish, clownfish in an anemone, a narwhal, and coral reefs and shells woven between them like a tide-pool mandala.",
+            "style": "mandala_sea",
+            "complexity": "medium"
+          },
+          "why": "Tweens and beach-loving gift buyers like an ocean theme, and medium detail keeps the patterns enjoyable for ages 9 to 13."
+        },
+        {
+          "name": "Easy animal mandalas for kids",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty friendly animals with simple patterns inside them for young colorists: a sitting cat with hearts and dots, a puppy with star-patterned ears, a bunny, a butterfly with big patterned wings, an owl, a turtle with a flower shell, a fish with wavy scales, a snail, a ladybug, a koala and a hedgehog, each framed by a simple round ring of flowers or leaves.",
+            "style": "mandala_animal",
+            "complexity": "easy"
+          },
+          "why": "Parents want a calm, screen-free activity that feels grown-up to kids, and big pattern shapes make animal mandalas achievable at ages 6 to 9."
+        }
+      ]
+    },
+    {
+      "slug": "stress-relief-coloring-book-prompts",
+      "title": "Stress Relief Coloring Book Prompts for Adults",
+      "metaDescription": "Stress relief coloring book prompts for adults: calming nature scenes, soothing patterns and mindful moments for anxiety relief, no text.",
+      "intro": "Stress relief coloring books sell all year to adults who want a quiet, screen-free way to slow down, and they are a steady gift choice for friends going through a hard time. These stress relief coloring book prompts focus on calming scenes and repeating patterns rather than slogans, so the pages feel peaceful instead of busy. A third prompt adapts the idea for tweens facing exam season.",
+      "keywords": [
+        "stress relief coloring book prompts",
+        "stress relief coloring book for adults",
+        "anxiety relief coloring book",
+        "mindfulness coloring book",
+        "relaxing coloring pages for adults",
+        "calming coloring book",
+        "adult coloring book for anxiety"
+      ],
+      "tips": [
+        "Lean on slow, quiet subjects (still water, tea, sleeping animals, rain on a window); calm scenes beat busy ones for this buyer.",
+        "Repeating patterns such as waves, scales and pebbles are the most soothing pages to color; mix several pattern pages into a scene book.",
+        "Keep pages free of words; many anxiety-relief buyers find affirmations distracting and prefer to let the picture do the work."
+      ],
+      "prompts": [
+        {
+          "name": "Calming nature scenes for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty peaceful scenes to slow down with: a still lake at dawn with a wooden dock, a log cabin among tall pines, a cup of tea and a candle on a rainy windowsill, a zen garden with raked sand and stones, a lotus pond with koi, a hammock between two palms, a mountain sunrise, a bonsai tree, a quiet forest stream, a lighthouse on a calm sea and a cat asleep in a sunbeam.",
+            "style": "anxiety_motivation",
+            "complexity": "medium",
+            "title": "Quiet Moments: Calming Scenes to Color"
+          },
+          "why": "Adults seeking anxiety relief and gift buyers choose gentle, wordless scenes, a large and evergreen KDP niche."
+        },
+        {
+          "name": "Soothing pattern pages for anxiety relief",
+          "ageGroup": "13+",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Fifty full-page flowing patterns to color slowly and mindfully: rolling ocean waves, overlapping fish scales, fern fronds unfurling, pebbles in a stream, woven basket lattices, spirals of leaves, clouds stacked like quilts, feathers in rows, bubbles, honeycomb, rippling sand dunes and garden paths of stepping stones, each page a different repeating pattern with no fixed focal point.",
+            "style": "anxiety_motivation",
+            "complexity": "hard"
+          },
+          "why": "Adult colorists who find meditative repetition calming want endless-pattern pages, and the detailed edition suits long relaxing sessions."
+        },
+        {
+          "name": "Exam-season calm for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty calming pages for tweens who need a break from homework and tests: a cozy bed with a sleeping cat, a treehouse reading nook, a sloth napping in a hammock, an otter floating on its back, a hot-air balloon over soft hills, a starry sky from a tent, a garden swing, a jar of fireflies, a quiet beach at sunset and a bunny curled in a teacup.",
+            "style": "anxiety_motivation",
+            "complexity": "medium"
+          },
+          "why": "Parents and school counsellors buy calm-down books for stressed tweens, and cozy, gentle subjects suit ages 9 to 13 better than adult patterns."
+        }
+      ]
+    },
+    {
+      "slug": "cozy-coloring-book-prompts",
+      "title": "Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes",
+      "metaDescription": "Cozy coloring book prompts for KDP: hygge homes, cottagecore cottages, rainy-day cafés and cute animal shops for adults and teens.",
+      "intro": "Cozy coloring books are one of the hottest niches on Amazon KDP right now: warm interiors, rainy windows, steaming mugs and little shops full of charm. Adults and teens buy them to feel calm and at home, and they make easy gifts. These cozy coloring book prompts cover hygge home life, cottagecore countryside and a sweet set of animal-run cafés and shops.",
+      "keywords": [
+        "cozy coloring book prompts",
+        "cozy coloring book for adults",
+        "hygge coloring book",
+        "cottagecore coloring book",
+        "cozy cafe coloring pages",
+        "cozy coloring pages",
+        "cozy animal coloring book"
+      ],
+      "tips": [
+        "Fill each room with small comforting objects (blankets, teapots, plants, books, string lights); the clutter is the charm.",
+        "Mix seasons and weather (rainy, snowy, autumn, spring) to keep a cozy book varied across 40 pages.",
+        "Animal shopkeepers and cafés give the book a character hook buyers remember, without leaning on any famous brand."
+      ],
+      "prompts": [
+        {
+          "name": "Hygge home moments for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty cozy indoor scenes: a reading nook with a knitted blanket and a sleeping cat, a kitchen with bread cooling on the counter, socks warming by a wood stove, a bathtub with candles and plants, a bedroom with string lights and stacked books, a rainy window with tea and cookies, a sunroom full of houseplants, a pantry of jars, a window seat in snowfall and a cluttered craft table with yarn.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "title": "Cozy Corners: A Hygge Coloring Book"
+          },
+          "why": "Adult colorists who love the hygge aesthetic are one of the fastest-growing KDP audiences, and detailed interiors are exactly what they search for."
+        },
+        {
+          "name": "Cottagecore countryside",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty cottagecore pages of slow country life: a thatched cottage with roses over the door, a garden gate and vegetable beds, a picnic basket on a quilt by a stream, beehives in a meadow, a farmers market stall of jams and bread, sheep grazing near a stone wall, mushroom foraging in a mossy wood, a village bakery, a greenhouse, a washing line in the breeze and a bicycle with a flower basket.",
+            "style": "general_coloring",
+            "complexity": "medium"
+          },
+          "why": "Teens and adults drawn to the cottagecore look want countryside charm, a strong-selling cousin of the cozy niche on KDP and Etsy."
+        },
+        {
+          "name": "Cozy animal cafés and little shops",
+          "ageGroup": "9-13",
+          "numberOfPages": 36,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty-six charming little shops run by animals: a hedgehog bakery with cinnamon rolls, a bear café pouring hot cocoa, a cat bookshop with cushions in the window, a rabbit flower shop, a fox tea house, a raccoon antique store, an otter ice-cream parlour, a mouse cheese shop, a frog plant nursery, a panda noodle bar and a badger yarn store, each shown inside or at its front door on a rainy evening.",
+            "style": "cute_animals",
+            "complexity": "medium"
+          },
+          "why": "Tweens, teens and adults who love the cute-cozy look buy animal-shop books in volume, and an original cast keeps the book safe to sell."
+        }
+      ]
+    },
+    {
+      "slug": "bold-and-easy-coloring-book-prompts",
+      "title": "Bold and Easy Coloring Book Prompts for Adults & Seniors",
+      "metaDescription": "Bold and easy coloring book prompts for adults and seniors: big simple shapes, large areas and relaxing everyday subjects that finish fast.",
+      "intro": "Bold and easy coloring books have big, simple shapes and large areas to fill, which makes them a top seller for adults who want quick relaxation, seniors, people with low vision and anyone using markers. These bold and easy coloring book prompts give you an everyday-objects book, a nostalgic set for seniors and a set of cute animals, each with one clear subject per page.",
+      "keywords": [
+        "bold and easy coloring book prompts",
+        "bold and easy coloring book for adults",
+        "simple coloring book for adults",
+        "large print coloring book for seniors",
+        "easy coloring pages for adults",
+        "coloring book for people with dementia",
+        "big and simple coloring book"
+      ],
+      "tips": [
+        "Keep to one main subject per page; a teacup or a cactus with a few props reads better than a crowded scene.",
+        "Choose familiar, friendly objects; recognisable subjects are what make bold and easy books relaxing.",
+        "Market the book for alcohol markers and gel pens; big areas suit them and that is how buyers search."
+      ],
+      "prompts": [
+        {
+          "name": "Bold and easy everyday things",
+          "ageGroup": "13+",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Fifty simple, bold pages of everyday favourites: a teacup with a saucer, a cupcake with a cherry, a potted cactus, a sneaker, a vintage camera, a sunflower in a jar, a little house with a picket fence, a bicycle, a slice of pizza, a record player, a pair of mittens, a snail on a mushroom, a watering can and a cozy armchair with a cat, one large subject per page.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "title": "Bold & Easy: Simple Things to Color"
+          },
+          "why": "Adults who want quick, satisfying sessions with markers make bold and easy one of the best-selling KDP formats right now."
+        },
+        {
+          "name": "Nostalgic bold and easy pages for seniors",
+          "ageGroup": "13+",
+          "numberOfPages": 30,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty large, simple pictures of familiar, happy things for seniors: a classic car from the fifties, a robin on a branch, a pie cooling on a windowsill, a sailboat on the water, a red barn with a rooster, a sewing basket, a rotary telephone, a garden of tulips, a front porch with a rocking chair, a kitten with a ball of yarn and a picnic basket.",
+            "style": "general_coloring",
+            "complexity": "easy"
+          },
+          "why": "Families, care homes and activity coordinators buy large-print, nostalgic books for seniors and people living with dementia; recognisable subjects spark conversation."
+        },
+        {
+          "name": "Bold and easy cute animals",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty big, simple cute animals for relaxed coloring: a round chubby cat, a sleepy panda, a smiling whale, a hedgehog with an apple, a penguin in a scarf, a sloth hugging a branch, an owl on a moon, a bunny in a teacup, a fox curled up asleep, a turtle with a flower on its shell and a puppy in a basket, each one large and centred on the page.",
+            "style": "cute_animals",
+            "complexity": "easy"
+          },
+          "why": "Adults and teens who like cute subjects but want fast, low-effort pages buy bold and easy animal books as quick wins and gifts."
+        }
+      ]
+    },
+    {
+      "slug": "flower-botanical-coloring-book-prompts",
+      "title": "Flower & Botanical Coloring Book Prompts",
+      "metaDescription": "Flower and botanical coloring book prompts: detailed botanical studies, bouquets and garden scenes for adults, plus easy flowers for kids.",
+      "intro": "Flower coloring books are a perennial bestseller: gardeners, nature lovers and adult colorists buy them year-round, and they sell especially well around Mother's Day and spring. These flower and botanical coloring book prompts include a premium vintage botanical edition, a relaxing bouquets-and-gardens book, and a cheerful easy book for kids.",
+      "keywords": [
+        "flower coloring book prompts",
+        "botanical coloring book for adults",
+        "flower coloring book for adults",
+        "floral coloring pages",
+        "garden coloring book",
+        "flower coloring pages for kids",
+        "vintage botanical coloring book"
+      ],
+      "tips": [
+        "Name real flowers (peony, foxglove, magnolia, iris); specific species look far better than a generic 'flower'.",
+        "For a botanical edition, ask for leaves, buds, seed pods and roots too; it gives the vintage herbarium look buyers want.",
+        "Time flower books for spring and Mother's Day, when gift searches for floral coloring books peak."
+      ],
+      "prompts": [
+        {
+          "name": "Vintage botanical studies for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 50,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Fifty detailed botanical studies in the style of an old herbarium: a peony in full bloom with buds, a magnolia branch, bearded iris, foxgloves, a fern frond unrolling, lily of the valley, a sunflower head with seeds, poppies with seed pods, a rose stem, wild orchids, a lavender bundle, a passionflower, a sprig of olive and a cluster of hydrangea, each with leaves, stems and roots.",
+            "style": "general_coloring",
+            "complexity": "hard",
+            "title": "The Botanical Sketchbook"
+          },
+          "why": "Adult colorists and gardeners pay a premium for realistic botanical detail, and the vintage herbarium angle stands out from generic flower books."
+        },
+        {
+          "name": "Bouquets, wreaths and garden corners",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty relaxing floral pages: a bouquet of roses in a jug, a wildflower meadow with butterflies, a garden arch covered in climbing roses, a watering can spilling daisies, a tulip field with a windmill, a wreath of peonies and eucalyptus, a potting bench with seedlings, a teapot full of pansies, a window box of geraniums, a basket of cut flowers and a hummingbird at honeysuckle.",
+            "style": "general_coloring",
+            "complexity": "medium"
+          },
+          "why": "Gift buyers and relaxed adult colorists want pretty, balanced floral scenes that are detailed but not exhausting, an easy Mother's Day seller."
+        },
+        {
+          "name": "Happy flowers for kids",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty bright flower pages for kids: a giant sunflower taller than a fence, tulips in a pot, a daisy chain, a ladybug on a rose, bees visiting lavender, a butterfly on a zinnia, a watering can and seed packets, a flower crown, a cactus with a pink bloom, a strawberry plant with flowers, a hummingbird at a trumpet flower and a garden path lined with pansies.",
+            "style": "general_coloring",
+            "complexity": "easy"
+          },
+          "why": "Parents and teachers want a cheerful spring and gardening theme with simple, recognisable flowers kids can name."
+        }
+      ]
+    },
+    {
+      "slug": "christmas-coloring-book-prompts",
+      "title": "Christmas Coloring Book Prompts for Kids & Adults",
+      "metaDescription": "Christmas coloring book prompts for kids and adults: cute toddler pages, cozy snowy villages and intricate ornament mandalas for KDP.",
+      "intro": "Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts as early as October. Parents buy them for stockings and holiday breaks, while adults buy cozy and intricate editions to color by the fire. These Christmas coloring book prompts cover a toddler book, a cozy adult village book and a premium mandala and ornament book.",
+      "keywords": [
+        "christmas coloring book prompts",
+        "christmas coloring book for kids",
+        "christmas coloring book for adults",
+        "christmas coloring pages",
+        "cozy christmas coloring book",
+        "christmas mandala coloring book",
+        "christmas coloring book for toddlers"
+      ],
+      "tips": [
+        "Publish Christmas books by early October; the search peak runs from November to mid-December.",
+        "Mix classic symbols (stockings, wreaths, gingerbread) with scenes so the book is not 30 lone ornaments.",
+        "A cozy adult Christmas book and a kids' one can share a series name, so buyers find both."
+      ],
+      "prompts": [
+        {
+          "name": "Simple Christmas pages for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty simple, happy Christmas pictures for little ones: a smiling snowman with a carrot nose, a reindeer with a bell collar, a gingerbread man, stockings on a fireplace, a stack of wrapped presents, a decorated Christmas tree, a penguin in a scarf, Santa waving from his sleigh, a candy cane, a mitten pair, a bell with a bow, an elf with a teddy bear and a puppy in a gift box.",
+            "style": "christmas",
+            "complexity": "easy",
+            "title": "My First Christmas Coloring Book"
+          },
+          "why": "Parents buy toddler Christmas books as stocking stuffers and holiday-break activities, one of the biggest seasonal KDP sales."
+        },
+        {
+          "name": "Cozy Christmas village for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty cozy Christmas scenes: a snowy village main street with lantern-lit shops, a bakery window full of gingerbread houses, hot cocoa by a crackling fireplace, a wreath on a red front door, a Christmas market with wooden stalls, a horse-drawn sleigh through pines, a cabin with smoke curling from the chimney, a kitchen baking cookies, a cat asleep under the tree and carolers on a doorstep.",
+            "style": "christmas",
+            "complexity": "medium",
+            "title": "A Cozy Christmas"
+          },
+          "why": "Adult colorists want a cozy, nostalgic holiday mood, and the cozy Christmas niche sells strongly every November."
+        },
+        {
+          "name": "Christmas ornament and snowflake mandalas",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Forty intricate festive designs: snowflake mandalas, round glass baubles filled with lace patterns, poinsettia wreaths, holly and mistletoe rings, a star of Bethlehem mandala, ornate Christmas trees made of swirls, gingerbread houses with gingham and icing detail, patterned reindeer, candle and pinecone wreaths and a nutcracker soldier with filigree, each a different design.",
+            "style": "christmas",
+            "complexity": "hard"
+          },
+          "why": "Mandala lovers buy a holiday edition every year, and an intricate Christmas book makes a premium gift for adult colorists."
+        }
+      ]
+    },
+    {
+      "slug": "halloween-coloring-book-prompts",
+      "title": "Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy",
+      "metaDescription": "Halloween coloring book prompts: spooky-cute pages for kids, a trick-or-treat adventure and a spooky-cozy book for adults. Nothing gory.",
+      "intro": "Halloween coloring books sell from September through October to parents, teachers and adults who love spooky-cozy style. These Halloween coloring book prompts keep everything friendly: smiling pumpkins for little ones, a trick-or-treat night for school-age kids, and a candlelit, witchy, spooky-cozy book for teens and adults. No gore, no scary faces, just the fun side of the season.",
+      "keywords": [
+        "halloween coloring book prompts",
+        "halloween coloring book for kids",
+        "spooky cute coloring book",
+        "spooky cozy coloring book for adults",
+        "halloween coloring pages",
+        "halloween coloring book for toddlers",
+        "cute halloween coloring book"
+      ],
+      "tips": [
+        "Keep ghosts and monsters smiling for kids; spooky-cute sells, scary returns.",
+        "For adults, 'spooky-cozy' (witch cottages, candles, black cats, apothecary shelves) outsells horror on KDP.",
+        "Publish by early September so the book is indexed before the October rush."
+      ],
+      "prompts": [
+        {
+          "name": "Spooky-cute Halloween for little kids",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty friendly Halloween pictures: a smiling jack-o'-lantern, a little ghost holding a lollipop, a black cat in a witch hat, a happy bat, a candy bucket full of treats, an owl on a crescent moon, a friendly monster with one tooth, a pumpkin patch, a scarecrow waving, a spider spinning a heart web, a mummy cat and a kid in a dinosaur costume.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "theme": "Halloween",
+            "title": "Spooky Cute Halloween"
+          },
+          "why": "Parents and preschool teachers want Halloween fun with nothing frightening, and simple shapes suit ages 3 to 6."
+        },
+        {
+          "name": "Trick-or-treat night adventure",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty-two pages of a fun Halloween night: kids in costumes trick-or-treating door to door, a haunted house full of friendly ghosts, a monster dance party, a witch flying past a full moon, bobbing for apples, carving pumpkins at the kitchen table, a costume parade at school, a vampire bat sharing candy, a skeleton band playing music and a cozy candy swap in pajamas.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "Halloween"
+          },
+          "why": "School-age kids love costume and party scenes, and parents want a Halloween book that feels exciting without being scary."
+        },
+        {
+          "name": "Spooky-cozy witchy book for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty spooky-cozy scenes: a witch's cottage kitchen with bubbling cauldron and potion bottles, a candlelit reading nook with a black cat, a pumpkin patch at dusk, apothecary shelves of jars and dried herbs, a mushroom-ringed cabin in the woods, crows on a garden fence, a tea party for ghosts, a broom by the fireplace, a moonlit greenhouse and a porch stacked with pumpkins and lanterns.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "Halloween",
+            "title": "Spooky Cozy Evenings"
+          },
+          "why": "Teens and adults who love the cozy-witchy aesthetic are one of KDP's fastest-growing seasonal audiences, and the mood sells beyond October."
+        }
+      ]
+    },
+    {
+      "slug": "easter-spring-coloring-book-prompts",
+      "title": "Easter & Spring Coloring Book Prompts",
+      "metaDescription": "Easter and spring coloring book prompts: bunnies and chicks for toddlers, egg-hunt scenes for kids and folk-art Easter egg designs for adults.",
+      "intro": "Easter and spring coloring books are basket fillers: parents, grandparents and teachers buy them in March and April for little ones, and adults pick up patterned egg and floral books for the season. These Easter and spring coloring book prompts give you a toddler book, a scene-based book for school-age kids and an intricate decorated-egg book for adult colorists.",
+      "keywords": [
+        "easter coloring book prompts",
+        "easter coloring book for kids",
+        "spring coloring book",
+        "easter basket stuffers coloring book",
+        "easter coloring pages for toddlers",
+        "easter egg coloring pages",
+        "spring coloring pages for kids"
+      ],
+      "tips": [
+        "Market Easter books as basket stuffers; it is the phrase gift buyers search.",
+        "Mix Easter and general spring scenes (rain, gardens, baby animals) so the book sells beyond Easter week.",
+        "For adults, folk-art egg patterns and spring florals give a seasonal twist on the mandala niche."
+      ],
+      "prompts": [
+        {
+          "name": "Bunnies, chicks and eggs for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty simple spring and Easter pictures: a bunny holding a big egg, a fluffy chick hatching from its shell, an Easter basket full of eggs, a lamb in the grass, a duckling in a puddle, tulips in a pot, a carrot patch, a butterfly, a bunny with a spring bonnet, a nest with three eggs, a lily, a caterpillar on a leaf and a big decorated egg with stripes and dots.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "Easter",
+            "title": "Hoppy Easter Coloring Book"
+          },
+          "why": "Parents and grandparents buy simple Easter books as basket stuffers for toddlers, a dependable spring KDP seller."
+        },
+        {
+          "name": "Egg hunts and spring adventures",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty-two springtime scenes: kids on an Easter egg hunt in the garden, a bunny family painting eggs, a picnic under cherry blossoms, splashing in puddles with umbrellas and rain boots, flying kites on a windy hill, planting seeds, a bird building a nest, a farm with newborn lambs and calves, a spring parade with bonnets and a basket race in the park.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "Easter and spring"
+          },
+          "why": "Teachers and parents want spring-break activities with real scenes kids recognise, and the book stays relevant all season."
+        },
+        {
+          "name": "Folk-art Easter egg designs for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Forty decorated Easter eggs and spring patterns: eggs covered in folk-art florals, Ukrainian-style geometric eggs, lace-patterned eggs on stands, an egg mandala of tulips, eggs in a woven basket, a bunny made of paisley, a wreath of daffodils and eggs, spring birds with patterned wings, a lamb with a fleece of swirls and a cherry blossom branch with patterned eggs hanging from it.",
+            "style": "mandala_abstract",
+            "complexity": "hard",
+            "theme": "Easter"
+          },
+          "why": "Adult colorists want a seasonal pattern book for spring, and decorated eggs bring the mandala audience an Easter reason to buy."
+        }
+      ]
+    },
+    {
+      "slug": "valentines-day-coloring-book-prompts",
+      "title": "Valentine's Day Coloring Book Prompts",
+      "metaDescription": "Valentine's Day coloring book prompts: cute animals with hearts for toddlers, friendship pages for the classroom and romantic designs for adults.",
+      "intro": "Valentine's Day coloring books are a quick, high-volume seasonal sale: parents add them to valentine baskets, teachers hand them out in class, and adults buy romantic pattern books for themselves or a partner. These Valentine's Day coloring book prompts keep the kids' books about friendship and kindness, and give adults hearts, roses and love birds in rich detail.",
+      "keywords": [
+        "valentines day coloring book prompts",
+        "valentines day coloring book for kids",
+        "valentine coloring pages",
+        "valentines coloring book for toddlers",
+        "heart coloring pages",
+        "valentines coloring book for adults",
+        "love coloring book"
+      ],
+      "tips": [
+        "For kids, frame Valentine's Day around friendship and kindness; it suits classrooms and every family.",
+        "Animal pairs (bears hugging, otters holding hands) are the most popular kids' Valentine subjects.",
+        "Publish in early January; the sales window closes on February 14."
+      ],
+      "prompts": [
+        {
+          "name": "Cute animals with hearts for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty sweet Valentine pictures: a teddy bear hugging a big heart, two otters holding hands, a puppy with a heart balloon, a kitten in a basket of hearts, a heart-shaped cupcake, a penguin giving a flower, a bunny carrying a heart envelope, a llama with heart sunglasses, a ladybug with heart spots, a bee on a rose and a sloth hugging a heart pillow.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "theme": "Valentine's Day"
+          },
+          "why": "Parents fill valentine baskets with toddler coloring books, and cute animal pairs are the bestselling subject in this niche."
+        },
+        {
+          "name": "Friendship valentines for the classroom",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Twenty-eight Valentine pages about friendship and kindness: kids making heart cards at a table, a classroom valentine mailbox, two friends sharing a sandwich, a heart-shaped kite, friends on a seesaw, baking heart cookies with grandma, a robot with a heart in its chest, a dinosaur giving flowers, a hot-air balloon of hearts and a picnic with heart sandwiches.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "Valentine's Day"
+          },
+          "why": "Teachers and parents want an inclusive Valentine's book about friendship rather than romance, ideal for class parties."
+        },
+        {
+          "name": "Romantic hearts and roses for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty romantic designs: heart mandalas, roses climbing a trellis, love birds on a branch, an antique locket and key, a hot-air balloon made of hearts over a city, a teacup overflowing with roses, a vintage bicycle with a flower basket, swans on a lake forming a heart, heart-shaped wreaths of peonies and a Paris-style café table for two.",
+            "style": "inspirational",
+            "complexity": "medium",
+            "theme": "Valentine's Day"
+          },
+          "why": "Adult colorists and couples buy romantic pattern books as Valentine gifts, and hearts and roses are evergreen searches."
+        }
+      ]
+    },
+    {
+      "slug": "autumn-thanksgiving-coloring-book-prompts",
+      "title": "Autumn & Thanksgiving Coloring Book Prompts",
+      "metaDescription": "Autumn and Thanksgiving coloring book prompts: fall leaves and pumpkins for toddlers, a family feast for kids and cozy autumn scenes for adults.",
+      "intro": "Autumn and Thanksgiving coloring books sell from September to late November: parents keep kids busy at the holiday table, teachers use them in class, and adults love the cozy fall mood. These autumn and Thanksgiving coloring book prompts include a simple fall book for toddlers, a Thanksgiving gratitude book for kids and a cozy autumn book for teens and adults.",
+      "keywords": [
+        "thanksgiving coloring book prompts",
+        "autumn coloring book",
+        "fall coloring book for adults",
+        "thanksgiving coloring book for kids",
+        "fall coloring pages for kids",
+        "cozy autumn coloring book",
+        "harvest coloring pages"
+      ],
+      "tips": [
+        "Pair Thanksgiving with general autumn scenes so the book sells from September, not just one week in November.",
+        "Gratitude moments (sharing food, helping cook, family around a table) make the kids' book feel meaningful.",
+        "Market the kids' book as a 'Thanksgiving table activity'; parents search for something to keep kids busy before dinner."
+      ],
+      "prompts": [
+        {
+          "name": "Fall leaves and pumpkins for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty simple autumn pictures: a big maple leaf, an acorn with a cap, a squirrel holding a nut, a pumpkin with a curly vine, a scarecrow in a field, a basket of apples, a smiling turkey, a hedgehog in a pile of leaves, a sunflower, a corn cob, a pair of rain boots, a hot-cider mug, an owl in a tree and a wheelbarrow of gourds.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "theme": "Autumn"
+          },
+          "why": "Parents and preschool teachers want an easy fall theme for September through November, with big shapes for small hands."
+        },
+        {
+          "name": "Thanksgiving feast and gratitude for kids",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty Thanksgiving pages: a family around a feast table, kids helping roll pie crust, a turkey and pumpkin pie on the counter, a harvest parade with a giant balloon float of a turkey, picking apples at an orchard, a hayride at a farm, friends sharing a picnic, a cornucopia of vegetables, a kid drawing a thank-you card, grandparents arriving at the door and a football game in the backyard.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "Thanksgiving"
+          },
+          "why": "Parents buy Thanksgiving books to keep kids happy at the holiday table, and gratitude scenes appeal to teachers and homeschoolers."
+        },
+        {
+          "name": "Cozy autumn days for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty cozy fall scenes: a farm stand piled with pumpkins and squash, an apple orchard with ladders and baskets, a cabin porch with blankets and cider, a forest path of falling leaves, a knitted sweater and a stack of books, a mushroom-covered log, a harvest wreath on a door, a pie cooling on a windowsill, a covered bridge over a stream and a fox in golden leaves.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "theme": "Autumn",
+            "title": "Cozy Autumn"
+          },
+          "why": "Teens and adults who love fall aesthetics buy cozy autumn books from September onward, ahead of the Halloween and Thanksgiving rush."
+        }
+      ]
+    },
+    {
+      "slug": "alphabet-abc-coloring-book-prompts",
+      "title": "Alphabet ABC Coloring Book Prompts for Toddlers & Preschool",
+      "metaDescription": "Alphabet coloring book prompts: A to Z animals, A to Z foods and A to Z vehicles, one letter per page with its word, for toddlers and preschool.",
+      "intro": "Alphabet coloring books are a must-have for parents, preschool teachers and homeschoolers teaching letter recognition, and they sell steadily all year on Amazon KDP. These ABC coloring book prompts list every letter from A to Z with its word, so each of the 26 pages shows one letter and one clear picture. Choose animals, foods or vehicles depending on what the child loves.",
+      "keywords": [
+        "alphabet coloring book prompts",
+        "abc coloring book for toddlers",
+        "alphabet coloring pages",
+        "a to z coloring book",
+        "abc animals coloring book",
+        "preschool alphabet coloring book",
+        "letter coloring pages for kids"
+      ],
+      "tips": [
+        "List all 26 letters with their word so every page gets exactly one letter; set the page count to 26.",
+        "Pick words a small child can say and recognise; obscure words make the letter harder to learn.",
+        "Sell themed alphabet books as a series (animals, foods, vehicles); parents often buy two or three."
+      ],
+      "prompts": [
+        {
+          "name": "A to Z animals",
+          "ageGroup": "3-6",
+          "numberOfPages": 26,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "An alphabet book of animals, one letter per page, each page showing the letter and one big friendly animal: A alligator, B bear, C cat, D duck, E elephant, F fox, G giraffe, H hippo, I iguana, J jellyfish, K koala, L lion, M monkey, N narwhal, O owl, P penguin, Q quail, R rabbit, S sloth, T turtle, U umbrellabird, V vulture, W whale, X x-ray fish, Y yak, Z zebra.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "title": "ABC Animals Coloring Book",
+            "pageCategory": "concept"
+          },
+          "why": "Parents and preschool teachers buy animal alphabet books more than any other ABC theme, and one animal per letter keeps learning simple."
+        },
+        {
+          "name": "A to Z yummy foods",
+          "ageGroup": "3-6",
+          "numberOfPages": 26,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "An alphabet book of foods, one letter per page with the letter and one big tasty food: A apple, B banana, C carrot, D doughnut, E egg, F fig, G grapes, H honey, I ice cream, J jam, K kiwi, L lemon, M muffin, N noodles, O orange, P pear, Q quiche, R raspberry, S strawberry, T tomato, U upside-down cake, V vegetable soup, W watermelon, X xiao long bao dumplings, Y yogurt, Z zucchini.",
+            "style": "food_fun",
+            "complexity": "easy",
+            "pageCategory": "concept"
+          },
+          "why": "Parents of picky eaters and early-years teachers like a food alphabet that pairs letter learning with naming fruits and vegetables."
+        },
+        {
+          "name": "A to Z things that go",
+          "ageGroup": "6-9",
+          "numberOfPages": 26,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "An alphabet book of vehicles, one letter per page, each showing the letter and the vehicle at work in a simple scene: A ambulance, B bulldozer, C cement mixer, D dump truck, E excavator, F fire truck, G garbage truck, H helicopter, I ice cream truck, J jet plane, K kayak, L locomotive, M motorcycle, N narrowboat, O ocean liner, P police car, Q quad bike, R rocket, S submarine, T tractor, U unicycle, V van, W wagon, X xebec sailing ship, Y yacht, Z zeppelin.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "concept"
+          },
+          "why": "Vehicle-loving kids and their parents look for a things-that-go alphabet, and simple working scenes keep it interesting for ages 6 to 9."
+        }
+      ]
+    },
+    {
+      "slug": "numbers-counting-coloring-book-prompts",
+      "title": "Numbers & Counting Coloring Book Prompts for Kids",
+      "metaDescription": "Numbers and counting coloring book prompts: count 1 to 10 farm animals, 1 to 20 everyday objects and 1 to 30 garden things, one number per page.",
+      "intro": "Counting coloring books help toddlers and preschoolers link a number to an amount, and they are a staple for parents, preschool teachers and homeschoolers. These numbers coloring book prompts list every number with the objects to count, so each page shows one number and exactly that many things to color. Pick a toddler 1 to 10 book, a classic 1 to 20 book or a 1 to 30 garden challenge.",
+      "keywords": [
+        "counting coloring book prompts",
+        "numbers coloring book for toddlers",
+        "number coloring pages",
+        "counting coloring pages for preschool",
+        "1 to 20 coloring book",
+        "123 coloring book",
+        "math coloring book for kids"
+      ],
+      "tips": [
+        "List each number with its objects ('7 fish') so every page counts something different; page count equals the last number.",
+        "Use small, separate objects (fish, stars, buttons) for higher numbers so children can count them one by one.",
+        "Start at 1 to 10 for toddlers; go to 20 or 30 only once a child counts confidently."
+      ],
+      "prompts": [
+        {
+          "name": "Count 1 to 10 on the farm",
+          "ageGroup": "3-6",
+          "numberOfPages": 10,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "A counting book on the farm, one number per page showing the number and exactly that many big friendly things to count: 1 cow, 2 pigs, 3 sheep, 4 hens, 5 chicks, 6 ducks, 7 bunnies, 8 eggs, 9 carrots, 10 pumpkins.",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "title": "Count on the Farm",
+            "pageCategory": "concept"
+          },
+          "why": "Parents of toddlers want a first counting book with big, simple farm animals that are easy to count and name. Its short length is great for home printing."
+        },
+        {
+          "name": "Count 1 to 20 everyday things",
+          "ageGroup": "3-6",
+          "numberOfPages": 20,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A counting book from 1 to 20, one number per page showing the number and exactly that many objects: 1 sun, 2 owls, 3 ladybugs, 4 apples, 5 ducks, 6 balloons, 7 fish, 8 stars, 9 cupcakes, 10 butterflies, 11 strawberries, 12 seashells, 13 snails, 14 leaves, 15 bubbles, 16 buttons, 17 raindrops, 18 cookies, 19 flowers, 20 marbles.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "pageCategory": "concept"
+          },
+          "why": "Preschool teachers and homeschoolers use 1 to 20 counting books for number sense, and varied everyday objects keep each page fresh. Its short length is great for home printing."
+        },
+        {
+          "name": "Count 1 to 30 in the garden",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A garden counting book from 1 to 30, one number per page with the number and exactly that many things in a garden scene: 1 snail, 2 worms, 3 bees, 4 tulips, 5 ladybugs, 6 acorns, 7 mushrooms, 8 butterflies, 9 pebbles, 10 carrots, 11 peas, 12 daisies, 13 ants, 14 radishes, 15 seeds, 16 apples, 17 leaves, 18 strawberries, 19 cherries, 20 raindrops, 21 clover, 22 berries, 23 dewdrops, 24 blossoms, 25 fireflies, 26 petals, 27 beans, 28 grapes, 29 dots on a mushroom, 30 stars.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "concept"
+          },
+          "why": "Homeschoolers and early-grade teachers want a counting challenge beyond 20, and a garden setting turns each count into a small scene."
+        }
+      ]
+    },
+    {
+      "slug": "shapes-and-colors-coloring-book-prompts",
+      "title": "Shapes and Colors Coloring Book Prompts for Preschool",
+      "metaDescription": "Shapes and colors coloring book prompts: 2D shapes, color names and 3D solids, each paired with a real object, one per page for preschool.",
+      "intro": "Shapes and colors are among the first concepts children learn, so these coloring books are favourites with parents, preschool teachers and homeschoolers. These shapes and colors coloring book prompts pair every shape or color with a real object a child already knows, one per page, so learning sticks. There is a 2D shapes book, a colors book and a 3D solids book for early graders.",
+      "keywords": [
+        "shapes coloring book prompts",
+        "shapes coloring pages for preschool",
+        "colors coloring book for toddlers",
+        "learning colors coloring book",
+        "3d shapes coloring pages",
+        "shapes and colors coloring book",
+        "preschool learning coloring book"
+      ],
+      "tips": [
+        "Pair each shape with an everyday object (circle as a clock); kids learn faster when they spot shapes in real life.",
+        "In a colors book, give each color two familiar objects so the child knows what color to use without reading.",
+        "List every shape or color in the brief and set the page count to match, so nothing is repeated or skipped."
+      ],
+      "prompts": [
+        {
+          "name": "2D shapes in everyday things",
+          "ageGroup": "3-6",
+          "numberOfPages": 16,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A shapes book, one shape per page, each showing the big shape and a real object in that shape: circle (a clock), square (a window), triangle (a slice of pizza), rectangle (a door), oval (an egg), star (a starfish), heart (a heart balloon), diamond (a kite), pentagon (a birdhouse), hexagon (a honeycomb), octagon (a garden gazebo seen from above), crescent (the moon), semicircle (a watermelon slice), trapezoid (a sailboat hull), parallelogram (a slanted eraser), cross (a first-aid kit).",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "title": "My Big Book of Shapes",
+            "pageCategory": "concept"
+          },
+          "why": "Preschool teachers and parents use shapes books to teach shape names, and pairing each with a familiar object makes it stick. Its short length is great for home printing."
+        },
+        {
+          "name": "Learn your colors",
+          "ageGroup": "3-6",
+          "numberOfPages": 12,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "description": "A colors book, one color per page with the color's name and two things that are usually that color: red (a strawberry and a fire truck), orange (a carrot and a goldfish), yellow (the sun and a banana), green (a frog and a leaf), blue (a whale and the sea), purple (grapes and an eggplant), pink (a flamingo and a pig), brown (a bear and a tree trunk), black (a crow and a top hat), white (a snowman and a cloud), gray (an elephant and a rain cloud), rainbow (a rainbow over a meadow).",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "pageCategory": "concept"
+          },
+          "why": "Parents of toddlers want a first colors book where the child colors each page in its named color, learning by doing. Its short length is great for home printing."
+        },
+        {
+          "name": "3D shapes for early graders",
+          "ageGroup": "6-9",
+          "numberOfPages": 10,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A 3D shapes book, one solid per page, each showing the solid and a real object with that shape: sphere (a beach ball), cube (a toy block), cone (an ice cream cone), cylinder (a drum), square pyramid (the pyramids of Giza), rectangular prism (a gift box), triangular prism (a tent), torus (a doughnut), hemisphere (a bowl), hexagonal prism (a pencil).",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "concept"
+          },
+          "why": "Homeschoolers and first-grade teachers need 3D shape practice that matches the math curriculum, with real-world examples. Its short length is great for home printing."
+        }
+      ]
+    },
+    {
+      "slug": "good-habits-manners-coloring-book-prompts",
+      "title": "Good Habits & Manners Coloring Book Prompts for Kids",
+      "metaDescription": "Good habits and manners coloring book prompts: daily routines for toddlers, kind manners for kids and responsibility habits for tweens.",
+      "intro": "Good habits coloring books turn daily routines and manners into something children want to do, which is why parents, preschool teachers and homeschoolers keep buying them. These good habits and manners coloring book prompts list one habit per page, each shown as a clear picture of a child doing it, with the habit as a caption. Choose daily routines for toddlers, everyday manners for kids or responsibility habits for tweens.",
+      "keywords": [
+        "good habits coloring book prompts",
+        "manners coloring book for kids",
+        "good manners coloring pages",
+        "healthy habits coloring book",
+        "daily routine coloring pages for toddlers",
+        "social skills coloring book",
+        "responsibility coloring pages for kids"
+      ],
+      "tips": [
+        "Show one child doing one habit per page; the caption then reinforces exactly what the picture shows.",
+        "Phrase habits as actions ('washing hands', 'saying thank you') so each page is easy to draw and to talk about.",
+        "Use the book as a routine chart: color the habit on the day the child practises it."
+      ],
+      "prompts": [
+        {
+          "name": "Daily routines for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 16,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A good habits book, one habit per page, each showing a happy child doing it: brushing teeth, washing hands, bath time (a child in pajamas with a towel and a rubber duck), getting dressed by myself, making my bed, eating vegetables, drinking water, tidying up toys, putting on my shoes, using the potty (a proud, fully dressed child standing next to it), combing my hair, putting dirty clothes in the basket, eating breakfast, wearing a sun hat, buckling my seat belt, going to bed on time.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "title": "I Can Do It! Good Habits",
+            "pageCategory": "instructional"
+          },
+          "why": "Parents teaching routines and potty-age independence buy habit books to make daily tasks fun, a steady KDP seller. Its short length is great for home printing."
+        },
+        {
+          "name": "Everyday manners at home and school",
+          "ageGroup": "6-9",
+          "numberOfPages": 18,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A manners book, one good manner per page, each showing kids practising it at home or at school: saying please, saying thank you, sharing toys, taking turns, waiting in line, saying sorry, holding the door, using an indoor voice, covering a cough or sneeze, listening when others talk, raising my hand in class, saying hello to a new friend, chewing with my mouth closed, asking before borrowing, helping someone who fell, cleaning up after snack time, being gentle with pets, including a friend in a game.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "instructional"
+          },
+          "why": "Teachers and parents use manners books for social skills lessons, and school and home scenes make each manner relatable. Its short length is great for home printing."
+        },
+        {
+          "name": "Responsibility habits for tweens",
+          "ageGroup": "9-13",
+          "numberOfPages": 20,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A responsibility habits book, one habit per page, each showing a tween doing it in a real setting: feeding the pet, packing my school bag, helping cook dinner, sorting the recycling, saving coins in a jar, reading every day, doing homework before play, exercising outdoors, turning off lights, watering the plants, folding laundry, keeping my room tidy, setting an alarm, taking a screen break, helping a younger sibling, planting a garden, wearing a bike helmet, writing a to-do list, packing a healthy lunch, getting enough sleep.",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "instructional"
+          },
+          "why": "Homeschoolers and parents of tweens want a grown-up habits book about chores, money and self-care, not toddler routines. Its short length is great for home printing."
+        }
+      ]
+    },
+    {
+      "slug": "feelings-emotions-coloring-book-prompts",
+      "title": "Feelings & Emotions Coloring Book Prompts for Kids",
+      "metaDescription": "Feelings and emotions coloring book prompts for kids: name each feeling with a real situation, plus calm-down strategies for social-emotional learning.",
+      "intro": "Feelings coloring books give children words for what they feel, and they are a go-to resource for parents, preschool teachers, school counsellors and homeschoolers doing social-emotional learning. These feelings and emotions coloring book prompts list each feeling with a situation that causes it, one per page, so a child can connect the word to a moment. A third book teaches calm-down strategies.",
+      "keywords": [
+        "feelings coloring book prompts",
+        "emotions coloring book for kids",
+        "feelings coloring pages",
+        "social emotional learning coloring book",
+        "sel coloring pages",
+        "calm down coloring book for kids",
+        "emotions coloring pages for preschool"
+      ],
+      "tips": [
+        "Pair every feeling with a situation; 'sad because the balloon floated away' teaches more than a sad face.",
+        "Use animal characters for little ones; they let a child talk about a feeling without it being about them.",
+        "Add a calm-down strategies book to a feelings book; counsellors and parents often buy them together."
+      ],
+      "prompts": [
+        {
+          "name": "Feelings with animal friends",
+          "ageGroup": "3-6",
+          "numberOfPages": 12,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A feelings book, one feeling per page, each shown by an animal in a simple situation: happy (a puppy with a new ball), sad (a bunny whose balloon floated away), angry (a bear whose tower got knocked down), scared (a kitten hearing thunder), surprised (a fox opening a present), excited (a penguin before a sled ride), shy (a mouse meeting new friends), proud (a duckling who learned to swim), tired (a koala after a long day), calm (a turtle floating on a pond), lonely (an owl on a branch by itself), silly (a monkey wearing a pot as a hat).",
+            "style": "cute_animals",
+            "complexity": "easy",
+            "title": "How Do You Feel?",
+            "pageCategory": "instructional"
+          },
+          "why": "Preschool teachers and parents use animal-led feelings books to start conversations about emotions with young children. Its short length is great for home printing."
+        },
+        {
+          "name": "Big feelings in real situations",
+          "ageGroup": "9-13",
+          "numberOfPages": 14,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A feelings book for older kids, one feeling per page, each shown in a real-life moment: frustrated (a puzzle piece won't fit), jealous (a friend's new bike), nervous (first day at a new school), disappointed (a rained-out picnic), embarrassed (tripping in front of the class), grateful (a neighbour fixing a bike), brave (jumping off the diving board), worried (a pet at the vet), hopeful (planting a seed), confused (a tricky math problem), left out (watching from the sidelines), overwhelmed (a pile of homework), relieved (finding a lost dog), content (reading in a hammock).",
+            "style": "general_coloring",
+            "complexity": "medium",
+            "pageCategory": "instructional"
+          },
+          "why": "School counsellors and parents of tweens want SEL pages that name harder feelings in situations kids actually face. Its short length is great for home printing."
+        },
+        {
+          "name": "Calm-down strategies",
+          "ageGroup": "6-9",
+          "numberOfPages": 14,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "A calm-down book, one strategy per page, each showing a child using it when upset: take five deep breaths, smell the flower and blow out a pretend birthday candle, count to ten, hug a stuffed animal, squeeze a stress ball, draw how I feel, go for a walk, drink a glass of water, ask a grown-up for a hug, find a quiet cozy corner, stretch like a cat, listen to calm music, talk about my feelings, think of a happy place.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "pageCategory": "instructional"
+          },
+          "why": "Teachers building a calm corner and parents of kids with big emotions buy coping-skills books to practise strategies before they are needed. Its short length is great for home printing."
+        }
+      ]
+    },
+    {
+      "slug": "greek-mythology-coloring-book-prompts",
+      "title": "Greek Mythology Coloring Book Prompts",
+      "metaDescription": "Greek mythology coloring book prompts: gods, heroes and legendary creatures for teens and adults, a mythical bestiary and a version for kids.",
+      "intro": "Greek mythology coloring books appeal to teens and adults who love epic heroes and monsters, to homeschoolers teaching ancient history, and to kids who devour myth stories. Because the myths are public domain, they are a safe and rich niche for KDP sellers. These Greek mythology coloring book prompts include a detailed gods-and-heroes edition, a bestiary of legendary creatures and a friendly retelling for kids.",
+      "keywords": [
+        "greek mythology coloring book prompts",
+        "greek mythology coloring book for adults",
+        "greek gods coloring pages",
+        "mythology coloring book",
+        "mythical creatures coloring book",
+        "greek mythology coloring book for kids",
+        "ancient greece coloring pages"
+      ],
+      "tips": [
+        "Name the exact myth moment (Icarus falling, Perseus with the mirrored shield) rather than just the god; scenes sell better than portraits.",
+        "Keep the monsters dramatic but not gory; Medusa and the Minotaur work well without any blood.",
+        "Homeschoolers pair a mythology coloring book with ancient history units, so mention that use in your listing."
+      ],
+      "prompts": [
+        {
+          "name": "Gods and heroes of Olympus for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Forty dramatic scenes from Greek myths: Zeus on Mount Olympus with thunderbolts, Poseidon rising from the sea with his trident, Athena and her owl, Perseus with his mirrored shield facing Medusa, Pegasus in flight, Theseus in the Minotaur's labyrinth, Icarus falling as the sun melts his wax wings, Persephone in the underworld garden, Odysseus tied to the mast past the Sirens, the Trojan horse and Prometheus bringing fire.",
+            "style": "mythology",
+            "complexity": "hard",
+            "title": "Myths of Olympus"
+          },
+          "why": "Teen and adult fans of myth and fantasy want epic, detailed scenes, and public-domain myths make it a safe KDP niche."
+        },
+        {
+          "name": "Legendary creatures bestiary",
+          "ageGroup": "9-13",
+          "numberOfPages": 36,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty-six legendary creatures from Greek myth, each in its home: the three-headed dog Cerberus at the gates of the underworld, the many-headed Hydra in a swamp, the Sphinx on a rock outside Thebes, the Chimera, a centaur archer in a forest, a cyclops by his cave, harpies in a storm, Scylla in a sea strait, the Nemean lion, the golden-fleeced ram, the bronze giant Talos guarding Crete, the dragon Ladon coiled round the golden apple tree, Cetus the sea monster, the Stymphalian birds and a hippocamp, half horse and half fish.",
+            "style": "mythology",
+            "complexity": "medium",
+            "title": "Beasts of Greek Myth"
+          },
+          "why": "Tweens who love monsters and fantasy books, and homeschoolers studying ancient Greece, both buy mythical-creature bestiaries."
+        },
+        {
+          "name": "Greek myths for kids",
+          "ageGroup": "6-9",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty kid-friendly Greek myth pages: Pegasus flying over the sea, Athena's wise owl, Hercules holding up the sky for Atlas, the Trojan horse rolling into the city, Pandora's jar, with little Hope still glowing inside, Icarus and his father with feathered wings, King Midas turning an apple to gold, Arachne at her loom, Demeter in a wheat field and Atalanta racing Hippomenes as he rolls golden apples.",
+            "style": "mythology",
+            "complexity": "medium"
+          },
+          "why": "Parents and teachers want a gentle way into the classic myths, and adventure scenes without scary monsters suit ages 6 to 9."
+        }
+      ]
+    },
+    {
+      "slug": "bible-story-coloring-book-prompts",
+      "title": "Bible Story Coloring Book Prompts for Kids & Adults",
+      "metaDescription": "Bible story coloring book prompts: Noah's Ark, David and Goliath, the Good Samaritan and more, for toddlers, Sunday school and adult colorists.",
+      "intro": "Bible story coloring books are a steady seller for Christian parents, Sunday school teachers, church groups and homeschoolers, with peaks at Easter and Christmas. These Bible story coloring book prompts draw on well-known public-domain stories, shown respectfully and warmly: a simple first book for toddlers, a story-by-story book for Sunday school, and a detailed scripture-inspired book for adult colorists.",
+      "keywords": [
+        "bible story coloring book prompts",
+        "bible coloring book for kids",
+        "christian coloring book",
+        "bible coloring pages",
+        "sunday school coloring pages",
+        "bible coloring book for adults",
+        "noahs ark coloring pages"
+      ],
+      "tips": [
+        "Name the exact story moment (Zacchaeus up the sycamore tree, the walls of Jericho falling) so each page is recognisable.",
+        "Keep the kids' book gentle; show David and Goliath before the fight, not after.",
+        "Sunday school teachers buy in bulk; a story-per-page book that follows the Bible's order is easy to teach from."
+      ],
+      "prompts": [
+        {
+          "name": "My first Bible stories for toddlers",
+          "ageGroup": "3-6",
+          "numberOfPages": 30,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Thirty simple, gentle Bible story pictures for little ones: Noah's Ark with animals walking in two by two, a rainbow over the ark, baby Moses in a basket among the reeds, Jonah and the big fish, young David with his sheep, Daniel calm among friendly lions, baby Jesus in the manger, Jesus welcoming children, a boy sharing five loaves and two fish and a lost sheep found.",
+            "style": "general_coloring",
+            "complexity": "easy",
+            "title": "My First Bible Stories"
+          },
+          "why": "Christian parents and nursery Sunday school teachers want a first Bible book with simple, gentle pictures toddlers can color."
+        },
+        {
+          "name": "Bible stories for Sunday school",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Forty Bible stories in order, one scene per page: creation of the animals, Adam naming the animals in the garden, shown from the shoulders up among tall plants, Noah's Ark, the Tower of Babel, Joseph's colorful coat, baby Moses in the reeds, Moses parting the Red Sea, the walls of Jericho falling, young David facing Goliath with his sling, Jonah and the big fish, Daniel in the lions' den, Queen Esther before the king, the nativity, Jesus calming the storm, the Good Samaritan helping a traveller, the prodigal son's welcome home, Zacchaeus in the sycamore tree and the empty tomb.",
+            "style": "general_coloring",
+            "complexity": "medium"
+          },
+          "why": "Sunday school teachers and Christian homeschoolers buy story-per-page books that follow the Bible's order, often in bulk for a class."
+        },
+        {
+          "name": "Scripture-inspired scenes for adults",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "description": "Forty detailed, reverent scenes inspired by scripture: the Garden of Eden in full bloom, the wolf and the lamb resting together, as Isaiah foretold, a dove with an olive branch over the ark, lilies of the field, the vine and the branches, the good shepherd carrying a lamb, a stained-glass style nativity, Ruth gleaning wheat in the fields, the burning bush, the feeding of the five thousand by the sea and a sunrise over the empty tomb.",
+            "style": "inspirational",
+            "complexity": "hard",
+            "title": "Scenes of Faith"
+          },
+          "why": "Christian adult colorists and church gift buyers want a devotional coloring book with beautiful detail, popular at Easter and Christmas."
+        }
+      ]
+    }
+  ]
+}

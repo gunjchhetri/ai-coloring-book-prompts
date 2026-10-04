@@ -1,0 +1,665 @@
+{
+  "category": "illustrated-story-books",
+  "pages": [
+    {
+      "slug": "bedtime-story-book-prompts",
+      "title": "Bedtime Story Book Prompts for AI Picture Books",
+      "metaDescription": "Bedtime story book prompts for picture books that slow toward sleep: a hedgehog in a moonflower garden, ten restless sheep and a boy who borrows the moon.",
+      "intro": "A good bedtime story book slows down as it goes, until the last page is almost a whisper. These prompts give InkChamps a calm premise, a named hero and a sleepy ending, and it writes and illustrates the whole picture book. They suit parents who want a bedtime story of their own and KDP sellers building a cozy picture-book list.",
+      "keywords": [
+        "AI bedtime story book",
+        "bedtime story ideas for kids",
+        "children's bedtime picture book",
+        "AI picture book generator",
+        "sleepy story for toddlers",
+        "bedtime story prompts"
+      ],
+      "tips": [
+        "End every bedtime story with the hero asleep or nearly asleep; the book should land where the child is.",
+        "Soft styles like colored pencil or paper cut-out suit bedtime better than bold comic looks.",
+        "KDP paperbacks need at least 24 pages; a 16-page version works well for home printing."
+      ],
+      "prompts": [
+        {
+          "name": "Bramble and the moonflowers",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "The Night Gardener",
+            "theme": "A calm night-time garden",
+            "style": "colored_pencil_sketch",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Every night after the village falls asleep, Mrs. Fernsby, a tall old badger in a patched blue apron, waters the moonflowers that open only in the dark. Tonight her helper, a sleepy hedgehog named Bramble with a tiny lantern, wants to stay up to see them bloom. He yawns through every chore, but the very last flower opens just for him. Bramble curls up among the glowing petals, and Mrs. Fernsby carries him home to bed. A hushed, slow wind-down story."
+          },
+          "why": "Parents get a quiet, beautifully lit story that slows toward sleep, the exact mood a bedtime book has to hold."
+        },
+        {
+          "name": "Ten sheep who would not sleep",
+          "ageGroup": "3-6",
+          "numberOfPages": 16,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Ten Sheep Who Would Not Sleep",
+            "theme": "Counting to ten at bedtime",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "text_in_image",
+            "storyPrompt": "Pim, a little girl in yellow rain boots and a nightgown, can't fall asleep, so she tries counting sheep. But her ten sheep won't jump the fence: Clover wants a snack, Wooly lost her bell, the twins want one more game of tag and Big Bertha is scared of the dark. Pim helps each one settle, counting up from one to ten, until all ten sheep snore in a woolly pile. Then Pim yawns, climbs onto the softest sheep and falls asleep too. Gentle repetition with a giggly ending."
+          },
+          "why": "Toddlers learn to count to ten inside a bedtime routine, and short lettered pages suit parents printing at home."
+        },
+        {
+          "name": "The boy who borrowed the moon",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Boy Who Borrowed the Moon",
+            "theme": "Being afraid of the dark",
+            "style": "paper_cutout_collage",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Arlo, a boy with messy red hair who wears his blanket as a cape, is scared of the dark. One night he climbs a very tall ladder and borrows the moon as his night-light. But without the moon the owls can't hunt, the tide forgets to come in and the fireflies get lost. Arlo sees the night needs its moon more than he does. He carries it back up the ladder, and from then on the moon slips a silver beam through his window every night to keep him company."
+          },
+          "why": "Early readers who fear the dark get a story that answers the fear with wonder, a classic shape for a KDP bedtime title."
+        }
+      ]
+    },
+    {
+      "slug": "friendship-story-book-prompts",
+      "title": "Friendship Story Book Prompts for Children's Picture Books",
+      "metaDescription": "Friendship story book prompts for children's picture books: a tortoise and a duckling, a clock-shop robot and two balcony neighbors who trade drawings.",
+      "intro": "Friendship stories are the backbone of children's picture books: two characters who don't fit together, a problem, and the moment they realise they need each other. These prompts give InkChamps an odd couple and a turning point, and it writes and illustrates the book. They work for parents talking about making friends, teachers covering social skills and KDP sellers who want evergreen themes.",
+      "keywords": [
+        "friendship story book",
+        "children's book about friendship",
+        "AI picture book about friends",
+        "friendship story ideas for kids",
+        "making friends picture book",
+        "AI children's book generator"
+      ],
+      "tips": [
+        "Make the two friends opposites (slow and fast, quiet and loud) so the story has built-in tension.",
+        "Let the friendship be tested once before the happy ending; it makes the ending earned.",
+        "Give each friend one fixed visual trait so they look the same on every page."
+      ],
+      "prompts": [
+        {
+          "name": "Pebble the tortoise and Dabble the duckling",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Pebble and Dabble",
+            "theme": "Friends who are opposites",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Pebble, a careful tortoise with a moss-green shell, and Dabble, a splashy yellow duckling with one wonky feather, disagree about everything. Pebble likes slow walks; Dabble likes to race. Pebble likes quiet; Dabble quacks all day. When a storm floods the meadow, Dabble can swim but can't find the way home, and Pebble knows every path but can't swim. Dabble paddles while Pebble rides on her back and gives directions. They get home together, and decide being different is the best part."
+          },
+          "why": "Preschoolers see two opposite friends solve a problem together, a gentle lesson parents and teachers read again and again."
+        },
+        {
+          "name": "Cog the clock-shop robot",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Cog Builds a Friend",
+            "theme": "What a friend really is",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Cog, a small rusty robot with one wobbly wheel and a lightbulb antenna, lives alone in a dusty clock-repair shop after the old clockmaker retires. He builds friends out of springs and gears: a teapot dog, a pocket-watch bird, a toaster with a smile. But none of them can talk back. Then Nell, a girl with a toolbox and orange overalls, comes in looking for spare parts. She fixes Cog's wheel; he helps her finish her go-kart. Cog learns a friend isn't something you build. It's someone who listens and helps."
+          },
+          "why": "Kids aged 6-9 love robots, and the story's clear idea of friendship gives parents and teachers something to discuss."
+        },
+        {
+          "name": "Mateo and Hana's balcony pulley",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Notes Across the Street",
+            "theme": "Friendship without shared words",
+            "style": "colored_pencil_sketch",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Mateo, a boy with round glasses, lives on a fourth-floor balcony across a narrow street from Hana, a new girl with a red hair clip who doesn't speak his language yet. One day Mateo strings a rope between the balconies and sends over a drawing in a basket. Hana sends one back. All spring they trade pictures, snacks and paper boats, learning each other's words. When they finally meet at the bakery downstairs, they're too shy to talk, so they draw together on a napkin."
+          },
+          "why": "Teachers and families welcoming newcomers get a tender story about connection across languages, rare on KDP."
+        }
+      ]
+    },
+    {
+      "slug": "bravery-overcoming-fears-story-book-prompts",
+      "title": "Bravery Story Book Prompts: Picture Books About Overcoming Fears",
+      "metaDescription": "Bravery story book prompts about overcoming fears: a monster scared of the dark, a girl and the deep end, and the creaks of an old house at night.",
+      "intro": "Children's fears are real to them, and a picture book about bravery shows that being brave means feeling scared and trying anyway. These prompts tackle the classic fears, the dark, the monster under the bed and the deep end of the pool, with warmth and a little humour. Parents use them to talk through a specific worry, and KDP sellers find steady demand in the emotional-growth niche.",
+      "keywords": [
+        "bravery story book for kids",
+        "overcoming fears picture book",
+        "afraid of the dark book",
+        "monster under the bed story",
+        "AI children's book about courage",
+        "children's book about fear"
+      ],
+      "tips": [
+        "Name the exact fear in the brief (the dark, swimming, a noise at night) so the story meets the child where they are.",
+        "Let the scary thing turn out smaller, sillier or kinder than expected.",
+        "Show bravery as small steps across several pages, not one sudden leap."
+      ],
+      "prompts": [
+        {
+          "name": "The monster under Milo's bed",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "The Monster Under Milo's Bed",
+            "theme": "Fear of monsters at night",
+            "style": "chibi_kawaii",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Milo, a boy in fuzzy dinosaur slippers, hears scratching under his bed. He's sure it's a monster. With his flashlight shaking, he peeks underneath and finds Gus, a small purple monster with one horn, hiding and trembling. Gus is scared of the dark up on top of the bed. Milo shows Gus his night-light and his teddy; Gus shows Milo that the shadows on the wall are just his coat and his kite. They agree to be brave together, and they both sleep with the flashlight on."
+          },
+          "why": "Parents of children scared at night get a funny twist that shrinks the monster, the kind of book kids ask for every night."
+        },
+        {
+          "name": "Nora and the deep end",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Nora and the Deep End",
+            "theme": "Fear of swimming",
+            "style": "paper_cutout_collage",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Nora, a girl with goggles pushed up on her forehead, spends every summer day at the pool but never goes past the rope into the deep end. Her friends jump and splash; Nora sits on the edge. Her grandma, a retired lifeguard in a flowered swim cap, teaches her one small thing each week: blowing bubbles, floating like a starfish, kicking to the wall. On the last day of summer, Nora takes a big breath and jumps. She bobs up laughing, and Grandma is there."
+          },
+          "why": "Kids nervous about swimming see bravery built in small steps, which parents can copy at the real pool."
+        },
+        {
+          "name": "Ivy follows the night noises",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Ivy and the Night Noises",
+            "theme": "Fear of the dark and strange sounds",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "full_page_image",
+            "storyPrompt": "Ivy, a girl with a long yellow scarf, has just moved into a creaky old house by the woods, and at night it's full of noises. Clutching her torch, she sets out to find each one: the clank is the old radiator, the whisper is wind in the chimney, the tapping is a branch on the window and the thump is her cat Pickle chasing a moth. By the last noise, Ivy is more curious than scared. She climbs back into bed and listens to the house hum like a friend."
+          },
+          "why": "Cinematic night-time spreads make the dark look beautiful instead of scary, a good fit for children who have just moved house."
+        }
+      ]
+    },
+    {
+      "slug": "potty-training-story-book-prompts",
+      "title": "Potty Training Story Book Prompts for Toddlers",
+      "metaDescription": "Potty training story book prompts for toddlers: a panda, a dinosaur and a little princess, each with a kind accident page and a proud big-kid ending.",
+      "intro": "A potty training story book makes a tricky stage feel normal and even funny. These prompts follow toddler-sized heroes through the whole journey: trying, waiting, the inevitable accident and the proud first success. Parents read them to their own toddlers, and personalised or themed potty books are a reliable seller on Etsy and KDP.",
+      "keywords": [
+        "potty training book",
+        "potty training story for toddlers",
+        "AI potty training picture book",
+        "toilet training book for kids",
+        "potty book for boys and girls",
+        "toddler potty story"
+      ],
+      "tips": [
+        "Always include one accident and a kind response; it's the page parents most want.",
+        "Keep sentences short and repetitive; this book is read to two- and three-year-olds.",
+        "Lettered-in-art pages work well; KDP needs 24 pages, but 16 is plenty for a home-printed copy."
+      ],
+      "prompts": [
+        {
+          "name": "Momo the panda's big potty day",
+          "ageGroup": "3-6",
+          "numberOfPages": 16,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Momo's Big Potty Day",
+            "theme": "Learning to use the potty",
+            "style": "chibi_kawaii",
+            "pageTemplate": "text_in_image",
+            "storyPrompt": "Momo, a little panda in a red T-shirt, gets a shiny green potty. He sits and waits, and nothing happens. He plays with blocks and forgets, and oops, an accident. Mama Panda says, That's okay, we try again. Momo listens to his tummy, runs to the potty just in time, and it works! He flushes, washes his paws with lots of bubbles, puts a star on his sticker chart and pulls on brand-new big-kid pants covered in bamboo leaves. Short, repetitive, encouraging lines."
+          },
+          "why": "Parents in the middle of potty training get a short, upbeat book with every step and a kind accident page."
+        },
+        {
+          "name": "Rory the dinosaur's mighty potty",
+          "ageGroup": "3-6",
+          "numberOfPages": 20,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Rory Goes on the Potty",
+            "theme": "A funny dinosaur potty story",
+            "style": "chibi_art",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Rory, a little green dinosaur with orange spots and a big ROAR, is too busy stomping to use the potty. He stomps through the kitchen, roars at the cat and builds a tower, then suddenly does the potty dance. He stomps so fast to the bathroom that the potty jumps! He sits, he waits, he sings a song, and he does it. His family cheers so loudly the walls shake. Rory gets his own dinosaur undies and does his proudest roar ever. Silly and full of sound words."
+          },
+          "why": "Dinosaur-loving toddlers who resist the potty get a funny hero just like them, which makes reluctant ones laugh and try."
+        },
+        {
+          "name": "Princess Plum's royal potty",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Princess Plum's Royal Throne",
+            "theme": "A royal potty-training story",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Princess Plum, a toddler with a lopsided golden crown, is given her very own royal throne: a tiny gold potty with a velvet cushion. But she's too busy feeding the castle ducks and having tea with the dragon to sit on it. After a royal accident in the ballroom, the Queen tells her a secret: even queens had accidents once. Plum tries again, waits, and makes it! The trumpets play, the court cheers and the ducks quack. Plum earns her big-girl crown pants. Plum is always shown in her dress, the potty scenes from the waist up."
+          },
+          "why": "A royal twist on a common milestone makes a cheerful gift for toddlers and an easy Etsy or KDP potty-book listing."
+        }
+      ]
+    },
+    {
+      "slug": "first-day-of-school-story-book-prompts",
+      "title": "First Day of School Story Book Prompts for Picture Books",
+      "metaDescription": "First day of school picture book prompts that calm nerves: a lunchbox note, a giraffe too tall for her desk and a teacher who is nervous too.",
+      "intro": "A first day of school story book helps a child picture the day before it happens, and lets them see that other kids, and even teachers, feel nervous too. These prompts give InkChamps a hero, a worry and a warm ending, and it writes and illustrates the rest. They work for parents of new preschoolers and kindergartners, teachers welcoming a class and KDP sellers stocking back-to-school titles.",
+      "keywords": [
+        "first day of school book",
+        "back to school picture book",
+        "kindergarten first day story",
+        "AI first day of school book",
+        "starting school book for kids",
+        "school nerves story"
+      ],
+      "tips": [
+        "Name one specific worry (missing a parent, not knowing anyone) and resolve that worry, not every worry.",
+        "Show the hero's grown-up returning at pickup; it's the reassurance kids need most.",
+        "Publish by early July for back-to-school search traffic; KDP needs 24 pages or more."
+      ],
+      "prompts": [
+        {
+          "name": "Kit's lunchbox note",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Kit's Lunchbox Note",
+            "theme": "Missing home on the first day",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Kit, a little fox cub with a too-big blue backpack, starts school at Hollow Oak. She holds her dad's paw until the very last second. All morning Kit feels wobbly: the classroom is loud, she doesn't know the songs, and she misses home. At lunch she opens her box and finds a note with a drawing of two foxes holding paws. Kit feels warm inside, shares her crackers with a shy owlet named Wren, and at pickup she has a drawing of her own for Dad."
+          },
+          "why": "Parents of nervous starters get a story, and an idea to copy, that helps a child carry home with them into class."
+        },
+        {
+          "name": "Gemma the very tall giraffe",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Gemma Goes to School",
+            "theme": "Feeling different on the first day",
+            "style": "chibi_kawaii",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Gemma, a young giraffe with a purple neck scarf, is so tall she has to duck through the classroom door. Her desk is too small, her knees knock the table and the other animals giggle. At recess Gemma hides behind a tree. Then the class ball flies over the hedge, and nobody can find it, except Gemma, who spots it from way up high. Her classmates cheer, the teacher gives her the window seat, and Gemma decides being tall is just right."
+          },
+          "why": "Children who feel they stand out see a difference turn into a gift, a warm first-week read-aloud for teachers."
+        },
+        {
+          "name": "The teacher who was nervous too",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Ms. Okafor's First Day Too",
+            "theme": "Everyone feels nervous sometimes",
+            "style": "colored_pencil_sketch",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Jayden, a boy with a brand-new rocket backpack, is nervous about first grade. So is his teacher, Ms. Okafor, who has bright braids and polka-dot glasses. It's her first day at this school too. Pages switch between them: both can't eat breakfast, both check their bags three times, both have butterflies. When Jayden finds Ms. Okafor's lost name badge in the hallway, they share a secret: they're both nervous. By home time they've decided first days are better together."
+          },
+          "why": "Teachers love reading it on day one, and kids are surprised and reassured that grown-ups get nervous too."
+        }
+      ]
+    },
+    {
+      "slug": "new-baby-sibling-story-book-prompts",
+      "title": "New Baby Sibling Story Book Prompts for Big Brothers and Sisters",
+      "metaDescription": "New baby sibling story book prompts for big brothers and sisters: a very loud baby, a missing lap and a big-brother handbook whose rules get crossed out.",
+      "intro": "A new baby sibling story book gives the older child a place to put their feelings, excitement, jealousy and missing the old way, and shows them where they fit now. These prompts end with the big sibling finding a role only they can play. Parents buy them before the due date, and they are a popular personalised gift on Etsy and a steady KDP niche.",
+      "keywords": [
+        "new baby sibling book",
+        "big brother book",
+        "big sister book",
+        "AI picture book new baby",
+        "sibling jealousy story",
+        "becoming a big brother story"
+      ],
+      "tips": [
+        "Include one page where the older child feels left out, and one where a grown-up makes time just for them.",
+        "Use the family words the buyer uses (Mama, Mum, Mom) in the brief.",
+        "Make the ending a job only the older child can do, not just a hug."
+      ],
+      "prompts": [
+        {
+          "name": "Bao and the very loud baby",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Bao and the Very Loud Baby",
+            "theme": "A noisy new baby sister",
+            "style": "chibi_art",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Bao, a little boy in a striped T-shirt with a toy drum, has always been the loudest in his family. Then baby sister Lin arrives, and she's even louder. She cries at breakfast, at bath time and in the middle of the night, and Mama and Baba are too tired to play. Bao bangs his drum to drown her out, and Lin stops crying to listen. So Bao taps soft, slow rhythms, and Lin falls asleep. Now Bao has a new job: the family's baby drummer."
+          },
+          "why": "Toddlers whose world just got noisier get a funny story that gives them a special job, a lovely baby-shower gift."
+        },
+        {
+          "name": "Where did Mama's lap go?",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Where Did Mama's Lap Go?",
+            "theme": "Sharing a parent with a new baby",
+            "style": "colored_pencil_sketch",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Olive, a small hedgehog with a pink acorn hat, loves Mama's lap more than anything. But Mama's tummy grows and grows until there's no lap left. Then the baby comes, and the lap is full of baby. Olive tries Papa's lap, Grandpa's lap and even the cat's back, but none are quite right. One evening, Mama makes room: baby on one side, Olive on the other, and a story for both. Olive learns there's always room for her."
+          },
+          "why": "Parents expecting a second baby get a soft, honest story about the exact thing toddlers fear losing."
+        },
+        {
+          "name": "Marcus's big brother handbook",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Big Brother Handbook",
+            "theme": "Learning to be a big brother",
+            "style": "comic_book",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Marcus, a seven-year-old with a high-top fade and a notebook, decides to write the official Big Brother Handbook before his baby brother Miles arrives. Rule one: babies are boring. Rule two: never share your room. But as the weeks pass, each rule gets crossed out: Miles grabs his finger, laughs at his faces and falls asleep on his chest. By the last page Marcus's handbook has only one rule left, in big letters: be the best big brother ever."
+          },
+          "why": "Older siblings who think they're too big for baby books get humor and comic panels, and parents get a sweet arc."
+        }
+      ]
+    },
+    {
+      "slug": "dragon-story-book-prompts",
+      "title": "Dragon Story Book Prompts for AI Children's Books",
+      "metaDescription": "Dragon story book prompts for kids: a dragon afraid of fire, a clumsy knight who cures a dragon's toothache and a girl who raises the last dragon egg.",
+      "intro": "Dragons are a perennial favorite in children's picture books, and the best dragon stories flip expectations: a dragon who is scared, a dragon who is hurting, a dragon who needs a friend. These prompts give InkChamps an original dragon with a clear look and a heartfelt problem. They suit dragon-mad kids, parents who want a gift with adventure and KDP sellers in the fantasy niche.",
+      "keywords": [
+        "dragon story book",
+        "children's book about dragons",
+        "AI dragon picture book",
+        "dragon story ideas for kids",
+        "friendly dragon story",
+        "fantasy picture book for kids"
+      ],
+      "tips": [
+        "Give the dragon one fixed colour and one small detail (teal scales, a chipped horn) so it stays the same on every page.",
+        "Flip the expected: a gentle, scared or silly dragon is more memorable than a fierce one.",
+        "Colored pencil and hand-drawn styles show dragon scales and fire well; save comic style for the funny ones."
+      ],
+      "prompts": [
+        {
+          "name": "Saffron the dragon who feared fire",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "The Dragon Who Was Afraid of Fire",
+            "theme": "Turning a fear into a gift",
+            "style": "chibi_kawaii",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Saffron, a small teal dragon with stubby wings and big amber eyes, is afraid of fire. Every time she sneezes, sparks fly out, and she hides in her cave. Her friend Toby, a village boy in a knitted hat, helps her practice: a teeny flame to toast one marshmallow, then warm the bakery oven, then melt the ice on the pond. On the night of the Winter Lantern Festival, the wind blows every lantern out, and Saffron lights them all with her gentle flame. The village cheers for her."
+          },
+          "why": "Preschoolers learn that a scary thing can become useful, told through a cuddly dragon they adore."
+        },
+        {
+          "name": "Sir Wobbles and the dragon's toothache",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Sir Wobbles and the Dragon's Toothache",
+            "theme": "A funny knight-and-dragon tale",
+            "style": "comic_book",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Sir Wobbles, a clumsy young knight whose armor is three sizes too big, is sent to stop the dragon roaring on the mountain. He clanks up the path, trips over his sword and lands right on the dragon's nose. But the dragon, a big red fellow named Grumbold, isn't angry. He has a terrible toothache from eating the baker's toffee. Sir Wobbles and the castle dentist tie a rope to the tooth, the whole kingdom pulls, and pop! Grumbold becomes the kingdom's friend."
+          },
+          "why": "Kids aged 6-9 laugh at a knight who solves the problem with kindness, not a sword, a fun twist parents like too."
+        },
+        {
+          "name": "Saskia and the last dragon egg",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x11",
+          "highQuality": true,
+          "fields": {
+            "title": "The Last Dragon Egg",
+            "theme": "Love and letting go",
+            "style": "anime",
+            "pageTemplate": "full_page_image",
+            "storyPrompt": "Saskia, a girl from a mountain village with a fur-trimmed red cloak, finds an egg glowing warm in the snow. It hatches into a silver dragon she names Cinder. She feeds him, teaches him to fly and hides him in the barn, but he grows too big, and the villagers grow afraid. Saskia knows Cinder belongs with the dragons above the clouds. She rides him to the highest peak and says goodbye. Every spring after, a silver dragon circles the village, and the snow melts early."
+          },
+          "why": "A premium, cinematic gift book with a bittersweet ending that grandparents buy and families keep."
+        }
+      ]
+    },
+    {
+      "slug": "animal-fable-story-book-prompts",
+      "title": "Animal Fable Story Book Prompts with a Moral",
+      "metaDescription": "Original animal fable prompts with a moral: a squirrel who hid too much, a fox who learns from an echo and a beaver who tried to build alone.",
+      "intro": "Fables use animals to teach one clear lesson, which is why they have lasted for thousands of years. These are original fables, not retellings, each with a memorable animal, a mistake, a consequence and a moral children can say in one line. They suit homeschoolers and teachers covering character education, parents who want stories with values and KDP sellers looking for a fresh fable series.",
+      "keywords": [
+        "animal fable story book",
+        "fables with morals for kids",
+        "original fables for children",
+        "AI picture book with a moral",
+        "moral stories for kids",
+        "character education picture book"
+      ],
+      "tips": [
+        "Finish the brief with the moral in one sentence so the last page can state it clearly.",
+        "Let the hero make a real mistake and feel its result before learning; a fable needs a consequence.",
+        "Write a series: three or four fables in the same style make a strong KDP collection."
+      ],
+      "prompts": [
+        {
+          "name": "Nutmeg the squirrel who hid too much",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "The Squirrel Who Hid Too Much",
+            "theme": "What you give away grows",
+            "style": "paper_cutout_collage",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Nutmeg, a red squirrel with a bushy tail, gathers far more acorns than she needs and buries them all over the wood, refusing to share with the mice and the jays. When winter comes she can't remember where she hid any of them, and she goes hungry. The mice she turned away share their seeds with her. In spring, Nutmeg gives her leftover acorns to the mice to plant, and oak saplings sprout across the wood, enough for everyone. Moral: what you give away comes back to you, and grows."
+          },
+          "why": "Young children get a clear, gentle moral with a satisfying twist, perfect for homeschool and preschool story time."
+        },
+        {
+          "name": "Rufus the fox and the echo",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Fox and the Echo",
+            "theme": "Your words come back to you",
+            "style": "colored_pencil_sketch",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Rufus, a boastful young fox with a white-tipped tail, shouts into a canyon, You're slow and silly! The canyon shouts it right back. Furious, Rufus thinks another fox is mocking him and shouts even ruder things, until he's hoarse and sad. Old Sorrel, a grey owl, tells him to try kind words instead. Rufus calls out, You're a good friend! and hears it come back. He tries it on the rabbits and the badgers too. Moral: the words you send out are the words that come back."
+          },
+          "why": "Teachers covering kind words get a fable kids remember because of the echo, a natural classroom discussion starter."
+        },
+        {
+          "name": "Barley the beaver who built alone",
+          "ageGroup": "6-9",
+          "numberOfPages": 24,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Beaver Who Built Alone",
+            "theme": "Working together",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Barley, a proud young beaver with a notched front tooth, wants to build the biggest dam on the river all by himself. When the otters, muskrats and ducks offer help, he says no. His dam goes up fast, but it's thin, and the first spring storm washes it away. Barley is ashamed, but his neighbors come anyway. The otters roll stones, the muskrats pack mud, the ducks weave reeds, and the new dam holds through the next storm. Moral: many paws make strong work."
+          },
+          "why": "Homeschoolers and parents get a teamwork lesson with a real consequence, and the river setting is lovely to illustrate."
+        }
+      ]
+    },
+    {
+      "slug": "personalized-birthday-story-book-prompts",
+      "title": "Personalized Birthday Story Book Prompts for Custom Kids' Books",
+      "metaDescription": "Personalized birthday story book prompts: swap in a child's name and age for a birthday parade, a trip through space or a treasure hunt gift.",
+      "intro": "A personalized birthday story book puts the birthday child at the centre of their own adventure, and it is one of the best-selling custom gifts on Etsy, often priced between $20 and $60. Each prompt below uses [Name] and [age] placeholders: replace them with the child's details before ordering. Etsy sellers can run one prompt for every order, and parents can make a one-of-a-kind present in minutes.",
+      "keywords": [
+        "personalized birthday book for kids",
+        "custom children's book with name",
+        "personalized story book",
+        "AI personalized picture book",
+        "birthday story book for kids",
+        "Etsy personalized book"
+      ],
+      "tips": [
+        "Replace every [Name] and [age] before ordering; add a pet, sibling or favorite color to make it feel truly custom.",
+        "Build the story so the number of gifts or stops matches the child's age; buyers love that detail.",
+        "Etsy buyers pay more for a premium print: offer a hardcover-style square book alongside the standard one."
+      ],
+      "prompts": [
+        {
+          "name": "[Name]'s birthday parade",
+          "ageGroup": "3-6",
+          "numberOfPages": 24,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "[Name]'s Birthday Parade",
+            "theme": "A birthday parade of animals",
+            "style": "chibi_kawaii",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "On the morning [Name] turns [age], a marching band of animals arrives at the front door. A lion plays the drum, a giraffe carries balloons and a tiny mouse waves a birthday flag. They lead [Name] through the town, and at every stop a new animal joins with a present, one for each year, until there are [age] gifts in all. The parade ends at the park, where a giant cake waits and everyone sings Happy Birthday to [Name]."
+          },
+          "why": "Etsy sellers get a simple, joyful template for toddler and preschool birthdays that works for any name and age."
+        },
+        {
+          "name": "[Name]'s birthday trip through space",
+          "ageGroup": "6-9",
+          "numberOfPages": 32,
+          "pageSize": "8.5x8.5",
+          "highQuality": true,
+          "fields": {
+            "title": "The Day [Name] Turned [age]",
+            "theme": "A birthday journey through the solar system",
+            "style": "paper_cutout_collage",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "The night before [Name] turns [age], a small silver rocket lands in the backyard with a note: Birthday Captain wanted. [Name] climbs aboard and flies through the solar system, and every planet has a surprise: Mars throws a dust-glitter party, Saturn lends its rings for a hula-hoop contest, Jupiter bakes a storm-swirl cake. At the last star, the constellations form [Name]'s favorite animal. [Name] lands home just in time to blow out [age] candles."
+          },
+          "why": "A premium keepsake that Etsy shops can price at the top of the $20-60 range for a big birthday."
+        },
+        {
+          "name": "[Name]'s magic treasure map",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "[Name] and the Birthday Treasure Map",
+            "theme": "A birthday treasure hunt",
+            "style": "anime",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "On [Name]'s birthday a rolled-up map appears under the pillow, marked with a big gold X. Following the clues, [Name] finds the backyard turned into a jungle, the bathtub into a pirate ship and the garden shed into a dragon's cave guarded by a friendly green dragon. Each stop gives a clue and a key, and the friends and family [Name] loves join the hunt. The last key opens a chest with a birthday crown and a note: Happy Birthday, [Name]! You are [age]!"
+          },
+          "why": "An adventure-style personalized book for kids aged 6-9 who feel too old for baby books, a strong Etsy upsell."
+        }
+      ]
+    },
+    {
+      "slug": "kindness-and-sharing-story-book-prompts",
+      "title": "Kindness and Sharing Story Book Prompts for Kids",
+      "metaDescription": "Kindness and sharing picture book prompts: a mouse shares the last strawberry, kids cheer up a lonely neighbor and a giant gives away her apples.",
+      "intro": "Kindness and sharing are among the most taught values in early childhood, and a picture book makes them feel natural instead of preachy. These prompts show a character choosing to share, and the good that grows from it, from a mouse's last strawberry to a giant's overflowing orchard. They suit parents, preschool and kindergarten teachers and KDP sellers in the character-building niche.",
+      "keywords": [
+        "kindness story book",
+        "sharing story for kids",
+        "children's book about kindness",
+        "AI picture book about sharing",
+        "kindness picture book for preschool",
+        "social emotional learning book"
+      ],
+      "tips": [
+        "Make sharing cost the hero something; giving away the last strawberry means more than giving extras.",
+        "Show kindness coming back in a way the child can see on the last page.",
+        "Teachers buy these for SEL units, so keep the moral clear but let the story carry it."
+      ],
+      "prompts": [
+        {
+          "name": "Mabel's last strawberry",
+          "ageGroup": "3-6",
+          "numberOfPages": 20,
+          "pageSize": "8.5x8.5",
+          "highQuality": false,
+          "fields": {
+            "title": "Mabel's Last Strawberry",
+            "theme": "Sharing what you love",
+            "style": "chibi_kawaii",
+            "pageTemplate": "image_top_text_bottom",
+            "storyPrompt": "Mabel, a tiny field mouse with a straw basket and a daisy behind one ear, finds the very last strawberry of summer. She plans to eat it all by herself. But on the way home she meets a hungry hedgehog, a tired snail and a sad little sparrow. Mabel cuts the strawberry into four pieces, one for each of them. The next day, her new friends arrive with blueberries, seeds and a walnut, and together they have the biggest picnic in the meadow."
+          },
+          "why": "Toddlers see that sharing makes things bigger, not smaller, a simple message preschool teachers love to read aloud."
+        },
+        {
+          "name": "Zuri and Mr. Ike's bench",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "Mr. Ike's Bench",
+            "theme": "Kindness to a lonely neighbor",
+            "style": "hand_drawn_2d",
+            "pageTemplate": "text_left_image_right",
+            "storyPrompt": "Every day Zuri, a girl with two puff buns and a purple scooter, rides past Mr. Ike, an old man in a flat cap who sits alone on the bench outside his building. One day she and her mom stop, and Zuri gives him a drawing. He tells her a story about the tree above the bench. Soon Zuri brings friends, Mr. Ike teaches them card tricks, and the bench is the busiest spot on the street. When Mr. Ike is ill for a week, the kids cover his bench in drawings to welcome him back."
+          },
+          "why": "Kids aged 6-9 see how one small act changes a whole street, and families find it a natural way to talk about loneliness."
+        },
+        {
+          "name": "Gertrude the giant's orchard",
+          "ageGroup": "6-9",
+          "numberOfPages": 28,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "title": "The Giant Who Had Too Many Apples",
+            "theme": "Sharing turns strangers into friends",
+            "style": "paper_cutout_collage",
+            "pageTemplate": "full_page_image",
+            "storyPrompt": "Gertrude, a gentle giant with patched dungarees and a bird's nest in her hair, grows an orchard so big that apples pile up around her house and rot. The villagers below are scared of her and have empty pantries. One day a brave boy named Finch climbs the hill to ask for a single apple. Gertrude gives him a whole cartful. Soon the villagers come too: they bake pies, press cider and invite Gertrude to the harvest feast, where she finally has friends."
+          },
+          "why": "Bold collage spreads and a fairy-tale giant make a memorable sharing story that stands out in the KDP kindness niche."
+        }
+      ]
+    }
+  ]
+}
