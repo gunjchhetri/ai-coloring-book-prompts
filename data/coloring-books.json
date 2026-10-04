@@ -3,6 +3,7 @@
   "pages": [
     {
       "slug": "dinosaur-coloring-book-prompts",
+      "index": true,
       "title": "Dinosaur Coloring Book Prompts for Kids & KDP",
       "metaDescription": "Copy-ready dinosaur coloring book prompts for toddlers, kids and KDP sellers: friendly T-rexes, fossil digs and a dino ABC, ready to print as a PDF.",
       "intro": "Dinosaurs are one of the steadiest sellers in kids' coloring on Amazon KDP and Etsy, because every generation of children goes through a dinosaur phase. These dinosaur coloring book prompts cover a cuddly book for toddlers, a dinosaur alphabet that homeschool parents love, and a realistic prehistoric world for older kids. Paste one into InkChamps and get a print-ready coloring book PDF.",
@@ -70,6 +71,7 @@
     },
     {
       "slug": "farm-animal-coloring-book-prompts",
+      "index": true,
       "title": "Farm Animal Coloring Book Prompts: Cute Barnyard Pages",
       "metaDescription": "Farm animal coloring book prompts for toddlers and kids: piglets in mud, ducklings, tractors and a 24-animal barnyard book, made print-ready for KDP.",
       "intro": "Farm animals are often the very first animals a toddler learns to name, which makes a farm animal coloring book a perfect first coloring book and a dependable KDP seller. Parents buy them for road trips and rainy days, and preschool teachers use them alongside farm units. These prompts give you a cuddly barnyard book, a farm animal names book with a caption on every page, and a busy farm-life book for older kids.",
@@ -137,6 +139,7 @@
     },
     {
       "slug": "ocean-animal-coloring-book-prompts",
+      "index": true,
       "title": "Ocean Animal Coloring Book Prompts: Sea Creatures & Coral Reefs",
       "metaDescription": "Ocean animal coloring book prompts: smiling sea creatures for toddlers, coral reef and deep-sea scenes for kids, and ocean mandalas for adult colorists.",
       "intro": "Sea creatures work for every age, from a toddler's first smiling whale to an adult colorist's intricate jellyfish mandala. Ocean coloring books sell steadily on KDP and Etsy in summer and as beach-trip gifts, and teachers use them for ocean units. These ocean animal coloring book prompts cover a gentle under-the-sea book, a reef-to-deep-sea explorer book, and a premium ocean mandala collection.",
@@ -203,6 +206,7 @@
     },
     {
       "slug": "unicorn-coloring-book-prompts",
+      "index": true,
       "title": "Unicorn Coloring Book Prompts: Unicorns & Magical Creatures",
       "metaDescription": "Unicorn coloring book prompts for every age: baby unicorns on clouds, a magical creature kingdom for kids, and ornate unicorn mandalas for adults.",
       "intro": "Unicorn coloring books are a perennial best seller on Amazon KDP, especially as birthday and holiday gifts for girls aged 4 to 10. The appeal is simple: rainbows, sparkle and a friendly magical horse that every child can make their own. These unicorn coloring book prompts give you a dreamy toddler book, a whole kingdom of magical creatures for school-age kids, and an elegant unicorn mandala book for teens and adults.",
@@ -269,6 +273,7 @@
     },
     {
       "slug": "dragon-coloring-book-prompts",
+      "index": true,
       "title": "Dragon Coloring Book Prompts for Kids, Teens & Adults",
       "metaDescription": "Dragon coloring book prompts: silly baby dragons for little kids, epic fantasy dragons for tweens, and intricate dragon art for adults. Print-ready PDFs.",
       "intro": "Dragons sit at the crossroads of fantasy and adventure, so a dragon coloring book appeals to boys and girls alike and keeps selling to teens and adults too. On KDP, dragons are a strong alternative to crowded unicorn and dinosaur shelves. These dragon coloring book prompts cover a cuddly baby-dragon book, an epic fantasy book for older kids, and a richly detailed collection for adult colorists.",
@@ -335,6 +340,7 @@
     },
     {
       "slug": "jungle-safari-coloring-book-prompts",
+      "index": true,
       "title": "Jungle & Safari Animal Coloring Book Prompts",
       "metaDescription": "Jungle safari coloring book prompts: lion cubs and baby elephants for toddlers, rainforest-to-savanna adventures for kids, and safari mandalas for adults.",
       "intro": "Jungle and safari animals are a classic coloring theme that never fades: lions, elephants, giraffes and monkeys are instantly recognisable, and kids love the adventure of a safari. Parents buy these books for zoo trips, and teachers use them for animal habitat lessons. These jungle safari coloring book prompts cover a baby-animal book for toddlers, a safari adventure for school-age kids, and a detailed safari mandala book for adults.",
@@ -601,6 +607,7 @@
     },
     {
       "slug": "bug-insect-coloring-book-prompts",
+      "index": true,
       "title": "Bug & Insect Coloring Book Prompts for Kids and Adults",
       "metaDescription": "Bug and insect coloring book prompts: smiling garden bugs for toddlers, a 24-minibeast names book for kids, and ornate butterflies for adults.",
       "intro": "Bugs fascinate young children, and a bug coloring book turns that curiosity into hours of quiet coloring. Parents buy insect books for garden-loving kids, teachers use them for minibeast units, and adult colorists love ornate butterflies and beetles. These bug and insect coloring book prompts cover a friendly garden-bug book, a minibeast names book with a caption on every page, and a richly detailed butterfly and beetle collection.",
@@ -668,6 +675,7 @@
     },
     {
       "slug": "space-coloring-book-prompts",
+      "index": true,
       "title": "Space Coloring Book Prompts: Planets, Astronauts & Aliens",
       "metaDescription": "Space coloring book prompts for kids: rockets and friendly aliens for toddlers, a 24-page planet book, and alien-world adventures for older kids.",
       "intro": "Space coloring books blend wonder with learning: rockets, planets, astronauts and friendly aliens capture kids' imaginations and give parents a reason to talk about science. They sell well on KDP as gifts for curious kids and to homeschoolers studying the solar system. These space coloring book prompts give you a first-space book for toddlers, a solar system book with every object named, and an alien-world adventure for tweens.",
@@ -1000,6 +1008,7 @@
     },
     {
       "slug": "kawaii-food-coloring-book-prompts",
+      "index": true,
       "title": "Kawaii Food Coloring Book Prompts: Cute Desserts, Fruit & Snacks",
       "metaDescription": "Kawaii food coloring book prompts: smiling fruit for toddlers, cute desserts for kids, and busy kawaii food scenes for teens and adults. Print-ready PDFs.",
       "intro": "Kawaii food coloring books, with smiling cupcakes, sushi and strawberries, are one of the fastest-growing coloring niches on Amazon KDP and Etsy. They appeal to young kids, tweens and a large teen and adult audience who love cute, bold pages that are relaxing to color. These kawaii food coloring book prompts cover a fruit-and-veggie book for little kids, a desserts book for school-age kids, and busy kawaii food scenes for teens and adults.",
@@ -1066,6 +1075,7 @@
     },
     {
       "slug": "mandala-coloring-book-prompts",
+      "index": true,
       "title": "Mandala Coloring Book Prompts for Adults & Teens",
       "metaDescription": "Mandala coloring book prompts for adults and teens: intricate geometric designs, beginner-friendly mandalas and boho sets ready to print.",
       "intro": "Mandala coloring books are one of the most reliable sellers on Amazon KDP, bought by adults who color to unwind and by teens who love symmetry and detail. These mandala coloring book prompts cover the full range, from dense geometric designs for experienced colorists to open, beginner-friendly mandalas and a celestial boho set for tweens. Each brief asks for a different design on every page, so the book never feels repetitive.",
@@ -1128,6 +1138,7 @@
     },
     {
       "slug": "animal-mandala-coloring-book-prompts",
+      "index": true,
       "title": "Animal Mandala Coloring Book Prompts",
       "metaDescription": "Animal mandala coloring book prompts: wild animals, ocean creatures and cute pets filled with mandala patterns, for adults, teens and kids.",
       "intro": "Animal mandala coloring books combine two bestselling niches: the calm of pattern coloring and the appeal of a favourite animal. Adults buy them as stress relief, while tweens and kids like seeing a lion or a sea turtle filled with swirls and petals. These animal mandala coloring book prompts give you a premium wildlife edition, an ocean set and an easier book for younger colorists.",
@@ -1189,6 +1200,7 @@
     },
     {
       "slug": "stress-relief-coloring-book-prompts",
+      "index": true,
       "title": "Stress Relief Coloring Book Prompts for Adults",
       "metaDescription": "Stress relief coloring book prompts for adults: calming nature scenes, soothing patterns and mindful moments for anxiety relief, no text.",
       "intro": "Stress relief coloring books sell all year to adults who want a quiet, screen-free way to slow down, and they are a steady gift choice for friends going through a hard time. These stress relief coloring book prompts focus on calming scenes and repeating patterns rather than slogans, so the pages feel peaceful instead of busy. A third prompt adapts the idea for tweens facing exam season.",
@@ -1251,6 +1263,7 @@
     },
     {
       "slug": "cozy-coloring-book-prompts",
+      "index": true,
       "title": "Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes",
       "metaDescription": "Cozy coloring book prompts for KDP: hygge homes, cottagecore cottages, rainy-day cafés and cute animal shops for adults and teens.",
       "intro": "Cozy coloring books are one of the hottest niches on Amazon KDP right now: warm interiors, rainy windows, steaming mugs and little shops full of charm. Adults and teens buy them to feel calm and at home, and they make easy gifts. These cozy coloring book prompts cover hygge home life, cottagecore countryside and a sweet set of animal-run cafés and shops.",
@@ -1313,6 +1326,7 @@
     },
     {
       "slug": "bold-and-easy-coloring-book-prompts",
+      "index": true,
       "title": "Bold and Easy Coloring Book Prompts for Adults & Seniors",
       "metaDescription": "Bold and easy coloring book prompts for adults and seniors: big simple shapes, large areas and relaxing everyday subjects that finish fast.",
       "intro": "Bold and easy coloring books have big, simple shapes and large areas to fill, which makes them a top seller for adults who want quick relaxation, seniors, people with low vision and anyone using markers. These bold and easy coloring book prompts give you an everyday-objects book, a nostalgic set for seniors and a set of cute animals, each with one clear subject per page.",
@@ -1375,6 +1389,7 @@
     },
     {
       "slug": "flower-botanical-coloring-book-prompts",
+      "index": true,
       "title": "Flower & Botanical Coloring Book Prompts",
       "metaDescription": "Flower and botanical coloring book prompts: detailed botanical studies, bouquets and garden scenes for adults, plus easy flowers for kids.",
       "intro": "Flower coloring books are a perennial bestseller: gardeners, nature lovers and adult colorists buy them year-round, and they sell especially well around Mother's Day and spring. These flower and botanical coloring book prompts include a premium vintage botanical edition, a relaxing bouquets-and-gardens book, and a cheerful easy book for kids.",
@@ -1437,6 +1452,7 @@
     },
     {
       "slug": "christmas-coloring-book-prompts",
+      "index": true,
       "title": "Christmas Coloring Book Prompts for Kids & Adults",
       "metaDescription": "Christmas coloring book prompts for kids and adults: cute toddler pages, cozy snowy villages and intricate ornament mandalas for KDP.",
       "intro": "Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts as early as October. Parents buy them for stockings and holiday breaks, while adults buy cozy and intricate editions to color by the fire. These Christmas coloring book prompts cover a toddler book, a cozy adult village book and a premium mandala and ornament book.",
@@ -1500,6 +1516,7 @@
     },
     {
       "slug": "halloween-coloring-book-prompts",
+      "index": true,
       "title": "Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy",
       "metaDescription": "Halloween coloring book prompts: spooky-cute pages for kids, a trick-or-treat adventure and a spooky-cozy book for adults. Nothing gory.",
       "intro": "Halloween coloring books sell from September through October to parents, teachers and adults who love spooky-cozy style. These Halloween coloring book prompts keep everything friendly: smiling pumpkins for little ones, a trick-or-treat night for school-age kids, and a candlelit, witchy, spooky-cozy book for teens and adults. No gore, no scary faces, just the fun side of the season.",
@@ -1760,6 +1777,7 @@
     },
     {
       "slug": "alphabet-abc-coloring-book-prompts",
+      "index": true,
       "title": "Alphabet ABC Coloring Book Prompts for Toddlers & Preschool",
       "metaDescription": "Alphabet coloring book prompts: A to Z animals, A to Z foods and A to Z vehicles, one letter per page with its word, for toddlers and preschool.",
       "intro": "Alphabet coloring books are a must-have for parents, preschool teachers and homeschoolers teaching letter recognition, and they sell steadily all year on Amazon KDP. These ABC coloring book prompts list every letter from A to Z with its word, so each of the 26 pages shows one letter and one clear picture. Choose animals, foods or vehicles depending on what the child loves.",
@@ -2085,6 +2103,7 @@
     },
     {
       "slug": "greek-mythology-coloring-book-prompts",
+      "index": true,
       "title": "Greek Mythology Coloring Book Prompts",
       "metaDescription": "Greek mythology coloring book prompts: gods, heroes and legendary creatures for teens and adults, a mythical bestiary and a version for kids.",
       "intro": "Greek mythology coloring books appeal to teens and adults who love epic heroes and monsters, to homeschoolers teaching ancient history, and to kids who devour myth stories. Because the myths are public domain, they are a safe and rich niche for KDP sellers. These Greek mythology coloring book prompts include a detailed gods-and-heroes edition, a bestiary of legendary creatures and a friendly retelling for kids.",
@@ -2148,6 +2167,7 @@
     },
     {
       "slug": "bible-story-coloring-book-prompts",
+      "index": true,
       "title": "Bible Story Coloring Book Prompts for Kids & Adults",
       "metaDescription": "Bible story coloring book prompts: Noah's Ark, David and Goliath, the Good Samaritan and more, for toddlers, Sunday school and adult colorists.",
       "intro": "Bible story coloring books are a steady seller for Christian parents, Sunday school teachers, church groups and homeschoolers, with peaks at Easter and Christmas. These Bible story coloring book prompts draw on well-known public-domain stories, shown respectfully and warmly: a simple first book for toddlers, a story-by-story book for Sunday school, and a detailed scripture-inspired book for adult colorists.",

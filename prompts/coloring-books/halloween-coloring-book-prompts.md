@@ -1,10 +1,8 @@
-# Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy
+# Halloween Coloring Book: prompts
 
-<img src="../../assets/img/halloween-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/halloween-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Halloween coloring books sell from September through October to parents, teachers and adults who love spooky-cozy style. These Halloween coloring book prompts keep everything friendly: smiling pumpkins for little ones, a trick-or-treat night for school-age kids, and a candlelit, witchy, spooky-cozy book for teens and adults. No gore, no scary faces, just the fun side of the season.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=halloween-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/halloween/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Spooky-cute Halloween for little kids](#1-spooky-cute-halloween-for-little-kids) · [Trick-or-treat night adventure](#2-trick-or-treat-night-adventure) · [Spooky-cozy witchy book for adults](#3-spooky-cozy-witchy-book-for-adults)
 
@@ -17,8 +15,6 @@ Thirty friendly Halloween pictures: a smiling jack-o'-lantern, a little ghost ho
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20friendly%20Halloween%20pictures%3A%20a%20smiling%20jack-o%27-lantern%2C%20a%20little%20ghost%20holding%20a%20lollipop%2C%20a%20black%20cat%20in%20a%20witch%20hat%2C%20a%20happy%20bat%2C%20a%20candy%20bucket%20full%20of%20treats%2C%20an%20owl%20on%20a%20crescent%20moon%2C%20a%20friendly%20monster%20with%20one%20tooth%2C%20a%20pumpkin%20patch%2C%20a%20scarecrow%20waving%2C%20a%20spider%20spinning%20a%20heart%20web%2C%20a%20mummy%20cat%20and%20a%20kid%20in%20a%20dinosaur%20costume.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=halloween-coloring-book-prompts-1)
-
-*Why it works:* Parents and preschool teachers want Halloween fun with nothing frightening, and simple shapes suit ages 3 to 6.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -51,8 +47,6 @@ Thirty-two pages of a fun Halloween night: kids in costumes trick-or-treating do
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty-two%20pages%20of%20a%20fun%20Halloween%20night%3A%20kids%20in%20costumes%20trick-or-treating%20door%20to%20door%2C%20a%20haunted%20house%20full%20of%20friendly%20ghosts%2C%20a%20monster%20dance%20party%2C%20a%20witch%20flying%20past%20a%20full%20moon%2C%20bobbing%20for%20apples%2C%20carving%20pumpkins%20at%20the%20kitchen%20table%2C%20a%20costume%20parade%20at%20school%2C%20a%20vampire%20bat%20sharing%20candy%2C%20a%20skeleton%20band%20playing%20music%20and%20a%20cozy%20candy%20swap%20in%20pajamas.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=halloween-coloring-book-prompts-2)
 
-*Why it works:* School-age kids love costume and party scenes, and parents want a Halloween book that feels exciting without being scary.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -83,8 +77,6 @@ Forty spooky-cozy scenes: a witch's cottage kitchen with bubbling cauldron and p
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20spooky-cozy%20scenes%3A%20a%20witch%27s%20cottage%20kitchen%20with%20bubbling%20cauldron%20and%20potion%20bottles%2C%20a%20candlelit%20reading%20nook%20with%20a%20black%20cat%2C%20a%20pumpkin%20patch%20at%20dusk%2C%20apothecary%20shelves%20of%20jars%20and%20dried%20herbs%2C%20a%20mushroom-ringed%20cabin%20in%20the%20woods%2C%20crows%20on%20a%20garden%20fence%2C%20a%20tea%20party%20for%20ghosts%2C%20a%20broom%20by%20the%20fireplace%2C%20a%20moonlit%20greenhouse%20and%20a%20porch%20stacked%20with%20pumpkins%20and%20lanterns.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=halloween-coloring-book-prompts-3)
 
-*Why it works:* Teens and adults who love the cozy-witchy aesthetic are one of KDP's fastest-growing seasonal audiences, and the mood sells beyond October.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -106,12 +98,6 @@ Forty spooky-cozy scenes: a witch's cottage kitchen with bubbling cauldron and p
 
 </details>
 
-## Tips for halloween coloring book
-
-- Keep ghosts and monsters smiling for kids; spooky-cute sells, scary returns.
-- For adults, 'spooky-cozy' (witch cottages, candles, black cats, apothecary shelves) outsells horror on KDP.
-- Publish by early September so the book is indexed before the October rush.
-
 ## More prompts like these
 
 - [Easter & Spring Coloring Book Prompts](easter-spring-coloring-book-prompts.md)
@@ -123,4 +109,4 @@ Forty spooky-cozy scenes: a witch's cottage kitchen with bubbling cauldron and p
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/halloween-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/halloween/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

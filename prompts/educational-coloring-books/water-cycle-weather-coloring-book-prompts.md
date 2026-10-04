@@ -1,10 +1,8 @@
-# Water Cycle and Weather Coloring Book Prompts for Kids
+# Water Cycle and Weather Coloring Book: prompts
 
-<img src="../../assets/img/water-cycle-weather-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/water-cycle-weather-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-The water cycle and weather are early science staples, and kids understand evaporation better once they have colored the Sun warming a puddle. These prompts cover a simple rain story for preschoolers, a weather book for 6 to 9 year olds and an in-depth water cycle book with real vocabulary for older kids. Each page holds one idea and one short caption.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=water-cycle-weather-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/water-cycle-weather/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Where does rain come from](#1-where-does-rain-come-from) · [Weather and seasons for ages 6-9](#2-weather-and-seasons-for-ages-6-9) · [The water cycle in depth for ages 9-13](#3-the-water-cycle-in-depth-for-ages-9-13)
 
@@ -17,8 +15,6 @@ A simple water cycle story for little kids: 1. The Sun warms the water in the se
 ```
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=A%20simple%20water%20cycle%20story%20for%20little%20kids%3A%201.%20The%20Sun%20warms%20the%20water%20in%20the%20sea%2C%20lakes%20and%20puddles.%202.%20Tiny%20bits%20of%20water%20rise%20into%20the%20air%20where%20we%20cannot%20see%20them.%203.%20High%20up%2C%20the%20air%20is%20cold%20and%20the%20water%20makes%20clouds.%204.%20The%20clouds%20get%20full%20and%20heavy.%205.%20Rain%20falls%20down.%206.%20When%20it%20is%20very%20cold%2C%20snow%20falls%20instead.%207.%20Rain%20makes%20puddles%2C%20streams%20and%20rivers.%208.%20Rivers%20flow%20back%20to%20the%20sea.%209.%20Plants%20and%20animals%20drink%20the%20water.%2010.%20The%20Sun%20warms%20the%20water%20again%20and%20the%20cycle%20goes%20round.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=water-cycle-weather-coloring-book-prompts-1)
-
-*Why it works:* Preschool and kindergarten teachers want the water cycle as a simple circular story with no hard words, and ten steps fit a two-week weather unit. Its short length is great for home printing.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -47,8 +43,6 @@ Kinds of weather and how we measure them: 1. Sunny. 2. Cloudy. 3. Rainy. 4. Wind
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Kinds%20of%20weather%20and%20how%20we%20measure%20them%3A%201.%20Sunny.%202.%20Cloudy.%203.%20Rainy.%204.%20Windy.%205.%20Snowy%3A%20snowflakes%20have%20six%20sides.%206.%20Foggy%3A%20a%20cloud%20near%20the%20ground.%207.%20Thunderstorms%3A%20we%20see%20lightning%20before%20we%20hear%20thunder.%208.%20Rainbows%3A%20sunlight%20shining%20through%20raindrops.%209.%20Hail%3A%20balls%20of%20ice%20from%20storm%20clouds.%2010.%20Spring.%2011.%20Summer.%2012.%20Fall.%2013.%20Winter.%2014.%20Weather%20tools%3A%20a%20thermometer%2C%20a%20rain%20gauge%20and%20a%20wind%20vane.%20Show%20a%20child%20dressed%20right%20for%20each%20weather%3B%20for%20thunderstorms%20and%20hail%2C%20show%20the%20child%20safely%20indoors%20at%20the%20window.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=water-cycle-weather-coloring-book-prompts-2)
 
-*Why it works:* Grade 1-2 teachers cover weather types, seasons and tools in one unit, and this book matches that outline page for page. Its short length is great for home printing.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -76,8 +70,6 @@ The water cycle with real science words: 1. Most of Earth's water is salty ocean
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=The%20water%20cycle%20with%20real%20science%20words%3A%201.%20Most%20of%20Earth%27s%20water%20is%20salty%20ocean%3B%20only%20about%203%25%20is%20fresh.%202.%20Evaporation%3A%20the%20Sun%20turns%20water%20into%20vapor.%203.%20Transpiration%3A%20plants%20release%20water%20through%20their%20leaves.%204.%20Condensation%3A%20vapor%20cools%20into%20droplets%20and%20forms%20clouds.%205.%20Cloud%20types%3A%20cumulus%2C%20stratus%2C%20cirrus%2C%20cumulonimbus.%206.%20Precipitation%3A%20rain%2C%20snow%2C%20sleet%2C%20hail.%207.%20Runoff%20into%20streams.%208.%20Infiltration%20into%20soil.%209.%20Groundwater%20and%20aquifers.%2010.%20Glaciers%20and%20ice%20caps%20store%20fresh%20water.%2011.%20Water%20treatment.%2012.%20Saving%20water.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=water-cycle-weather-coloring-book-prompts-3)
 
-*Why it works:* Upper elementary teachers need evaporation, transpiration and infiltration taught as separate steps, and homeschoolers get a ready-made unit. Its short length is great for home printing.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -95,12 +87,6 @@ The water cycle with real science words: 1. Most of Earth's water is salty ocean
 
 </details>
 
-## Tips for water cycle and weather coloring book
-
-- Write the cycle as a sequence of steps so the pages follow the water from the sea, up to the clouds and back.
-- Use the four key words, evaporation, condensation, precipitation and collection, from age 6 up.
-- For weather books, pair each kind of weather with what you wear or do in it; young kids remember the umbrella.
-
 ## More prompts like these
 
 - [Human Body Coloring Book Prompts: Senses, Organs & Body Systems](human-body-coloring-book-prompts.md)
@@ -112,4 +98,4 @@ The water cycle with real science words: 1. Most of Earth's water is salty ocean
 
 ---
 
-[All educational coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/educational-coloring-books/water-cycle-weather-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All educational coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/educational-coloring-books/water-cycle-weather/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

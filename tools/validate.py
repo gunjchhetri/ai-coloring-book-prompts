@@ -143,6 +143,8 @@ def check_file(path, errors, seen_slugs):
         if slug in seen_slugs:
             _err(errors, where, "slug used twice")
         seen_slugs.add(slug)
+        if "index" in page and not isinstance(page["index"], bool):
+            _err(errors, where, "index must be true or false")
         for key in ("title", "metaDescription", "intro", "keywords", "tips", "prompts"):
             if not page.get(key):
                 _err(errors, where, f"missing '{key}'")

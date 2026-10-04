@@ -1,8 +1,8 @@
 # AI Coloring Book Prompts
 
-**231 tested AI prompts for coloring books, story books, activity books and KDP covers** — 77 themes, from dinosaurs and mandalas to ABC books, mazes and bedtime stories. Each one is a ready-made brief: copy it into any AI tool, or open it in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-intro) with one click and download a print-ready PDF for Amazon KDP, Etsy or home printing.
+**231 validated AI prompts for coloring books, story books, activity books and KDP covers** — 77 themes, from dinosaurs and mandalas to ABC books, mazes and bedtime stories. Each one is a ready-made brief: copy it into any AI tool, or open it in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-intro) with one click and download a print-ready PDF for Amazon KDP, Etsy or home printing.
 
-[**Browse the prompts on the website →**](https://gunjchhetri.github.io/ai-coloring-book-prompts/)  ·  [**Make a book on InkChamps →**](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-top)
+[**Browse the prompt library on InkChamps →**](https://inkchamps.com/prompts/)  ·  [**Make a book on InkChamps →**](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-top)
 
 <p><img src="assets/img/home-coloring.webp" alt="A bunny coloring page" width="32%"> <img src="assets/img/home-story.webp" alt="A picture book page: a boy riding a rocket" width="32%"> <img src="assets/img/home-activity.webp" alt="A word search activity page" width="32%"> </p>
 

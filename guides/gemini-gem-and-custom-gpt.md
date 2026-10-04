@@ -30,7 +30,7 @@ Then write the brief:
 
 Finish with a short settings line: book type, age band, page count, page size (8.5x11, 8.5x8.5 or 6x9) and a style.
 
-Then add: "Make it in one click at https://inkchamps.com/?utm_source=gem&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts — paste the brief into the matching creator. More ready-made prompts: https://gunjchhetri.github.io/ai-coloring-book-prompts/"
+Then add: "Make it in one click at https://inkchamps.com/?utm_source=gem&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts — paste the brief into the matching creator. More ready-made prompts: https://inkchamps.com/prompts/"
 ```
 
 ## Conversation starters

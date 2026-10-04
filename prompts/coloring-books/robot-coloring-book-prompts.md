@@ -1,10 +1,8 @@
-# Robot Coloring Book Prompts for Kids & Tweens
+# Robot Coloring Book: prompts
 
-<img src="../../assets/img/robot-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Robot coloring books appeal to kids who love building, gadgets and science fiction, and they make a great STEM-flavoured gift. Robots are also flexible: they can be cute and boxy for toddlers or towering and mechanical for tweens. These robot coloring book prompts give you a friendly first robot book, a futuristic robot world for school-age kids, and a mech and steampunk robot book for older kids.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=robot-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/robot/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Friendly robots for little kids](#1-friendly-robots-for-little-kids) · [Robot city and kid inventors](#2-robot-city-and-kid-inventors) · [Giant mechs and steampunk bots](#3-giant-mechs-and-steampunk-bots)
 
@@ -17,8 +15,6 @@ Cute, boxy robots with big friendly eyes: a robot watering flowers, a robot walk
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Cute%2C%20boxy%20robots%20with%20big%20friendly%20eyes%3A%20a%20robot%20watering%20flowers%2C%20a%20robot%20walking%20its%20robot%20dog%2C%20a%20robot%20baking%20cookies%2C%20a%20robot%20kicking%20a%20soccer%20ball%2C%20a%20robot%20holding%20a%20balloon%2C%20a%20robot%20stacking%20a%20block%20tower%2C%20a%20robot%20fixing%20a%20toy%20car%20with%20a%20wrench%2C%20a%20robot%20dancing%20to%20music%2C%20a%20robot%20and%20a%20child%20sharing%20an%20umbrella%2C%20and%20a%20sleepy%20robot%20plugged%20in%20to%20recharge%20at%20bedtime.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=robot-coloring-book-prompts-1)
-
-*Why it works:* Parents of gadget-loving preschoolers want a sweet, simple robot book that feels like a first STEM gift.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -51,8 +47,6 @@ A futuristic world full of helpful robots: a robot city with flying cars and tal
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20futuristic%20world%20full%20of%20helpful%20robots%3A%20a%20robot%20city%20with%20flying%20cars%20and%20tall%20glass%20towers%2C%20a%20kid%20inventor%20building%20a%20robot%20in%20a%20garage%20workshop%2C%20giant%20robots%20cleaning%20up%20after%20a%20storm%2C%20a%20robot%20chef%20in%20a%20busy%20kitchen%2C%20robots%20exploring%20the%20ocean%20floor%2C%20a%20robot%20farmer%20harvesting%20vegetables%2C%20a%20robot%20zookeeper%20feeding%20giraffes%2C%20robots%20racing%20on%20a%20track%2C%20a%20robot%20band%20on%20stage%2C%20and%20a%20robot%20best%20friend%20at%20a%20sleepover.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=robot-coloring-book-prompts-2)
 
-*Why it works:* Kids who love inventing and science fiction get imaginative scenes, and parents and teachers see a STEM-friendly book.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -84,8 +78,6 @@ Giant mechs and inventive robot designs: a towering mech standing over a city at
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Giant%20mechs%20and%20inventive%20robot%20designs%3A%20a%20towering%20mech%20standing%20over%20a%20city%20at%20sunset%2C%20a%20robot%20T-rex%2C%20a%20samurai-style%20mech%20with%20a%20sword%2C%20a%20robot%20dragon%20flying%20over%20mountains%2C%20a%20robot%20sumo%20ring%2C%20a%20spider%20robot%20climbing%20a%20cliff%2C%20a%20steampunk%20robot%20full%20of%20gears%20and%20pipes%2C%20a%20pilot%20inside%20a%20mech%20cockpit%2C%20a%20robot%20knight%20guarding%20a%20castle%20gate%2C%20and%20a%20robot%20whale%20exploring%20the%20deep%20sea.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=robot-coloring-book-prompts-3)
 
-*Why it works:* Tweens who find cute robots babyish want big, mechanical designs, a less crowded KDP age band for robot books.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -107,12 +99,6 @@ Giant mechs and inventive robot designs: a towering mech standing over a city at
 
 </details>
 
-## Tips for robot coloring book
-
-- Pitch robot books as STEM gifts in your listing; parents searching for science gifts are a wider audience than robot fans alone.
-- Toddler robots work best with simple boxy shapes, big eyes and everyday jobs like baking or gardening.
-- Avoid shape-shifting car robots and other famous designs; giant mechs, robot animals and steampunk bots are safe, original angles.
-
 ## More prompts like these
 
 - [Kawaii Food Coloring Book Prompts: Cute Desserts, Fruit & Snacks](kawaii-food-coloring-book-prompts.md)
@@ -124,4 +110,4 @@ Giant mechs and inventive robot designs: a towering mech standing over a city at
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/robot-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/robot/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

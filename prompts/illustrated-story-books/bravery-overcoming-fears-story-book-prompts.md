@@ -1,10 +1,8 @@
-# Bravery Story Book Prompts: Picture Books About Overcoming Fears
+# Bravery Story Book: prompts
 
-<img src="../../assets/img/bravery-overcoming-fears-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/bravery-overcoming-fears-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="280" align="right">
 
-Children's fears are real to them, and a picture book about bravery shows that being brave means feeling scared and trying anyway. These prompts tackle the classic fears, the dark, the monster under the bed and the deep end of the pool, with warmth and a little humour. Parents use them to talk through a specific worry, and KDP sellers find steady demand in the emotional-growth niche.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bravery-overcoming-fears-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/illustrated-story-books/bravery-overcoming-fears/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [The monster under Milo's bed](#1-the-monster-under-milos-bed) · [Nora and the deep end](#2-nora-and-the-deep-end) · [Ivy follows the night noises](#3-ivy-follows-the-night-noises)
 
@@ -17,8 +15,6 @@ Milo, a boy in fuzzy dinosaur slippers, hears scratching under his bed. He's sur
 ```
 
 [**▶ Make this illustrated story book on InkChamps**](https://inkchamps.com/dashboard/?tool=illustrative-story-book&prompt=Milo%2C%20a%20boy%20in%20fuzzy%20dinosaur%20slippers%2C%20hears%20scratching%20under%20his%20bed.%20He%27s%20sure%20it%27s%20a%20monster.%20With%20his%20flashlight%20shaking%2C%20he%20peeks%20underneath%20and%20finds%20Gus%2C%20a%20small%20purple%20monster%20with%20one%20horn%2C%20hiding%20and%20trembling.%20Gus%20is%20scared%20of%20the%20dark%20up%20on%20top%20of%20the%20bed.%20Milo%20shows%20Gus%20his%20night-light%20and%20his%20teddy%3B%20Gus%20shows%20Milo%20that%20the%20shadows%20on%20the%20wall%20are%20just%20his%20coat%20and%20his%20kite.%20They%20agree%20to%20be%20brave%20together%2C%20and%20they%20both%20sleep%20with%20the%20flashlight%20on.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bravery-overcoming-fears-story-book-prompts-1)
-
-*Why it works:* Parents of children scared at night get a funny twist that shrinks the monster, the kind of book kids ask for every night.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -51,8 +47,6 @@ Nora, a girl with goggles pushed up on her forehead, spends every summer day at 
 
 [**▶ Make this illustrated story book on InkChamps**](https://inkchamps.com/dashboard/?tool=illustrative-story-book&prompt=Nora%2C%20a%20girl%20with%20goggles%20pushed%20up%20on%20her%20forehead%2C%20spends%20every%20summer%20day%20at%20the%20pool%20but%20never%20goes%20past%20the%20rope%20into%20the%20deep%20end.%20Her%20friends%20jump%20and%20splash%3B%20Nora%20sits%20on%20the%20edge.%20Her%20grandma%2C%20a%20retired%20lifeguard%20in%20a%20flowered%20swim%20cap%2C%20teaches%20her%20one%20small%20thing%20each%20week%3A%20blowing%20bubbles%2C%20floating%20like%20a%20starfish%2C%20kicking%20to%20the%20wall.%20On%20the%20last%20day%20of%20summer%2C%20Nora%20takes%20a%20big%20breath%20and%20jumps.%20She%20bobs%20up%20laughing%2C%20and%20Grandma%20is%20there.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bravery-overcoming-fears-story-book-prompts-2)
 
-*Why it works:* Kids nervous about swimming see bravery built in small steps, which parents can copy at the real pool.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -84,8 +78,6 @@ Ivy, a girl with a long yellow scarf, has just moved into a creaky old house by 
 
 [**▶ Make this illustrated story book on InkChamps**](https://inkchamps.com/dashboard/?tool=illustrative-story-book&prompt=Ivy%2C%20a%20girl%20with%20a%20long%20yellow%20scarf%2C%20has%20just%20moved%20into%20a%20creaky%20old%20house%20by%20the%20woods%2C%20and%20at%20night%20it%27s%20full%20of%20noises.%20Clutching%20her%20torch%2C%20she%20sets%20out%20to%20find%20each%20one%3A%20the%20clank%20is%20the%20old%20radiator%2C%20the%20whisper%20is%20wind%20in%20the%20chimney%2C%20the%20tapping%20is%20a%20branch%20on%20the%20window%20and%20the%20thump%20is%20her%20cat%20Pickle%20chasing%20a%20moth.%20By%20the%20last%20noise%2C%20Ivy%20is%20more%20curious%20than%20scared.%20She%20climbs%20back%20into%20bed%20and%20listens%20to%20the%20house%20hum%20like%20a%20friend.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bravery-overcoming-fears-story-book-prompts-3)
 
-*Why it works:* Cinematic night-time spreads make the dark look beautiful instead of scary, a good fit for children who have just moved house.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -107,12 +99,6 @@ Ivy, a girl with a long yellow scarf, has just moved into a creaky old house by 
 
 </details>
 
-## Tips for bravery story book
-
-- Name the exact fear in the brief (the dark, swimming, a noise at night) so the story meets the child where they are.
-- Let the scary thing turn out smaller, sillier or kinder than expected.
-- Show bravery as small steps across several pages, not one sudden leap.
-
 ## More prompts like these
 
 - [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md)
@@ -124,4 +110,4 @@ Ivy, a girl with a long yellow scarf, has just moved into a creaky old house by 
 
 ---
 
-[All illustrated children's story books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/illustrated-story-books/bravery-overcoming-fears-story-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All illustrated children's story books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/illustrated-story-books/bravery-overcoming-fears/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

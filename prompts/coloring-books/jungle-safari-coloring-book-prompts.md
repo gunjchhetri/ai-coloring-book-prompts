@@ -1,10 +1,8 @@
-# Jungle & Safari Animal Coloring Book Prompts
+# Jungle & Safari Animal Coloring Book: prompts
 
-<img src="../../assets/img/jungle-safari-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/jungle-safari-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Jungle and safari animals are a classic coloring theme that never fades: lions, elephants, giraffes and monkeys are instantly recognisable, and kids love the adventure of a safari. Parents buy these books for zoo trips, and teachers use them for animal habitat lessons. These jungle safari coloring book prompts cover a baby-animal book for toddlers, a safari adventure for school-age kids, and a detailed safari mandala book for adults.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=jungle-safari-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/jungle-safari/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Little safari friends](#1-little-safari-friends) · [Rainforest and savanna adventure](#2-rainforest-and-savanna-adventure) · [Safari animal mandalas for adults](#3-safari-animal-mandalas-for-adults)
 
@@ -17,8 +15,6 @@ Happy baby animals on a gentle safari: a lion cub chasing a butterfly, a baby el
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Happy%20baby%20animals%20on%20a%20gentle%20safari%3A%20a%20lion%20cub%20chasing%20a%20butterfly%2C%20a%20baby%20elephant%20spraying%20water%20from%20its%20trunk%2C%20a%20giraffe%20stretching%20for%20leaves%2C%20a%20zebra%20foal%20beside%20its%20mother%2C%20a%20hippo%20blowing%20bubbles%20in%20the%20river%2C%20a%20monkey%20swinging%20on%20a%20vine%2C%20a%20sleepy%20sloth%20hanging%20from%20a%20branch%2C%20a%20toucan%20on%20a%20banana%20leaf%2C%20a%20baby%20rhino%20rolling%20in%20mud%2C%20and%20a%20tiger%20cub%20napping%20in%20tall%20grass.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=jungle-safari-coloring-book-prompts-1)
-
-*Why it works:* Parents of toddlers buy big, friendly zoo and safari animals to teach animal names and fill a rainy afternoon.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -51,8 +47,6 @@ A safari adventure from rainforest to savanna: kids in a safari jeep watching el
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20safari%20adventure%20from%20rainforest%20to%20savanna%3A%20kids%20in%20a%20safari%20jeep%20watching%20elephants%20at%20a%20watering%20hole%2C%20a%20lion%20pride%20resting%20on%20a%20rock%2C%20a%20cheetah%20racing%20across%20the%20grassland%2C%20gorillas%20in%20a%20misty%20mountain%20forest%2C%20a%20jaguar%20on%20a%20branch%20above%20a%20river%2C%20macaws%20in%20the%20rainforest%20canopy%2C%20a%20crocodile%20sliding%20into%20the%20water%2C%20meerkats%20standing%20on%20lookout%2C%20flamingos%20wading%20in%20a%20lake%2C%20and%20a%20hot%20air%20balloon%20over%20the%20herds%20at%20sunrise.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=jungle-safari-coloring-book-prompts-2)
 
-*Why it works:* School-age kids enjoy full scenes with explorers and real habitats, and teachers use it for animal and habitat lessons.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -84,8 +78,6 @@ Wild animals filled with intricate patterns: a lion whose mane becomes swirling 
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Wild%20animals%20filled%20with%20intricate%20patterns%3A%20a%20lion%20whose%20mane%20becomes%20swirling%20mandalas%2C%20an%20elephant%20decorated%20with%20henna-style%20designs%2C%20a%20giraffe%20with%20ornamental%20spots%2C%20a%20zebra%20whose%20stripes%20turn%20into%20geometric%20shapes%2C%20a%20tiger%20peering%20through%20patterned%20jungle%20leaves%2C%20a%20gorilla%20cradling%20its%20baby%20among%20patterned%20leaves%2C%20a%20rhino%20at%20a%20lily-covered%20watering%20hole%2C%20a%20leopard%20draped%20over%20a%20branch%2C%20a%20chameleon%20on%20a%20fern%2C%20and%20a%20toucan%20among%20tropical%20flowers.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=jungle-safari-coloring-book-prompts-3)
 
-*Why it works:* Adult colorists love patterned wildlife, and safari mandalas are one of the most searched animal sub-niches on KDP.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -107,12 +99,6 @@ Wild animals filled with intricate patterns: a lion whose mane becomes swirling 
 
 </details>
 
-## Tips for jungle & safari animal coloring book
-
-- Pair rainforest animals with savanna animals in one book to rank for both jungle and safari keywords.
-- For toddlers, show baby animals with their mothers; for older kids, add explorers, jeeps and binoculars to make it an adventure.
-- Elephants, lions and giraffes carry mandala patterns beautifully, which makes safari a good crossover into the adult market.
-
 ## More prompts like these
 
 - [Cat Coloring Book Prompts: Kittens, Cozy Cats & Cat Mandalas](cat-coloring-book-prompts.md)
@@ -124,4 +110,4 @@ Wild animals filled with intricate patterns: a lion whose mane becomes swirling 
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/jungle-safari-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/jungle-safari/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

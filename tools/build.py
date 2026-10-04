@@ -11,6 +11,7 @@ import html
 import json
 import re
 import shutil
+import subprocess
 import sys
 from datetime import date
 from pathlib import Path
@@ -27,9 +28,45 @@ REPO = "gunjchhetri/ai-coloring-book-prompts"
 REPO_URL = f"https://github.com/{REPO}"
 SITE = "https://gunjchhetri.github.io/ai-coloring-book-prompts"
 INKCHAMPS = "https://inkchamps.com"
+# The library's home. These github.io pages point their canonical here so
+# Google ranks inkchamps.com, and the README links here.
+LIBRARY = f"{INKCHAMPS}/prompts"
 CAMPAIGN = "ai-coloring-book-prompts"
 SITE_NAME = "AI Coloring Book Prompts"
-TODAY = date.today().isoformat()
+
+
+def _data_date():
+    """When the prompts last changed (the last commit touching data/), not when
+    the build ran: a date that moves on every rebuild is false freshness."""
+    try:
+        out = subprocess.run(["git", "log", "-1", "--format=%cs", "--", "data"], cwd=ROOT,
+                             capture_output=True, text=True, check=True).stdout.strip()
+        return out or date.today().isoformat()
+    except (OSError, subprocess.CalledProcessError):
+        return date.today().isoformat()
+
+
+DATA_DATE = _data_date()
+
+# A theme's address on inkchamps.com drops the words its category already
+# says: /prompts/coloring-books/dinosaur/, not .../dinosaur-coloring-book-prompts/.
+URL_SUFFIXES = ("-story-coloring-book-prompts", "-coloring-book-prompts", "-story-book-prompts",
+                "-activity-book-prompts", "-prompts")
+
+
+def url_slug(slug):
+    for suffix in URL_SUFFIXES:
+        if slug.endswith(suffix):
+            return slug[: -len(suffix)]
+    return slug
+
+
+def library_url(category, page=None):
+    return f"{LIBRARY}/{category}/{url_slug(page['slug'])}/" if page else f"{LIBRARY}/{category}/"
+
+
+def theme_name(page):
+    return page["title"].split(" Prompts")[0]
 
 CATEGORY_ORDER = list(S.CATEGORIES)
 NAV_LABELS = {
@@ -165,15 +202,17 @@ def github_anchor(text):
 
 def md_prompt_page(category, page, pages):
     meta = S.CATEGORIES[category]
-    out = [f"# {page['title']}", ""]
+    # The prompts are the open data and stay here in full. The article around
+    # them (intro, tips, sample pages) lives on InkChamps, so the two pages are
+    # not copies of each other competing for the same searches.
+    out = [f"# {theme_name(page)}: prompts", ""]
     src = images.image_for(page["slug"], category)
     if src:
-        out += [f'<img src="../../{src}" alt="Sample {meta["singular"]} page made with InkChamps" width="320" align="right">', ""]
-    out += [page["intro"], ""]
+        out += [f'<img src="../../{src}" alt="Sample {meta["singular"]} page made with InkChamps" width="280" align="right">', ""]
     out += [
-        f"> **Make any of these in one click.** Each prompt opens in [InkChamps]({inkchamps_link('github', page['slug'])}), "
-        f"the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. "
-        f"Or copy the brief into any AI tool you like.",
+        f"{len(page['prompts'])} prompts. The full page, with sample pages and tips, is in the "
+        f"[InkChamps prompt library]({library_url(category, page)}). Each prompt below opens in InkChamps with one click; "
+        "or copy the brief into any AI tool.",
         "",
         "**Prompts on this page:** " + " · ".join(
             f"[{p['name']}](#{github_anchor(f'{i + 1}. ' + p['name'])})" for i, p in enumerate(page["prompts"])
@@ -190,8 +229,6 @@ def md_prompt_page(category, page, pages):
         out += [
             f"[**▶ Make this {meta['singular']} on InkChamps**]({make_link(category, prompt, page['slug'], i, 'github')})",
             "",
-            f"*Why it works:* {prompt['why']}",
-            "",
             "<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>",
             "",
             "```json",
@@ -201,16 +238,14 @@ def md_prompt_page(category, page, pages):
             "</details>",
             "",
         ]
-    out += [f"## Tips for {page['title'].split(' Prompts')[0].lower()}", ""]
-    out += [f"- {tip}" for tip in page["tips"]]
-    out += ["", "## More prompts like these", ""]
+    out += ["## More prompts like these", ""]
     out += [f"- [{p['title']}]({p['slug']}.md)" for p in related(pages, page["slug"])]
     out += [
         "",
         "---",
         "",
         f"[All {meta['label'].lower()} prompts](README.md) · [Every prompt in the library](../../README.md) · "
-        f"[Browse on the website]({SITE}/{category}/{page['slug']}/) · "
+        f"[This page on InkChamps]({library_url(category, page)}) · "
         f"Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps]({inkchamps_link('github', 'footer')})",
         "",
     ]
@@ -246,13 +281,13 @@ def md_readme(data):
     out = [
         "# AI Coloring Book Prompts",
         "",
-        f"**{total} tested AI prompts for coloring books, story books, activity books and KDP covers** — "
+        f"**{total} validated AI prompts for coloring books, story books, activity books and KDP covers** — "
         f"{themes} themes, from dinosaurs and mandalas to ABC books, mazes and bedtime stories. "
         "Each one is a ready-made brief: copy it into any AI tool, or open it in "
         f"[InkChamps]({inkchamps_link('github', 'readme-intro')}) with one click and download a print-ready PDF "
         "for Amazon KDP, Etsy or home printing.",
         "",
-        f"[**Browse the prompts on the website →**]({SITE}/)  ·  [**Make a book on InkChamps →**]({inkchamps_link('github', 'readme-top')})",
+        f"[**Browse the prompt library on InkChamps →**]({LIBRARY}/)  ·  [**Make a book on InkChamps →**]({inkchamps_link('github', 'readme-top')})",
         "",
         "<p>" + "".join(
             f'<img src="assets/img/{k}.webp" alt="{alt}" width="32%"> '
@@ -336,265 +371,103 @@ FAQ = [
 
 
 # ---------------------------------------------------------------- html (GitHub Pages)
+#
+# The library's website is inkchamps.com/prompts/. GitHub Pages only forwards:
+# every page it used to serve is a one-line redirect (an instant meta refresh,
+# which Google treats as a permanent redirect, plus a canonical) to the page
+# that replaced it, so there is one version of each page for search engines.
+# The one page that stays here is the Gemini Gem / custom GPT guide, which has
+# no other home.
+
+# Guides that now live elsewhere; the rest keep a page here.
+GUIDE_HOMES = {
+    "how-to-use-these-prompts": f"{LIBRARY}/",
+    "ai-agents-mcp": f"{INKCHAMPS}/blog/how-to-automate-coloring-book-creation-with-inkchamps-mcp/",
+    "sell-ai-coloring-books-on-amazon-kdp": f"{INKCHAMPS}/blog/sell-ai-generated-coloring-books-amazon/",
+}
 
 FONTS = ("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800"
          "&family=Inter:wght@400;500;600&display=swap")
 
-# Restrained: white pages, InkChamps ink for text and the primary action, and
-# InkChamps coral only as a small accent. The colour comes from the book pages.
 CSS = """
 :root{
-  --bg:oklch(99.2% 0.002 285);--surface:#fff;--sunk:oklch(97% 0.006 285);--sunk-2:oklch(94.5% 0.009 285);
+  --bg:oklch(99.2% 0.002 285);--surface:#fff;--sunk:oklch(97% 0.006 285);
   --ink:oklch(26% 0.045 285);--ink-2:oklch(44% 0.03 285);--ink-3:oklch(56% 0.02 285);
-  --line:oklch(91.5% 0.01 285);--line-2:oklch(86% 0.014 285);
-  --accent:oklch(66% 0.19 32);--accent-ink:oklch(52% 0.17 32);--accent-soft:oklch(96% 0.025 40);
-  --radius:14px;--radius-sm:10px;--shadow:0 1px 2px oklch(26% 0.045 285 / .06),0 8px 24px -12px oklch(26% 0.045 285 / .18);
+  --line:oklch(91.5% 0.01 285);--accent-ink:oklch(52% 0.17 32);
   --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;--body:"Inter",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
-  --ease:cubic-bezier(.22,1,.36,1);
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;color-scheme:light}
 body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.6 var(--body);-webkit-font-smoothing:antialiased}
-img{display:block;max-width:100%;height:auto}
 a{color:inherit}
 :focus-visible{outline:2px solid var(--accent-ink);outline-offset:3px;border-radius:4px}
 .wrap{width:min(1160px,100% - 40px);margin-inline:auto}
 h1,h2,h3{font-family:var(--display);color:var(--ink);text-wrap:balance;letter-spacing:-0.02em;margin:0}
-h1{font-size:clamp(2.1rem,1.4rem + 2.6vw,3.5rem);line-height:1.05;font-weight:800}
-h2{font-size:clamp(1.5rem,1.2rem + 1vw,2rem);line-height:1.15;font-weight:700}
-h3{font-size:1.125rem;line-height:1.3;font-weight:700}
-p{margin:0}
-.lead{font-size:clamp(1.05rem,1rem + .3vw,1.2rem);color:var(--ink-2);max-width:62ch;text-wrap:pretty}
-.muted{color:var(--ink-2)}
-
-/* header */
-.top{position:sticky;top:0;z-index:10;background:oklch(99.2% 0.002 285 / .9);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
-.top .wrap{display:flex;align-items:center;gap:28px;min-height:64px}
-.brand{display:flex;align-items:baseline;gap:8px;text-decoration:none;white-space:nowrap}
-.brand b{font:800 1.12rem/1 var(--display);letter-spacing:-0.02em}
-.brand span{font-size:.8rem;color:var(--ink-3)}
-.nav{display:flex;gap:4px;margin-left:auto}
-.nav a{white-space:nowrap;text-decoration:none;color:var(--ink-2);font-size:.92rem;font-weight:500;padding:8px 10px;border-radius:8px;transition:background .2s var(--ease),color .2s var(--ease)}
-.nav a:hover,.nav a[aria-current]{color:var(--ink);background:var(--sunk)}
-
-/* buttons */
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:600 .95rem/1 var(--body);text-decoration:none;border-radius:999px;padding:13px 20px;border:1px solid transparent;cursor:pointer;transition:transform .25s var(--ease),background .2s var(--ease),border-color .2s var(--ease),box-shadow .25s var(--ease)}
-.btn-primary{background:var(--ink);color:#fff}
-.btn-primary:hover{background:oklch(33% 0.06 285);transform:translateY(-1px);box-shadow:0 10px 20px -10px oklch(26% 0.045 285 / .5)}
-.btn-ghost{background:var(--surface);color:var(--ink);border-color:var(--line-2)}
-.btn-ghost:hover{border-color:var(--ink-3)}
-.btn-sm{padding:9px 14px;font-size:.85rem}
-.arrow{transition:transform .25s var(--ease)}
-.btn:hover .arrow,.more:hover .arrow{transform:translateX(3px)}
-
-/* home hero */
-.hero{padding:clamp(40px,6vw,88px) 0 clamp(40px,5vw,72px);display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(32px,5vw,72px);align-items:center}
-.hero h1 .accent{color:oklch(59% 0.2 31)}
-.hero .lead{margin-top:20px}
-.disclosure{margin-top:12px;font-size:.9rem;color:var(--ink-2)}
-.hero .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:32px}
-.facts{display:flex;flex-wrap:wrap;gap:8px 22px;margin:28px 0 0;padding:0;list-style:none;color:var(--ink-2);font-size:.92rem}
-.facts b{color:var(--ink);font-weight:600}
-.stack{position:relative;aspect-ratio:1/0.92}
-.sheet{position:absolute;background:#fff;border-radius:12px;padding:10px;box-shadow:var(--shadow);border:1px solid var(--line);overflow:hidden;animation:settle .9s var(--ease) both}
-.sheet img{width:100%;height:100%;object-fit:cover;border-radius:6px}
-.sheet:nth-child(1){left:0;top:8%;width:52%;aspect-ratio:3/4;transform:rotate(-4deg);--r:-4deg}
-.sheet:nth-child(2){right:2%;top:0;width:54%;aspect-ratio:1;transform:rotate(3deg);z-index:2;animation-delay:.08s;--r:3deg}
-.sheet:nth-child(3){left:24%;bottom:0;width:46%;aspect-ratio:1;transform:rotate(-1deg);z-index:3;animation-delay:.16s;--r:-1deg}
-@keyframes settle{from{opacity:.001;transform:translateY(14px) rotate(var(--r))}to{opacity:1;transform:rotate(var(--r))}}
-
-/* sections */
-.section{padding:clamp(40px,5vw,72px) 0}
-.section + .section{border-top:1px solid var(--line)}
-.section-head{display:flex;align-items:end;justify-content:space-between;gap:16px;margin-bottom:24px;flex-wrap:wrap}
-.section-head p{margin-top:8px;color:var(--ink-2);max-width:60ch}
-.more{display:inline-flex;gap:6px;align-items:center;font-weight:600;font-size:.92rem;text-decoration:none;color:var(--accent-ink);white-space:nowrap}
-
-/* kinds of book */
-.kinds{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
-.kind{grid-column:span 3;position:relative;display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;text-decoration:none;transition:border-color .25s var(--ease),box-shadow .3s var(--ease),transform .3s var(--ease)}
-.kind:nth-child(-n+2){grid-column:span 6}
-.kind:hover{border-color:var(--line-2);box-shadow:var(--shadow);transform:translateY(-2px)}
-.kind figure{margin:0;aspect-ratio:16/10;background:var(--sunk);overflow:hidden}
-.kind:nth-child(-n+2) figure{aspect-ratio:16/9}
-.kind figure img{width:100%;height:100%;object-fit:cover;transition:transform .6s var(--ease)}
-.kind:hover figure img{transform:scale(1.03)}
-.kind .body{padding:16px 18px 18px;display:grid;gap:4px}
-.kind .count{font-size:.85rem;color:var(--ink-3);font-weight:500}
-.kind p{color:var(--ink-2);font-size:.93rem}
-
-/* theme tiles */
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px 16px}
-.tile{text-decoration:none;display:grid;gap:10px}
-.tile figure{margin:0;aspect-ratio:4/3;border-radius:var(--radius-sm);background:var(--surface);border:1px solid var(--line);overflow:hidden;padding:8px}
-.tile figure img{width:100%;height:100%;object-fit:cover;border-radius:6px;transition:transform .6s var(--ease)}
-.tile:hover figure img{transform:scale(1.04)}
-.tile h3{font-size:1rem;line-height:1.3}
-.tile:hover h3{color:var(--accent-ink)}
-.tile .meta{font-size:.84rem;color:var(--ink-3);margin-top:-6px}
-
-/* page hero (category, theme) */
+h1{font-size:clamp(2rem,1.5rem + 2vw,3rem);line-height:1.08;font-weight:800}
+.top{border-bottom:1px solid var(--line);background:#fff}
+.top .wrap{display:flex;align-items:center;gap:24px;min-height:64px;flex-wrap:wrap}
+.brand{font:800 1.08rem/1 var(--display);letter-spacing:-0.02em;text-decoration:none}
+.nav{display:flex;gap:4px;margin-left:auto;overflow-x:auto;scrollbar-width:none}
+.nav a{white-space:nowrap;text-decoration:none;color:var(--ink-2);font-size:.92rem;font-weight:500;padding:8px 10px;border-radius:8px}
+.nav a:hover{color:var(--ink);background:var(--sunk)}
 .crumbs{font-size:.85rem;color:var(--ink-3);padding-top:24px}
 .crumbs a{color:var(--ink-2);text-decoration:none}
-.crumbs a:hover{color:var(--ink);text-decoration:underline}
-.page-hero{display:grid;grid-template-columns:1.25fr .75fr;gap:clamp(28px,5vw,64px);align-items:center;padding:clamp(20px,3vw,36px) 0 clamp(36px,4vw,56px)}
-.page-hero .lead{margin-top:16px}
-.page-hero .frame{justify-self:center;width:100%;max-width:380px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:12px;box-shadow:var(--shadow);transform:rotate(1.5deg)}
-.page-hero .frame img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px}
-.chips{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:22px 0 0}
-.chips li{font-size:.85rem;font-weight:500;color:var(--ink-2);background:var(--sunk);border:1px solid var(--line);padding:5px 11px;border-radius:999px}
-.howto{display:flex;flex-wrap:wrap;gap:12px 28px;align-items:center;margin-top:26px;font-size:.92rem;color:var(--ink-2)}
-
-/* prompts */
-.prompts{display:grid;gap:20px;padding-bottom:16px}
-.prompt{display:grid;grid-template-columns:290px 1fr;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;scroll-margin-top:84px}
-.prompt .spec{padding:24px;background:var(--sunk);border-right:1px solid var(--line)}
-.prompt .num{font:700 .82rem/1 var(--body);color:var(--accent-ink);font-variant-numeric:tabular-nums}
-.prompt h2{font-size:1.3rem;margin-top:8px}
-.spec dl{display:grid;gap:9px;margin:20px 0 0;font-size:.88rem}
-.spec dl div{display:grid;grid-template-columns:76px 1fr;gap:12px}
-.spec dt{color:var(--ink-3)}
-.spec dd{margin:0;color:var(--ink);font-weight:500}
-.prompt .main{padding:24px;display:grid;gap:16px;align-content:start}
-.brief{background:var(--sunk);border-radius:var(--radius-sm)}
-.brief-bar{display:flex;align-items:center;justify-content:space-between;padding:10px 10px 0 16px;font-size:.8rem;font-weight:600;color:var(--ink-2)}
-.copy{font:600 .8rem/1 var(--body);color:var(--ink);background:#fff;border:1px solid var(--line-2);border-radius:8px;padding:7px 12px;cursor:pointer;transition:border-color .2s var(--ease),background .2s var(--ease)}
-.copy:hover{border-color:var(--ink-3)}
-.copy[data-done]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent-ink)}
-.brief p{padding:10px 16px 16px;font-size:1rem;line-height:1.7;color:var(--ink);white-space:pre-wrap;text-wrap:pretty;max-width:75ch}
-.extra{font-size:.92rem;color:var(--ink-2)}
-.why{font-size:.93rem;color:var(--ink-2)}
-.why b{color:var(--ink);font-weight:600}
-.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
-details.agent{font-size:.88rem;border-top:1px solid var(--line);padding-top:12px}
-details.agent summary{cursor:pointer;color:var(--ink-2);font-weight:500;list-style:none;display:inline-flex;gap:6px;align-items:center}
-details.agent summary::-webkit-details-marker{display:none}
-details.agent summary::before{content:"+";font-weight:700;width:12px}
-details.agent[open] summary::before{content:"−"}
-details.agent pre{margin:10px 0 0;background:var(--ink);color:oklch(94% 0.01 285);border-radius:10px;padding:14px;overflow:auto;font:400 .8rem/1.6 ui-monospace,SFMono-Regular,Menlo,monospace}
-
-/* guides */
-.guides{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
-.guides a{display:flex;justify-content:space-between;gap:16px;align-items:center;padding:18px 20px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-sm);text-decoration:none;font-weight:600;transition:border-color .2s var(--ease)}
-.guides a:hover{border-color:var(--line-2);color:var(--accent-ink)}
-.guides a:hover .arrow{transform:translateX(3px)}
-
-/* tips, faq, prose */
-.tips{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;list-style:none;padding:0;margin:0}
-.tips li{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-sm);padding:18px;color:var(--ink-2);font-size:.95rem}
-.faq{display:grid;gap:10px;max-width:820px}
-.faq details{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-sm);padding:4px 18px}
-.faq summary{cursor:pointer;font:700 1.02rem/1.4 var(--display);padding:14px 0;list-style:none;display:flex;justify-content:space-between;gap:16px}
-.faq summary::-webkit-details-marker{display:none}
-.faq summary::after{content:"+";color:var(--ink-3);font-weight:600}
-.faq details[open] summary::after{content:"−"}
-.faq .answer{padding:0 0 16px;color:var(--ink-2)}
-.faq .answer a,.prose a{color:var(--accent-ink)}
 .prose{max-width:72ch;padding:8px 0 40px}
 .prose h1{margin:8px 0 18px}
 .prose h2{margin:40px 0 12px;font-size:1.5rem}
-.prose h3{margin:28px 0 8px}
 .prose p,.prose li{color:var(--ink-2);text-wrap:pretty}
 .prose p{margin:0 0 14px}
 .prose ul,.prose ol{padding-left:22px;margin:0 0 16px}
 .prose li{margin:6px 0}
+.prose a{color:var(--accent-ink)}
 .prose strong{color:var(--ink)}
 .prose code{background:var(--sunk);border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:.88em}
-.prose pre{background:var(--ink);color:oklch(94% 0.01 285);border-radius:12px;padding:16px;overflow:auto;font-size:.85rem;line-height:1.6;margin:0 0 18px}
+.prose pre{background:var(--ink);color:oklch(94% 0.01 285);border-radius:12px;padding:16px;overflow:auto;font-size:.85rem;line-height:1.6;margin:0 0 18px;white-space:pre-wrap}
 .prose pre code{background:none;border:0;padding:0;color:inherit}
-.prose blockquote{margin:0 0 16px;padding:14px 18px;background:var(--sunk);border-radius:10px}
-.table{overflow-x:auto;margin:0 0 18px}
-.prose table{border-collapse:collapse;width:100%;font-size:.92rem}
-.prose th,.prose td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line)}
-.prose th{color:var(--ink);font-weight:600;background:var(--sunk)}
-
-/* closing band + footer */
 .band{background:var(--ink);color:#fff;border-radius:22px;padding:clamp(28px,4vw,48px);display:grid;grid-template-columns:1fr auto;gap:24px;align-items:center;margin:clamp(24px,4vw,48px) 0}
 .band h2{color:#fff}
-.band p{color:oklch(86% 0.02 285);margin-top:8px;max-width:56ch}
-.band .btn{background:#fff;color:var(--ink)}
-.band .btn:hover{background:oklch(95% 0.01 285)}
+.band p{color:oklch(86% 0.02 285);margin:8px 0 0;max-width:56ch}
+.band .btn{display:inline-flex;gap:8px;align-items:center;background:#fff;color:var(--ink);font-weight:600;text-decoration:none;border-radius:999px;padding:13px 20px}
 .foot{border-top:1px solid var(--line);padding:28px 0 44px;font-size:.88rem;color:var(--ink-3)}
-.foot .wrap{display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:space-between}
 .foot a{color:var(--ink-2)}
-
-@media (max-width:900px){
-  .hero,.page-hero{grid-template-columns:1fr}
-  .stack{max-width:520px;width:100%;margin-inline:auto}
-  .page-hero .frame{max-width:320px;transform:none}
-  .kinds{grid-template-columns:1fr 1fr}
-  .kind,.kind:nth-child(-n+2){grid-column:span 1}
-  .prompt{grid-template-columns:1fr}
-  .prompt .spec{border-right:0;border-bottom:1px solid var(--line)}
-  .spec dl{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:14px 16px}
-  .spec dl div{grid-template-columns:1fr;gap:2px}
-  .spec dt{font-size:.78rem}
-  .band{grid-template-columns:1fr}
-}
-@media (max-width:760px){
-  .top .wrap{gap:12px;flex-wrap:wrap;padding:10px 0}
-  .nav{order:3;width:calc(100% + 20px);margin:0 -20px 0 -10px;overflow-x:auto;scrollbar-width:none}
-  .top .btn{margin-left:auto}
-  .brand span{display:none}
-}
-@media (max-width:520px){
-  .brand b{font-size:1rem}
-  .top .btn{padding:8px 12px}
-  .kinds{grid-template-columns:1fr}
-  .tiles{grid-template-columns:1fr 1fr;gap:16px 12px}
-  .prompt .spec,.prompt .main{padding:18px}
-}
-@media (prefers-reduced-motion:reduce){
-  *,*::before,*::after{animation:none!important;transition:none!important}
-}
+@media (max-width:760px){.nav{order:3;width:100%;margin:0}.band{grid-template-columns:1fr}}
 """
-
-COPY_JS = """document.querySelectorAll('.copy').forEach(function(b){b.addEventListener('click',function(){var t=b.closest('.brief').querySelector('p').innerText;navigator.clipboard.writeText(t).then(function(){b.textContent='Copied';b.setAttribute('data-done','');setTimeout(function(){b.textContent='Copy';b.removeAttribute('data-done')},1600)})})});"""
 
 
 def esc(text):
     return html.escape(text, quote=True)
 
 
-def img_tag(src, alt, up, eager=False, sizes="(max-width: 900px) 100vw, 40vw"):
-    if not src:
-        return ""
-    loading = 'fetchpriority="high"' if eager else 'loading="lazy" decoding="async"'
-    return f'<img src="{up}{src}" alt="{esc(alt)}" width="720" height="720" sizes="{sizes}" {loading}>'
+def redirect_html(target):
+    """A forwarding page: instant refresh plus canonical, so search engines see one page."""
+    t = esc(target)
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Moved to InkChamps</title>
+<link rel="canonical" href="{t}">
+<meta http-equiv="refresh" content="0; url={t}">
+<script>location.replace({json.dumps(target)})</script>
+</head>
+<body><p>This page moved to <a href="{t}">{t}</a>.</p></body>
+</html>
+"""
 
 
-def page_image(category, slug=None):
-    return images.image_for(slug, category) if slug else images.image_for(category)
-
-
-def theme_name(page):
-    return page["title"].split(" Prompts")[0]
-
-
-def page_html(path, title, description, body, breadcrumbs, jsonld=None, depth=0, current=None, og_image=None):
-    url = f"{SITE}/{path}" if path else f"{SITE}/"
-    up = "../" * depth
+def page_html(path, title, description, body, breadcrumbs):
+    url = f"{SITE}/{path}"
     crumbs_ld = {
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": i + 1, "name": name, "item": f"{SITE}/{href}" if href else f"{SITE}/"}
+            {"@type": "ListItem", "position": i + 1, "name": name, "item": href}
             for i, (name, href) in enumerate(breadcrumbs)
         ],
     }
-    blocks = [crumbs_ld] + (jsonld or [])
-    ld = "\n".join(f'<script type="application/ld+json">{json.dumps(b, ensure_ascii=False)}</script>' for b in blocks)
-    crumbs = (
-        '<nav class="crumbs wrap" aria-label="Breadcrumb">' + " / ".join(
-            f'<a href="{up}{href}">{esc(name)}</a>' if i < len(breadcrumbs) - 1 else f'<span aria-current="page">{esc(name)}</span>'
-            for i, (name, href) in enumerate(breadcrumbs)
-        ) + "</nav>"
-    ) if len(breadcrumbs) > 1 else ""
-    current_attr = ' aria-current="page"'
-    nav = "".join(
-        f'<a href="{up}{c}/"{current_attr if c == current else ""}>{esc(NAV_LABELS[c])}</a>'
-        for c in CATEGORY_ORDER
+    crumbs = " / ".join(
+        f'<a href="{esc(href)}">{esc(name)}</a>' if i < len(breadcrumbs) - 1 else f'<span aria-current="page">{esc(name)}</span>'
+        for i, (name, href) in enumerate(breadcrumbs)
     )
-    og = f'<meta property="og:image" content="{SITE}/{og_image}">' if og_image else ""
+    nav = "".join(f'<a href="{LIBRARY}/{c}/">{esc(NAV_LABELS[c])}</a>' for c in CATEGORY_ORDER)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -603,180 +476,82 @@ def page_html(path, title, description, body, breadcrumbs, jsonld=None, depth=0,
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{url}">
-<meta name="robots" content="index,follow">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:type" content="article">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{url}">
-{og}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#ffffff">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2326243f'/%3E%3Cpath d='M9 22l10-12 4 4-10 12H9z' fill='%23ff6b57'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
 <style>{CSS}</style>
-{ld}
+<script type="application/ld+json">{json.dumps(crumbs_ld, ensure_ascii=False)}</script>
 </head>
 <body>
 <header class="top"><div class="wrap">
-<a class="brand" href="{up or './'}"><b>{SITE_NAME}</b><span>by InkChamps</span></a>
+<a class="brand" href="{LIBRARY}/">{SITE_NAME}</a>
 <nav class="nav" aria-label="Kinds of book">{nav}</nav>
-<a class="btn btn-primary btn-sm" href="{inkchamps_link('github_pages', 'header')}">Make a book</a>
 </div></header>
-{crumbs}
+<nav class="crumbs wrap" aria-label="Breadcrumb">{crumbs}</nav>
 <main>
 {body}
 </main>
-<footer class="foot"><div class="wrap">
-<span>Free prompts, licensed <a href="{REPO_URL}/blob/main/LICENSE">CC BY 4.0</a>. Sample pages made with InkChamps.</span>
-<span><a href="{REPO_URL}">GitHub</a> · <a href="{up}prompts.json">prompts.json</a> · <a href="{inkchamps_link('github_pages', 'footer')}">InkChamps</a> · Updated {TODAY}</span>
-</div></footer>
-<script>{COPY_JS}</script>
+<footer class="foot"><div class="wrap">Prompts licensed <a href="{REPO_URL}/blob/main/LICENSE">CC BY 4.0</a> · <a href="{REPO_URL}">GitHub</a> · <a href="{LIBRARY}/">The prompt library on InkChamps</a></div></footer>
 </body>
 </html>
 """
 
 
-def band(up_label="Turn any prompt into a finished book", source="band"):
+def band(source):
     return f"""<section class="wrap"><div class="band">
-<div><h2>{esc(up_label)}</h2><p>InkChamps plans every page, draws it at the right line weight for the reader's age, and gives you a print-ready PDF for Amazon KDP, Etsy or home printing.</p></div>
-<a class="btn" href="{inkchamps_link('github_pages', source)}">Open InkChamps <span class="arrow" aria-hidden="true">→</span></a>
+<div><h2>Browse the prompt library</h2><p>Ready-made briefs for coloring, story, activity and educational books and KDP covers, each with its age band, page count and style.</p></div>
+<a class="btn" href="{LIBRARY}/">Open the library <span aria-hidden="true">→</span></a>
 </div></section>"""
-
-
-def tile(category, page, up):
-    src = page_image(category, page["slug"])
-    ages = ages_of(page)
-    meta = f'{len(page["prompts"])} prompts' + (f' · ages {", ".join(ages)}' if ages else "")
-    return (f'<a class="tile" href="{up}{category}/{page["slug"]}/"><figure>{img_tag(src, theme_name(page), up, sizes="240px")}</figure>'
-            f'<div><h3>{esc(theme_name(page))}</h3></div><p class="meta">{esc(meta)}</p></a>')
-
-
-def html_prompt_page(category, page, pages):
-    meta = S.CATEGORIES[category]
-    up = "../../"
-    src = page_image(category, page["slug"])
-    ages = ages_of(page)
-    chips = [f'{len(page["prompts"])} prompts', meta["label"]] + ([f'Ages {", ".join(ages)}'] if ages else [])
-    parts = [f"""<section class="wrap page-hero">
-<div><h1>{esc(page['title'])}</h1><p class="lead">{esc(page['intro'])}</p>
-<ul class="chips">{''.join(f'<li>{esc(c)}</li>' for c in chips)}</ul>
-<div class="howto"><span>Made by the InkChamps team. Copy a brief into any AI tool, or open it in InkChamps already filled in.</span></div></div>
-<div class="frame">{img_tag(src, f"Sample {meta['singular']} page made with InkChamps", up, eager=True)}</div>
-</section>""", '<section class="wrap prompts" aria-label="Prompts">']
-    items = []
-    for i, prompt in enumerate(page["prompts"]):
-        rows = "".join(f"<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>" for k, v in settings(category, prompt))
-        extra = prompt["fields"].get("additionalInstructions")
-        link = make_link(category, prompt, page["slug"], i, "github_pages")
-        parts.append(f"""<article class="prompt" id="prompt-{i + 1}">
-<div class="spec"><span class="num">Prompt {i + 1} of {len(page['prompts'])}</span><h2>{esc(prompt['name'])}</h2><dl>{rows}</dl></div>
-<div class="main">
-<div class="brief"><div class="brief-bar"><span>Brief</span><button class="copy" type="button">Copy</button></div><p>{esc(main_text(category, prompt))}</p></div>
-{f'<p class="extra"><b>Extra direction:</b> {esc(extra)}</p>' if extra else ''}
-<p class="why"><b>Why it works.</b> {esc(prompt['why'])}</p>
-<div class="actions"><a class="btn btn-primary" href="{esc(link)}" rel="nofollow">Make this {esc(meta['singular'])} <span class="arrow" aria-hidden="true">→</span></a></div>
-<details class="agent"><summary>Exact settings for AI agents (InkChamps MCP)</summary><pre>{esc(json.dumps(mcp_call(category, prompt), indent=2, ensure_ascii=False))}</pre></details>
-</div>
-</article>""")
-        items.append({"@type": "ListItem", "position": i + 1, "name": prompt["name"], "url": f"{SITE}/{category}/{page['slug']}/#prompt-{i + 1}"})
-    parts.append("</section>")
-    parts.append(f'<section class="wrap section"><div class="section-head"><h2>Tips for {esc(theme_name(page).lower())}</h2></div>'
-                 '<ul class="tips">' + "".join(f"<li>{esc(t)}</li>" for t in page["tips"]) + "</ul></section>")
-    parts.append(f'<section class="wrap section"><div class="section-head"><h2>More {esc(meta["label"].lower())} prompts</h2>'
-                 f'<a class="more" href="../">All {esc(meta["label"].lower())} <span class="arrow" aria-hidden="true">→</span></a></div>'
-                 '<div class="tiles">' + "".join(tile(category, p, up) for p in related(pages, page["slug"], 4)) + "</div></section>")
-    jsonld = [{
-        "@context": "https://schema.org", "@type": "ItemList", "name": page["title"],
-        "description": page["metaDescription"], "numberOfItems": len(items), "itemListElement": items,
-    }]
-    return page_html(
-        f"{category}/{page['slug']}/", f"{page['title']} | {SITE_NAME}", page["metaDescription"], "\n".join(parts),
-        [(SITE_NAME, ""), (meta["label"], f"{category}/"), (theme_name(page), f"{category}/{page['slug']}/")],
-        jsonld, depth=2, current=category, og_image=src,
-    )
-
-
-def html_category(category, pages):
-    meta = S.CATEGORIES[category]
-    up = "../"
-    n = sum(len(p["prompts"]) for p in pages)
-    description = f"{n} free AI prompts for {meta['label'].lower()} on {len(pages)} themes. {CATEGORY_BLURBS[category]}"
-    src = page_image(category)
-    body = f"""<section class="wrap page-hero">
-<div><h1>{esc(meta['label'])} Prompts</h1><p class="lead">{esc(description)} Each one opens in InkChamps with one click and comes out as a print-ready PDF.</p>
-<ul class="chips"><li>{n} prompts</li><li>{len(pages)} themes</li></ul></div>
-<div class="frame">{img_tag(src, f"Sample {meta['singular']} page made with InkChamps", up, eager=True)}</div>
-</section>
-<section class="wrap section"><div class="tiles">{''.join(tile(category, p, up) for p in pages)}</div></section>
-{band(source=f'band-{category}')}"""
-    return page_html(f"{category}/", f"{meta['label']} Prompts ({n} free AI prompts) | {SITE_NAME}", description[:158],
-                     body, [(SITE_NAME, ""), (meta["label"], f"{category}/")], depth=1, current=category, og_image=src)
-
-
-def html_home(data):
-    total = count_prompts(data)
-    themes = sum(len(p) for p in data.values())
-    description = (f"{total} free AI prompts for coloring books, story books, activity books and KDP covers. "
-                   "Copy them or make the book in one click, print-ready for KDP and Etsy.")
-    sheets = [("home-coloring", "A bold bunny coloring page"), ("home-story", "A picture book page of a boy riding a rocket"),
-              ("home-activity", "A themed word search activity page")]
-    stack = "".join(f'<div class="sheet">{img_tag(images.image_for(k), alt, "", eager=True, sizes="(max-width: 900px) 50vw, 25vw")}</div>' for k, alt in sheets)
-    body = [f"""<section class="wrap hero">
-<div>
-<h1>AI coloring book prompts that become <span class="accent">finished books</span></h1>
-<p class="lead">{total} tested briefs for coloring books, story books, activity books, educational books and KDP covers. Copy one into any AI tool, or open it in InkChamps and download a print-ready PDF.</p>
-<p class="disclosure">Made by the team behind InkChamps. The prompts are free to use anywhere, with or without it.</p>
-<div class="actions"><a class="btn btn-primary" href="#kinds">Browse the prompts <span class="arrow" aria-hidden="true">↓</span></a><a class="btn btn-ghost" href="{inkchamps_link('github_pages', 'home-hero')}">Make a book on InkChamps</a></div>
-<ul class="facts"><li><b>{total}</b> prompts</li><li><b>{themes}</b> themes</li><li>Ages <b>3 to adult</b></li><li>Free, <b>CC BY 4.0</b></li></ul>
-</div>
-<div class="stack" aria-hidden="false">{stack}</div>
-</section>""",
-            '<section class="section" id="kinds"><div class="wrap"><div class="section-head"><div><h2>Pick a kind of book</h2>'
-            '<p>Every prompt states its age band, page count, page size and style, because a book for a four-year-old and a book for an adult are drawn differently.</p></div></div>'
-            '<div class="kinds">']
-    for category, pages in data.items():
-        meta = S.CATEGORIES[category]
-        n = sum(len(p["prompts"]) for p in pages)
-        body.append(f'<a class="kind" href="{category}/"><figure>{img_tag(page_image(category), meta["label"], "", sizes="(max-width: 520px) 100vw, 33vw")}</figure>'
-                    f'<div class="body"><h3>{esc(meta["label"])}</h3><span class="count">{n} prompts · {len(pages)} themes</span><p>{esc(CATEGORY_BLURBS[category])}</p></div></a>')
-    body.append("</div></div></section>")
-    for category, pages in data.items():
-        meta = S.CATEGORIES[category]
-        shown = pages[:8]
-        more = f'<a class="more" href="{category}/">All {len(pages)} themes <span class="arrow" aria-hidden="true">→</span></a>' if len(pages) > len(shown) else f'<a class="more" href="{category}/">Open <span class="arrow" aria-hidden="true">→</span></a>'
-        body.append(f'<section class="section"><div class="wrap"><div class="section-head"><div><h2>{esc(meta["label"])}</h2><p>{esc(CATEGORY_BLURBS[category])}</p></div>{more}</div>'
-                    f'<div class="tiles">{"".join(tile(category, p, "") for p in shown)}</div></div></section>')
-    body.append('<section class="section"><div class="wrap"><div class="section-head"><h2>Guides</h2></div><ul class="guides">'
-                + "".join(f'<li><a href="guides/{n}/"><span>{esc(t)}</span><span class="arrow" aria-hidden="true">→</span></a></li>' for n, t in GUIDES)
-                + "</ul></div></section>")
-    faq_items = "".join(
-        f'<details><summary>{esc(q)}</summary><div class="answer">{mdlite.to_html(a.replace("guides/", SITE + "/guides/").replace(".md)", "/)"))}</div></details>'
-        for q, a in FAQ)
-    body.append(f'<section class="section"><div class="wrap"><div class="section-head"><h2>Questions</h2></div><div class="faq">{faq_items}</div></div></section>')
-    body.append(band(source="band-home"))
-    faq_ld = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
-        {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", a)}}
-        for q, a in FAQ]}
-    site_ld = {"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": f"{SITE}/",
-               "publisher": {"@type": "Organization", "name": "InkChamps", "url": INKCHAMPS}}
-    return page_html("", f"{total} Free AI Coloring Book Prompts (KDP-ready) | Story & Activity Book Prompts", description,
-                     "\n".join(body), [(SITE_NAME, "")], [site_ld, faq_ld], og_image=images.image_for("home-coloring"))
 
 
 def html_guide(name, title):
     text = guide_markdown(name)
     first = re.search(r"^(?!#)(.+)$", text, re.M)
     description = re.sub(r"[*`\[\]]|\(http[^)]+\)", "", first.group(1))[:155] if first else title
-    text = re.sub(r"\]\((?!http)([a-z0-9\-]+)\.md\)", r"](../\1/)", text)
-    text = text.replace("](../prompts/", "](../../").replace("/README.md)", "/)")
+    # Links into the repo's markdown pages point at their InkChamps equivalents.
     text = text.replace("](../prompts.json)", "](../../prompts.json)")
-    text = re.sub(r"\]\(\.\./\.\./([a-z\-]+)/([a-z0-9\-]+)\.md\)", r"](../../\1/\2/)", text)
-    body = f'<article class="wrap prose">{mdlite.to_html(text)}</article>{band(source="band-guide-" + name)}'
+    text = re.sub(r"\]\(\.\./prompts/([a-z\-]+)/README\.md\)", lambda m: f"]({LIBRARY}/{m.group(1)}/)", text)
+    body = f'<article class="wrap prose">{mdlite.to_html(text)}</article>{band(name)}'
     return page_html(f"guides/{name}/", f"{title} | {SITE_NAME}", description, body,
-                     [(SITE_NAME, ""), (title, f"guides/{name}/")], depth=2)
+                     [("Prompt library", f"{LIBRARY}/"), (title, f"{SITE}/guides/{name}/")])
+
+
+# ---------------------------------------------------------------- library.json (inkchamps.com/prompts)
+
+def library_data(data):
+    """Everything inkchamps.com needs to render /prompts/: pages, settings, briefs.
+
+    The web app copies this file (ui: npm run sync:prompts) and builds its
+    pages from it, so a prompt is only ever edited here.
+    """
+    def internal_make_path(category, prompt):
+        params = {"tool": S.CATEGORIES[category]["website_tool"], "prompt": main_text(category, prompt)}
+        return f"/dashboard/?{urlencode(params, quote_via=quote)}"
+
+    categories = []
+    for category, pages in data.items():
+        meta = S.CATEGORIES[category]
+        categories.append({
+            "id": category, "label": meta["label"], "singular": meta["singular"], "blurb": CATEGORY_BLURBS[category],
+            "image": f"/prompt-library/{category}.webp" if images.image_for(category) else None,
+            "pages": [{
+                "slug": page["slug"], "urlSlug": url_slug(page["slug"]), "title": page["title"], "theme": theme_name(page),
+                "metaDescription": page["metaDescription"], "intro": page["intro"], "keywords": page["keywords"],
+                "tips": page["tips"], "index": bool(page.get("index")), "ages": ages_of(page),
+                "image": ("/prompt-library/" + images.image_for(page["slug"], category).split("/")[-1]) if images.image_for(page["slug"], category) else None,
+                "prompts": [{
+                    "name": prompt["name"], "brief": main_text(category, prompt),
+                    "extra": prompt["fields"].get("additionalInstructions"), "why": prompt["why"],
+                    "settings": [list(row) for row in settings(category, prompt)],
+                    "makePath": internal_make_path(category, prompt), "mcp": mcp_call(category, prompt),
+                } for prompt in page["prompts"]],
+            } for page in pages],
+        })
+    return {"source": REPO_URL, "license": "CC-BY-4.0", "updated": DATA_DATE, "categories": categories}
 
 
 # ---------------------------------------------------------------- outputs
@@ -808,47 +583,46 @@ def build():
                     "name": prompt["name"], "brief": main_text(category, prompt), "why": prompt["why"],
                     "credits": {"standard": std, "premium": premium},
                     "inkchamps": {"mcp": mcp_call(category, prompt), "makeUrl": make_link(category, prompt, page["slug"], i, "prompts_json")},
-                    "page": f"{SITE}/{category}/{page['slug']}/#prompt-{i + 1}",
+                    "page": f"{library_url(category, page)}#prompt-{i + 1}",
                 })
     prompts_json = json.dumps({"name": SITE_NAME, "license": "CC-BY-4.0", "source": REPO_URL, "count": len(records), "prompts": records}, indent=1, ensure_ascii=False)
     write(ROOT / "prompts.json", prompts_json + "\n")
+    write(ROOT / "library.json", json.dumps(library_data(data), indent=1, ensure_ascii=False) + "\n")
 
     llms = [f"# {SITE_NAME}", "",
-            f"> {len(records)} free, tested AI prompts for coloring books, story coloring books, illustrated children's picture books, activity books (mazes, word search, sudoku, tracing), educational coloring books and Amazon KDP covers. "
+            f"> {len(records)} free, validated AI prompts for coloring books, story coloring books, illustrated children's picture books, activity books (mazes, word search, sudoku, tracing), educational coloring books and Amazon KDP covers. "
             f"Each prompt is a brief with age band, page count, page size and style, and opens in InkChamps ({INKCHAMPS}) with one click to make a print-ready PDF.",
-            "", f"Full data with exact InkChamps order settings: {SITE}/prompts.json", ""]
+            "", f"Browse: {LIBRARY}/ · Full data with exact InkChamps order settings: {SITE}/prompts.json", ""]
     for category, pages in data.items():
         llms.append(f"## {S.CATEGORIES[category]['label']}")
-        llms += [f"- [{p['title']}]({SITE}/{category}/{p['slug']}/): {p['metaDescription']}" for p in pages]
+        llms += [f"- [{p['title']}]({library_url(category, p)}): {p['metaDescription']}" for p in pages]
         llms.append("")
     llms.append("## Guides")
-    llms += [f"- [{t}]({SITE}/guides/{n}/)" for n, t in GUIDES]
+    llms += [f"- [{t}]({GUIDE_HOMES.get(n, f'{SITE}/guides/{n}/')})" for n, t in GUIDES]
     write(ROOT / "llms.txt", "\n".join(llms) + "\n")
 
-    # Static site for GitHub Pages
+    # GitHub Pages: every old page forwards to its InkChamps replacement.
     docs = ROOT / "docs"
     shutil.rmtree(docs, ignore_errors=True)
-    urls = [f"{SITE}/"]
-    write(docs / "index.html", html_home(data))
+    write(docs / "index.html", redirect_html(f"{LIBRARY}/"))
     for category, pages in data.items():
-        write(docs / category / "index.html", html_category(category, pages))
-        urls.append(f"{SITE}/{category}/")
+        write(docs / category / "index.html", redirect_html(library_url(category)))
         for page in pages:
-            write(docs / category / page["slug"] / "index.html", html_prompt_page(category, page, pages))
-            urls.append(f"{SITE}/{category}/{page['slug']}/")
+            write(docs / category / page["slug"] / "index.html", redirect_html(library_url(category, page)))
+    urls = []
     for name, title in GUIDES:
-        write(docs / "guides" / name / "index.html", html_guide(name, title))
-        urls.append(f"{SITE}/guides/{name}/")
+        if name in GUIDE_HOMES:
+            write(docs / "guides" / name / "index.html", redirect_html(GUIDE_HOMES[name]))
+        else:
+            write(docs / "guides" / name / "index.html", html_guide(name, title))
+            urls.append(f"{SITE}/guides/{name}/")
+    write(docs / "404.html", redirect_html(f"{LIBRARY}/"))
     write(docs / "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-          + "".join(f"  <url><loc>{u}</loc><lastmod>{TODAY}</lastmod></url>\n" for u in urls) + "</urlset>\n")
+          + "".join(f"  <url><loc>{u}</loc><lastmod>{DATA_DATE}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     write(docs / "robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
     write(docs / "llms.txt", "\n".join(llms) + "\n")
     write(docs / "prompts.json", prompts_json + "\n")
     write(docs / ".nojekyll", "")
-    if (ROOT / "assets" / "img").exists():
-        shutil.copytree(ROOT / "assets" / "img", docs / "assets" / "img")
-    write(docs / "404.html", page_html("404.html", f"Page not found | {SITE_NAME}", "This page moved. Browse every AI coloring book prompt.",
-                                      f'<h1>Page not found</h1><p><a href="{SITE}/">Browse every prompt</a></p>', [(SITE_NAME, "")]))
     return len(records), len(urls)
 
 
@@ -862,4 +636,4 @@ if __name__ == "__main__":
         print("All prompts valid.")
         sys.exit(0)
     prompts, pages = build()
-    print(f"Built {prompts} prompts, {pages} site pages.")
+    print(f"Built {prompts} prompts; GitHub Pages keeps {pages} page and forwards the rest to inkchamps.com.")

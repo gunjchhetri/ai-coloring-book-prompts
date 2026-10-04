@@ -1,10 +1,8 @@
-# Christmas Coloring Book Prompts for Kids & Adults
+# Christmas Coloring Book: prompts
 
-<img src="../../assets/img/christmas-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/christmas-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts as early as October. Parents buy them for stockings and holiday breaks, while adults buy cozy and intricate editions to color by the fire. These Christmas coloring book prompts cover a toddler book, a cozy adult village book and a premium mandala and ornament book.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/christmas/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Simple Christmas pages for toddlers](#1-simple-christmas-pages-for-toddlers) · [Cozy Christmas village for adults](#2-cozy-christmas-village-for-adults) · [Christmas ornament and snowflake mandalas](#3-christmas-ornament-and-snowflake-mandalas)
 
@@ -17,8 +15,6 @@ Thirty simple, happy Christmas pictures for little ones: a smiling snowman with 
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20simple%2C%20happy%20Christmas%20pictures%20for%20little%20ones%3A%20a%20smiling%20snowman%20with%20a%20carrot%20nose%2C%20a%20reindeer%20with%20a%20bell%20collar%2C%20a%20gingerbread%20man%2C%20stockings%20on%20a%20fireplace%2C%20a%20stack%20of%20wrapped%20presents%2C%20a%20decorated%20Christmas%20tree%2C%20a%20penguin%20in%20a%20scarf%2C%20Santa%20waving%20from%20his%20sleigh%2C%20a%20candy%20cane%2C%20a%20mitten%20pair%2C%20a%20bell%20with%20a%20bow%2C%20an%20elf%20with%20a%20teddy%20bear%20and%20a%20puppy%20in%20a%20gift%20box.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-coloring-book-prompts-1)
-
-*Why it works:* Parents buy toddler Christmas books as stocking stuffers and holiday-break activities, one of the biggest seasonal KDP sales.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Forty cozy Christmas scenes: a snowy village main street with lantern-lit shops,
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20cozy%20Christmas%20scenes%3A%20a%20snowy%20village%20main%20street%20with%20lantern-lit%20shops%2C%20a%20bakery%20window%20full%20of%20gingerbread%20houses%2C%20hot%20cocoa%20by%20a%20crackling%20fireplace%2C%20a%20wreath%20on%20a%20red%20front%20door%2C%20a%20Christmas%20market%20with%20wooden%20stalls%2C%20a%20horse-drawn%20sleigh%20through%20pines%2C%20a%20cabin%20with%20smoke%20curling%20from%20the%20chimney%2C%20a%20kitchen%20baking%20cookies%2C%20a%20cat%20asleep%20under%20the%20tree%20and%20carolers%20on%20a%20doorstep.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-coloring-book-prompts-2)
 
-*Why it works:* Adult colorists want a cozy, nostalgic holiday mood, and the cozy Christmas niche sells strongly every November.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -82,8 +76,6 @@ Forty intricate festive designs: snowflake mandalas, round glass baubles filled 
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20intricate%20festive%20designs%3A%20snowflake%20mandalas%2C%20round%20glass%20baubles%20filled%20with%20lace%20patterns%2C%20poinsettia%20wreaths%2C%20holly%20and%20mistletoe%20rings%2C%20a%20star%20of%20Bethlehem%20mandala%2C%20ornate%20Christmas%20trees%20made%20of%20swirls%2C%20gingerbread%20houses%20with%20gingham%20and%20icing%20detail%2C%20patterned%20reindeer%2C%20candle%20and%20pinecone%20wreaths%20and%20a%20nutcracker%20soldier%20with%20filigree%2C%20each%20a%20different%20design.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-coloring-book-prompts-3)
 
-*Why it works:* Mandala lovers buy a holiday edition every year, and an intricate Christmas book makes a premium gift for adult colorists.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -103,12 +95,6 @@ Forty intricate festive designs: snowflake mandalas, round glass baubles filled 
 
 </details>
 
-## Tips for christmas coloring book
-
-- Publish Christmas books by early October; the search peak runs from November to mid-December.
-- Mix classic symbols (stockings, wreaths, gingerbread) with scenes so the book is not 30 lone ornaments.
-- A cozy adult Christmas book and a kids' one can share a series name, so buyers find both.
-
 ## More prompts like these
 
 - [Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy](halloween-coloring-book-prompts.md)
@@ -120,4 +106,4 @@ Forty intricate festive designs: snowflake mandalas, round glass baubles filled 
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/christmas-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/christmas/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

@@ -1,10 +1,8 @@
-# Dinosaur Adventure Story Coloring Book Prompts
+# Dinosaur Adventure Story Coloring Book: prompts
 
-<img src="../../assets/img/dinosaur-adventure-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/dinosaur-adventure-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="280" align="right">
 
-Dinosaurs are one of the most searched coloring themes, and a dinosaur adventure story coloring book adds a plot that keeps kids turning pages instead of skipping around. These prompts range from a small T. rex who saves the herd to young fossil hunters reading a trail of footprints. They work for dinosaur-mad kids at home and for KDP sellers who want a story angle in a crowded niche.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-adventure-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/story-coloring-books/dinosaur-adventure/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Rumble the littlest T. rex saves the eggs](#1-rumble-the-littlest-t-rex-saves-the-eggs) · [The dinosaur in Grandma's garden](#2-the-dinosaur-in-grandmas-garden) · [Fossil hunters of Red Rock Canyon](#3-fossil-hunters-of-red-rock-canyon)
 
@@ -17,8 +15,6 @@ Rumble, a little green T. rex with a big grin, is the smallest dinosaur in the v
 ```
 
 [**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Rumble%2C%20a%20little%20green%20T.%20rex%20with%20a%20big%20grin%2C%20is%20the%20smallest%20dinosaur%20in%20the%20valley.%20He%20can%27t%20reach%20the%20high%20leaves%20like%20Lulu%20the%20brachiosaurus%20or%20push%20logs%20like%20Tansy%20the%20triceratops.%20When%20the%20volcano%20rumbles%2C%20the%20herd%27s%20eggs%20roll%20into%20a%20narrow%20cave.%20Nobody%20fits%2C%20except%20Rumble.%20He%20wriggles%20in%20and%20nudges%20the%20eggs%20out%20one%20by%20one%20with%20his%20nose.%20The%20herd%20cheers%2C%20the%20eggs%20hatch%2C%20and%20the%20babies%20all%20want%20to%20be%20just%20like%20Rumble.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-adventure-story-coloring-book-prompts-1)
-
-*Why it works:* Preschoolers who feel small love an underdog hero, and dinosaur fans keep coming back to it, a combination that sells on KDP.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Oliver, a boy with muddy knees, finds a huge speckled egg in Grandma's vegetable
 
 [**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Oliver%2C%20a%20boy%20with%20muddy%20knees%2C%20finds%20a%20huge%20speckled%20egg%20in%20Grandma%27s%20vegetable%20patch.%20It%20hatches%20into%20a%20baby%20stegosaurus%20he%20names%20Clementine.%20She%20eats%20all%20the%20cabbages%2C%20naps%20in%20the%20wheelbarrow%20and%20grows%20bigger%20every%20day%2C%20until%20she%20no%20longer%20fits%20in%20the%20shed.%20Oliver%20and%20Grandma%20follow%20her%20tracks%20to%20a%20mossy%20door%20at%20the%20back%20of%20the%20greenhouse%20that%20opens%20onto%20a%20prehistoric%20jungle.%20Oliver%20says%20goodbye%20as%20Clementine%20joins%20her%20herd%2C%20and%20next%20spring%20a%20tiny%20tail-plate%20sprouts%20in%20the%20cabbage%20bed.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-adventure-story-coloring-book-prompts-2)
 
-*Why it works:* Kids aged 6-9 get humor, a secret and a bittersweet goodbye, and grandparents love gifting a book set in a grandma's garden.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -82,8 +76,6 @@ Siblings Nia and Kofi spend the summer at a desert dig with their aunt, a paleon
 
 [**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Siblings%20Nia%20and%20Kofi%20spend%20the%20summer%20at%20a%20desert%20dig%20with%20their%20aunt%2C%20a%20paleontologist%20with%20a%20wide%20straw%20hat.%20They%20brush%20sand%20from%20bones%2C%20sift%20gravel%20and%20label%20finds.%20Then%20Kofi%20spots%20a%20trail%20of%20giant%20three-toed%20footprints%20in%20the%20rock.%20As%20a%20storm%20rolls%20in%2C%20they%20map%20the%20tracks%20and%20work%20out%20the%20story%3A%20a%20herd%20of%20hadrosaurs%20crossing%20a%20river%2C%20chased%20by%20a%20gorgosaurus.%20Pages%20switch%20between%20the%20dig%20and%20the%20herd%27s%20ancient%20journey%2C%20and%20the%20book%20ends%20with%20the%20footprints%20named%20after%20the%20two%20kids.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-adventure-story-coloring-book-prompts-3)
 
-*Why it works:* Older kids who have outgrown cute dinosaurs get real paleontology and detailed scenes, a gap few KDP dinosaur books fill.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -104,12 +96,6 @@ Siblings Nia and Kofi spend the summer at a desert dig with their aunt, a paleon
 
 </details>
 
-## Tips for dinosaur adventure story coloring book
-
-- Name each dinosaur species in the brief so the pages draw a real stegosaurus or triceratops, not a generic dino.
-- Give the smallest dinosaur the big moment; kids root for the underdog.
-- A dinosaur story is a strong KDP angle in a crowded niche; keep it at 24 pages or more.
-
 ## More prompts like these
 
 - [Space Adventure Story Coloring Book Prompts](space-adventure-story-coloring-book-prompts.md)
@@ -121,4 +107,4 @@ Siblings Nia and Kofi spend the summer at a desert dig with their aunt, a paleon
 
 ---
 
-[All story coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/story-coloring-books/dinosaur-adventure-story-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All story coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/story-coloring-books/dinosaur-adventure/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

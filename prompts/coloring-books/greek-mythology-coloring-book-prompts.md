@@ -1,10 +1,8 @@
-# Greek Mythology Coloring Book Prompts
+# Greek Mythology Coloring Book: prompts
 
-<img src="../../assets/img/greek-mythology-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/greek-mythology-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Greek mythology coloring books appeal to teens and adults who love epic heroes and monsters, to homeschoolers teaching ancient history, and to kids who devour myth stories. Because the myths are public domain, they are a safe and rich niche for KDP sellers. These Greek mythology coloring book prompts include a detailed gods-and-heroes edition, a bestiary of legendary creatures and a friendly retelling for kids.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=greek-mythology-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/greek-mythology/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Gods and heroes of Olympus for adults](#1-gods-and-heroes-of-olympus-for-adults) · [Legendary creatures bestiary](#2-legendary-creatures-bestiary) · [Greek myths for kids](#3-greek-myths-for-kids)
 
@@ -17,8 +15,6 @@ Forty dramatic scenes from Greek myths: Zeus on Mount Olympus with thunderbolts,
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20dramatic%20scenes%20from%20Greek%20myths%3A%20Zeus%20on%20Mount%20Olympus%20with%20thunderbolts%2C%20Poseidon%20rising%20from%20the%20sea%20with%20his%20trident%2C%20Athena%20and%20her%20owl%2C%20Perseus%20with%20his%20mirrored%20shield%20facing%20Medusa%2C%20Pegasus%20in%20flight%2C%20Theseus%20in%20the%20Minotaur%27s%20labyrinth%2C%20Icarus%20falling%20as%20the%20sun%20melts%20his%20wax%20wings%2C%20Persephone%20in%20the%20underworld%20garden%2C%20Odysseus%20tied%20to%20the%20mast%20past%20the%20Sirens%2C%20the%20Trojan%20horse%20and%20Prometheus%20bringing%20fire.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=greek-mythology-coloring-book-prompts-1)
-
-*Why it works:* Teen and adult fans of myth and fantasy want epic, detailed scenes, and public-domain myths make it a safe KDP niche.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Thirty-six legendary creatures from Greek myth, each in its home: the three-head
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty-six%20legendary%20creatures%20from%20Greek%20myth%2C%20each%20in%20its%20home%3A%20the%20three-headed%20dog%20Cerberus%20at%20the%20gates%20of%20the%20underworld%2C%20the%20many-headed%20Hydra%20in%20a%20swamp%2C%20the%20Sphinx%20on%20a%20rock%20outside%20Thebes%2C%20the%20Chimera%2C%20a%20centaur%20archer%20in%20a%20forest%2C%20a%20cyclops%20by%20his%20cave%2C%20harpies%20in%20a%20storm%2C%20Scylla%20in%20a%20sea%20strait%2C%20the%20Nemean%20lion%2C%20the%20golden-fleeced%20ram%2C%20the%20bronze%20giant%20Talos%20guarding%20Crete%2C%20the%20dragon%20Ladon%20coiled%20round%20the%20golden%20apple%20tree%2C%20Cetus%20the%20sea%20monster%2C%20the%20Stymphalian%20birds%20and%20a%20hippocamp%2C%20half%20horse%20and%20half%20fish.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=greek-mythology-coloring-book-prompts-2)
 
-*Why it works:* Tweens who love monsters and fantasy books, and homeschoolers studying ancient Greece, both buy mythical-creature bestiaries.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -82,8 +76,6 @@ Thirty kid-friendly Greek myth pages: Pegasus flying over the sea, Athena's wise
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20kid-friendly%20Greek%20myth%20pages%3A%20Pegasus%20flying%20over%20the%20sea%2C%20Athena%27s%20wise%20owl%2C%20Hercules%20holding%20up%20the%20sky%20for%20Atlas%2C%20the%20Trojan%20horse%20rolling%20into%20the%20city%2C%20Pandora%27s%20jar%2C%20with%20little%20Hope%20still%20glowing%20inside%2C%20Icarus%20and%20his%20father%20with%20feathered%20wings%2C%20King%20Midas%20turning%20an%20apple%20to%20gold%2C%20Arachne%20at%20her%20loom%2C%20Demeter%20in%20a%20wheat%20field%20and%20Atalanta%20racing%20Hippomenes%20as%20he%20rolls%20golden%20apples.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=greek-mythology-coloring-book-prompts-3)
 
-*Why it works:* Parents and teachers want a gentle way into the classic myths, and adventure scenes without scary monsters suit ages 6 to 9.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -103,12 +95,6 @@ Thirty kid-friendly Greek myth pages: Pegasus flying over the sea, Athena's wise
 
 </details>
 
-## Tips for greek mythology coloring book
-
-- Name the exact myth moment (Icarus falling, Perseus with the mirrored shield) rather than just the god; scenes sell better than portraits.
-- Keep the monsters dramatic but not gory; Medusa and the Minotaur work well without any blood.
-- Homeschoolers pair a mythology coloring book with ancient history units, so mention that use in your listing.
-
 ## More prompts like these
 
 - [Bible Story Coloring Book Prompts for Kids & Adults](bible-story-coloring-book-prompts.md)
@@ -120,4 +106,4 @@ Thirty kid-friendly Greek myth pages: Pegasus flying over the sea, Athena's wise
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/greek-mythology-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/greek-mythology/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

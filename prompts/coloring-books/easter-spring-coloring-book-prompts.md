@@ -1,10 +1,8 @@
-# Easter & Spring Coloring Book Prompts
+# Easter & Spring Coloring Book: prompts
 
-<img src="../../assets/img/easter-spring-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/easter-spring-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Easter and spring coloring books are basket fillers: parents, grandparents and teachers buy them in March and April for little ones, and adults pick up patterned egg and floral books for the season. These Easter and spring coloring book prompts give you a toddler book, a scene-based book for school-age kids and an intricate decorated-egg book for adult colorists.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=easter-spring-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/easter-spring/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Bunnies, chicks and eggs for toddlers](#1-bunnies-chicks-and-eggs-for-toddlers) · [Egg hunts and spring adventures](#2-egg-hunts-and-spring-adventures) · [Folk-art Easter egg designs for adults](#3-folk-art-easter-egg-designs-for-adults)
 
@@ -17,8 +15,6 @@ Thirty simple spring and Easter pictures: a bunny holding a big egg, a fluffy ch
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20simple%20spring%20and%20Easter%20pictures%3A%20a%20bunny%20holding%20a%20big%20egg%2C%20a%20fluffy%20chick%20hatching%20from%20its%20shell%2C%20an%20Easter%20basket%20full%20of%20eggs%2C%20a%20lamb%20in%20the%20grass%2C%20a%20duckling%20in%20a%20puddle%2C%20tulips%20in%20a%20pot%2C%20a%20carrot%20patch%2C%20a%20butterfly%2C%20a%20bunny%20with%20a%20spring%20bonnet%2C%20a%20nest%20with%20three%20eggs%2C%20a%20lily%2C%20a%20caterpillar%20on%20a%20leaf%20and%20a%20big%20decorated%20egg%20with%20stripes%20and%20dots.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=easter-spring-coloring-book-prompts-1)
-
-*Why it works:* Parents and grandparents buy simple Easter books as basket stuffers for toddlers, a dependable spring KDP seller.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -51,8 +47,6 @@ Thirty-two springtime scenes: kids on an Easter egg hunt in the garden, a bunny 
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty-two%20springtime%20scenes%3A%20kids%20on%20an%20Easter%20egg%20hunt%20in%20the%20garden%2C%20a%20bunny%20family%20painting%20eggs%2C%20a%20picnic%20under%20cherry%20blossoms%2C%20splashing%20in%20puddles%20with%20umbrellas%20and%20rain%20boots%2C%20flying%20kites%20on%20a%20windy%20hill%2C%20planting%20seeds%2C%20a%20bird%20building%20a%20nest%2C%20a%20farm%20with%20newborn%20lambs%20and%20calves%2C%20a%20spring%20parade%20with%20bonnets%20and%20a%20basket%20race%20in%20the%20park.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=easter-spring-coloring-book-prompts-2)
 
-*Why it works:* Teachers and parents want spring-break activities with real scenes kids recognise, and the book stays relevant all season.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -83,8 +77,6 @@ Forty decorated Easter eggs and spring patterns: eggs covered in folk-art floral
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20decorated%20Easter%20eggs%20and%20spring%20patterns%3A%20eggs%20covered%20in%20folk-art%20florals%2C%20Ukrainian-style%20geometric%20eggs%2C%20lace-patterned%20eggs%20on%20stands%2C%20an%20egg%20mandala%20of%20tulips%2C%20eggs%20in%20a%20woven%20basket%2C%20a%20bunny%20made%20of%20paisley%2C%20a%20wreath%20of%20daffodils%20and%20eggs%2C%20spring%20birds%20with%20patterned%20wings%2C%20a%20lamb%20with%20a%20fleece%20of%20swirls%20and%20a%20cherry%20blossom%20branch%20with%20patterned%20eggs%20hanging%20from%20it.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=easter-spring-coloring-book-prompts-3)
 
-*Why it works:* Adult colorists want a seasonal pattern book for spring, and decorated eggs bring the mandala audience an Easter reason to buy.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -105,12 +97,6 @@ Forty decorated Easter eggs and spring patterns: eggs covered in folk-art floral
 
 </details>
 
-## Tips for easter & spring coloring book
-
-- Market Easter books as basket stuffers; it is the phrase gift buyers search.
-- Mix Easter and general spring scenes (rain, gardens, baby animals) so the book sells beyond Easter week.
-- For adults, folk-art egg patterns and spring florals give a seasonal twist on the mandala niche.
-
 ## More prompts like these
 
 - [Valentine's Day Coloring Book Prompts](valentines-day-coloring-book-prompts.md)
@@ -122,4 +108,4 @@ Forty decorated Easter eggs and spring patterns: eggs covered in folk-art floral
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/easter-spring-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/easter-spring/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

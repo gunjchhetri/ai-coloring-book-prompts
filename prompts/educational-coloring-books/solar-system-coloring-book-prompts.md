@@ -1,10 +1,8 @@
-# Solar System Coloring Book Prompts: Planets, Moon & Space Facts
+# Solar System Coloring Book: prompts
 
-<img src="../../assets/img/solar-system-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/solar-system-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-A solar system coloring book turns planet facts into something kids can hold, color and remember. These prompts go from a simple Sun-and-planets tour for preschoolers to orbits, seasons and eclipses for 9 to 13 year olds. Every fact is checked and kept short, so the book works for a classroom space unit or a homeschool science week.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=solar-system-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/solar-system/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Sun, Moon and planets for little learners](#1-sun-moon-and-planets-for-little-learners) · [Planets and space neighbors for ages 6-9](#2-planets-and-space-neighbors-for-ages-6-9) · [How the solar system works for ages 9-13](#3-how-the-solar-system-works-for-ages-9-13)
 
@@ -17,8 +15,6 @@ A first trip through our solar system, one stop per page: 1. The Sun is a star t
 ```
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=A%20first%20trip%20through%20our%20solar%20system%2C%20one%20stop%20per%20page%3A%201.%20The%20Sun%20is%20a%20star%20that%20gives%20us%20light%20and%20warmth.%202.%20Mercury%20is%20closest%20to%20the%20Sun%20and%20the%20smallest%20planet.%203.%20Venus%20is%20the%20hottest%20planet.%204.%20Earth%20is%20our%20home%2C%20with%20oceans%20and%20air.%205.%20The%20Moon%20goes%20around%20Earth.%206.%20Mars%20is%20the%20red%20planet.%207.%20Jupiter%20is%20the%20biggest%20planet.%208.%20Saturn%20has%20bright%20rings%20of%20ice%20and%20rock.%209.%20Uranus%20spins%20on%20its%20side.%2010.%20Neptune%20is%20cold%2C%20blue%20and%20very%20windy.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=solar-system-coloring-book-prompts-1)
-
-*Why it works:* Parents and preschool teachers want a gentle first space book with one easy fact per planet, in the right order from the Sun. Its short length is great for home printing.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -47,8 +43,6 @@ Our solar system for early readers: 1. The Sun, the star at the center. 2. Plane
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Our%20solar%20system%20for%20early%20readers%3A%201.%20The%20Sun%2C%20the%20star%20at%20the%20center.%202.%20Planets%20travel%20around%20the%20Sun%20in%20orbits.%203.%20Mercury.%204.%20Venus.%205.%20Earth.%206.%20The%20Moon%20has%20craters.%207.%20Moon%20phases.%208.%20Mars%20and%20its%20rovers.%209.%20The%20asteroid%20belt.%2010.%20Jupiter%20and%20its%20Great%20Red%20Spot%20storm.%2011.%20Saturn%27s%20rings.%2012.%20Uranus.%2013.%20Neptune.%2014.%20Pluto%2C%20a%20dwarf%20planet.%2015.%20Comets%20have%20tails%20that%20point%20away%20from%20the%20Sun.%2016.%20Astronauts%20explore%20space.%20Give%20each%20planet%20one%20fact%3A%20size%2C%20color%2C%20or%20how%20hot%20or%20cold%20it%20is.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=solar-system-coloring-book-prompts-2)
 
-*Why it works:* Grade 1-3 teachers can use one page a day during a space unit, and the moon phases and comet pages add facts beyond the planet list. Its short length is great for home printing.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -76,8 +70,6 @@ How the solar system works, for upper elementary: 1. Gravity holds the planets i
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=How%20the%20solar%20system%20works%2C%20for%20upper%20elementary%3A%201.%20Gravity%20holds%20the%20planets%20in%20orbit%20around%20the%20Sun.%202.%20Earth%20spins%20once%20a%20day.%203.%20Earth%20orbits%20the%20Sun%20once%20a%20year.%204.%20Seasons%20come%20from%20Earth%27s%20tilted%20axis.%205.%20Moon%20phases.%206.%20Solar%20eclipse.%207.%20Lunar%20eclipse.%208.%20Rocky%20inner%20planets.%209.%20Gas%20and%20ice%20giants.%2010.%20The%20asteroid%20belt.%2011.%20Jupiter%27s%20moons.%2012.%20Saturn%27s%20rings%20are%20pieces%20of%20ice%20and%20rock.%2013.%20The%20Kuiper%20Belt%20and%20dwarf%20planets.%2014.%20Comets.%2015.%20Telescopes.%2016.%20Rovers%20and%20probes%20explore%20other%20worlds.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=solar-system-coloring-book-prompts-3)
 
-*Why it works:* Homeschoolers and middle-grade teachers need the 'why' behind seasons, phases and eclipses, and a labeled picture of each makes the idea stick. Its short length is great for home printing.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -95,12 +87,6 @@ How the solar system works, for upper elementary: 1. Gravity holds the planets i
 
 </details>
 
-## Tips for solar system coloring book
-
-- Keep the planets in order from the Sun in the brief; kids learn the order by turning the pages.
-- Give each planet one memorable fact (Jupiter is the biggest, Venus is the hottest) rather than a paragraph.
-- Mention that Pluto is a dwarf planet; teachers check for that.
-
 ## More prompts like these
 
 - [Water Cycle and Weather Coloring Book Prompts for Kids](water-cycle-weather-coloring-book-prompts.md)
@@ -112,4 +98,4 @@ How the solar system works, for upper elementary: 1. Gravity holds the planets i
 
 ---
 
-[All educational coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/educational-coloring-books/solar-system-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All educational coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/educational-coloring-books/solar-system/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

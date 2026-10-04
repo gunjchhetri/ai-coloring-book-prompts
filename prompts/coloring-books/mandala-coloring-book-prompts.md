@@ -1,10 +1,8 @@
-# Mandala Coloring Book Prompts for Adults & Teens
+# Mandala Coloring Book: prompts
 
-<img src="../../assets/img/mandala-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/mandala-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Mandala coloring books are one of the most reliable sellers on Amazon KDP, bought by adults who color to unwind and by teens who love symmetry and detail. These mandala coloring book prompts cover the full range, from dense geometric designs for experienced colorists to open, beginner-friendly mandalas and a celestial boho set for tweens. Each brief asks for a different design on every page, so the book never feels repetitive.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=mandala-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/mandala/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Intricate geometric mandalas for adults](#1-intricate-geometric-mandalas-for-adults) · [Beginner-friendly mandalas with big spaces](#2-beginner-friendly-mandalas-with-big-spaces) · [Celestial boho mandalas for tweens](#3-celestial-boho-mandalas-for-tweens)
 
@@ -17,8 +15,6 @@ Fifty intricate circular mandalas, each a different design: layered lotus petals
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Fifty%20intricate%20circular%20mandalas%2C%20each%20a%20different%20design%3A%20layered%20lotus%20petals%2C%20interlocking%20star%20polygons%2C%20Moroccan%20tile%20rosettes%2C%20Celtic%20knot%20rings%2C%20feathered%20paisley%20borders%2C%20sunburst%20rays%2C%20honeycomb%20lattices%20and%20lace-like%20filigree.%20Some%20centre%20on%20a%20tiny%20eight-pointed%20star%2C%20others%20bloom%20outward%20through%20twelve%20rings%20of%20scallops%2C%20teardrops%20and%20tiny%20beads.%20A%20calm%2C%20meditative%20collection%20for%20long%20evenings%20of%20coloring.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=mandala-coloring-book-prompts-1)
-
-*Why it works:* Experienced adult colorists and KDP sellers in the core mandala niche want dense, varied designs, and the square format shows each mandala at full size.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Thirty simple mandalas for beginners and relaxed colorists: large petals, wide r
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20simple%20mandalas%20for%20beginners%20and%20relaxed%20colorists%3A%20large%20petals%2C%20wide%20rings%20and%20only%20a%20few%20layers%20in%20each%20design.%20A%20flower-centred%20mandala%2C%20a%20sun%20with%20wavy%20rays%2C%20a%20ring%20of%20hearts%2C%20a%20five-pointed%20star%20mandala%2C%20a%20leaf%20wreath%2C%20a%20seashell%20spiral%2C%20circles%20of%20triangles%20and%20dots%2C%20a%20simple%20lotus%20and%20a%20snowflake-style%20rosette.%20Calm%2C%20uncluttered%20and%20quick%20to%20finish%20in%20one%20sitting.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=mandala-coloring-book-prompts-2)
 
-*Why it works:* New adult colorists, seniors and gift buyers want mandalas they can actually finish, a gap many over-detailed KDP mandala books leave open.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -81,8 +75,6 @@ Forty boho celestial mandalas for tweens: crescent moons inside rings of stars, 
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20boho%20celestial%20mandalas%20for%20tweens%3A%20crescent%20moons%20inside%20rings%20of%20stars%2C%20moon-phase%20circles%2C%20suns%20with%20patterned%20faces%2C%20crystals%20and%20gemstones%20arranged%20in%20a%20circle%2C%20feathers%20and%20beads%20hanging%20from%20round%20hoops%2C%20constellation%20wheels%2C%20mushroom%20and%20fern%20rings%2C%20and%20planets%20wrapped%20in%20swirling%20orbit%20patterns.%20Dreamy%2C%20trendy%20and%20full%20of%20night-sky%20magic.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=mandala-coloring-book-prompts-3)
 
-*Why it works:* Parents and teens shopping for an aesthetic, room-decor style book pick celestial boho themes over plain geometry, and the medium detail suits ages 9 to 13.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -102,12 +94,6 @@ Forty boho celestial mandalas for tweens: crescent moons inside rings of stars, 
 
 </details>
 
-## Tips for mandala coloring book
-
-- Name the motifs you want (lotus petals, star polygons, paisley, lace) so each page gets a different design instead of fifty near-identical circles.
-- Use the 8.5x8.5 square size for single round mandalas; the design fills the page with no wasted space.
-- Sell a beginner and an intricate edition side by side; buyers who finish one often come back for the other.
-
 ## More prompts like these
 
 - [Animal Mandala Coloring Book Prompts](animal-mandala-coloring-book-prompts.md)
@@ -119,4 +105,4 @@ Forty boho celestial mandalas for tweens: crescent moons inside rings of stars, 
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/mandala-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/mandala/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
