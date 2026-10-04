@@ -1,5 +1,7 @@
 # Greek Mythology Coloring Book Prompts
 
+<img src="../../assets/img/greek-mythology-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Greek mythology coloring books appeal to teens and adults who love epic heroes and monsters, to homeschoolers teaching ancient history, and to kids who devour myth stories. Because the myths are public domain, they are a safe and rich niche for KDP sellers. These Greek mythology coloring book prompts include a detailed gods-and-heroes edition, a bestiary of legendary creatures and a friendly retelling for kids.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=greek-mythology-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Greek mythology coloring books appeal to teens and adults who love epic heroes a
 
 ## 1. Gods and heroes of Olympus for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty dramatic scenes from Greek myths: Zeus on Mount Olympus with thunderbolts, Poseidon rising from the sea with his trident, Athena and her owl, Perseus with his mirrored shield facing Medusa, Pegasus in flight, Theseus in the Minotaur's labyrinth, Icarus falling as the sun melts his wax wings, Persephone in the underworld garden, Odysseus tied to the mast past the Sirens, the Trojan horse and Prometheus bringing fire.
@@ -40,7 +42,7 @@ Forty dramatic scenes from Greek myths: Zeus on Mount Olympus with thunderbolts,
 
 ## 2. Legendary creatures bestiary
 
-**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 36 Standard · 108 Premium
+**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **Credits:** 36 Standard · 108 Premium
 
 ```text
 Thirty-six legendary creatures from Greek myth, each in its home: the three-headed dog Cerberus at the gates of the underworld, the many-headed Hydra in a swamp, the Sphinx on a rock outside Thebes, the Chimera, a centaur archer in a forest, a cyclops by his cave, harpies in a storm, Scylla in a sea strait, the Nemean lion, the golden-fleeced ram, the bronze giant Talos guarding Crete, the dragon Ladon coiled round the golden apple tree, Cetus the sea monster, the Stymphalian birds and a hippocamp, half horse and half fish.
@@ -72,7 +74,7 @@ Thirty-six legendary creatures from Greek myth, each in its home: the three-head
 
 ## 3. Greek myths for kids
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty kid-friendly Greek myth pages: Pegasus flying over the sea, Athena's wise owl, Hercules holding up the sky for Atlas, the Trojan horse rolling into the city, Pandora's jar, with little Hope still glowing inside, Icarus and his father with feathered wings, King Midas turning an apple to gold, Arachne at her loom, Demeter in a wheat field and Atalanta racing Hippomenes as he rolls golden apples.

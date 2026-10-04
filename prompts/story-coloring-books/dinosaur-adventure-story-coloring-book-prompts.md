@@ -1,5 +1,7 @@
 # Dinosaur Adventure Story Coloring Book Prompts
 
+<img src="../../assets/img/dinosaur-adventure-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 Dinosaurs are one of the most searched coloring themes, and a dinosaur adventure story coloring book adds a plot that keeps kids turning pages instead of skipping around. These prompts range from a small T. rex who saves the herd to young fossil hunters reading a trail of footprints. They work for dinosaur-mad kids at home and for KDP sellers who want a story angle in a crowded niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-adventure-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Dinosaurs are one of the most searched coloring themes, and a dinosaur adventure
 
 ## 1. Rumble the littlest T. rex saves the eggs
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Rumble, a little green T. rex with a big grin, is the smallest dinosaur in the valley. He can't reach the high leaves like Lulu the brachiosaurus or push logs like Tansy the triceratops. When the volcano rumbles, the herd's eggs roll into a narrow cave. Nobody fits, except Rumble. He wriggles in and nudges the eggs out one by one with his nose. The herd cheers, the eggs hatch, and the babies all want to be just like Rumble.
@@ -40,7 +42,7 @@ Rumble, a little green T. rex with a big grin, is the smallest dinosaur in the v
 
 ## 2. The dinosaur in Grandma's garden
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Oliver, a boy with muddy knees, finds a huge speckled egg in Grandma's vegetable patch. It hatches into a baby stegosaurus he names Clementine. She eats all the cabbages, naps in the wheelbarrow and grows bigger every day, until she no longer fits in the shed. Oliver and Grandma follow her tracks to a mossy door at the back of the greenhouse that opens onto a prehistoric jungle. Oliver says goodbye as Clementine joins her herd, and next spring a tiny tail-plate sprouts in the cabbage bed.
@@ -72,7 +74,7 @@ Oliver, a boy with muddy knees, finds a huge speckled egg in Grandma's vegetable
 
 ## 3. Fossil hunters of Red Rock Canyon
 
-**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 72 Standard · 108 Premium
+**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 72 Standard · 108 Premium
 
 ```text
 Siblings Nia and Kofi spend the summer at a desert dig with their aunt, a paleontologist with a wide straw hat. They brush sand from bones, sift gravel and label finds. Then Kofi spots a trail of giant three-toed footprints in the rock. As a storm rolls in, they map the tracks and work out the story: a herd of hadrosaurs crossing a river, chased by a gorgosaurus. Pages switch between the dig and the herd's ancient journey, and the book ends with the footprints named after the two kids.

@@ -1,5 +1,7 @@
 # Bold and Easy Coloring Book Prompts for Adults & Seniors
 
+<img src="../../assets/img/bold-and-easy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Bold and easy coloring books have big, simple shapes and large areas to fill, which makes them a top seller for adults who want quick relaxation, seniors, people with low vision and anyone using markers. These bold and easy coloring book prompts give you an everyday-objects book, a nostalgic set for seniors and a set of cute animals, each with one clear subject per page.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bold-and-easy-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Bold and easy coloring books have big, simple shapes and large areas to fill, wh
 
 ## 1. Bold and easy everyday things
 
-**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 50 Standard · 150 Premium
+**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 50 Standard · 150 Premium
 
 ```text
 Fifty simple, bold pages of everyday favourites: a teacup with a saucer, a cupcake with a cherry, a potted cactus, a sneaker, a vintage camera, a sunflower in a jar, a little house with a picket fence, a bicycle, a slice of pizza, a record player, a pair of mittens, a snail on a mushroom, a watering can and a cozy armchair with a cat, one large subject per page.
@@ -40,7 +42,7 @@ Fifty simple, bold pages of everyday favourites: a teacup with a saucer, a cupca
 
 ## 2. Nostalgic bold and easy pages for seniors
 
-**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty large, simple pictures of familiar, happy things for seniors: a classic car from the fifties, a robin on a branch, a pie cooling on a windowsill, a sailboat on the water, a red barn with a rooster, a sewing basket, a rotary telephone, a garden of tulips, a front porch with a rocking chair, a kitten with a ball of yarn and a picnic basket.
@@ -71,7 +73,7 @@ Thirty large, simple pictures of familiar, happy things for seniors: a classic c
 
 ## 3. Bold and easy cute animals
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty big, simple cute animals for relaxed coloring: a round chubby cat, a sleepy panda, a smiling whale, a hedgehog with an apple, a penguin in a scarf, a sloth hugging a branch, an owl on a moon, a bunny in a teacup, a fox curled up asleep, a turtle with a flower on its shell and a puppy in a basket, each one large and centred on the page.

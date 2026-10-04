@@ -1,5 +1,7 @@
 # How Plants Grow Coloring Book Prompts: Seeds, Roots & Photosynthesis
 
+<img src="../../assets/img/educational-coloring-books.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Planting a seed is one of the first science experiments most kids do, and a coloring book helps them understand what is happening under the soil. These prompts go from a sunflower growing step by step for preschoolers to plant parts and photosynthesis for older kids. They pair beautifully with a real bean in a jar on the windowsill.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=how-plants-grow-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Planting a seed is one of the first science experiments most kids do, and a colo
 
 ## 1. From seed to sunflower
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 How a sunflower grows, one step per page with a child gardener: 1. We plant a seed in the soil. 2. We water it. 3. The Sun shines and warms the ground. 4. A tiny root grows down. 5. A sprout pushes up out of the soil. 6. Two small leaves open. 7. The stem grows tall, taller than me. 8. A big bud forms and follows the Sun across the sky. 9. The bud opens into a bright sunflower facing the morning Sun. 10. The flower makes new seeds for birds and for next year.
@@ -37,7 +39,7 @@ How a sunflower grows, one step per page with a child gardener: 1. We plant a se
 
 ## 2. What plants need and plant parts
 
-**Ages:** 6-9 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 6-9 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 What plants need and what each part does: 1. Plants need sunlight. 2. Plants need water. 3. Plants need air. 4. Plants need soil with nutrients. 5. Plants need space to grow. 6. Roots hold the plant and drink water. 7. The stem carries water up to the leaves. 8. Leaves make food for the plant. 9. Flowers make seeds. 10. Fruits protect seeds, like an apple or a tomato. 11. Some seeds we eat: peas, corn, beans. 12. Try it: grow a bean in a jar with a wet paper towel.
@@ -66,7 +68,7 @@ What plants need and what each part does: 1. Plants need sunlight. 2. Plants nee
 
 ## 3. Photosynthesis and plant science for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Plant science: 1. Plants make their own food. 2. Photosynthesis uses sunlight, water and carbon dioxide. 3. It makes sugar and gives off oxygen. 4. Chlorophyll makes leaves green. 5. Stomata are tiny holes in leaves. 6. Xylem carries water up. 7. Phloem carries sugar around the plant. 8. Root hairs soak up water. 9. Plants grow toward light. 10. Roots grow down with gravity. 11. Fall leaves change color as chlorophyll fades. 12. Cactus stems store water. 13. Carnivorous plants catch insects. 14. Plants feed almost every food chain.

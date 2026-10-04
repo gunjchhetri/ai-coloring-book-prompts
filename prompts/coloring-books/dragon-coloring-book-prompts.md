@@ -1,5 +1,7 @@
 # Dragon Coloring Book Prompts for Kids, Teens & Adults
 
+<img src="../../assets/img/dragon-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Dragons sit at the crossroads of fantasy and adventure, so a dragon coloring book appeals to boys and girls alike and keeps selling to teens and adults too. On KDP, dragons are a strong alternative to crowded unicorn and dinosaur shelves. These dragon coloring book prompts cover a cuddly baby-dragon book, an epic fantasy book for older kids, and a richly detailed collection for adult colorists.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Dragons sit at the crossroads of fantasy and adventure, so a dragon coloring boo
 
 ## 1. Cuddly baby dragons
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Friendly little dragons who are more silly than scary: a baby dragon hatching from a spotted egg, toasting marshmallows with a tiny puff of fire, learning to fly on wobbly wings, napping on a pile of pillows, playing hide and seek in a castle, stomping in a puddle, sharing berries with a squirrel, flying a kite, wearing a knight's helmet that is far too big, and hugging a teddy bear at bedtime.
@@ -41,7 +43,7 @@ Friendly little dragons who are more silly than scary: a baby dragon hatching fr
 
 ## 2. Epic dragon adventures for tweens
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Epic dragons across a fantasy world: a dragon curled around a mountain of gold coins, a dragon rider soaring over a misty valley, a sea dragon rising from stormy waves, a forest dragon covered in moss and leaves, an ice dragon perched on a glacier cliff, a long Eastern dragon weaving through clouds, a nest of dragon eggs inside a volcano, a young wizard befriending a dragon in a library tower, and two dragons facing off over a canyon.
@@ -74,7 +76,7 @@ Epic dragons across a fantasy world: a dragon curled around a mountain of gold c
 
 ## 3. Intricate dragons for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Majestic, finely detailed dragons for adult colorists: a dragon with every scale patterned like filigree, a dragon coiled around a full-moon mandala, a sleeping dragon in a cave of crystals, a dragon perched on a gothic cathedral, a celestial dragon made of stars and constellations, a dragon in a lotus garden with koi, a close-up dragon eye ringed with ornament, and two dragons circling to form a yin-yang.

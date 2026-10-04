@@ -1,5 +1,7 @@
 # Autumn & Thanksgiving Coloring Book Prompts
 
+<img src="../../assets/img/autumn-thanksgiving-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Autumn and Thanksgiving coloring books sell from September to late November: parents keep kids busy at the holiday table, teachers use them in class, and adults love the cozy fall mood. These autumn and Thanksgiving coloring book prompts include a simple fall book for toddlers, a Thanksgiving gratitude book for kids and a cozy autumn book for teens and adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=autumn-thanksgiving-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Autumn and Thanksgiving coloring books sell from September to late November: par
 
 ## 1. Fall leaves and pumpkins for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty simple autumn pictures: a big maple leaf, an acorn with a cap, a squirrel holding a nut, a pumpkin with a curly vine, a scarecrow in a field, a basket of apples, a smiling turkey, a hedgehog in a pile of leaves, a sunflower, a corn cob, a pair of rain boots, a hot-cider mug, an owl in a tree and a wheelbarrow of gourds.
@@ -40,7 +42,7 @@ Thirty simple autumn pictures: a big maple leaf, an acorn with a cap, a squirrel
 
 ## 2. Thanksgiving feast and gratitude for kids
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty Thanksgiving pages: a family around a feast table, kids helping roll pie crust, a turkey and pumpkin pie on the counter, a harvest parade with a giant balloon float of a turkey, picking apples at an orchard, a hayride at a farm, friends sharing a picnic, a cornucopia of vegetables, a kid drawing a thank-you card, grandparents arriving at the door and a football game in the backyard.
@@ -72,7 +74,7 @@ Thirty Thanksgiving pages: a family around a feast table, kids helping roll pie 
 
 ## 3. Cozy autumn days for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty cozy fall scenes: a farm stand piled with pumpkins and squash, an apple orchard with ladders and baskets, a cabin porch with blankets and cider, a forest path of falling leaves, a knitted sweater and a stack of books, a mushroom-covered log, a harvest wreath on a door, a pie cooling on a windowsill, a covered bridge over a stream and a fox in golden leaves.

@@ -1,5 +1,7 @@
 # Christmas Story Coloring Book Prompts for Kids
 
+<img src="../../assets/img/story-coloring-books.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 A Christmas story coloring book is a stocking-stuffer that keeps kids busy on the slow days before the holiday and gives them a story to read on Christmas Eve. These prompts feature original holiday characters, a little reindeer, a muddled elf and a tiny snow globe village, so they are safe to sell. They are a seasonal bestseller for KDP and Etsy shops and a family favorite for advent.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A Christmas story coloring book is a stocking-stuffer that keeps kids busy on th
 
 ## 1. Sprig the littlest reindeer
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Christmas · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Christmas · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Sprig, the littlest reindeer at the North Pole, wears a jingle-bell collar much too big for him. When he practices flying, his bell jangles so loudly the elves cover their ears and the big reindeer sigh. Sprig tries to fly quietly, but he can't. On Christmas Eve a baby polar bear wanders off into the snowstorm outside the workshop. Nobody can see him in all that white, but he can hear Sprig's bell, and he follows the jingle home. Santa gives every reindeer a bell just like Sprig's.
@@ -40,7 +42,7 @@ Sprig, the littlest reindeer at the North Pole, wears a jingle-bell collar much 
 
 ## 2. Tinsel the elf's stocking mix-up
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Tinsel, a young elf with a crooked green hat, is put in charge of filling the stockings. But he drops his list in the cocoa, and everything goes to the wrong place. A cat gets a dog bone, a baby gets a tuba, Grandpa gets a tutu and a goldfish gets ice skates. On Christmas morning everyone is puzzled, until they start swapping gifts with their neighbors. The whole street ends up laughing together at one big breakfast, and Tinsel decides it was the best mistake ever.
@@ -72,7 +74,7 @@ Tinsel, a young elf with a crooked green hat, is put in charge of filling the st
 
 ## 3. Evie and the snow globe village
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Quality:** Standard · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Quality:** Standard · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Evie, a girl in a red knitted scarf, shakes her grandmother's old snow globe and shrinks right inside it. The tiny village is getting ready for Christmas, but the tree in the square has no star; it fell into the river last winter. Evie helps the townsfolk, a baker, a clockmaker and a girl with a pet hedgehog, search the bakery, the clock tower and the skating pond. Together they make a new star from a silver button off Evie's coat. Back home, Evie finds her button missing, and a tiny star shining in the globe.

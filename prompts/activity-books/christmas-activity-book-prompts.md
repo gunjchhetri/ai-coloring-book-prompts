@@ -1,5 +1,7 @@
 # Christmas Activity Book Prompts for Kids: Mazes, Word Search & More
 
+<img src="../../assets/img/activity-books.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Christmas activity books are a classic stocking stuffer and one of the biggest seasonal sellers on Amazon KDP and Etsy. These prompts cover a cozy preschool book, a busy North Pole puzzle book and a 24-day advent puzzle countdown. Every scene uses original characters, so the book is safe to sell.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-activity-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Christmas activity books are a classic stocking stuffer and one of the biggest s
 
 ## 1. Cozy Christmas for preschoolers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Tracing (6), Shadow matching (8), Connect the dots (8), Coloring pages (8) · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Tracing (6), Shadow matching (8), Connect the dots (8), Coloring pages (8) · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A cozy Christmas at home: decorating the tree, a gingerbread house, hanging stockings by the fireplace, a snowman with a carrot nose, a reindeer in the snow, a sleigh full of gifts, mittens and hot cocoa, cookies for Santa. Tracing pages trace candy cane stripes, snowflake lines and the shapes of a star, bell and tree. Shadows to match: bell, stocking, star, gift, snowman, reindeer, candle, tree.
@@ -54,7 +56,7 @@ A cozy Christmas at home: decorating the tree, a gingerbread house, hanging stoc
 
 ## 2. North Pole workshop puzzle book
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Coloring pages (10) · **Maze styles:** walls, tube, round · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Coloring pages (10) · **Maze styles:** walls, tube, round · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A busy North Pole workshop: elves painting wooden toys, wrapping presents on a conveyor belt, a reindeer stable, a mail room full of letters, a polar bear sledding, a sleigh loading up on Christmas Eve. Word search words: REINDEER, SLEIGH, SNOWFLAKE, MISTLETOE, ORNAMENT, STOCKING, CHIMNEY, COOKIES, ELVES, WREATH, CANDY CANE, PRESENTS, CAROLS, TINSEL, COCOA. Mazes guide the sleigh across rooftops to deliver every gift.
@@ -105,7 +107,7 @@ A busy North Pole workshop: elves painting wooden toys, wrapping presents on a c
 
 ## 3. 24-day advent puzzle countdown
 
-**Ages:** 9-13 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Activities:** Word search (8), Sudoku (8), Mazes (8) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **InkChamps credits:** 24 Standard · 48 Premium
+**Ages:** 9-13 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Activities:** Word search (8), Sudoku (8), Mazes (8) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **Credits:** 24 Standard · 48 Premium
 
 ```text
 A countdown to Christmas with one puzzle for each day from December 1 to 24, decorated with a snowy village: ice skating on a pond, a holiday market, carolers, a train through snowy pines, a cabin at night. Word search lists. Winter: BLIZZARD, ICICLE, SNOWDRIFT, SNOWFLAKE, TOBOGGAN. Baking: NUTMEG, CINNAMON, SHORTBREAD, FRUITCAKE. Traditions: ADVENT, POINSETTIA, NUTCRACKER, YULE LOG. Mazes are snowy forest paths.

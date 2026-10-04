@@ -1,5 +1,7 @@
 # Dinosaur Coloring Book Prompts for Kids & KDP
 
+<img src="../../assets/img/dinosaur-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Dinosaurs are one of the steadiest sellers in kids' coloring on Amazon KDP and Etsy, because every generation of children goes through a dinosaur phase. These dinosaur coloring book prompts cover a cuddly book for toddlers, a dinosaur alphabet that homeschool parents love, and a realistic prehistoric world for older kids. Paste one into InkChamps and get a print-ready coloring book PDF.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Dinosaurs are one of the steadiest sellers in kids' coloring on Amazon KDP and E
 
 ## 1. Baby dinosaurs for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Chubby, smiling baby dinosaurs doing the everyday things little kids love: a T-rex blowing out birthday candles, a triceratops splashing in a bubble bath, a stegosaurus watering a vegetable garden, a brachiosaurus reading a bedtime story, a baby dino hatching from a speckled egg, a pterodactyl flying a kite, a dinosaur picnic, a sandcastle on the beach, and a sleepy dino hugging a teddy bear. Gentle and funny, never scary.
@@ -41,7 +43,7 @@ Chubby, smiling baby dinosaurs doing the everyday things little kids love: a T-r
 
 ## 2. Dinosaur ABC book
 
-**Ages:** 6-9 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 26 Standard · 78 Premium
+**Ages:** 6-9 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
 
 ```text
 A dinosaur alphabet, one dinosaur per letter with its name: A ankylosaurus, B brachiosaurus, C compsognathus, D diplodocus, E edmontosaurus, F fukuiraptor, G gallimimus, H hadrosaurus, I iguanodon, J jobaria, K kentrosaurus, L lambeosaurus, M maiasaura, N nodosaurus, O oviraptor, P parasaurolophus, Q qianzhousaurus, R rajasaurus, S stegosaurus, T tyrannosaurus rex, U utahraptor, V velociraptor, W wuerhosaurus, X xenoceratops, Y yangchuanosaurus, Z zuniceratops.
@@ -75,7 +77,7 @@ A dinosaur alphabet, one dinosaur per letter with its name: A ankylosaurus, B br
 
 ## 3. Realistic prehistoric world for older kids
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Jungle adventure · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Jungle adventure · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A detailed prehistoric world full of action and discovery: a T-rex stalking through a fern forest, a herd of triceratops crossing a river, a spinosaurus catching fish in a swamp, pterosaurs soaring past an erupting volcano, an ankylosaurus guarding its nest, a mother maiasaura feeding her hatchlings, a mosasaur breaching the sea, raptors hunting in moonlight, a young paleontologist brushing dust off a giant skull, and a museum hall with a towering skeleton.

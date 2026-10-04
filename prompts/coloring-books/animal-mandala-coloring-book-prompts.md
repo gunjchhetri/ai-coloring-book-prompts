@@ -1,5 +1,7 @@
 # Animal Mandala Coloring Book Prompts
 
+<img src="../../assets/img/animal-mandala-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Animal mandala coloring books combine two bestselling niches: the calm of pattern coloring and the appeal of a favourite animal. Adults buy them as stress relief, while tweens and kids like seeing a lion or a sea turtle filled with swirls and petals. These animal mandala coloring book prompts give you a premium wildlife edition, an ocean set and an easier book for younger colorists.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=animal-mandala-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Animal mandala coloring books combine two bestselling niches: the calm of patter
 
 ## 1. Wild animal mandalas for adults
 
-**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 50 Standard · 150 Premium
+**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **Credits:** 50 Standard · 150 Premium
 
 ```text
 Fifty majestic wild animals, each filled with intricate mandala and zentangle patterns: a lion with a mane of petals, an elephant draped in paisley, a wolf howling under a patterned moon, a great horned owl, a fox curled in a ring of leaves, a tiger, a stag with lace antlers, a grizzly bear, a giraffe, a hummingbird at a lotus, a sea turtle, a peacock and a chameleon, each set against a floral mandala backdrop.
@@ -40,7 +42,7 @@ Fifty majestic wild animals, each filled with intricate mandala and zentangle pa
 
 ## 2. Ocean creature mandalas for tweens
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala sea · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala sea · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty sea creatures filled with flowing mandala patterns: a sea turtle with a patterned shell, an octopus with swirling tentacles, a seahorse, a humpback whale, jellyfish trailing lace ribbons, a manta ray, dolphins leaping in a circle, a pufferfish, a hermit crab, a starfish, clownfish in an anemone, a narwhal, and coral reefs and shells woven between them like a tide-pool mandala.
@@ -71,7 +73,7 @@ Forty sea creatures filled with flowing mandala patterns: a sea turtle with a pa
 
 ## 3. Easy animal mandalas for kids
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty friendly animals with simple patterns inside them for young colorists: a sitting cat with hearts and dots, a puppy with star-patterned ears, a bunny, a butterfly with big patterned wings, an owl, a turtle with a flower shell, a fish with wavy scales, a snail, a ladybug, a koala and a hedgehog, each framed by a simple round ring of flowers or leaves.

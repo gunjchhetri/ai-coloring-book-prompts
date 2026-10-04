@@ -1,5 +1,7 @@
 # Recycling and Earth Day Coloring Book Prompts for Kids
 
+<img src="../../assets/img/educational-coloring-books.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Earth Day on April 22 brings a rush of teachers and parents looking for recycling activities that actually teach something. These prompts turn sorting, composting, saving water and the journey of a plastic bottle into one-idea-per-page coloring books. They work for a single Earth Day lesson or a whole green-habits unit.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=recycling-earth-day-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Earth Day on April 22 brings a rush of teachers and parents looking for recyclin
 
 ## 1. Helping the Earth for preschoolers
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 Easy ways little kids can help the Earth, one per page: 1. Put paper in the recycling bin. 2. Rinse plastic bottles and recycle them. 3. Recycle glass jars. 4. Recycle metal cans. 5. Reuse a jar as a pencil holder. 6. Turn off the lights when you leave a room. 7. Turn off the tap while you brush your teeth. 8. Pick up litter at the park. 9. Plant a tree. 10. Put banana peels and apple cores in the compost. Show smiling kids and happy animals.
@@ -37,7 +39,7 @@ Easy ways little kids can help the Earth, one per page: 1. Put paper in the recy
 
 ## 2. Where does recycling go, ages 6-9
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 After the recycling bin: 1. Reduce, reuse, recycle. 2. Sort paper, plastic, glass and metal. 3. The recycling truck collects the bins. 4. At the sorting center, machines separate everything. 5. Paper becomes pulp, then new paper. 6. Plastic bottles can become fleece jackets. 7. Aluminum cans can be recycled again and again. 8. Glass is melted into new jars. 9. Composting turns food scraps into soil. 10. Worms help compost. 11. Reusable bags and bottles. 12. Save water. 13. Save energy. 14. Earth Day is April 22.
@@ -66,7 +68,7 @@ After the recycling bin: 1. Reduce, reuse, recycle. 2. Sort paper, plastic, glas
 
 ## 3. Protecting our planet for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Bigger ideas about caring for the planet: 1. What a landfill is. 2. Some materials take hundreds of years to break down. 3. How litter reaches rivers and the ocean. 4. Microplastics. 5. Composting returns nutrients to soil. 6. Upcycling old things into new ones. 7. Renewable energy: solar panels. 8. Wind turbines. 9. Saving electricity at home. 10. Saving water. 11. Trees take in carbon dioxide and give off oxygen. 12. Protecting animal habitats. 13. A community cleanup. 14. Make an Earth Day pledge.

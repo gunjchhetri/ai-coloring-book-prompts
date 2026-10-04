@@ -1,5 +1,7 @@
 # Ocean Activity Book Prompts for Kids: Sea Animal Mazes & Puzzles
 
+<img src="../../assets/img/ocean-activity-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Under the sea is a favorite theme for kids' activity books and a natural fit for summer and beach trips. These ocean activity book prompts move from friendly fish and crabs for preschoolers to a coral reef science puzzle book for 9 to 13 year olds. Real sea animal names in every word list make the book a quiet marine biology lesson.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=ocean-activity-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Under the sea is a favorite theme for kids' activity books and a natural fit for
 
 ## 1. Friendly sea animals for preschoolers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Shadow matching (8), Connect the dots (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Shadow matching (8), Connect the dots (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 Friendly sea animals in a bright underwater world: a smiling octopus, a sea turtle swimming over coral, a crab on the sand, a pufferfish puffing up, a seahorse holding seagrass, a whale spouting water, a starfish, a family of dolphins jumping waves. Easy mazes help a little fish find its friends or a turtle reach the beach. Shadows to match: shell, crab, whale, starfish, seahorse, octopus, boat, anchor.
@@ -58,7 +60,7 @@ Friendly sea animals in a bright underwater world: a smiling octopus, a sea turt
 
 ## 2. Under the sea puzzle book for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Connect the dots (10) · **Maze styles:** walls, tube, round · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Connect the dots (10) · **Maze styles:** walls, tube, round · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A dive from a sunny beach to the deep sea: tide pools, a kelp forest with sea otters, a shipwreck with a treasure chest, a coral reef, a manta ray gliding, a submarine with bright lights in the dark deep. Word search words: OCTOPUS, DOLPHIN, SEAHORSE, JELLYFISH, STARFISH, CORAL, SHARK, WHALE, SEA TURTLE, LOBSTER, KELP, TIDE POOL, SHIPWRECK, CLOWNFISH, STINGRAY. Mazes swim through reefs and caves.
@@ -110,7 +112,7 @@ A dive from a sunny beach to the deep sea: tide pools, a kelp forest with sea ot
 
 ## 3. Coral reef science puzzles for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 46 · **Size:** 8.5 × 11 in · **Activities:** Word search (16), Sudoku (14), Mazes (16) · **Maze styles:** walls, round, square tube · **Quality:** Standard · **InkChamps credits:** 46 Standard · 92 Premium
+**Ages:** 9-13 · **Pages:** 46 · **Size:** 8.5 × 11 in · **Activities:** Word search (16), Sudoku (14), Mazes (16) · **Maze styles:** walls, round, square tube · **Quality:** Standard · **Credits:** 46 Standard · 92 Premium
 
 ```text
 A marine science puzzle book set on a research boat and a coral reef: divers with clipboards, a diving bell, an anglerfish glowing in the dark, a giant squid, a hammerhead shark, a parrotfish nibbling coral. Word search lists. Reef: POLYP, ANEMONE, PARROTFISH, SPONGE, LAGOON. Deep sea: ANGLERFISH, TRENCH, ABYSS, GULPER EEL. Science: PLANKTON, SALINITY, CURRENT, TIDE, SONAR.

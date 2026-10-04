@@ -1,5 +1,7 @@
 # Alphabet ABC Coloring Book Prompts for Toddlers & Preschool
 
+<img src="../../assets/img/alphabet-abc-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Alphabet coloring books are a must-have for parents, preschool teachers and homeschoolers teaching letter recognition, and they sell steadily all year on Amazon KDP. These ABC coloring book prompts list every letter from A to Z with its word, so each of the 26 pages shows one letter and one clear picture. Choose animals, foods or vehicles depending on what the child loves.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Alphabet coloring books are a must-have for parents, preschool teachers and home
 
 ## 1. A to Z animals
 
-**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 26 Standard · 78 Premium
+**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
 
 ```text
 An alphabet book of animals, one letter per page, each page showing the letter and one big friendly animal: A alligator, B bear, C cat, D duck, E elephant, F fox, G giraffe, H hippo, I iguana, J jellyfish, K koala, L lion, M monkey, N narwhal, O owl, P penguin, Q quail, R rabbit, S sloth, T turtle, U umbrellabird, V vulture, W whale, X x-ray fish, Y yak, Z zebra.
@@ -41,7 +43,7 @@ An alphabet book of animals, one letter per page, each page showing the letter a
 
 ## 2. A to Z yummy foods
 
-**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 26 Standard · 78 Premium
+**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
 
 ```text
 An alphabet book of foods, one letter per page with the letter and one big tasty food: A apple, B banana, C carrot, D doughnut, E egg, F fig, G grapes, H honey, I ice cream, J jam, K kiwi, L lemon, M muffin, N noodles, O orange, P pear, Q quiche, R raspberry, S strawberry, T tomato, U upside-down cake, V vegetable soup, W watermelon, X xiao long bao dumplings, Y yogurt, Z zucchini.
@@ -73,7 +75,7 @@ An alphabet book of foods, one letter per page with the letter and one big tasty
 
 ## 3. A to Z things that go
 
-**Ages:** 6-9 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 26 Standard · 78 Premium
+**Ages:** 6-9 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
 
 ```text
 An alphabet book of vehicles, one letter per page, each showing the letter and the vehicle at work in a simple scene: A ambulance, B bulldozer, C cement mixer, D dump truck, E excavator, F fire truck, G garbage truck, H helicopter, I ice cream truck, J jet plane, K kayak, L locomotive, M motorcycle, N narrowboat, O ocean liner, P police car, Q quad bike, R rocket, S submarine, T tractor, U unicycle, V van, W wagon, X xebec sailing ship, Y yacht, Z zeppelin.

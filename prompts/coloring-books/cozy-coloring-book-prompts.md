@@ -1,5 +1,7 @@
 # Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes
 
+<img src="../../assets/img/cozy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Cozy coloring books are one of the hottest niches on Amazon KDP right now: warm interiors, rainy windows, steaming mugs and little shops full of charm. Adults and teens buy them to feel calm and at home, and they make easy gifts. These cozy coloring book prompts cover hygge home life, cottagecore countryside and a sweet set of animal-run cafés and shops.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=cozy-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Cozy coloring books are one of the hottest niches on Amazon KDP right now: warm 
 
 ## 1. Hygge home moments for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty cozy indoor scenes: a reading nook with a knitted blanket and a sleeping cat, a kitchen with bread cooling on the counter, socks warming by a wood stove, a bathtub with candles and plants, a bedroom with string lights and stacked books, a rainy window with tea and cookies, a sunroom full of houseplants, a pantry of jars, a window seat in snowfall and a cluttered craft table with yarn.
@@ -40,7 +42,7 @@ Forty cozy indoor scenes: a reading nook with a knitted blanket and a sleeping c
 
 ## 2. Cottagecore countryside
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty cottagecore pages of slow country life: a thatched cottage with roses over the door, a garden gate and vegetable beds, a picnic basket on a quilt by a stream, beehives in a meadow, a farmers market stall of jams and bread, sheep grazing near a stone wall, mushroom foraging in a mossy wood, a village bakery, a greenhouse, a washing line in the breeze and a bicycle with a flower basket.
@@ -71,7 +73,7 @@ Forty cottagecore pages of slow country life: a thatched cottage with roses over
 
 ## 3. Cozy animal cafés and little shops
 
-**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 36 Standard · 108 Premium
+**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Medium · **Quality:** Standard · **Credits:** 36 Standard · 108 Premium
 
 ```text
 Thirty-six charming little shops run by animals: a hedgehog bakery with cinnamon rolls, a bear café pouring hot cocoa, a cat bookshop with cushions in the window, a rabbit flower shop, a fox tea house, a raccoon antique store, an otter ice-cream parlour, a mouse cheese shop, a frog plant nursery, a panda noodle bar and a badger yarn store, each shown inside or at its front door on a rainy evening.

@@ -1,5 +1,7 @@
 # Robot Coloring Book Prompts for Kids & Tweens
 
+<img src="../../assets/img/robot-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Robot coloring books appeal to kids who love building, gadgets and science fiction, and they make a great STEM-flavoured gift. Robots are also flexible: they can be cute and boxy for toddlers or towering and mechanical for tweens. These robot coloring book prompts give you a friendly first robot book, a futuristic robot world for school-age kids, and a mech and steampunk robot book for older kids.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=robot-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Robot coloring books appeal to kids who love building, gadgets and science ficti
 
 ## 1. Friendly robots for little kids
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Cute, boxy robots with big friendly eyes: a robot watering flowers, a robot walking its robot dog, a robot baking cookies, a robot kicking a soccer ball, a robot holding a balloon, a robot stacking a block tower, a robot fixing a toy car with a wrench, a robot dancing to music, a robot and a child sharing an umbrella, and a sleepy robot plugged in to recharge at bedtime.
@@ -41,7 +43,7 @@ Cute, boxy robots with big friendly eyes: a robot watering flowers, a robot walk
 
 ## 2. Robot city and kid inventors
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A futuristic world full of helpful robots: a robot city with flying cars and tall glass towers, a kid inventor building a robot in a garage workshop, giant robots cleaning up after a storm, a robot chef in a busy kitchen, robots exploring the ocean floor, a robot farmer harvesting vegetables, a robot zookeeper feeding giraffes, robots racing on a track, a robot band on stage, and a robot best friend at a sleepover.
@@ -74,7 +76,7 @@ A futuristic world full of helpful robots: a robot city with flying cars and tal
 
 ## 3. Giant mechs and steampunk bots
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Giant mechs and inventive robot designs: a towering mech standing over a city at sunset, a robot T-rex, a samurai-style mech with a sword, a robot dragon flying over mountains, a robot sumo ring, a spider robot climbing a cliff, a steampunk robot full of gears and pipes, a pilot inside a mech cockpit, a robot knight guarding a castle gate, and a robot whale exploring the deep sea.

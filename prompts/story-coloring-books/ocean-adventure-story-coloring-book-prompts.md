@@ -1,5 +1,7 @@
 # Ocean Adventure Story Coloring Book Prompts
 
+<img src="../../assets/img/ocean-adventure-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 An ocean adventure story coloring book takes kids from the beach to the deep sea, with coral reefs, kelp forests and shipwrecks to color along the way. These prompts follow a sea turtle hatchling, a tidy-minded octopus and a girl in her grandpa's submarine, and each one carries a gentle message about caring for the sea. They suit ocean-loving kids, summer travel bags and KDP sellers in the sea-life niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=ocean-adventure-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ An ocean adventure story coloring book takes kids from the beach to the deep sea
 
 ## 1. Shelby the sea turtle finds her way home
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Shelby, a baby sea turtle with a speckled shell, hatches on a moonlit beach and scurries to the waves. In the big ocean she meets a clownfish who shows her the reef, a manta ray who gives her a ride, and a kind old whale who sings her to sleep. She grows bigger and stronger with every page. Years later, Shelby follows the Earth's hidden pull, like a secret compass, all the way back to the very same beach, where she lays her own eggs in the warm sand.
@@ -40,7 +42,7 @@ Shelby, a baby sea turtle with a speckled shell, hatches on a moonlit beach and 
 
 ## 2. Odette the octopus and her collection
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Odette, a purple octopus who loves shiny things, collects everything that drifts to the sea floor: buttons, spoons, bottle caps, a lost sandal and a plastic bag. Her den gets so full she can barely squeeze inside. When a little crab gets stuck in the plastic bag, Odette untangles him with all eight arms and realises not everything belongs in the sea. She and her friends gather the litter into a net and leave it at the beach for the people to take home. Then she keeps only one shiny shell.
@@ -72,7 +74,7 @@ Odette, a purple octopus who loves shiny things, collects everything that drifts
 
 ## 3. Marisol and Grandpa's submarine
 
-**Ages:** 9-13 · **Pages:** 34 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 68 Standard · 102 Premium
+**Ages:** 9-13 · **Pages:** 34 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 68 Standard · 102 Premium
 
 ```text
 Marisol, a girl with a long dark braid, spends summer with her grandpa, an old sea captain who keeps a small orange submarine called Biscuit under his fishing boat. On trips north and south they dive through a cold kelp forest full of sea otters and a warm coral reef busy with parrotfish, then down through the twilight zone of glowing jellyfish and the dark deep where an anglerfish lights the way. In a sunken ship they find a message in a bottle that Grandpa threw into the sea when he was Marisol's age.

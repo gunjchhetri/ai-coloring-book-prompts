@@ -1,5 +1,7 @@
 # Unicorn Coloring Book Prompts: Unicorns & Magical Creatures
 
+<img src="../../assets/img/unicorn-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Unicorn coloring books are a perennial best seller on Amazon KDP, especially as birthday and holiday gifts for girls aged 4 to 10. The appeal is simple: rainbows, sparkle and a friendly magical horse that every child can make their own. These unicorn coloring book prompts give you a dreamy toddler book, a whole kingdom of magical creatures for school-age kids, and an elegant unicorn mandala book for teens and adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=unicorn-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Unicorn coloring books are a perennial best seller on Amazon KDP, especially as 
 
 ## 1. Baby unicorns on clouds and rainbows
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Fairy tale · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Fairy tale · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Sweet baby unicorns in a soft, dreamy world: a unicorn asleep on a fluffy cloud, sliding down a rainbow, eating a cupcake at a tea party, playing with a bunny in a flower meadow, splashing in a sparkling pond, wearing a flower crown, blowing bubbles, riding a merry-go-round, hugging a star-shaped pillow, and waving goodnight to the moon.
@@ -41,7 +43,7 @@ Sweet baby unicorns in a soft, dreamy world: a unicorn asleep on a fluffy cloud,
 
 ## 2. Unicorns and magical creatures kingdom
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 An enchanted kingdom of magical creatures: unicorns galloping through a crystal forest, a winged pegasus over a mountain waterfall, a baby dragon and a unicorn sharing a picnic, a griffin guarding a castle tower, a phoenix rising from glowing flowers, fairies riding butterflies, a gnome village of mushroom houses, a narwhal in an icy sea, a nine-tailed fox spirit, and a unicorn mother and foal beneath a rainbow.
@@ -74,7 +76,7 @@ An enchanted kingdom of magical creatures: unicorns galloping through a crystal 
 
 ## 3. Unicorn mandalas for teens and adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Elegant unicorns woven into ornate designs: a rearing unicorn framed by a circular floral mandala, a unicorn head with a mane of paisley and roses, unicorns in a stained-glass forest, a unicorn resting beneath a crescent moon among stars and lace, twin unicorns forming a heart of vines, a unicorn galloping over swirling waves, and a winged unicorn in a garden of peonies and butterflies.

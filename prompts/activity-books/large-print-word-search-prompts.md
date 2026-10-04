@@ -1,5 +1,7 @@
 # Large Print Word Search Prompts for Adults and Seniors
 
+<img src="../../assets/img/large-print-word-search-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Large print word search books are one of the most reliable low-content niches on Amazon KDP, bought by seniors, caregivers and memory-care activity staff. The winning books have a clear theme and familiar, upbeat word lists. These prompts give you three themed books, each with full word lists, ready to turn into a large print puzzle PDF.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=large-print-word-search-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Large print word search books are one of the most reliable low-content niches on
 
 ## 1. Gardener's large print word search
 
-**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Word search (30) · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Word search (30) · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A large print gardening word search, each puzzle framed by flowers and watering cans. Flowers: ROSE, TULIP, DAISY, LILAC, PEONY, DAHLIA, PANSY, IRIS, POPPY, ASTER, LILY, ZINNIA. Vegetables: TOMATO, CARROT, RADISH, SPINACH, PUMPKIN, ONION, BEAN, PEA, LEEK, CORN, BEET, KALE. Herbs: BASIL, THYME, MINT, PARSLEY, ROSEMARY, SAGE, DILL, CHIVES, OREGANO, FENNEL, LAVENDER, BAY. Garden birds: ROBIN, FINCH, WREN, CARDINAL, BLUEBIRD, SPARROW, DOVE, JAY, OWL, CROW, THRUSH, HERON. Tools: TROWEL, RAKE, SHEARS, HOSE, SPADE, HOE, FORK, GLOVES, BUCKET, SHED, POT, SEEDS.
@@ -46,7 +48,7 @@ A large print gardening word search, each puzzle framed by flowers and watering 
 
 ## 2. Travel the world large print word search
 
-**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Word search (30) · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Word search (30) · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A large print armchair-travel word search, each puzzle framed with postcards and a vintage map. Europe: PARIS, VENICE, LISBON, VIENNA, DUBLIN, ATHENS, ROME, PRAGUE, OSLO, MADRID, BERLIN, NICE. Islands: HAWAII, BALI, SICILY, TAHITI, ICELAND, MALTA, CRETE, FIJI, CUBA, JAVA, CAPRI, SAMOA. Parks: CANYON, GEYSER, REDWOODS, GLACIER, MESA, LAKE, FALLS, TRAIL, CAMP, RIDGE, ARCHES, DUNES. Packing: PASSPORT, CAMERA, SUNHAT, POSTCARD, MAP, TICKET, SCARF, SNACKS, BOOK, PILLOW, SOCKS, KEYS. Ways to go: CRUISE, RAILWAY, FERRY, CARAVAN, AIRPLANE, BUS, TAXI, BIKE, TRAM, BOAT, COACH, CANOE.
@@ -84,7 +86,7 @@ A large print armchair-travel word search, each puzzle framed with postcards and
 
 ## 3. 1960s nostalgia large print word search
 
-**Ages:** 13+ · **Pages:** 24 · **Size:** 8.5 × 11 in · **Activities:** Word search (24) · **Quality:** Standard · **InkChamps credits:** 24 Standard · 48 Premium
+**Ages:** 13+ · **Pages:** 24 · **Size:** 8.5 × 11 in · **Activities:** Word search (24) · **Quality:** Standard · **Credits:** 24 Standard · 48 Premium
 
 ```text
 A large print 1960s word search, each puzzle decorated with jukeboxes and vinyl records. Fashion: MINISKIRT, BEEHIVE, GOGO BOOTS, TIE DYE, BELL BOTTOMS, BEADS, FRINGE, SANDALS, POLKA DOT, HEADBAND, PLATFORMS, PONCHO. Dances: TWIST, LIMBO, STROLL, SWIM, FRUG, MONKEY, PONY, JERK, HUSTLE, SHIMMY, LOCOMOTION, SHAKE. At home: TV DINNER, PERCOLATOR, FONDUE, JELLO, LAVA LAMP, TRANSISTOR, RECORDS, RADIO, PHONE, SHAG RUG, FORMICA, AVOCADO. Big moments: MOON LANDING, SPACE RACE, PEACE SIGN, SURF MUSIC, ASTRONAUT, ROCKET, WOODSTOCK, DRIVE IN, JUKEBOX, DINER, BEATNIK, FLOWER POWER.

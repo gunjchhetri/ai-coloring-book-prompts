@@ -1,5 +1,7 @@
 # Vehicle Coloring Book Prompts: Trucks, Diggers, Trains & Cars
 
+<img src="../../assets/img/vehicle-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Vehicle coloring books are a top seller for little kids who love anything with wheels, from diggers and fire trucks to tractors and trains. Parents buy them for road trips and waiting rooms, and construction vehicle books are a well-known KDP niche of their own. These vehicle coloring book prompts give you a big-trucks book for toddlers, a construction machine book with names, and a classic car and train book for older fans.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=vehicle-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Vehicle coloring books are a top seller for little kids who love anything with w
 
 ## 1. Big trucks and things that go
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Big, friendly vehicles little kids love: a dump truck tipping a load of dirt, an excavator digging a hole, a fire truck with its ladder raised, a school bus full of waving kids, a red tractor pulling a hay wagon, a steam train chugging over a bridge, a garbage truck on its morning route, a police car, a cement mixer, a tow truck, a helicopter, and an airplane above the clouds.
@@ -41,7 +43,7 @@ Big, friendly vehicles little kids love: a dump truck tipping a load of dirt, an
 
 ## 2. 24 construction machines with names
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 24 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 24 Standard · 72 Premium
 
 ```text
 A construction vehicle book, one machine per page with its name: excavator, bulldozer, dump truck, cement mixer, tower crane, mobile crane, backhoe loader, wheel loader, road roller, forklift, skid steer, motor grader, asphalt paver, drilling rig, trencher, scraper, telehandler, pile driver, wrecking ball crane, flatbed truck, water truck, street sweeper, cherry picker, mini excavator.
@@ -75,7 +77,7 @@ A construction vehicle book, one machine per page with its name: excavator, bull
 
 ## 3. Classic cars and trains for teens and adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Detailed vintage vehicles of no real make, in nostalgic settings: an unbranded 1950s-style convertible outside a roadside diner, an old pickup truck loaded with pumpkins, a steam locomotive crossing a mountain viaduct, a hot rod in a garage full of tools, a vintage double-decker bus on a rainy city street, a rounded vintage camper parked at the beach, a vintage motorcycle on a desert highway, a vintage fire engine at a small-town parade and a 1920s steam tram in an old town square.

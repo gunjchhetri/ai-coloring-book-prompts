@@ -1,5 +1,7 @@
 # Bird Coloring Book Prompts: Cute Birds, Bird Names & Mandalas
 
+<img src="../../assets/img/bird-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Birds are a quietly strong coloring niche: toddlers love owls, penguins and ducklings, nature-loving families want real backyard birds, and adult colorists adore peacocks and hummingbirds among flowers. Bird coloring books sell to parents, homeschoolers, birdwatchers and gift buyers. These bird coloring book prompts give you a cute baby-bird book, a bird names book with captions, and a floral bird mandala book for adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bird-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Birds are a quietly strong coloring niche: toddlers love owls, penguins and duck
 
 ## 1. Chubby baby birds for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute birds · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute birds · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Chubby, smiling birds in gardens, ponds and seashores: an owlet peeking out of a tree hollow, a robin tugging a worm, ducklings in a puddle, a penguin chick sliding on its belly, a parrot eating a slice of mango, baby chicks in a nest waiting for breakfast, a flamingo standing on one leg, a hummingbird at a flower, a puffin with a fish, and a toucan in a banana tree.
@@ -41,7 +43,7 @@ Chubby, smiling birds in gardens, ponds and seashores: an owlet peeking out of a
 
 ## 2. 24 birds of the world with names
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute birds · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 24 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute birds · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 24 Standard · 72 Premium
 
 ```text
 A bird book, one bird per page with its name: robin, blue jay, cardinal, goldfinch, chickadee, woodpecker, hummingbird, barn owl, bald eagle, peacock, flamingo, pelican, puffin, emperor penguin, ostrich, toucan, scarlet macaw, swan, mallard duck, kingfisher, red-tailed hawk, crow, heron, cockatoo.
@@ -75,7 +77,7 @@ A bird book, one bird per page with its name: robin, blue jay, cardinal, goldfin
 
 ## 3. Floral bird mandalas for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala birds · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala birds · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Birds among intricate flowers and patterns: a peacock with a fan of ornate feathers, an owl on a branch of patterned leaves, hummingbirds sipping from hibiscus, a pair of lovebirds inside a heart of roses, a heron in a lotus pond, a cardinal on a snowy berry branch, swallows circling a round mandala, a kingfisher above patterned water, and an open birdcage overflowing with vines and blossoms.

@@ -1,5 +1,7 @@
 # Dragon Story Book Prompts for AI Children's Books
 
+<img src="../../assets/img/illustrated-story-books.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 Dragons are a perennial favorite in children's picture books, and the best dragon stories flip expectations: a dragon who is scared, a dragon who is hurting, a dragon who needs a friend. These prompts give InkChamps an original dragon with a clear look and a heartfelt problem. They suit dragon-mad kids, parents who want a gift with adventure and KDP sellers in the fantasy niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Dragons are a perennial favorite in children's picture books, and the best drago
 
 ## 1. Saffron the dragon who feared fire
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Saffron, a small teal dragon with stubby wings and big amber eyes, is afraid of fire. Every time she sneezes, sparks fly out, and she hides in her cave. Her friend Toby, a village boy in a knitted hat, helps her practice: a teeny flame to toast one marshmallow, then warm the bakery oven, then melt the ice on the pond. On the night of the Winter Lantern Festival, the wind blows every lantern out, and Saffron lights them all with her gentle flame. The village cheers for her.
@@ -41,7 +43,7 @@ Saffron, a small teal dragon with stubby wings and big amber eyes, is afraid of 
 
 ## 2. Sir Wobbles and the dragon's toothache
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Comic book · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Comic book · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Sir Wobbles, a clumsy young knight whose armor is three sizes too big, is sent to stop the dragon roaring on the mountain. He clanks up the path, trips over his sword and lands right on the dragon's nose. But the dragon, a big red fellow named Grumbold, isn't angry. He has a terrible toothache from eating the baker's toffee. Sir Wobbles and the castle dentist tie a rope to the tooth, the whole kingdom pulls, and pop! Grumbold becomes the kingdom's friend.
@@ -74,7 +76,7 @@ Sir Wobbles, a clumsy young knight whose armor is three sizes too big, is sent t
 
 ## 3. Saskia and the last dragon egg
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Anime · **Layout:** Two-page spreads · **Quality:** Premium · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Anime · **Layout:** Two-page spreads · **Quality:** Premium · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Saskia, a girl from a mountain village with a fur-trimmed red cloak, finds an egg glowing warm in the snow. It hatches into a silver dragon she names Cinder. She feeds him, teaches him to fly and hides him in the barn, but he grows too big, and the villagers grow afraid. Saskia knows Cinder belongs with the dragons above the clouds. She rides him to the highest peak and says goodbye. Every spring after, a silver dragon circles the village, and the snow melts early.

@@ -1,5 +1,7 @@
 # Bravery Story Book Prompts: Picture Books About Overcoming Fears
 
+<img src="../../assets/img/bravery-overcoming-fears-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 Children's fears are real to them, and a picture book about bravery shows that being brave means feeling scared and trying anyway. These prompts tackle the classic fears, the dark, the monster under the bed and the deep end of the pool, with warmth and a little humour. Parents use them to talk through a specific worry, and KDP sellers find steady demand in the emotional-growth niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bravery-overcoming-fears-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Children's fears are real to them, and a picture book about bravery shows that b
 
 ## 1. The monster under Milo's bed
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Milo, a boy in fuzzy dinosaur slippers, hears scratching under his bed. He's sure it's a monster. With his flashlight shaking, he peeks underneath and finds Gus, a small purple monster with one horn, hiding and trembling. Gus is scared of the dark up on top of the bed. Milo shows Gus his night-light and his teddy; Gus shows Milo that the shadows on the wall are just his coat and his kite. They agree to be brave together, and they both sleep with the flashlight on.
@@ -41,7 +43,7 @@ Milo, a boy in fuzzy dinosaur slippers, hears scratching under his bed. He's sur
 
 ## 2. Nora and the deep end
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Paper cut-out collage · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Paper cut-out collage · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Nora, a girl with goggles pushed up on her forehead, spends every summer day at the pool but never goes past the rope into the deep end. Her friends jump and splash; Nora sits on the edge. Her grandma, a retired lifeguard in a flowered swim cap, teaches her one small thing each week: blowing bubbles, floating like a starfish, kicking to the wall. On the last day of summer, Nora takes a big breath and jumps. She bobs up laughing, and Grandma is there.
@@ -74,7 +76,7 @@ Nora, a girl with goggles pushed up on her forehead, spends every summer day at 
 
 ## 3. Ivy follows the night noises
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Two-page spreads · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Two-page spreads · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Ivy, a girl with a long yellow scarf, has just moved into a creaky old house by the woods, and at night it's full of noises. Clutching her torch, she sets out to find each one: the clank is the old radiator, the whisper is wind in the chimney, the tapping is a branch on the window and the thump is her cat Pickle chasing a moth. By the last noise, Ivy is more curious than scared. She climbs back into bed and listens to the house hum like a friend.

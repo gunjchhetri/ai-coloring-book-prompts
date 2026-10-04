@@ -1,5 +1,7 @@
 # First Day of School Story Coloring Book Prompts
 
+<img src="../../assets/img/first-day-of-school-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 A first day of school story coloring book lets a nervous child rehearse the day before it happens: the walk in, the cubby, the new teacher, the first friend. Coloring each page slows the story down so worries can be talked through. These prompts suit parents preparing a preschooler or kindergartner, teachers welcoming a new class and KDP sellers stocking back-to-school gifts.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=first-day-of-school-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A first day of school story coloring book lets a nervous child rehearse the day 
 
 ## 1. Rosie's brave pebble
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Rosie, a small raccoon with a yellow backpack, is nervous about her first day at Willow Hollow School. Her mama slips a smooth pebble into her pocket and calls it her brave pebble. Rosie hangs up her coat, meets her teacher Mr. Moss, a kind tortoise with glasses, paints a sun and eats lunch on the log bench. When a little mouse named Benji cries at the door, Rosie lends him her pebble. At pickup she runs to Mama with her painting and a new friend.
@@ -40,7 +42,7 @@ Rosie, a small raccoon with a yellow backpack, is nervous about her first day at
 
 ## 2. Amir's kindergarten morning
 
-**Ages:** 3-6 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 3-6 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Amir, a boy with curly hair and red sneakers, gets ready for his very first day of kindergarten. He eats breakfast, walks to school holding his dad's hand, finds the cubby with his name on it, sits on the rug for circle time, builds a block tower, eats a sandwich, plays on the slide and listens to a story. He worries his dad won't come back, but at pickup there he is by the gate. On the walk home Amir asks, Can I go back tomorrow?
@@ -72,7 +74,7 @@ Amir, a boy with curly hair and red sneakers, gets ready for his very first day 
 
 ## 3. Juniper's chalk planets
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 60 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 60 Standard · 90 Premium
 
 ```text
 Juniper, a girl in a big green raincoat, has just moved to a new town and starts at Maple Street School where she knows nobody. She sits alone at lunch and stands by the wall at recess. Then she pulls out her chalk and draws a hopscotch path of planets across the playground, from Mercury to Neptune. One by one, curious kids line up to hop it. By the end of the day her new friends are adding their own planets, and Juniper can't wait for tomorrow.

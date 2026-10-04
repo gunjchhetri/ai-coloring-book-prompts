@@ -1,5 +1,7 @@
 # Community Helpers Coloring Book Prompts for Preschool and Up
 
+<img src="../../assets/img/educational-coloring-books.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Community helpers is a favorite preschool and kindergarten unit, and kids love coloring the firefighter's truck or the vet's stethoscope. These prompts give one helper per page with a sentence about what they do, then build to tools, vehicles and how a town's services connect for older kids. Show a mix of people of different backgrounds, ages and genders in every role.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=community-helpers-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Community helpers is a favorite preschool and kindergarten unit, and kids love c
 
 ## 1. Community helpers for preschoolers
 
-**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 People who help in our town, one per page with one easy sentence: 1. A firefighter puts out fires. 2. A police officer keeps us safe. 3. A doctor helps us when we are sick. 4. A nurse takes care of patients. 5. A teacher helps us learn. 6. A mail carrier brings letters. 7. A garbage collector keeps streets clean. 8. A farmer grows our food. 9. A baker makes bread. 10. A librarian helps us find books. 11. A dentist checks our teeth. 12. A crossing guard helps us cross the street. Show men and women of many backgrounds.
@@ -37,7 +39,7 @@ People who help in our town, one per page with one easy sentence: 1. A firefight
 
 ## 2. Helpers, tools and vehicles for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 6-9 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 Community helpers with the tools and vehicles they use: 1. Firefighter: hose, ladder truck. 2. Paramedic: ambulance, stretcher. 3. Doctor: stethoscope. 4. Veterinarian: caring for a dog. 5. Teacher: whiteboard and books. 6. Mail carrier: mail truck. 7. Pilot: cockpit. 8. Bus driver. 9. Construction worker: hard hat and crane. 10. Electrician: wires and tools. 11. Plumber: wrench and pipes. 12. Farmer: tractor. 13. Chef: kitchen. 14. Librarian. 15. Sanitation worker: recycling truck. 16. Park ranger: trail map.
@@ -66,7 +68,7 @@ Community helpers with the tools and vehicles they use: 1. Firefighter: hose, la
 
 ## 3. How a community works for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 How a town works: 1. A 911 dispatcher answers emergency calls. 2. Firefighters and paramedics respond. 3. Doctors and nurses work in a hospital. 4. Water treatment workers clean our drinking water. 5. Line workers fix power lines. 6. Sanitation and recycling workers. 7. Road crews fix potholes. 8. Mail carriers. 9. Farmers and grocery workers bring food to town. 10. Teachers and librarians. 11. Town council members make local decisions. 12. Judges. 13. Volunteers at a food bank. 14. How kids can help their community.

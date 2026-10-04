@@ -1,5 +1,7 @@
 # First Day of School Story Book Prompts for Picture Books
 
+<img src="../../assets/img/first-day-of-school-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 A first day of school story book helps a child picture the day before it happens, and lets them see that other kids, and even teachers, feel nervous too. These prompts give InkChamps a hero, a worry and a warm ending, and it writes and illustrates the rest. They work for parents of new preschoolers and kindergartners, teachers welcoming a class and KDP sellers stocking back-to-school titles.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=first-day-of-school-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A first day of school story book helps a child picture the day before it happens
 
 ## 1. Kit's lunchbox note
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Kit, a little fox cub with a too-big blue backpack, starts school at Hollow Oak. She holds her dad's paw until the very last second. All morning Kit feels wobbly: the classroom is loud, she doesn't know the songs, and she misses home. At lunch she opens her box and finds a note with a drawing of two foxes holding paws. Kit feels warm inside, shares her crackers with a shy owlet named Wren, and at pickup she has a drawing of her own for Dad.
@@ -41,7 +43,7 @@ Kit, a little fox cub with a too-big blue backpack, starts school at Hollow Oak.
 
 ## 2. Gemma the very tall giraffe
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Gemma, a young giraffe with a purple neck scarf, is so tall she has to duck through the classroom door. Her desk is too small, her knees knock the table and the other animals giggle. At recess Gemma hides behind a tree. Then the class ball flies over the hedge, and nobody can find it, except Gemma, who spots it from way up high. Her classmates cheer, the teacher gives her the window seat, and Gemma decides being tall is just right.
@@ -74,7 +76,7 @@ Gemma, a young giraffe with a purple neck scarf, is so tall she has to duck thro
 
 ## 3. The teacher who was nervous too
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Colored pencil · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Colored pencil · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Jayden, a boy with a brand-new rocket backpack, is nervous about first grade. So is his teacher, Ms. Okafor, who has bright braids and polka-dot glasses. It's her first day at this school too. Pages switch between them: both can't eat breakfast, both check their bags three times, both have butterflies. When Jayden finds Ms. Okafor's lost name badge in the hallway, they share a secret: they're both nervous. By home time they've decided first days are better together.

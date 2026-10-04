@@ -1,5 +1,7 @@
 # Cat Coloring Book Prompts: Kittens, Cozy Cats & Cat Mandalas
 
+<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Cat lovers are one of the most loyal buyer groups on Amazon KDP and Etsy, and cat coloring books sell to kids, teens and adults alike. Kittens in yarn and cardboard boxes delight preschoolers, while patterned cats are a favourite stress-relief gift for grown-ups. These cat coloring book prompts give you a playful kitten book, a cozy cat-life book for kids, and a zen cat mandala book for adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=cat-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Cat lovers are one of the most loyal buyer groups on Amazon KDP and Etsy, and ca
 
 ## 1. Playful kittens for preschoolers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Adorable kittens up to everyday mischief: a kitten tangled in a ball of yarn, napping in a sunny window, peeking out of a cardboard box, chasing a butterfly in the garden, pawing at a fishbowl, curled up in a slipper, wearing a cozy sweater, pouncing on a toy mouse, sitting in a laundry basket, and snuggling up with its mother.
@@ -41,7 +43,7 @@ Adorable kittens up to everyday mischief: a kitten tangled in a ball of yarn, na
 
 ## 2. Cozy cat life for kids
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A cozy world of cats and their adventures: a cat cafe with cats lounging on shelves and cushions, cats baking cookies in a kitchen, a cat astronaut floating in space, a cat reading in a library, a cat family picnic, a fisherman cat in a rowboat, cats leaping into piles of autumn leaves, a cat gardener among flowerpots, cats sledding down a snowy hill, and a cat band playing on a rooftop at night.
@@ -74,7 +76,7 @@ A cozy world of cats and their adventures: a cat cafe with cats lounging on shel
 
 ## 3. Zen cat mandalas for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Graceful cats surrounded by intricate patterns: a sleeping cat curled into a circular mandala, a cat silhouette filled with flowers and paisley, a cat on a windowsill framed by lace curtains and potted plants, a cat among cherry blossoms, a cat beneath a crescent moon, kittens in a patterned teacup, a long-haired cat with swirling fur, a cat in a bohemian room full of plants and rugs, and two cats forming a heart.

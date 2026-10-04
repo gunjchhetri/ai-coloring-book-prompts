@@ -1,5 +1,7 @@
 # Volcano and Earth Science Coloring Book Prompts for Kids
 
+<img src="../../assets/img/volcanoes-earth-science-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Volcanoes are a gateway to earth science: once kids see magma rising, they want to know about Earth's layers, plates and rocks. These prompts start with a friendly volcano story for preschoolers and build to tectonic plates and the full rock cycle for 9 to 13 year olds. Each page explains one idea with a clear cutaway drawing.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Volcanoes are a gateway to earth science: once kids see magma rising, they want 
 
 ## 1. Volcanoes for little learners
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 A first volcano book, one idea per page: 1. A volcano is a mountain with an opening at the top. 2. Deep under the ground it is very hot. 3. The heat melts rock into magma. 4. Magma rises up inside the volcano. 5. When the volcano erupts, the magma comes out and is called lava. 6. Clouds of ash puff into the sky. 7. Lava cools down and turns into new rock. 8. Some volcanoes make new islands in the sea. 9. Scientists called volcanologists study volcanoes safely. 10. After a long time, plants grow back on the volcano.
@@ -37,7 +39,7 @@ A first volcano book, one idea per page: 1. A volcano is a mountain with an open
 
 ## 2. Earth's layers and volcanoes for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Inside the Earth: 1. The crust is the thin layer we live on. 2. The mantle is hot, slowly moving rock. 3. The outer core is liquid metal. 4. The inner core is solid metal. 5. The crust is broken into tectonic plates. 6. Plates moving cause earthquakes. 7. The Ring of Fire around the Pacific Ocean. 8. Magma vs lava. 9. Shield volcanoes have gentle slopes. 10. Stratovolcanoes are tall and steep. 11. Cinder cones are small. 12. Pumice is so full of air it floats. 13. Obsidian is natural volcanic glass. 14. Geysers shoot hot water up.
@@ -66,7 +68,7 @@ Inside the Earth: 1. The crust is the thin layer we live on. 2. The mantle is ho
 
 ## 3. Rocks and the rock cycle for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 The rock cycle: 1. Rocks are made of minerals. 2. Igneous rock forms when magma or lava cools. 3. Granite cools slowly underground. 4. Basalt cools fast at the surface. 5. Weathering breaks rock apart. 6. Water, wind and ice carry sediment away. 7. Sediment settles in layers. 8. Layers press into sedimentary rock like sandstone. 9. Fossils hide in sedimentary rock. 10. Heat and pressure make metamorphic rock. 11. Limestone becomes marble. 12. Shale becomes slate. 13. Rock melts back into magma. 14. The Mohs scale: talc is 1, diamond is 10.

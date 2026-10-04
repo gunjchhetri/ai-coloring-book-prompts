@@ -1,5 +1,7 @@
 # Jungle & Safari Animal Coloring Book Prompts
 
+<img src="../../assets/img/jungle-safari-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Jungle and safari animals are a classic coloring theme that never fades: lions, elephants, giraffes and monkeys are instantly recognisable, and kids love the adventure of a safari. Parents buy these books for zoo trips, and teachers use them for animal habitat lessons. These jungle safari coloring book prompts cover a baby-animal book for toddlers, a safari adventure for school-age kids, and a detailed safari mandala book for adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=jungle-safari-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Jungle and safari animals are a classic coloring theme that never fades: lions, 
 
 ## 1. Little safari friends
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Happy baby animals on a gentle safari: a lion cub chasing a butterfly, a baby elephant spraying water from its trunk, a giraffe stretching for leaves, a zebra foal beside its mother, a hippo blowing bubbles in the river, a monkey swinging on a vine, a sleepy sloth hanging from a branch, a toucan on a banana leaf, a baby rhino rolling in mud, and a tiger cub napping in tall grass.
@@ -41,7 +43,7 @@ Happy baby animals on a gentle safari: a lion cub chasing a butterfly, a baby el
 
 ## 2. Rainforest and savanna adventure
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Jungle adventure · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Jungle adventure · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A safari adventure from rainforest to savanna: kids in a safari jeep watching elephants at a watering hole, a lion pride resting on a rock, a cheetah racing across the grassland, gorillas in a misty mountain forest, a jaguar on a branch above a river, macaws in the rainforest canopy, a crocodile sliding into the water, meerkats standing on lookout, flamingos wading in a lake, and a hot air balloon over the herds at sunrise.
@@ -74,7 +76,7 @@ A safari adventure from rainforest to savanna: kids in a safari jeep watching el
 
 ## 3. Safari animal mandalas for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Wild animals filled with intricate patterns: a lion whose mane becomes swirling mandalas, an elephant decorated with henna-style designs, a giraffe with ornamental spots, a zebra whose stripes turn into geometric shapes, a tiger peering through patterned jungle leaves, a gorilla cradling its baby among patterned leaves, a rhino at a lily-covered watering hole, a leopard draped over a branch, a chameleon on a fern, and a toucan among tropical flowers.

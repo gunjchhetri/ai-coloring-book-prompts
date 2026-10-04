@@ -1,5 +1,7 @@
 # Feelings & Emotions Coloring Book Prompts for Kids
 
+<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Feelings coloring books give children words for what they feel, and they are a go-to resource for parents, preschool teachers, school counsellors and homeschoolers doing social-emotional learning. These feelings and emotions coloring book prompts list each feeling with a situation that causes it, one per page, so a child can connect the word to a moment. A third book teaches calm-down strategies.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=feelings-emotions-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Feelings coloring books give children words for what they feel, and they are a g
 
 ## 1. Feelings with animal friends
 
-**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 A feelings book, one feeling per page, each shown by an animal in a simple situation: happy (a puppy with a new ball), sad (a bunny whose balloon floated away), angry (a bear whose tower got knocked down), scared (a kitten hearing thunder), surprised (a fox opening a present), excited (a penguin before a sled ride), shy (a mouse meeting new friends), proud (a duckling who learned to swim), tired (a koala after a long day), calm (a turtle floating on a pond), lonely (an owl on a branch by itself), silly (a monkey wearing a pot as a hat).
@@ -41,7 +43,7 @@ A feelings book, one feeling per page, each shown by an animal in a simple situa
 
 ## 2. Big feelings in real situations
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 A feelings book for older kids, one feeling per page, each shown in a real-life moment: frustrated (a puzzle piece won't fit), jealous (a friend's new bike), nervous (first day at a new school), disappointed (a rained-out picnic), embarrassed (tripping in front of the class), grateful (a neighbour fixing a bike), brave (jumping off the diving board), worried (a pet at the vet), hopeful (planting a seed), confused (a tricky math problem), left out (watching from the sidelines), overwhelmed (a pile of homework), relieved (finding a lost dog), content (reading in a hammock).
@@ -73,7 +75,7 @@ A feelings book for older kids, one feeling per page, each shown in a real-life 
 
 ## 3. Calm-down strategies
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 A calm-down book, one strategy per page, each showing a child using it when upset: take five deep breaths, smell the flower and blow out a pretend birthday candle, count to ten, hug a stuffed animal, squeeze a stress ball, draw how I feel, go for a walk, drink a glass of water, ask a grown-up for a hug, find a quiet cozy corner, stretch like a cat, listen to calm music, talk about my feelings, think of a happy place.

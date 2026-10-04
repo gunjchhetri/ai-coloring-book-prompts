@@ -1,5 +1,7 @@
 # Potty Training Story Book Prompts for Toddlers
 
+<img src="../../assets/img/illustrated-story-books.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 A potty training story book makes a tricky stage feel normal and even funny. These prompts follow toddler-sized heroes through the whole journey: trying, waiting, the inevitable accident and the proud first success. Parents read them to their own toddlers, and personalised or themed potty books are a reliable seller on Etsy and KDP.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=potty-training-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A potty training story book makes a tricky stage feel normal and even funny. The
 
 ## 1. Momo the panda's big potty day
 
-**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Words lettered into the art · **Quality:** Standard · **InkChamps credits:** 32 Standard · 48 Premium
+**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Words lettered into the art · **Quality:** Standard · **Credits:** 32 Standard · 48 Premium
 
 ```text
 Momo, a little panda in a red T-shirt, gets a shiny green potty. He sits and waits, and nothing happens. He plays with blocks and forgets, and oops, an accident. Mama Panda says, That's okay, we try again. Momo listens to his tummy, runs to the potty just in time, and it works! He flushes, washes his paws with lots of bubbles, puts a star on his sticker chart and pulls on brand-new big-kid pants covered in bamboo leaves. Short, repetitive, encouraging lines.
@@ -41,7 +43,7 @@ Momo, a little panda in a red T-shirt, gets a shiny green potty. He sits and wai
 
 ## 2. Rory the dinosaur's mighty potty
 
-**Ages:** 3-6 · **Pages:** 20 · **Size:** 8.5 × 8.5 in · **Style:** Chibi art · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 40 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 20 · **Size:** 8.5 × 8.5 in · **Style:** Chibi art · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 40 Standard · 60 Premium
 
 ```text
 Rory, a little green dinosaur with orange spots and a big ROAR, is too busy stomping to use the potty. He stomps through the kitchen, roars at the cat and builds a tower, then suddenly does the potty dance. He stomps so fast to the bathroom that the potty jumps! He sits, he waits, he sings a song, and he does it. His family cheers so loudly the walls shake. Rory gets his own dinosaur undies and does his proudest roar ever. Silly and full of sound words.
@@ -74,7 +76,7 @@ Rory, a little green dinosaur with orange spots and a big ROAR, is too busy stom
 
 ## 3. Princess Plum's royal potty
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Princess Plum, a toddler with a lopsided golden crown, is given her very own royal throne: a tiny gold potty with a velvet cushion. But she's too busy feeding the castle ducks and having tea with the dragon to sit on it. After a royal accident in the ballroom, the Queen tells her a secret: even queens had accidents once. Plum tries again, waits, and makes it! The trumpets play, the court cheers and the ducks quack. Plum earns her big-girl crown pants. Plum is always shown in her dress, the potty scenes from the waist up.

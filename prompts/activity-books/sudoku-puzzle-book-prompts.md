@@ -1,5 +1,7 @@
 # Sudoku Puzzle Book Prompts for Kids, Teens and Adults
 
+<img src="../../assets/img/sudoku-puzzle-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Sudoku teaches logic and patience, and a themed sudoku book stands out from the plain grids that fill Amazon. These prompts set up a picture-friendly sudoku book for 6 to 9 year olds, a detective-themed book for tweens and a calm adult sudoku book for coffee breaks. Sudoku suits ages 6 and up; younger kids do better with matching and mazes.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=sudoku-puzzle-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Sudoku teaches logic and patience, and a themed sudoku book stands out from the 
 
 ## 1. Fruit garden sudoku for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Sudoku (32), Coloring pages (8) · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Sudoku (32), Coloring pages (8) · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A beginner number sudoku book with small, easy grids, set in a sunny fruit garden: each grid is framed by smiling strawberries, pears, cherries, bananas, lemons and watermelon slices, with a ladybug, a snail and a bee as puzzle helpers. Scenes between puzzles: picking apples, a lemonade stand, a fruit market, a picnic blanket. Coloring pages show the garden friends as a reward break.
@@ -48,7 +50,7 @@ A beginner number sudoku book with small, easy grids, set in a sunny fruit garde
 
 ## 2. Detective agency sudoku for tweens
 
-**Ages:** 9-13 · **Pages:** 50 · **Size:** 6 × 9 in · **Activities:** Sudoku (50) · **Quality:** Standard · **InkChamps credits:** 50 Standard · 100 Premium
+**Ages:** 9-13 · **Pages:** 50 · **Size:** 6 × 9 in · **Activities:** Sudoku (50) · **Quality:** Standard · **Credits:** 50 Standard · 100 Premium
 
 ```text
 A sudoku book themed as a young detective agency solving cases: each puzzle page is a new case, decorated with a magnifying glass, fingerprints, a notebook, a locked safe, a train station at night, a museum with a missing gem, a lighthouse, a secret map. A detective kid and a clever dog sidekick appear around the grids. Puzzles start easy and get harder case by case.
@@ -86,7 +88,7 @@ A sudoku book themed as a young detective agency solving cases: each puzzle page
 
 ## 3. Calm coffee-break sudoku for adults
 
-**Ages:** 13+ · **Pages:** 80 · **Size:** 8.5 × 11 in · **Activities:** Sudoku (80) · **Quality:** Standard · **InkChamps credits:** 80 Standard · 160 Premium
+**Ages:** 13+ · **Pages:** 80 · **Size:** 8.5 × 11 in · **Activities:** Sudoku (80) · **Quality:** Standard · **Credits:** 80 Standard · 160 Premium
 
 ```text
 A relaxing sudoku book for adults with quiet botanical decoration around each grid: eucalyptus sprigs, ferns, olive branches, a coffee cup with steam, a teapot, reading glasses, a cat asleep on a windowsill, a rainy window. Puzzles run from easy warm-ups to hard ones in the second half, for a calm morning coffee or an evening wind-down.

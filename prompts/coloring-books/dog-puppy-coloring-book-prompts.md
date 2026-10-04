@@ -1,5 +1,7 @@
 # Dog & Puppy Coloring Book Prompts for Kids and Adults
 
+<img src="../../assets/img/dog-puppy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Dogs are a top-selling coloring theme because almost every family has, or wants, a dog. A puppy coloring book makes an easy gift for kids, and breed-specific pages give dog lovers of every age something personal to color. These dog and puppy coloring book prompts cover a playful toddler book, a dog breeds book with a name on every page, and patterned dog portraits for adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dog-puppy-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Dogs are a top-selling coloring theme because almost every family has, or wants,
 
 ## 1. Happy puppies for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Bouncy, happy puppies doing puppy things: a puppy chewing a big bone, chasing its own tail, splashing through a puddle in rain boots, sleeping in a dog bed under a blanket, fetching a ball in the park, getting a bubble bath, digging in the garden, playing tug of war with a rope, carrying a stick far too big for it, and cuddling with a child at bedtime.
@@ -41,7 +43,7 @@ Bouncy, happy puppies doing puppy things: a puppy chewing a big bone, chasing it
 
 ## 2. 25 dog breeds with names
 
-**Ages:** 6-9 · **Pages:** 25 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 25 Standard · 75 Premium
+**Ages:** 6-9 · **Pages:** 25 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 25 Standard · 75 Premium
 
 ```text
 A dog breeds book, one breed per page with its name: Labrador Retriever, Golden Retriever, German Shepherd, Beagle, Dachshund, Poodle, Bulldog, French Bulldog, Corgi, Husky, Dalmatian, Chihuahua, Pug, Border Collie, Shih Tzu, Boxer, Great Dane, Yorkshire Terrier, Cocker Spaniel, Bernese Mountain Dog, Shiba Inu, Saint Bernard, Greyhound, Australian Shepherd, Pomeranian.
@@ -75,7 +77,7 @@ A dog breeds book, one breed per page with its name: Labrador Retriever, Golden 
 
 ## 3. Patterned dog portraits for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Detailed dog portraits and scenes for grown-up dog lovers: a golden retriever framed by sunflowers, a dachshund filled with floral patterns, a husky howling at an ornamental moon, a corgi asleep on a quilted blanket, a poodle with a coat of curling swirls, a beagle inside an autumn leaf mandala, a border collie in a flowering meadow, a pug in a cozy armchair, and a dog and owner walking at sunset.

@@ -1,5 +1,7 @@
 # Space Activity Book Prompts for Kids: Planets, Rockets & Puzzles
 
+<img src="../../assets/img/space-activity-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Rockets, planets and astronauts pull kids into puzzles they would otherwise skip. These space activity book prompts cover three ages, from simple rocket shadows for preschoolers to a space station logic book for 9 to 13 year olds. The word lists use real planet and science words, so the book quietly teaches while it entertains.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-activity-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Rockets, planets and astronauts pull kids into puzzles they would otherwise skip
 
 ## 1. Little astronaut activity book
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Connect the dots (8), Shadow matching (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Connect the dots (8), Shadow matching (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A little astronaut and a friendly round robot explore space: a rocket blasting off, waving from the Moon, bouncing in low gravity, a ringed planet, a smiling Sun, shooting stars, a space station with big windows, an alien flower garden on a purple planet. Easy mazes help the rocket fly home to Earth. Shadows to match: rocket, helmet, Moon, star, satellite, telescope, comet, planet with rings.
@@ -58,7 +60,7 @@ A little astronaut and a friendly round robot explore space: a rocket blasting o
 
 ## 2. Solar system explorer puzzles
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Connect the dots (10) · **Maze styles:** round, walls, tube · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Connect the dots (10) · **Maze styles:** round, walls, tube · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A tour of the solar system, one stop at a time: the hot Sun, rocky Mercury, cloudy Venus, Earth and its Moon, red Mars with a rover, giant Jupiter, ringed Saturn, tilted Uranus, windy blue Neptune, a comet with a long tail. Word search words: MERCURY, VENUS, EARTH, MARS, JUPITER, SATURN, URANUS, NEPTUNE, ORBIT, COMET, GALAXY, ASTRONAUT, TELESCOPE, ROCKET, ASTEROID. Mazes are orbits and asteroid fields.
@@ -110,7 +112,7 @@ A tour of the solar system, one stop at a time: the hot Sun, rocky Mercury, clou
 
 ## 3. Space station logic book for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 50 · **Size:** 8.5 × 11 in · **Activities:** Sudoku (16), Word search (14), Mazes (12), Spot the difference (8) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **InkChamps credits:** 50 Standard · 100 Premium
+**Ages:** 9-13 · **Pages:** 50 · **Size:** 8.5 × 11 in · **Activities:** Sudoku (16), Word search (14), Mazes (12), Spot the difference (8) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **Credits:** 50 Standard · 100 Premium
 
 ```text
 Life on an orbiting space station: astronauts with plain mission patches floating in modules, a robotic arm, solar panel wings, a cupola window over Earth, growing lettuce in space, a docking capsule. Word search lists. Station: MODULE, AIRLOCK, DOCKING, SPACESUIT, GRAVITY, OXYGEN. Sky: NEBULA, PULSAR, SUPERNOVA, QUASAR, ECLIPSE, GALAXY. Mars mission: ROVER, CRATER, DUST STORM, OLYMPUS MONS. Mazes are station corridors and crater fields.

@@ -1,5 +1,7 @@
 # Children's Picture Book Cover Prompts for KDP Paperbacks
 
+<img src="../../assets/img/childrens-picture-book-cover-prompts.webp" alt="Sample book cover page made with InkChamps" width="320" align="right">
+
 A children's picture book cover has to promise a story, a character and a feeling before the parent ever opens it. These prompts set up full paperback covers for a bedtime book, an adventure about a brave little mouse and a first-day-of-school story, each with an original character. They are sized for square and letter picture books printed in color on both sides.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=childrens-picture-book-cover-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A children's picture book cover has to promise a story, a character and a feelin
 
 ## 1. Bedtime picture book cover
 
-**Size:** 8.5 × 8.5 in · **Interior:** story book, 16 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 8.5 in · **Interior:** story book, 16 sheets · **Credits:** 2
 
 ```text
 A soft, dreamy bedtime cover: a sleepy little bear in striped pajamas sitting on a crescent moon, holding a glowing lantern, above a quiet village of rooftops and pine trees. Deep blue night sky with soft stars, warm golden lantern light, a gentle and cozy mood. The back cover continues the starry sky with a short blurb area. For ages 2-6.
@@ -38,7 +40,7 @@ A soft, dreamy bedtime cover: a sleepy little bear in striped pajamas sitting on
 
 ## 2. Brave mouse adventure cover
 
-**Size:** 8.5 × 8.5 in · **Interior:** story book, 16 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 8.5 in · **Interior:** story book, 16 sheets · **Credits:** 2
 
 ```text
 An adventurous storybook cover: a tiny gray mouse in a red scarf standing on the rocks at the foot of a tall striped lighthouse, holding a small lantern up against a stormy sea. Crashing waves, a gull, a warm beam of light cutting through blue-green clouds. Brave, warm and a little exciting, for ages 4-8. The back shows the calm harbor at sunrise.
@@ -68,7 +70,7 @@ An adventurous storybook cover: a tiny gray mouse in a red scarf standing on the
 
 ## 3. First day of school picture book cover
 
-**Size:** 8.5 × 11 in · **Interior:** story book, 20 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** story book, 20 sheets · **Credits:** 2
 
 ```text
 A cheerful, reassuring cover: a girl with brown skin, curly hair and a yellow backpack standing at the open doors of a bright school, a little nervous but smiling, with a friendly classmate waving from the steps. Autumn leaves, a red school bus and a sunny morning sky. Warm, encouraging, for ages 4-7. The back shows the two friends walking home together.

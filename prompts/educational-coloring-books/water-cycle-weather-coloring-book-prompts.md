@@ -1,5 +1,7 @@
 # Water Cycle and Weather Coloring Book Prompts for Kids
 
+<img src="../../assets/img/water-cycle-weather-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 The water cycle and weather are early science staples, and kids understand evaporation better once they have colored the Sun warming a puddle. These prompts cover a simple rain story for preschoolers, a weather book for 6 to 9 year olds and an in-depth water cycle book with real vocabulary for older kids. Each page holds one idea and one short caption.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=water-cycle-weather-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ The water cycle and weather are early science staples, and kids understand evapo
 
 ## 1. Where does rain come from
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 A simple water cycle story for little kids: 1. The Sun warms the water in the sea, lakes and puddles. 2. Tiny bits of water rise into the air where we cannot see them. 3. High up, the air is cold and the water makes clouds. 4. The clouds get full and heavy. 5. Rain falls down. 6. When it is very cold, snow falls instead. 7. Rain makes puddles, streams and rivers. 8. Rivers flow back to the sea. 9. Plants and animals drink the water. 10. The Sun warms the water again and the cycle goes round.
@@ -37,7 +39,7 @@ A simple water cycle story for little kids: 1. The Sun warms the water in the se
 
 ## 2. Weather and seasons for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Kinds of weather and how we measure them: 1. Sunny. 2. Cloudy. 3. Rainy. 4. Windy. 5. Snowy: snowflakes have six sides. 6. Foggy: a cloud near the ground. 7. Thunderstorms: we see lightning before we hear thunder. 8. Rainbows: sunlight shining through raindrops. 9. Hail: balls of ice from storm clouds. 10. Spring. 11. Summer. 12. Fall. 13. Winter. 14. Weather tools: a thermometer, a rain gauge and a wind vane. Show a child dressed right for each weather; for thunderstorms and hail, show the child safely indoors at the window.
@@ -66,7 +68,7 @@ Kinds of weather and how we measure them: 1. Sunny. 2. Cloudy. 3. Rainy. 4. Wind
 
 ## 3. The water cycle in depth for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 9-13 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 The water cycle with real science words: 1. Most of Earth's water is salty ocean; only about 3% is fresh. 2. Evaporation: the Sun turns water into vapor. 3. Transpiration: plants release water through their leaves. 4. Condensation: vapor cools into droplets and forms clouds. 5. Cloud types: cumulus, stratus, cirrus, cumulonimbus. 6. Precipitation: rain, snow, sleet, hail. 7. Runoff into streams. 8. Infiltration into soil. 9. Groundwater and aquifers. 10. Glaciers and ice caps store fresh water. 11. Water treatment. 12. Saving water.

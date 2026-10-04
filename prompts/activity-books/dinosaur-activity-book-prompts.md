@@ -1,5 +1,7 @@
 # Dinosaur Activity Book Prompts for Kids (Mazes, Word Search & More)
 
+<img src="../../assets/img/dinosaur-activity-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Dinosaurs are one of the steadiest sellers in kids' activity books, and they suit every age from first mazes to tricky fossil word searches. These dinosaur activity book prompts mix built puzzles with prehistoric scenes, so every page feels like part of one adventure. Pick the age band, open the prompt and InkChamps lays out a print-ready PDF.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dinosaur-activity-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Dinosaurs are one of the steadiest sellers in kids' activity books, and they sui
 
 ## 1. Friendly dinosaur valley for preschoolers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Connect the dots (8), Shadow matching (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Connect the dots (8), Shadow matching (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 Friendly dinosaurs in a sunny prehistoric valley: a baby triceratops hatching from an egg, a brachiosaurus eating treetop leaves, a stegosaurus splashing in a puddle, a pteranodon gliding over a smoking volcano, a little T. rex digging up a bone. Mazes help a hungry dinosaur reach its nest of eggs or a pile of ferns. Keep every dinosaur smiling and gentle, with no fighting or sharp teeth.
@@ -58,7 +60,7 @@ Friendly dinosaurs in a sunny prehistoric valley: a baby triceratops hatching fr
 
 ## 2. Dinosaur puzzle adventure for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (8), Connect the dots (6), Coloring pages (6) · **Maze styles:** walls, tube, round · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (8), Connect the dots (6), Coloring pages (6) · **Maze styles:** walls, tube, round · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A dinosaur expedition through jungles, swamps, volcano fields and a riverbank full of footprints. Mazes guide a raptor back to its nest or an explorer jeep through ferns. Word search words: DINOSAUR, HORNS, PLATES, RAPTOR, FOSSIL, VOLCANO, JURASSIC, HERBIVORE, CARNIVORE, SKELETON, FOOTPRINT, EGG, CLAW, TAIL, SWAMP. Spot the difference scenes: a dinosaur picnic, a nest of hatchlings, a museum skeleton hall.
@@ -112,7 +114,7 @@ A dinosaur expedition through jungles, swamps, volcano fields and a riverbank fu
 
 ## 3. Fossil hunter logic book for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 50 · **Size:** 8.5 × 11 in · **Activities:** Word search (14), Sudoku (12), Mazes (14), Spot the difference (10) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **InkChamps credits:** 50 Standard · 100 Premium
+**Ages:** 9-13 · **Pages:** 50 · **Size:** 8.5 × 11 in · **Activities:** Word search (14), Sudoku (12), Mazes (14), Spot the difference (10) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **Credits:** 50 Standard · 100 Premium
 
 ```text
 A fossil dig in a desert canyon: paleontologists with brushes, picks and sieves, rock layers, a field tent, a museum lab. Word search lists by topic. Periods: TRIASSIC, JURASSIC, CRETACEOUS, MESOZOIC, EXTINCTION. Dinosaurs: ANKYLOSAURUS, TRICERATOPS, SPINOSAURUS, ALLOSAURUS, IGUANODON, DIPLODOCUS. Dig site: TROWEL, BRUSH, SIEVE, PLASTER, CHISEL, SEDIMENT, AMBER. Mazes run through canyon tunnels and dig-site trenches.

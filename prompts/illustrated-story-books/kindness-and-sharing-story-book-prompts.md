@@ -1,5 +1,7 @@
 # Kindness and Sharing Story Book Prompts for Kids
 
+<img src="../../assets/img/kindness-and-sharing-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 Kindness and sharing are among the most taught values in early childhood, and a picture book makes them feel natural instead of preachy. These prompts show a character choosing to share, and the good that grows from it, from a mouse's last strawberry to a giant's overflowing orchard. They suit parents, preschool and kindergarten teachers and KDP sellers in the character-building niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=kindness-and-sharing-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Kindness and sharing are among the most taught values in early childhood, and a 
 
 ## 1. Mabel's last strawberry
 
-**Ages:** 3-6 · **Pages:** 20 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 40 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 20 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 40 Standard · 60 Premium
 
 ```text
 Mabel, a tiny field mouse with a straw basket and a daisy behind one ear, finds the very last strawberry of summer. She plans to eat it all by herself. But on the way home she meets a hungry hedgehog, a tired snail and a sad little sparrow. Mabel cuts the strawberry into four pieces, one for each of them. The next day, her new friends arrive with blueberries, seeds and a walnut, and together they have the biggest picnic in the meadow.
@@ -41,7 +43,7 @@ Mabel, a tiny field mouse with a straw basket and a daisy behind one ear, finds 
 
 ## 2. Zuri and Mr. Ike's bench
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Every day Zuri, a girl with two puff buns and a purple scooter, rides past Mr. Ike, an old man in a flat cap who sits alone on the bench outside his building. One day she and her mom stop, and Zuri gives him a drawing. He tells her a story about the tree above the bench. Soon Zuri brings friends, Mr. Ike teaches them card tricks, and the bench is the busiest spot on the street. When Mr. Ike is ill for a week, the kids cover his bench in drawings to welcome him back.
@@ -74,7 +76,7 @@ Every day Zuri, a girl with two puff buns and a purple scooter, rides past Mr. I
 
 ## 3. Gertrude the giant's orchard
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Paper cut-out collage · **Layout:** Two-page spreads · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Paper cut-out collage · **Layout:** Two-page spreads · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Gertrude, a gentle giant with patched dungarees and a bird's nest in her hair, grows an orchard so big that apples pile up around her house and rot. The villagers below are scared of her and have empty pantries. One day a brave boy named Finch climbs the hill to ask for a single apple. Gertrude gives him a whole cartful. Soon the villagers come too: they bake pies, press cider and invite Gertrude to the harvest feast, where she finally has friends.

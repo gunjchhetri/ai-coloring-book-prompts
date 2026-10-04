@@ -1,5 +1,7 @@
 # New Baby Sibling Story Book Prompts for Big Brothers and Sisters
 
+<img src="../../assets/img/illustrated-story-books.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 A new baby sibling story book gives the older child a place to put their feelings, excitement, jealousy and missing the old way, and shows them where they fit now. These prompts end with the big sibling finding a role only they can play. Parents buy them before the due date, and they are a popular personalised gift on Etsy and a steady KDP niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A new baby sibling story book gives the older child a place to put their feeling
 
 ## 1. Bao and the very loud baby
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi art · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi art · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Bao, a little boy in a striped T-shirt with a toy drum, has always been the loudest in his family. Then baby sister Lin arrives, and she's even louder. She cries at breakfast, at bath time and in the middle of the night, and Mama and Baba are too tired to play. Bao bangs his drum to drown her out, and Lin stops crying to listen. So Bao taps soft, slow rhythms, and Lin falls asleep. Now Bao has a new job: the family's baby drummer.
@@ -41,7 +43,7 @@ Bao, a little boy in a striped T-shirt with a toy drum, has always been the loud
 
 ## 2. Where did Mama's lap go?
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Colored pencil · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Colored pencil · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Olive, a small hedgehog with a pink acorn hat, loves Mama's lap more than anything. But Mama's tummy grows and grows until there's no lap left. Then the baby comes, and the lap is full of baby. Olive tries Papa's lap, Grandpa's lap and even the cat's back, but none are quite right. One evening, Mama makes room: baby on one side, Olive on the other, and a story for both. Olive learns there's always room for her.
@@ -74,7 +76,7 @@ Olive, a small hedgehog with a pink acorn hat, loves Mama's lap more than anythi
 
 ## 3. Marcus's big brother handbook
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Comic book · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Comic book · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Marcus, a seven-year-old with a high-top fade and a notebook, decides to write the official Big Brother Handbook before his baby brother Miles arrives. Rule one: babies are boring. Rule two: never share your room. But as the weeks pass, each rule gets crossed out: Miles grabs his finger, laughs at his faces and falls asleep on his chest. By the last page Marcus's handbook has only one rule left, in big letters: be the best big brother ever.

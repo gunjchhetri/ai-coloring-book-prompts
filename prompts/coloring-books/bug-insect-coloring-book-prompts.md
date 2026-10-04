@@ -1,5 +1,7 @@
 # Bug & Insect Coloring Book Prompts for Kids and Adults
 
+<img src="../../assets/img/bug-insect-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Bugs fascinate young children, and a bug coloring book turns that curiosity into hours of quiet coloring. Parents buy insect books for garden-loving kids, teachers use them for minibeast units, and adult colorists love ornate butterflies and beetles. These bug and insect coloring book prompts cover a friendly garden-bug book, a minibeast names book with a caption on every page, and a richly detailed butterfly and beetle collection.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bug-insect-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Bugs fascinate young children, and a bug coloring book turns that curiosity into
 
 ## 1. Friendly garden bugs
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute insects · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute insects · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Smiling little bugs in a sunny garden: a ladybug on a strawberry, a bumblebee buzzing around a sunflower, a caterpillar munching a leaf, a snail climbing a mushroom, a butterfly landing on a daisy, an ant carrying a crumb of bread, a firefly glowing at dusk, a dragonfly over a lily pond, a grasshopper hopping through tall grass, and a spider waving from a dewy web.
@@ -41,7 +43,7 @@ Smiling little bugs in a sunny garden: a ladybug on a strawberry, a bumblebee bu
 
 ## 2. 24 bugs and minibeasts with names
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute insects · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 24 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute insects · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 24 Standard · 72 Premium
 
 ```text
 A bugs and minibeasts book, one creature per page with its name: honeybee, bumblebee, ladybug, monarch butterfly, luna moth, dragonfly, grasshopper, cricket, praying mantis, ant, firefly, stag beetle, rhinoceros beetle, caterpillar, stick insect, cicada, water strider, dung beetle, termite, weevil, wasp, earwig, jewel beetle, garden spider.
@@ -75,7 +77,7 @@ A bugs and minibeasts book, one creature per page with its name: honeybee, bumbl
 
 ## 3. Butterflies, moths and beetles for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Butterflies, moths and beetles in rich decorative detail: a monarch with patterned wings over milkweed, a luna moth beneath a full moon, a swallowtail in a garden of foxgloves, jewel beetles arranged like a vintage collector's display, a dragonfly over water lilies, a bee on honeycomb among flowers, butterflies forming a round wreath, a moth with lace-like wings, and a stag beetle on an oak branch with acorns.

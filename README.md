@@ -4,6 +4,10 @@
 
 [**Browse the prompts on the website →**](https://gunjchhetri.github.io/ai-coloring-book-prompts/)  ·  [**Make a book on InkChamps →**](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-top)
 
+<p><img src="assets/img/home-coloring.webp" alt="A bunny coloring page" width="32%"> <img src="assets/img/home-story.webp" alt="A picture book page: a boy riding a rocket" width="32%"> <img src="assets/img/home-activity.webp" alt="A word search activity page" width="32%"> </p>
+
+<sub>Sample pages made with InkChamps.</sub>
+
 ## What is in the library
 
 | Kind of book | Themes | Prompts |

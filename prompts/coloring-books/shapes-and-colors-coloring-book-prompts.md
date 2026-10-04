@@ -1,5 +1,7 @@
 # Shapes and Colors Coloring Book Prompts for Preschool
 
+<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Shapes and colors are among the first concepts children learn, so these coloring books are favourites with parents, preschool teachers and homeschoolers. These shapes and colors coloring book prompts pair every shape or color with a real object a child already knows, one per page, so learning sticks. There is a 2D shapes book, a colors book and a 3D solids book for early graders.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=shapes-and-colors-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Shapes and colors are among the first concepts children learn, so these coloring
 
 ## 1. 2D shapes in everyday things
 
-**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 A shapes book, one shape per page, each showing the big shape and a real object in that shape: circle (a clock), square (a window), triangle (a slice of pizza), rectangle (a door), oval (an egg), star (a starfish), heart (a heart balloon), diamond (a kite), pentagon (a birdhouse), hexagon (a honeycomb), octagon (a garden gazebo seen from above), crescent (the moon), semicircle (a watermelon slice), trapezoid (a sailboat hull), parallelogram (a slanted eraser), cross (a first-aid kit).
@@ -41,7 +43,7 @@ A shapes book, one shape per page, each showing the big shape and a real object 
 
 ## 2. Learn your colors
 
-**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 8.5 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 A colors book, one color per page with the color's name and two things that are usually that color: red (a strawberry and a fire truck), orange (a carrot and a goldfish), yellow (the sun and a banana), green (a frog and a leaf), blue (a whale and the sea), purple (grapes and an eggplant), pink (a flamingo and a pig), brown (a bear and a tree trunk), black (a crow and a top hat), white (a snowman and a cloud), gray (an elephant and a rain cloud), rainbow (a rainbow over a meadow).
@@ -73,7 +75,7 @@ A colors book, one color per page with the color's name and two things that are 
 
 ## 3. 3D shapes for early graders
 
-**Ages:** 6-9 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 6-9 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 A 3D shapes book, one solid per page, each showing the solid and a real object with that shape: sphere (a beach ball), cube (a toy block), cone (an ice cream cone), cylinder (a drum), square pyramid (the pyramids of Giza), rectangular prism (a gift box), triangular prism (a tent), torus (a doughnut), hemisphere (a bowl), hexagonal prism (a pencil).

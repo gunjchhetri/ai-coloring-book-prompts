@@ -1,5 +1,7 @@
 # Kindness and Friendship Story Coloring Book Prompts
 
+<img src="../../assets/img/kindness-friendship-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 A kindness and friendship story coloring book teaches social skills the way children learn best, by watching a character do it. Each page shows one small kind act, and the story adds them up into a warm ending. Teachers use these for social-emotional learning, parents use them to talk about sharing, and KDP sellers find steady demand in the character-building niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=kindness-friendship-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A kindness and friendship story coloring book teaches social skills the way chil
 
 ## 1. Bertram's big yellow umbrella
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Bertram, a bear with a big yellow umbrella, sets off through the rain to the market. Along the way he meets a soggy squirrel, then a shivering fox, a dripping hedgehog, two chilly rabbits, a mouse with a soaked shopping bag and a family of ducks who say they don't mind the rain but secretly do. Each time Bertram says, There's room for one more. Soon the umbrella is crowded and everyone's toes are wet, so they all laugh and squeeze closer. When the sun comes out, his new friends make Bertram a rain hat from a giant leaf.
@@ -40,7 +42,7 @@ Bertram, a bear with a big yellow umbrella, sets off through the rain to the mar
 
 ## 2. Ollie's kindness jar
 
-**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 52 Standard · 78 Premium
+**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 52 Standard · 78 Premium
 
 ```text
 Ollie, a girl with a gap-toothed smile and a polka-dot headband, gets an empty jar from her grandma. For every kind thing she does, she drops in a marble. She waters the neighbor's flowers, helps a boy pick up dropped crayons, saves a seat at lunch, shares her umbrella and draws a card for the mail carrier. The jar fills slowly. On the day it's full, Ollie's friends surprise her with a jar of their own, full of notes about the kind things she did.
@@ -72,7 +74,7 @@ Ollie, a girl with a gap-toothed smile and a polka-dot headband, gets an empty j
 
 ## 3. Tomás and Hazel draw a friendship
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 60 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 60 Standard · 90 Premium
 
 ```text
 Tomás has just arrived from far away and doesn't speak much English yet. Hazel, a girl with a sketchbook always under her arm, sits next to him in class. They can't talk, so they draw: Tomás draws his old town by the sea, Hazel draws her treehouse. They trade drawings at recess, teach each other words for dog, rain and pizza, and build a comic together. When Tomás reads his first English sentence aloud to the class, Hazel is the first to clap.

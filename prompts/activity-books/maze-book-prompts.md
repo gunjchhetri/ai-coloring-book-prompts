@@ -1,5 +1,7 @@
 # Maze Book Prompts for Kids: Easy to Hard Mazes by Age
 
+<img src="../../assets/img/maze-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 A maze book is the simplest activity book to sell and one kids return to again and again. These prompts set up a full maze book for each age band, with themed scenes around every maze and the right maze styles for the age. Use them to publish a maze series on KDP or print a stack for a rainy day.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=maze-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A maze book is the simplest activity book to sell and one kids return to again a
 
 ## 1. First mazes: help the animals get home
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Mazes (30) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Mazes (30) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 Big, easy mazes where friendly animals find their way home: a puppy to its doghouse, a bee to a flower, a duckling to the pond, a squirrel to its acorn, a bunny to the carrot patch, a penguin to its family, a turtle to the sea, a hen to her nest, a fish to the coral, a mouse to the cheese. Each maze has a clear start animal and a goal, with simple garden, farm and seaside scenery around it.
@@ -50,7 +52,7 @@ Big, easy mazes where friendly animals find their way home: a puppy to its dogho
 
 ## 2. Adventure mazes for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 50 · **Size:** 8.5 × 11 in · **Activities:** Mazes (50) · **Maze styles:** walls, tube, round · **Quality:** Standard · **InkChamps credits:** 50 Standard · 100 Premium
+**Ages:** 6-9 · **Pages:** 50 · **Size:** 8.5 × 11 in · **Activities:** Mazes (50) · **Maze styles:** walls, tube, round · **Quality:** Standard · **Credits:** 50 Standard · 100 Premium
 
 ```text
 Fifty adventure mazes, each in a new place: a pirate island to the buried treasure chest, a jungle temple to a golden idol, a castle to the dragon's tower, a submarine through a coral reef, a knight through a hedge garden, a train through mountain tunnels, a robot through a factory, a rocket through an asteroid belt, a beaver through a river dam, a camel across desert dunes.
@@ -93,7 +95,7 @@ Fifty adventure mazes, each in a new place: a pirate island to the buried treasu
 
 ## 3. Challenging labyrinths for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 60 · **Size:** 8.5 × 11 in · **Activities:** Mazes (60) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **InkChamps credits:** 60 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 60 · **Size:** 8.5 × 11 in · **Activities:** Mazes (60) · **Maze styles:** walls, square tube, round · **Quality:** Standard · **Credits:** 60 Standard · 120 Premium
 
 ```text
 Sixty hard mazes for older kids, themed as escape missions: an ancient stone labyrinth, a city of rooftops and alleys, an underground mine with rail carts, a space station on lockdown, an ice cave, a spy getting out of a laser-guarded museum, a hedge maze at a royal palace, a sewer system, a volcano lair, a lost city in the clouds. Mazes get harder from the start of the book to the end.

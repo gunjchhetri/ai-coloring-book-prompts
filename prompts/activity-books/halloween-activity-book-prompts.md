@@ -1,5 +1,7 @@
 # Halloween Activity Book Prompts for Kids (Not Too Spooky)
 
+<img src="../../assets/img/halloween-activity-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 Halloween activity books sell hard for six weeks every fall, as party favors, class treats and candy alternatives. These prompts scale the spookiness to the age: smiling pumpkins for preschoolers, a monster costume parade for early readers and a haunted manor puzzle book for tweens. Each one is ready to open and print well before October.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=halloween-activity-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Halloween activity books sell hard for six weeks every fall, as party favors, cl
 
 ## 1. Not-so-spooky Halloween for preschoolers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Shadow matching (8), Connect the dots (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Shadow matching (8), Connect the dots (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A cozy, not-scary Halloween: smiling jack-o'-lanterns in a pumpkin patch, a friendly ghost waving, a black cat in a witch hat, kids in costumes (a pumpkin, a bee, a dragon) trick-or-treating, candy buckets, a happy bat hanging upside down, an owl on a fence under a big round moon. Easy mazes lead a trick-or-treater to the candy bowl. Shadows to match: pumpkin, ghost, bat, hat, broom, candy, owl, cat.
@@ -58,7 +60,7 @@ A cozy, not-scary Halloween: smiling jack-o'-lanterns in a pumpkin patch, a frie
 
 ## 2. Monster costume parade puzzles
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Connect the dots (10) · **Maze styles:** walls, tube, round · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (10), Connect the dots (10) · **Maze styles:** walls, tube, round · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A neighborhood Halloween night: a costume parade, a goofy friendly monster with three eyes, a witch stirring soup in a cauldron, a scarecrow in a cornfield, a hayride, bobbing for apples, a spider spinning a web on a porch. Word search words: PUMPKIN, COSTUME, CANDY, LANTERN, BROOMSTICK, CAULDRON, SPIDER, SKELETON, MUMMY, GHOST, OWL, SCARECROW, HAYRIDE, MOONLIGHT, POTION. Mazes go through a corn maze and a pumpkin patch.
@@ -110,7 +112,7 @@ A neighborhood Halloween night: a costume parade, a goofy friendly monster with 
 
 ## 3. Haunted manor puzzle book for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 45 · **Size:** 8.5 × 11 in · **Activities:** Word search (15), Sudoku (15), Mazes (15) · **Maze styles:** walls, round, square tube · **Quality:** Standard · **InkChamps credits:** 45 Standard · 90 Premium
+**Ages:** 9-13 · **Pages:** 45 · **Size:** 8.5 × 11 in · **Activities:** Word search (15), Sudoku (15), Mazes (15) · **Maze styles:** walls, round, square tube · **Quality:** Standard · **Credits:** 45 Standard · 90 Premium
 
 ```text
 A creaky old manor on a hill on Halloween night: a library of floating books, a portrait gallery with moving eyes, a candlelit staircase, a cobwebbed attic, a garden of crooked gravestones, a raven on a gate. Word search lists. Haunted house: CANDELABRA, COBWEB, ATTIC, CELLAR, PORTRAIT, LANTERN. Creatures: WEREWOLF, BANSHEE, GOBLIN, VAMPIRE, ZOMBIE, PHANTOM. Mazes are secret passages and hedge labyrinths.

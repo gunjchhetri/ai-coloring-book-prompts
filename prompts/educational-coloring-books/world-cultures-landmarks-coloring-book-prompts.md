@@ -1,5 +1,7 @@
 # World Cultures and Landmarks Coloring Book Prompts for Kids
 
+<img src="../../assets/img/world-cultures-landmarks-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 A world cultures coloring book helps kids see how big and varied the world is, from saying hello in Swahili to lighting lamps for Diwali. These prompts cover greetings for preschoolers, famous landmarks for 6 to 9 year olds and festivals around the world for older kids. Each brief asks for respectful, everyday, modern pictures of people and places, never costumes or stereotypes.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=world-cultures-landmarks-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A world cultures coloring book helps kids see how big and varied the world is, f
 
 ## 1. Hello around the world for preschoolers
 
-**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 Saying hello around the world, one child and one greeting per page, with an animal or place from that country: 1. Hola, Mexico (monarch butterflies). 2. Bonjour, France (Eiffel Tower). 3. Jambo, Kenya (giraffe). 4. Konnichiwa, Japan (cherry blossoms). 5. Namaste, India (peacock). 6. Ni hao, China (panda). 7. Ciao, Italy (Leaning Tower of Pisa). 8. Marhaba, Egypt (pyramids). 9. Olá, Brazil (toucan). 10. Kia ora, New Zealand (kiwi bird). 11. Annyeonghaseyo, South Korea (hanok house). 12. Hello, Canada (moose). Children in everyday modern clothes, smiling and waving, never in costume.
@@ -37,7 +39,7 @@ Saying hello around the world, one child and one greeting per page, with an anim
 
 ## 2. Famous landmarks of the world for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Famous landmarks with one fact each: 1. Great Wall of China, thousands of miles long. 2. Pyramids of Giza, Egypt, over 4,500 years old. 3. Eiffel Tower, Paris. 4. Taj Mahal, India, white marble. 5. Machu Picchu, Peru, high in the Andes. 6. Statue of Liberty, New York. 7. Great Barrier Reef, Australia, seen from space. 8. Colosseum, Rome. 9. Petra, Jordan, carved into rock. 10. Mount Kilimanjaro, Tanzania. 11. Angkor Wat, Cambodia. 12. Chichen Itza, Mexico. 13. Stonehenge, England. 14. Iguazu Falls, on the border of Brazil and Argentina.
@@ -66,7 +68,7 @@ Famous landmarks with one fact each: 1. Great Wall of China, thousands of miles 
 
 ## 3. Festivals around the world for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Festivals, shown respectfully with families taking part: 1. Diwali, lamps and rangoli. 2. Lunar New Year, lion dance and red envelopes. 3. Holi, colored powder in spring. 4. Eid al-Fitr ends Ramadan with a family meal. 5. Hanukkah, the menorah's eight nights. 6. Christmas, Jesus's birth, a decorated tree. 7. Kwanzaa, the kinara. 8. Day of the Dead, marigolds for loved ones. 9. Carnival in Brazil, kids parading with drums and confetti. 10. Songkran, Thai New Year. 11. Nowruz, Persian New Year. 12. Mid-Autumn Festival, mooncakes. 13. Inti Raymi, Peru. 14. Homowo, Ghana, a harvest feast.

@@ -1,5 +1,7 @@
 # Large Print Word Search Book Cover Prompts for Adults
 
+<img src="../../assets/img/kdp-book-covers.webp" alt="Sample book cover page made with InkChamps" width="320" align="right">
+
 Large print word search books are bought by and for seniors, so the cover must be calm, readable and obviously large print. These prompts set up full KDP covers for a general large print collection, a gardening edition and a 1960s nostalgia edition. Each one leaves plenty of room for a big, clear title.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=word-search-book-cover-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Large print word search books are bought by and for seniors, so the cover must b
 
 ## 1. Classic large print word search cover
 
-**Size:** 8.5 × 11 in · **Interior:** word search, 40 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** word search, 40 sheets · **Credits:** 2
 
 ```text
 A clear, classic cover for a large print word search book for adults: a big section of a letter grid on a cream background with three words circled in bold red, a sharpened pencil and a pair of reading glasses resting on it. Navy, cream and red, calm and very readable, with a large clean title area. The back repeats the grid motif.
@@ -38,7 +40,7 @@ A clear, classic cover for a large print word search book for adults: a big sect
 
 ## 2. Garden edition word search cover
 
-**Size:** 8.5 × 11 in · **Interior:** word search, 55 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** word search, 55 sheets · **Credits:** 2
 
 ```text
 A fresh, cheerful cover for a gardening-themed large print word search: a sunny cottage garden border of roses, foxgloves and lavender framing a cream panel with a few rows of large letters and one circled word, a watering can and a robin on a fence post. Soft greens, pink and cream, peaceful and pretty.
@@ -68,7 +70,7 @@ A fresh, cheerful cover for a gardening-themed large print word search: a sunny 
 
 ## 3. 1960s nostalgia word search cover
 
-**Size:** 8.5 × 11 in · **Interior:** word search, 50 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** word search, 50 sheets · **Credits:** 2
 
 ```text
 A retro 1960s cover for a nostalgia word search book: a mint-green diner jukebox, a vinyl record, a vintage scooter of no real make and flower-power daisies around a large letter grid with circled words. Orange, teal and mustard yellow with a sunburst pattern, playful and nostalgic, with a bold retro title area. For adults who grew up in the sixties.

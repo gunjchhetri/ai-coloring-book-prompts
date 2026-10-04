@@ -1,5 +1,7 @@
 # Christmas Coloring Book Prompts for Kids & Adults
 
+<img src="../../assets/img/christmas-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts as early as October. Parents buy them for stockings and holiday breaks, while adults buy cozy and intricate editions to color by the fire. These Christmas coloring book prompts cover a toddler book, a cozy adult village book and a premium mandala and ornament book.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=christmas-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP
 
 ## 1. Simple Christmas pages for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty simple, happy Christmas pictures for little ones: a smiling snowman with a carrot nose, a reindeer with a bell collar, a gingerbread man, stockings on a fireplace, a stack of wrapped presents, a decorated Christmas tree, a penguin in a scarf, Santa waving from his sleigh, a candy cane, a mitten pair, a bell with a bow, an elf with a teddy bear and a puppy in a gift box.
@@ -40,7 +42,7 @@ Thirty simple, happy Christmas pictures for little ones: a smiling snowman with 
 
 ## 2. Cozy Christmas village for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty cozy Christmas scenes: a snowy village main street with lantern-lit shops, a bakery window full of gingerbread houses, hot cocoa by a crackling fireplace, a wreath on a red front door, a Christmas market with wooden stalls, a horse-drawn sleigh through pines, a cabin with smoke curling from the chimney, a kitchen baking cookies, a cat asleep under the tree and carolers on a doorstep.
@@ -72,7 +74,7 @@ Forty cozy Christmas scenes: a snowy village main street with lantern-lit shops,
 
 ## 3. Christmas ornament and snowflake mandalas
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty intricate festive designs: snowflake mandalas, round glass baubles filled with lace patterns, poinsettia wreaths, holly and mistletoe rings, a star of Bethlehem mandala, ornate Christmas trees made of swirls, gingerbread houses with gingham and icing detail, patterned reindeer, candle and pinecone wreaths and a nutcracker soldier with filigree, each a different design.

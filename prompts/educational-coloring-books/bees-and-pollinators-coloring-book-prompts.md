@@ -1,5 +1,7 @@
 # Bees and Pollinators Coloring Book Prompts for Kids
 
+<img src="../../assets/img/bees-and-pollinators-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Bees and pollinators are a spring science favorite, and kids are amazed to learn that many fruits need an insect's visit to grow. These prompts cover a honeybee's day for preschoolers, the many kinds of pollinators for 6 to 9 year olds and life inside a honeybee colony for older kids. Every fact is short and true.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Bees and pollinators are a spring science favorite, and kids are amazed to learn
 
 ## 1. A busy bee's day for preschoolers
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in the morning. 2. She lands on a flower. 3. She sips sweet nectar. 4. Yellow pollen sticks to her fuzzy body. 5. She carries pollen to the next flower. 6. That helps the flower make seeds and fruit, like apples and strawberries. 7. She flies home to the hive. 8. Bees build honeycomb with six-sided cells. 9. Bees turn nectar into honey. 10. The queen bee lays eggs that grow into new bees.
@@ -37,7 +39,7 @@ A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in
 
 ## 2. Pollinators and the food we eat
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Honeybees. 3. Bumblebees can buzz pollen loose from tomato flowers. 4. Butterflies. 5. Moths visit flowers at night. 6. Hummingbirds drink nectar from tube-shaped flowers. 7. Some bats pollinate agave and banana flowers. 8. Beetles. 9. Flies. 10. Wind carries pollen for corn and grasses. 11. Apples, strawberries and pumpkins need pollinators. 12. Almonds need bees. 13. Plant a pollinator garden. 14. Leave clover and dandelions for the bees.
@@ -66,7 +68,7 @@ Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Ho
 
 ## 3. Inside the honeybee colony for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 Life inside a honeybee colony: 1. A colony has one queen, many workers and some drones. 2. The queen lays up to 1,500 eggs a day. 3. Egg. 4. Larva. 5. Pupa. 6. Adult bee. 7. Young workers clean cells. 8. Nurse bees feed larvae. 9. Builders make wax comb. 10. Guards protect the entrance. 11. Foragers collect nectar and pollen. 12. Pollen baskets on the back legs. 13. The waggle dance shows where flowers are. 14. Bees fan nectar to dry it into honey. 15. Solitary bees like mason bees. 16. Threats to bees and how to help.

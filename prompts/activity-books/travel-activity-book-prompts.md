@@ -1,5 +1,7 @@
 # Travel Activity Book Prompts for Kids: Road Trip & Airplane Fun
 
+<img src="../../assets/img/travel-activity-book-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 A travel activity book buys a family hours of quiet in the back seat or on a long flight, without another screen. These prompts build road trip and airplane activity books by age, with puzzles that work on a lap and themes kids can spot out the window. They make great printables for parents and a reliable seasonal seller before summer and holidays.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=travel-activity-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A travel activity book buys a family hours of quiet in the back seat or on a lon
 
 ## 1. Family road trip activity book
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (8), Connect the dots (6), Coloring pages (6) · **Maze styles:** walls, tube · **Quality:** Standard · **InkChamps credits:** 40 Standard · 80 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Activities:** Mazes (10), Word search (10), Spot the difference (8), Connect the dots (6), Coloring pages (6) · **Maze styles:** walls, tube · **Quality:** Standard · **Credits:** 40 Standard · 80 Premium
 
 ```text
 A family road trip in a camper van across mountains, deserts, farms and the seaside: a gas station stop, a roadside picnic, a campsite with a campfire, a long bridge, a tunnel, a motel pool. Mazes follow winding highways to the beach or the campground. Word search words: HIGHWAY, MAP, SNACKS, TUNNEL, BRIDGE, CAMPER, PICNIC, SUITCASE, COMPASS, MOUNTAIN, BEACH, SUNGLASSES, DETOUR, CACTUS, LAKE.
@@ -61,7 +63,7 @@ A family road trip in a camper van across mountains, deserts, farms and the seas
 
 ## 2. First airplane trip for little flyers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Shadow matching (8), Connect the dots (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Shadow matching (8), Connect the dots (8), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A child's first plane trip from start to finish: packing a suitcase, the airport check-in desk, the moving luggage belt, looking out the big window at the planes, the friendly pilot and cabin crew, buckling the seatbelt, snacks above the clouds, landing and hugging grandma. Easy mazes help a little plane find the runway or a suitcase reach its owner. Shadows to match: plane, suitcase, pilot hat, cloud, control tower.
@@ -111,7 +113,7 @@ A child's first plane trip from start to finish: packing a suitcase, the airport
 
 ## 3. Around the world travel puzzles for tweens
 
-**Ages:** 9-13 · **Pages:** 48 · **Size:** 6 × 9 in · **Activities:** Word search (16), Sudoku (16), Mazes (16) · **Maze styles:** walls, round · **Quality:** Standard · **InkChamps credits:** 48 Standard · 96 Premium
+**Ages:** 9-13 · **Pages:** 48 · **Size:** 6 × 9 in · **Activities:** Word search (16), Sudoku (16), Mazes (16) · **Maze styles:** walls, round · **Quality:** Standard · **Credits:** 48 Standard · 96 Premium
 
 ```text
 A world travel puzzle book decorated with passport stamps, boarding passes, trains, ferries and landmarks seen from a plane window. Word search lists. Airport: PASSPORT, BOARDING, GATE, LAYOVER, LUGGAGE, RUNWAY, CUSTOMS. Countries: BRAZIL, KENYA, JAPAN, CANADA, EGYPT, NORWAY, PERU, INDIA. Packing: CHARGER, PILLOW, SNACKS, JOURNAL, HEADPHONES. Mazes are city street grids, metro lines and mountain trails.

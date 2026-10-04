@@ -1,5 +1,7 @@
 # Bible Story Coloring Book Prompts for Kids & Adults
 
+<img src="../../assets/img/bible-story-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Bible story coloring books are a steady seller for Christian parents, Sunday school teachers, church groups and homeschoolers, with peaks at Easter and Christmas. These Bible story coloring book prompts draw on well-known public-domain stories, shown respectfully and warmly: a simple first book for toddlers, a story-by-story book for Sunday school, and a detailed scripture-inspired book for adult colorists.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bible-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Bible story coloring books are a steady seller for Christian parents, Sunday sch
 
 ## 1. My first Bible stories for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty simple, gentle Bible story pictures for little ones: Noah's Ark with animals walking in two by two, a rainbow over the ark, baby Moses in a basket among the reeds, Jonah and the big fish, young David with his sheep, Daniel calm among friendly lions, baby Jesus in the manger, Jesus welcoming children, a boy sharing five loaves and two fish and a lost sheep found.
@@ -40,7 +42,7 @@ Thirty simple, gentle Bible story pictures for little ones: Noah's Ark with anim
 
 ## 2. Bible stories for Sunday school
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty Bible stories in order, one scene per page: creation of the animals, Adam naming the animals in the garden, shown from the shoulders up among tall plants, Noah's Ark, the Tower of Babel, Joseph's colorful coat, baby Moses in the reeds, Moses parting the Red Sea, the walls of Jericho falling, young David facing Goliath with his sling, Jonah and the big fish, Daniel in the lions' den, Queen Esther before the king, the nativity, Jesus calming the storm, the Good Samaritan helping a traveller, the prodigal son's welcome home, Zacchaeus in the sycamore tree and the empty tomb.
@@ -71,7 +73,7 @@ Forty Bible stories in order, one scene per page: creation of the animals, Adam 
 
 ## 3. Scripture-inspired scenes for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Inspirational · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Inspirational · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty detailed, reverent scenes inspired by scripture: the Garden of Eden in full bloom, the wolf and the lamb resting together, as Isaiah foretold, a dove with an olive branch over the ark, lilies of the field, the vine and the branches, the good shepherd carrying a lamb, a stained-glass style nativity, Ruth gleaning wheat in the fields, the burning bush, the feeding of the five thousand by the sea and a sunrise over the empty tomb.

@@ -1,5 +1,7 @@
 # Bedtime Story Coloring Book Prompts for Calm Evenings
 
+<img src="../../assets/img/bedtime-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 A bedtime story coloring book gives the last quiet half hour of the day a shape: color a page, read its line, turn to the next. These prompts are slow, soft stories that wind down instead of winding up, with sleepy animals, darkening towns and dreams that end safely back in bed. They suit parents building a bedtime routine and KDP sellers looking for an evergreen gift niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bedtime-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A bedtime story coloring book gives the last quiet half hour of the day a shape:
 
 ## 1. Oswin the owl tucks in the forest
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Oswin, a young owl with round spectacles and a tiny lantern, flies through the forest at dusk to say goodnight to everyone. He tucks the rabbits under the hedge, sings to the ducklings on the pond, finds the badger's lost pillow, helps the fireflies dim their lights, counts the sheep in the meadow, hums to the deer under the pines and pulls a leaf blanket over the hedgehog. Each friend yawns and settles. At last Oswin yawns too, and his mother wraps him in her wing in their hollow tree. A gentle, repetitive goodnight story that ends in sleep.
@@ -40,7 +42,7 @@ Oswin, a young owl with round spectacles and a tiny lantern, flies through the f
 
 ## 2. Goodnight, Little Town
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Mae, a little girl with two puffy braids and star pajamas, watches from her bedroom window as her town gets ready for night. The baker pulls out the last loaf, the bus driver parks the big red bus, the crane lowers its long arm, the fire engine rests in its station, the lighthouse switches on and the cat curls up on the bakery step. Mae waves goodnight to each one. Finally her dad switches off her lamp and the whole town, and Mae, is asleep.
@@ -72,7 +74,7 @@ Mae, a little girl with two puffy braids and star pajamas, watches from her bedr
 
 ## 3. The Dream Kite
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Quality:** Standard · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Quality:** Standard · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Theo, a boy in striped pajamas, finds a paper kite on his windowsill that lifts him into his dreams. He visits a bakery inside a cloud, rides a sleepy whale who hums lullabies, borrows a book from a library on the moon and drifts through a meadow of glowing dandelions. Each dream is softer and slower than the last. As the sky turns pink, the kite lowers Theo back into his bed, and he finds a dandelion seed on his pillow.

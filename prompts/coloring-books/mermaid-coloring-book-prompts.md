@@ -1,5 +1,7 @@
 # Mermaid Coloring Book Prompts for Kids, Teens & Adults
 
+<img src="../../assets/img/mermaid-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Mermaid coloring books combine two favourite themes, magic and the ocean, and they sell strongly as gifts for girls from preschool to the tween years. Detailed mermaids with flowing hair and shell-covered tails are also a popular adult coloring niche. These mermaid coloring book prompts cover a sweet book for little kids, a full undersea kingdom adventure, and an ornate mermaid fantasy book for teens and adults, all with original characters.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=mermaid-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Mermaid coloring books combine two favourite themes, magic and the ocean, and th
 
 ## 1. Young mermaids and sea friends
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Fairy tale · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Fairy tale · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Happy young mermaids in a bright underwater world: a mermaid hugging a sea turtle, riding a dolphin, having a tea party with a sea otter and a starfish, combing her hair with a seashell, playing hide and seek in the coral, sleeping in an open clam shell, blowing bubbles with a pufferfish, swimming with a seahorse, a baby mermaid in a seaweed cradle, and a merboy racing a school of fish.
@@ -41,7 +43,7 @@ Happy young mermaids in a bright underwater world: a mermaid hugging a sea turtl
 
 ## 2. Undersea mermaid kingdom
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A magical undersea mermaid kingdom: a coral palace with seashell towers, mermaids exploring a sunken ship, a mermaid school where merkids learn about fish, a mermaid riding a whale through the deep, a treasure hunt in a glowing sea cave, a festival lit by lantern jellyfish, a mermaid on a rock beside a lighthouse at sunset, a mermaid caring for a baby octopus, a seahorse race, and mermaids playing with otters in a kelp forest.
@@ -74,7 +76,7 @@ A magical undersea mermaid kingdom: a coral palace with seashell towers, mermaid
 
 ## 3. Ornate mermaid fantasy for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala sea · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala sea · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Graceful mermaids in richly detailed ocean scenes: a mermaid whose flowing hair is threaded with shells and pearls, a mermaid curled inside a giant nautilus, a mermaid resting in a moonlit tide pool, a mermaid encircled by a mandala of fish and coral, a mermaid queen on a coral throne, mermaids drifting among jellyfish, a mermaid holding a glowing lantern in the deep, and a tail covered in intricate scales. Every mermaid wears a shell-and-pearl or seaweed top.

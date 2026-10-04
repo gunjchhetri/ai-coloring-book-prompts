@@ -1,5 +1,7 @@
 # Space Coloring Book Prompts: Planets, Astronauts & Aliens
 
+<img src="../../assets/img/space-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Space coloring books blend wonder with learning: rockets, planets, astronauts and friendly aliens capture kids' imaginations and give parents a reason to talk about science. They sell well on KDP as gifts for curious kids and to homeschoolers studying the solar system. These space coloring book prompts give you a first-space book for toddlers, a solar system book with every object named, and an alien-world adventure for tweens.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Space coloring books blend wonder with learning: rockets, planets, astronauts an
 
 ## 1. First trip to space for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Universe space · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Universe space · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 A friendly first trip to space: a smiling rocket blasting off, a child astronaut waving from the moon, a happy sun next to a sleepy moon, a ringed planet with a big grin, a little alien saying hello from a round spaceship, a puppy in a space helmet, twinkling stars around a crescent moon, an astronaut floating beside a satellite, a comet with a long tail, and a picnic in a moon crater.
@@ -41,7 +43,7 @@ A friendly first trip to space: a smiling rocket blasting off, a child astronaut
 
 ## 2. Solar system and space book
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 24 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 24 Standard · 72 Premium
 
 ```text
 A space book, one subject per page with its name: the Sun, Mercury, Venus, Earth, the Moon, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto (dwarf planet), an asteroid, a comet, a meteor shower, a galaxy, a nebula, a black hole, a constellation, an astronaut with plain mission patches, a rocket, a space station, a satellite, a Mars rover, a telescope.
@@ -75,7 +77,7 @@ A space book, one subject per page with its name: the Sun, Mercury, Venus, Earth
 
 ## 3. Alien worlds adventure for tweens
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A space adventure across the galaxy: astronauts with plain mission patches building a base on Mars, a rover crossing red sand dunes, a spaceship docking at a giant space station, friendly aliens farming glowing plants on their home planet, a spacewalk high above Earth, a rocket launch in billowing smoke, a space whale swimming through a nebula, robots repairing a satellite, a domed city on the moon, and kids stargazing through a backyard telescope.

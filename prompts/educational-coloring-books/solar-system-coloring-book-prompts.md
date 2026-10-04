@@ -1,5 +1,7 @@
 # Solar System Coloring Book Prompts: Planets, Moon & Space Facts
 
+<img src="../../assets/img/solar-system-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 A solar system coloring book turns planet facts into something kids can hold, color and remember. These prompts go from a simple Sun-and-planets tour for preschoolers to orbits, seasons and eclipses for 9 to 13 year olds. Every fact is checked and kept short, so the book works for a classroom space unit or a homeschool science week.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=solar-system-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A solar system coloring book turns planet facts into something kids can hold, co
 
 ## 1. Sun, Moon and planets for little learners
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 A first trip through our solar system, one stop per page: 1. The Sun is a star that gives us light and warmth. 2. Mercury is closest to the Sun and the smallest planet. 3. Venus is the hottest planet. 4. Earth is our home, with oceans and air. 5. The Moon goes around Earth. 6. Mars is the red planet. 7. Jupiter is the biggest planet. 8. Saturn has bright rings of ice and rock. 9. Uranus spins on its side. 10. Neptune is cold, blue and very windy.
@@ -37,7 +39,7 @@ A first trip through our solar system, one stop per page: 1. The Sun is a star t
 
 ## 2. Planets and space neighbors for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 6-9 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 Our solar system for early readers: 1. The Sun, the star at the center. 2. Planets travel around the Sun in orbits. 3. Mercury. 4. Venus. 5. Earth. 6. The Moon has craters. 7. Moon phases. 8. Mars and its rovers. 9. The asteroid belt. 10. Jupiter and its Great Red Spot storm. 11. Saturn's rings. 12. Uranus. 13. Neptune. 14. Pluto, a dwarf planet. 15. Comets have tails that point away from the Sun. 16. Astronauts explore space. Give each planet one fact: size, color, or how hot or cold it is.
@@ -66,7 +68,7 @@ Our solar system for early readers: 1. The Sun, the star at the center. 2. Plane
 
 ## 3. How the solar system works for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 How the solar system works, for upper elementary: 1. Gravity holds the planets in orbit around the Sun. 2. Earth spins once a day. 3. Earth orbits the Sun once a year. 4. Seasons come from Earth's tilted axis. 5. Moon phases. 6. Solar eclipse. 7. Lunar eclipse. 8. Rocky inner planets. 9. Gas and ice giants. 10. The asteroid belt. 11. Jupiter's moons. 12. Saturn's rings are pieces of ice and rock. 13. The Kuiper Belt and dwarf planets. 14. Comets. 15. Telescopes. 16. Rovers and probes explore other worlds.

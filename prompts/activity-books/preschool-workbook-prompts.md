@@ -1,5 +1,7 @@
 # Preschool Workbook Prompts: ABC Tracing, Shapes & Matching (Ages 3-6)
 
+<img src="../../assets/img/preschool-workbook-prompts.webp" alt="Sample activity book page made with InkChamps" width="320" align="right">
+
 A good preschool workbook builds pencil control first, then letters, then early thinking skills like matching shapes. These prompts set up alphabet pages with a picture for every letter, pre-writing lines and shadow matching for 3 to 6 year olds. They suit parents preparing for kindergarten, homeschoolers and KDP sellers in the evergreen preschool niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=preschool-workbook-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A good preschool workbook builds pencil control first, then letters, then early 
 
 ## 1. A to Z alphabet tracing workbook
 
-**Ages:** 3-6 · **Pages:** 42 · **Size:** 8.5 × 11 in · **Activities:** Tracing (10), ABC letters (26), Shadow matching (6) · **Quality:** Standard · **InkChamps credits:** 42 Standard · 84 Premium
+**Ages:** 3-6 · **Pages:** 42 · **Size:** 8.5 × 11 in · **Activities:** Tracing (10), ABC letters (26), Shadow matching (6) · **Quality:** Standard · **Credits:** 42 Standard · 84 Premium
 
 ```text
 A cheerful first alphabet book, one letter per page with a picture to say the sound: Apple, Ball, Cat, Duck, Egg, Fish, Goat, Hat, Igloo, Jellyfish, Kite, Lion, Moon, Nest, Owl, Pig, Queen, Rabbit, Sun, Turtle, Umbrella, Van, Whale, Box (x at the end), Yo-yo, Zebra. Tracing pages warm up with straight lines, zigzags, waves and circles. Shadow matching uses the same alphabet pictures.
@@ -51,7 +53,7 @@ A cheerful first alphabet book, one letter per page with a picture to say the so
 
 ## 2. Pre-writing lines and shapes book
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Tracing (16), Shadow matching (8), Connect the dots (6) · **Quality:** Standard · **InkChamps credits:** 30 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Activities:** Tracing (16), Shadow matching (8), Connect the dots (6) · **Quality:** Standard · **Credits:** 30 Standard · 60 Premium
 
 ```text
 A farm-themed pre-writing book for little hands. Tracing pages: straight lines from a bee to a flower, zigzags down a hill, waves across a pond, loops like a pig's curly tail, then circles, squares, triangles, rectangles, hearts and stars. Shadow matching pairs farm animals and objects: cow, hen, horse, sheep, tractor, barn, pumpkin, watering can. Dot-to-dots are short, simple farm shapes.
@@ -95,7 +97,7 @@ A farm-themed pre-writing book for little hands. Tracing pages: straight lines f
 
 ## 3. Kindergarten readiness big workbook
 
-**Ages:** 3-6 · **Pages:** 60 · **Size:** 8.5 × 11 in · **Activities:** Tracing (14), ABC letters (26), Shadow matching (6), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **InkChamps credits:** 60 Standard · 120 Premium
+**Ages:** 3-6 · **Pages:** 60 · **Size:** 8.5 × 11 in · **Activities:** Tracing (14), ABC letters (26), Shadow matching (6), Mazes (6), Coloring pages (8) · **Maze styles:** tube, square tube · **Quality:** Standard · **Credits:** 60 Standard · 120 Premium
 
 ```text
 A get-ready-for-school workbook set in a friendly classroom and playground: backpacks, crayons, a school bus, a reading corner, a sandbox. ABC pages A to Z with one picture each: Ant, Bus, Crayon, Dog, Elephant, Frog, Glue, House, Insect, Jar, Key, Leaf, Map, Notebook, Orange, Pencil, Quilt, Ruler, Scissors, Tree, Umbrella, Violin, Window, Box (x at the end), Yarn, Zipper. Tracing covers lines, shapes and numbers 1 to 10. Easy mazes lead a child to the school door.

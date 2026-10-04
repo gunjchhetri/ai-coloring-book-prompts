@@ -1,5 +1,7 @@
 # Activity and Puzzle Book Cover Prompts for Amazon KDP
 
+<img src="../../assets/img/activity-puzzle-book-cover-prompts.webp" alt="Sample book cover page made with InkChamps" width="320" align="right">
+
 Activity and puzzle book covers sell on energy and clarity: the buyer must see at once that the book is packed with mazes, dot-to-dots or sudoku. These prompts set up full KDP covers for a big kids' activity book, a maze book and a sudoku book for older kids. Each describes art that previews the puzzles inside.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=activity-puzzle-book-cover-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Activity and puzzle book covers sell on energy and clarity: the buyer must see a
 
 ## 1. Big kids' activity book cover
 
-**Size:** 8.5 × 11 in · **Interior:** puzzle, 50 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** puzzle, 50 sheets · **Credits:** 2
 
 ```text
 A busy, fun cover for a big activity book: a smiling kid and a cartoon robot surrounded by puzzle previews, a corner of a maze, a dot-to-dot star, a spot-the-difference pair of cupcakes, a word search grid and crayons. Bright orange, teal and yellow with confetti shapes. Energetic and full, for ages 4-8. The back lists the activity types with small icons.
@@ -38,7 +40,7 @@ A busy, fun cover for a big activity book: a smiling kid and a cartoon robot sur
 
 ## 2. Maze adventure book cover
 
-**Size:** 8.5 × 11 in · **Interior:** puzzle, 30 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** puzzle, 30 sheets · **Credits:** 2
 
 ```text
 An adventure maze cover: a young explorer with a backpack and map standing at the entrance of a giant hedge maze that winds toward a treasure chest on a hill, seen from slightly above so the twisting paths show. Lush greens, a golden treasure glow and a blue sky. Exciting and inviting, for ages 6-10. The back shows a small maze preview.
@@ -68,7 +70,7 @@ An adventure maze cover: a young explorer with a backpack and map standing at th
 
 ## 3. Sudoku book cover for kids 8-12
 
-**Size:** 6 × 9 in · **Interior:** puzzle, 50 sheets · **InkChamps credits:** 2
+**Size:** 6 × 9 in · **Interior:** puzzle, 50 sheets · **Credits:** 2
 
 ```text
 A clean, clever cover for a kids' sudoku book: a large 9x9 sudoku grid tilted on the front with a few bright numbers filled in, a cartoon owl in glasses holding a pencil perched on top, and small stars and lightbulbs around it. Purple, lime green and white, smart and fun rather than babyish, for ages 8-12.

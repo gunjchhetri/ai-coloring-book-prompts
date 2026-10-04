@@ -1,5 +1,7 @@
 # Personalized Birthday Story Book Prompts for Custom Kids' Books
 
+<img src="../../assets/img/personalized-birthday-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 A personalized birthday story book puts the birthday child at the centre of their own adventure, and it is one of the best-selling custom gifts on Etsy, often priced between $20 and $60. Each prompt below uses [Name] and [age] placeholders: replace them with the child's details before ordering. Etsy sellers can run one prompt for every order, and parents can make a one-of-a-kind present in minutes.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=personalized-birthday-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A personalized birthday story book puts the birthday child at the centre of thei
 
 ## 1. [Name]'s birthday parade
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Chibi / kawaii · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 On the morning [Name] turns [age], a marching band of animals arrives at the front door. A lion plays the drum, a giraffe carries balloons and a tiny mouse waves a birthday flag. They lead [Name] through the town, and at every stop a new animal joins with a present, one for each year, until there are [age] gifts in all. The parade ends at the park, where a giant cake waits and everyone sings Happy Birthday to [Name].
@@ -41,7 +43,7 @@ On the morning [Name] turns [age], a marching band of animals arrives at the fro
 
 ## 2. [Name]'s birthday trip through space
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 8.5 in · **Style:** Paper cut-out collage · **Layout:** Text page left, picture right · **Quality:** Premium · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 8.5 in · **Style:** Paper cut-out collage · **Layout:** Text page left, picture right · **Quality:** Premium · **Credits:** 64 Standard · 96 Premium
 
 ```text
 The night before [Name] turns [age], a small silver rocket lands in the backyard with a note: Birthday Captain wanted. [Name] climbs aboard and flies through the solar system, and every planet has a surprise: Mars throws a dust-glitter party, Saturn lends its rings for a hula-hoop contest, Jupiter bakes a storm-swirl cake. At the last star, the constellations form [Name]'s favorite animal. [Name] lands home just in time to blow out [age] candles.
@@ -74,7 +76,7 @@ The night before [Name] turns [age], a small silver rocket lands in the backyard
 
 ## 3. [Name]'s magic treasure map
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Anime · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Anime · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 On [Name]'s birthday a rolled-up map appears under the pillow, marked with a big gold X. Following the clues, [Name] finds the backyard turned into a jungle, the bathtub into a pirate ship and the garden shed into a dragon's cave guarded by a friendly green dragon. Each stop gives a clue and a key, and the friends and family [Name] loves join the hunt. The last key opens a chest with a birthday crown and a note: Happy Birthday, [Name]! You are [age]!

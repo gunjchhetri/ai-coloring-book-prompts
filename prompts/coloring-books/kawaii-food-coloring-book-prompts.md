@@ -1,5 +1,7 @@
 # Kawaii Food Coloring Book Prompts: Cute Desserts, Fruit & Snacks
 
+<img src="../../assets/img/kawaii-food-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Kawaii food coloring books, with smiling cupcakes, sushi and strawberries, are one of the fastest-growing coloring niches on Amazon KDP and Etsy. They appeal to young kids, tweens and a large teen and adult audience who love cute, bold pages that are relaxing to color. These kawaii food coloring book prompts cover a fruit-and-veggie book for little kids, a desserts book for school-age kids, and busy kawaii food scenes for teens and adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=kawaii-food-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Kawaii food coloring books, with smiling cupcakes, sushi and strawberries, are o
 
 ## 1. Smiling fruit and veggie friends
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Food fun · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Food fun · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Happy fruits and vegetables with sweet smiling faces: a strawberry wearing a flower crown, a banana on a skateboard, an avocado hugging its pit, a pineapple in sunglasses, watermelon slices at the beach, a carrot and a pea pod playing tag, a broccoli tree house, an apple and an orange holding hands, a family of grapes, and a lemon diving into a glass of lemonade.
@@ -41,7 +43,7 @@ Happy fruits and vegetables with sweet smiling faces: a strawberry wearing a flo
 
 ## 2. Kawaii desserts and sweet treats
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A sweet world of kawaii desserts with cute faces: a cupcake wearing a cherry hat, a stack of pancakes with dripping syrup, a donut floating on a pool ring, a three-scoop ice cream cone, a slice of birthday cake, macarons in a row, a bubble tea cup full of tapioca pearls, cookies dunking in milk, a candy shop window, a waffle topped with strawberries, and a pie cooling on a windowsill.
@@ -74,7 +76,7 @@ A sweet world of kawaii desserts with cute faces: a cupcake wearing a cherry hat
 
 ## 3. Busy kawaii food scenes for teens and adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Busy kawaii food scenes packed with cute characters: a conveyor belt of smiling sushi rolls, a ramen bowl hot spring where noodles relax, a bakery shelf crowded with happy breads and croissants, a dumpling party in a bamboo steamer, pizza night with dancing toppings, a breakfast table where eggs and toast play cards, a bento box city, a farmers market of grinning vegetables, and a teapot tea party with cakes.

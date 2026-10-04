@@ -1,5 +1,7 @@
 # Princess & Castle Coloring Book Prompts (Original Characters)
 
+<img src="../../assets/img/princess-castle-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Princess coloring books are a perennial gift for young children, and fairy-tale castles keep their charm right into the adult coloring market. Because these prompts use original princesses, knights and kingdoms, the finished books are safe to sell on Amazon KDP and Etsy. You get a sweet princess book for preschoolers, a brave knights-and-dragons adventure, and a detailed fairy-tale castle collection for adults.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=princess-castle-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Princess coloring books are a perennial gift for young children, and fairy-tale 
 
 ## 1. Little princesses and castles
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Fairy tale · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Fairy tale · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Sweet original princesses in a gentle fairy-tale kingdom: a princess having a tea party with her teddy bears, a princess riding a pony through a flower meadow, a castle with tall towers and a drawbridge, a princess and a friendly frog by a pond, a royal birthday cake, a princess twirling at a ball, a little knight and his pony, a carriage pulled by white horses, a princess reading in a tower window, and a royal garden fountain.
@@ -41,7 +43,7 @@ Sweet original princesses in a gentle fairy-tale kingdom: a princess having a te
 
 ## 2. Knights, princesses and dragons
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Adventures in a medieval kingdom with princesses and knights of many backgrounds: a brave princess with a sword meeting a friendly dragon, knights jousting at a tournament, a feast in the great hall, a princess and a knight exploring an enchanted forest, a wizard's tower full of potions, a royal ship sailing to a faraway island, a princess inventor building a flying machine, the royal stables, and a secret garden behind the castle walls.
@@ -74,7 +76,7 @@ Adventures in a medieval kingdom with princesses and knights of many backgrounds
 
 ## 3. Ornate fairy-tale castles for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Fairy tale · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Ornate fairy-tale castles and royal scenes: a cliffside castle above a waterfall, a palace ballroom with chandeliers and dancing couples, a castle reflected in a lake ringed with roses, a princess in a gown of detailed embroidery, a gothic castle under a starry sky, a royal library with spiral staircases, a garden maze of topiaries, a winter palace in a snowy pine forest, and a castle village of timbered houses and market stalls.

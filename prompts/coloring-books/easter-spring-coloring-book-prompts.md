@@ -1,5 +1,7 @@
 # Easter & Spring Coloring Book Prompts
 
+<img src="../../assets/img/easter-spring-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Easter and spring coloring books are basket fillers: parents, grandparents and teachers buy them in March and April for little ones, and adults pick up patterned egg and floral books for the season. These Easter and spring coloring book prompts give you a toddler book, a scene-based book for school-age kids and an intricate decorated-egg book for adult colorists.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=easter-spring-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Easter and spring coloring books are basket fillers: parents, grandparents and t
 
 ## 1. Bunnies, chicks and eggs for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty simple spring and Easter pictures: a bunny holding a big egg, a fluffy chick hatching from its shell, an Easter basket full of eggs, a lamb in the grass, a duckling in a puddle, tulips in a pot, a carrot patch, a butterfly, a bunny with a spring bonnet, a nest with three eggs, a lily, a caterpillar on a leaf and a big decorated egg with stripes and dots.
@@ -41,7 +43,7 @@ Thirty simple spring and Easter pictures: a bunny holding a big egg, a fluffy ch
 
 ## 2. Egg hunts and spring adventures
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 32 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 32 Standard · 96 Premium
 
 ```text
 Thirty-two springtime scenes: kids on an Easter egg hunt in the garden, a bunny family painting eggs, a picnic under cherry blossoms, splashing in puddles with umbrellas and rain boots, flying kites on a windy hill, planting seeds, a bird building a nest, a farm with newborn lambs and calves, a spring parade with bonnets and a basket race in the park.
@@ -73,7 +75,7 @@ Thirty-two springtime scenes: kids on an Easter egg hunt in the garden, a bunny 
 
 ## 3. Folk-art Easter egg designs for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala abstract · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala abstract · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty decorated Easter eggs and spring patterns: eggs covered in folk-art florals, Ukrainian-style geometric eggs, lace-patterned eggs on stands, an egg mandala of tulips, eggs in a woven basket, a bunny made of paisley, a wreath of daffodils and eggs, spring birds with patterned wings, a lamb with a fleece of swirls and a cherry blossom branch with patterned eggs hanging from it.

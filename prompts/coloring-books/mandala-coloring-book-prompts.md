@@ -1,5 +1,7 @@
 # Mandala Coloring Book Prompts for Adults & Teens
 
+<img src="../../assets/img/mandala-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Mandala coloring books are one of the most reliable sellers on Amazon KDP, bought by adults who color to unwind and by teens who love symmetry and detail. These mandala coloring book prompts cover the full range, from dense geometric designs for experienced colorists to open, beginner-friendly mandalas and a celestial boho set for tweens. Each brief asks for a different design on every page, so the book never feels repetitive.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=mandala-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Mandala coloring books are one of the most reliable sellers on Amazon KDP, bough
 
 ## 1. Intricate geometric mandalas for adults
 
-**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 8.5 in · **Style:** Mandala abstract · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 50 Standard · 150 Premium
+**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 8.5 in · **Style:** Mandala abstract · **Detail:** Hard · **Quality:** Premium · **Credits:** 50 Standard · 150 Premium
 
 ```text
 Fifty intricate circular mandalas, each a different design: layered lotus petals, interlocking star polygons, Moroccan tile rosettes, Celtic knot rings, feathered paisley borders, sunburst rays, honeycomb lattices and lace-like filigree. Some centre on a tiny eight-pointed star, others bloom outward through twelve rings of scallops, teardrops and tiny beads. A calm, meditative collection for long evenings of coloring.
@@ -40,7 +42,7 @@ Fifty intricate circular mandalas, each a different design: layered lotus petals
 
 ## 2. Beginner-friendly mandalas with big spaces
 
-**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Mandala abstract · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 13+ · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Mandala abstract · **Detail:** Medium · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty simple mandalas for beginners and relaxed colorists: large petals, wide rings and only a few layers in each design. A flower-centred mandala, a sun with wavy rays, a ring of hearts, a five-pointed star mandala, a leaf wreath, a seashell spiral, circles of triangles and dots, a simple lotus and a snowflake-style rosette. Calm, uncluttered and quick to finish in one sitting.
@@ -71,7 +73,7 @@ Thirty simple mandalas for beginners and relaxed colorists: large petals, wide r
 
 ## 3. Celestial boho mandalas for tweens
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala abstract · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala abstract · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty boho celestial mandalas for tweens: crescent moons inside rings of stars, moon-phase circles, suns with patterned faces, crystals and gemstones arranged in a circle, feathers and beads hanging from round hoops, constellation wheels, mushroom and fern rings, and planets wrapped in swirling orbit patterns. Dreamy, trendy and full of night-sky magic.

@@ -1,5 +1,7 @@
 # Life Cycle Coloring Book Prompts: Butterfly, Frog, Chicken & Plant
 
+<img src="../../assets/img/life-cycle-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Life cycles are on almost every early science curriculum, and coloring each stage helps kids remember the order. These life cycle coloring book prompts give one stage per page with a short, accurate caption, from a monarch egg on a milkweed leaf to a seed carried off by the wind. They suit teachers, homeschoolers and parents of curious kids aged 3 to 13.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Life cycles are on almost every early science curriculum, and coloring each stag
 
 ## 1. Butterfly life cycle for preschoolers
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 How a monarch caterpillar becomes a butterfly, one simple step per page: 1. A butterfly lays a tiny egg on a milkweed leaf. 2. A small caterpillar hatches and eats its eggshell. 3. It munches milkweed leaves all day. 4. It grows so fast it sheds its skin. 5. It hangs upside down in a J shape. 6. It makes a green chrysalis. 7. Inside, its body changes. 8. A butterfly comes out. 9. It dries its wings in the sun. 10. It drinks flower nectar and lays eggs of its own.
@@ -37,7 +39,7 @@ How a monarch caterpillar becomes a butterfly, one simple step per page: 1. A bu
 
 ## 2. Frog and chicken life cycles
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 Two life cycles, seven stages each. Frog: 1. Frogspawn, eggs in jelly in a pond. 2. A tadpole hatches and breathes with gills. 3. It swims and eats algae. 4. Back legs grow. 5. Front legs grow. 6. A froglet with a short tail climbs out. 7. An adult frog breathes air and eats insects. Chicken: 8. A hen lays an egg. 9. She keeps it warm for about 21 days. 10. The chick pecks through the shell. 11. The wet chick dries fluffy. 12. Feathers grow in. 13. A young hen scratches for seeds. 14. The grown hen lays eggs.
@@ -66,7 +68,7 @@ Two life cycles, seven stages each. Frog: 1. Frogspawn, eggs in jelly in a pond.
 
 ## 3. Flowering plant life cycle in depth
 
-**Ages:** 9-13 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 9-13 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 The life cycle of a flowering plant: 1. A seed: seed coat, embryo and stored food. 2. Germination needs water, air and warmth. 3. The root grows down first. 4. The shoot pushes up and the seed leaves (cotyledons) open. 5. True leaves make food by photosynthesis. 6. The grown plant forms a bud. 7. The flower's parts: petals, stamens, pistil. 8. Pollination by insects or wind. 9. Fertilization in the ovary. 10. Seeds form inside a fruit. 11. Seeds spread by wind, water and animals. 12. A seed waits in the soil to start again.

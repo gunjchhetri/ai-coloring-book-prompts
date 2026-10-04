@@ -1,5 +1,7 @@
 # Bedtime Story Book Prompts for AI Picture Books
 
+<img src="../../assets/img/bedtime-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 A good bedtime story book slows down as it goes, until the last page is almost a whisper. These prompts give InkChamps a calm premise, a named hero and a sleepy ending, and it writes and illustrates the whole picture book. They suit parents who want a bedtime story of their own and KDP sellers building a cozy picture-book list.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bedtime-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A good bedtime story book slows down as it goes, until the last page is almost a
 
 ## 1. Bramble and the moonflowers
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Colored pencil · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Colored pencil · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Every night after the village falls asleep, Mrs. Fernsby, a tall old badger in a patched blue apron, waters the moonflowers that open only in the dark. Tonight her helper, a sleepy hedgehog named Bramble with a tiny lantern, wants to stay up to see them bloom. He yawns through every chore, but the very last flower opens just for him. Bramble curls up among the glowing petals, and Mrs. Fernsby carries him home to bed. A hushed, slow wind-down story.
@@ -41,7 +43,7 @@ Every night after the village falls asleep, Mrs. Fernsby, a tall old badger in a
 
 ## 2. Ten sheep who would not sleep
 
-**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Words lettered into the art · **Quality:** Standard · **InkChamps credits:** 32 Standard · 48 Premium
+**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Words lettered into the art · **Quality:** Standard · **Credits:** 32 Standard · 48 Premium
 
 ```text
 Pim, a little girl in yellow rain boots and a nightgown, can't fall asleep, so she tries counting sheep. But her ten sheep won't jump the fence: Clover wants a snack, Wooly lost her bell, the twins want one more game of tag and Big Bertha is scared of the dark. Pim helps each one settle, counting up from one to ten, until all ten sheep snore in a woolly pile. Then Pim yawns, climbs onto the softest sheep and falls asleep too. Gentle repetition with a giggly ending.
@@ -74,7 +76,7 @@ Pim, a little girl in yellow rain boots and a nightgown, can't fall asleep, so s
 
 ## 3. The boy who borrowed the moon
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Paper cut-out collage · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Paper cut-out collage · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Arlo, a boy with messy red hair who wears his blanket as a cape, is scared of the dark. One night he climbs a very tall ladder and borrows the moon as his night-light. But without the moon the owls can't hunt, the tide forgets to come in and the fireflies get lost. Arlo sees the night needs its moon more than he does. He carries it back up the ladder, and from then on the moon slips a silver beam through his window every night to keep him company.

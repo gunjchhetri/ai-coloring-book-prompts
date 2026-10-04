@@ -1,5 +1,7 @@
 # Human Body Coloring Book Prompts: Senses, Organs & Body Systems
 
+<img src="../../assets/img/educational-coloring-books.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+
 Kids are endlessly curious about how their own bodies work, and coloring a heart or a skeleton makes anatomy friendly instead of gross. These human body coloring book prompts start with the five senses for preschoolers and build to full organ systems for 9 to 13 year olds. Every fact is short, accurate and age-appropriate.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Kids are endlessly curious about how their own bodies work, and coloring a heart
 
 ## 1. My amazing body for preschoolers
 
-**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 12 Standard · 36 Premium
+**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
 
 ```text
 A first book about my body, one idea per page with a child doing something: 1. My eyes see colors. 2. My ears hear music. 3. My nose smells flowers. 4. My tongue tastes food. 5. My skin feels soft and rough things. 6. My heart beats to pump blood. 7. My lungs breathe in air. 8. My bones hold me up. 9. My muscles help me run and jump. 10. My tummy digests food. 11. My brain helps me think and learn. 12. I keep my body healthy: wash hands, eat fruit, sleep.
@@ -37,7 +39,7 @@ A first book about my body, one idea per page with a child doing something: 1. M
 
 ## 2. How my body works for ages 6-9
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
 
 ```text
 How the body works for early readers: 1. Grown-ups have 206 bones. 2. The skull protects the brain. 3. Muscles pull on bones to move us. 4. The heart is a muscle about the size of your fist. 5. Blood travels in tubes called blood vessels. 6. Lungs fill with air when we breathe in. 7. Chewing starts digestion. 8. The stomach mixes food. 9. The intestines take in nutrients. 10. The brain sends messages along nerves. 11. Skin is the largest organ. 12. Kids have 20 baby teeth. 13. The five senses. 14. Sleep helps us grow.
@@ -66,7 +68,7 @@ How the body works for early readers: 1. Grown-ups have 206 bones. 2. The skull 
 
 ## 3. Body systems for ages 9-13
 
-**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 The body's systems, one per page, with the main organs labeled: 1. Cells are the building blocks of life. 2. Skeletal system. 3. Muscular system. 4. Circulatory system: heart, arteries, veins. 5. Red blood cells carry oxygen. 6. Respiratory system: lungs and diaphragm. 7. Digestive system. 8. The liver and kidneys clean the blood. 9. Nervous system. 10. The brain's main parts. 11. The eye. 12. The ear. 13. Skin, hair and nails. 14. Immune system: white blood cells fight germs. 15. Teeth. 16. Exercise, sleep and food keep the systems strong.

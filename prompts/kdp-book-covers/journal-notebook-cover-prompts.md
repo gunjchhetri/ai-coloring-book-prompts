@@ -1,5 +1,7 @@
 # Journal and Notebook Cover Prompts for Amazon KDP
 
+<img src="../../assets/img/kdp-book-covers.webp" alt="Sample book cover page made with InkChamps" width="320" align="right">
+
 Journals and notebooks are the classic low-content KDP product, and the cover is almost the whole product. These prompts set up full wraparound covers for a gratitude journal, a lined school notebook and a dream journal. Each one sets the art, mood and palette, and the sheet count sizes the spine.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=journal-notebook-cover-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Journals and notebooks are the classic low-content KDP product, and the cover is
 
 ## 1. Gratitude journal cover
 
-**Size:** 6 × 9 in · **Interior:** novel, 60 sheets · **InkChamps credits:** 2
+**Size:** 6 × 9 in · **Interior:** novel, 60 sheets · **Credits:** 2
 
 ```text
 A calm, uplifting cover for a gratitude journal: soft watercolor wildflowers, chamomile, lavender and small pink cosmos, growing up from the bottom edge toward a gentle sunrise. Sage green, blush pink and warm cream, airy and peaceful with lots of open space for the title. The back continues the flowers with a short line about daily gratitude.
@@ -38,7 +40,7 @@ A calm, uplifting cover for a gratitude journal: soft watercolor wildflowers, ch
 
 ## 2. Lined school notebook cover
 
-**Size:** 8.5 × 11 in · **Interior:** novel, 60 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** novel, 60 sheets · **Credits:** 2
 
 ```text
 A clean, classic notebook cover: a black-and-white marble pattern with a white label box in the center for a name and subject, and a bright color stripe along the spine. Simple, sturdy and timeless, for students, teachers and anyone who needs a wide-ruled notebook. The back repeats the marble pattern.
@@ -68,7 +70,7 @@ A clean, classic notebook cover: a black-and-white marble pattern with a white l
 
 ## 3. Dream journal cover
 
-**Size:** 6 × 9 in · **Interior:** novel, 100 sheets · **InkChamps credits:** 2
+**Size:** 6 × 9 in · **Interior:** novel, 100 sheets · **Credits:** 2
 
 ```text
 A mysterious, dreamy cover for a dream journal: a crescent moon cradled in drifting clouds above a calm lake, with a small sailboat floating among reflected stars and a few glowing moths. Deep indigo, violet and silver, quiet and magical. The back continues the night sky. For adults and teens who record their dreams.

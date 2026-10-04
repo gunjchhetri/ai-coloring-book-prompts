@@ -1,5 +1,7 @@
 # Farm Animal Coloring Book Prompts: Cute Barnyard Pages
 
+<img src="../../assets/img/farm-animal-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Farm animals are often the very first animals a toddler learns to name, which makes a farm animal coloring book a perfect first coloring book and a dependable KDP seller. Parents buy them for road trips and rainy days, and preschool teachers use them alongside farm units. These prompts give you a cuddly barnyard book, a farm animal names book with a caption on every page, and a busy farm-life book for older kids.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=farm-animal-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Farm animals are often the very first animals a toddler learns to name, which ma
 
 ## 1. Barnyard babies for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Sweet baby farm animals on a sunny family farm: a fluffy chick peeking out of its egg, a piglet rolling in a mud puddle, a calf drinking from a bucket, a lamb hopping through clover, ducklings following their mother across the pond, a foal standing by the red barn, a bunny nibbling a carrot in the vegetable patch, a goat kid balancing on a hay bale, and kittens napping in the hayloft.
@@ -41,7 +43,7 @@ Sweet baby farm animals on a sunny family farm: a fluffy chick peeking out of it
 
 ## 2. 24 farm animals with names
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 24 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 24 Standard · 72 Premium
 
 ```text
 A farm animal names book, one animal per page with its name: cow, calf, horse, pony, donkey, pig, sheep, lamb, goat, llama, alpaca, chicken, rooster, chick, duck, goose, turkey, rabbit, barn cat, sheepdog, barn owl, field mouse, honeybee, frog.
@@ -75,7 +77,7 @@ A farm animal names book, one animal per page with its name: cow, calf, horse, p
 
 ## 3. Busy farm life for kids 6-9
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 A busy year on a family farm: a farmer driving a tractor through a cornfield, milking time in the dairy barn, sheep shearing day, a child collecting eggs from the hen house, an autumn pumpkin patch, a county fair with a prize pig and fluffy show rabbits, horses galloping in a paddock, a snowy barn at dawn, a farmers market stall piled with vegetables, and a hayride at sunset.

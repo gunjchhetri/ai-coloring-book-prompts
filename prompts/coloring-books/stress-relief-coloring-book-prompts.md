@@ -1,5 +1,7 @@
 # Stress Relief Coloring Book Prompts for Adults
 
+<img src="../../assets/img/stress-relief-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Stress relief coloring books sell all year to adults who want a quiet, screen-free way to slow down, and they are a steady gift choice for friends going through a hard time. These stress relief coloring book prompts focus on calming scenes and repeating patterns rather than slogans, so the pages feel peaceful instead of busy. A third prompt adapts the idea for tweens facing exam season.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=stress-relief-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Stress relief coloring books sell all year to adults who want a quiet, screen-fr
 
 ## 1. Calming nature scenes for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Anxiety motivation · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Anxiety motivation · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty peaceful scenes to slow down with: a still lake at dawn with a wooden dock, a log cabin among tall pines, a cup of tea and a candle on a rainy windowsill, a zen garden with raked sand and stones, a lotus pond with koi, a hammock between two palms, a mountain sunrise, a bonsai tree, a quiet forest stream, a lighthouse on a calm sea and a cat asleep in a sunbeam.
@@ -40,7 +42,7 @@ Forty peaceful scenes to slow down with: a still lake at dawn with a wooden dock
 
 ## 2. Soothing pattern pages for anxiety relief
 
-**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** Anxiety motivation · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 50 Standard · 150 Premium
+**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** Anxiety motivation · **Detail:** Hard · **Quality:** Premium · **Credits:** 50 Standard · 150 Premium
 
 ```text
 Fifty full-page flowing patterns to color slowly and mindfully: rolling ocean waves, overlapping fish scales, fern fronds unfurling, pebbles in a stream, woven basket lattices, spirals of leaves, clouds stacked like quilts, feathers in rows, bubbles, honeycomb, rippling sand dunes and garden paths of stepping stones, each page a different repeating pattern with no fixed focal point.
@@ -71,7 +73,7 @@ Fifty full-page flowing patterns to color slowly and mindfully: rolling ocean wa
 
 ## 3. Exam-season calm for tweens
 
-**Ages:** 9-13 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Anxiety motivation · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 9-13 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Anxiety motivation · **Detail:** Medium · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty calming pages for tweens who need a break from homework and tests: a cozy bed with a sleeping cat, a treehouse reading nook, a sloth napping in a hammock, an otter floating on its back, a hot-air balloon over soft hills, a starry sky from a tent, a garden swing, a jar of fireflies, a quiet beach at sunset and a bunny curled in a teacup.

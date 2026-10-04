@@ -1,5 +1,7 @@
 # Valentine's Day Coloring Book Prompts
 
+<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Valentine's Day coloring books are a quick, high-volume seasonal sale: parents add them to valentine baskets, teachers hand them out in class, and adults buy romantic pattern books for themselves or a partner. These Valentine's Day coloring book prompts keep the kids' books about friendship and kindness, and give adults hearts, roses and love birds in rich detail.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=valentines-day-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Valentine's Day coloring books are a quick, high-volume seasonal sale: parents a
 
 ## 1. Cute animals with hearts for toddlers
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty sweet Valentine pictures: a teddy bear hugging a big heart, two otters holding hands, a puppy with a heart balloon, a kitten in a basket of hearts, a heart-shaped cupcake, a penguin giving a flower, a bunny carrying a heart envelope, a llama with heart sunglasses, a ladybug with heart spots, a bee on a rose and a sloth hugging a heart pillow.
@@ -40,7 +42,7 @@ Thirty sweet Valentine pictures: a teddy bear hugging a big heart, two otters ho
 
 ## 2. Friendship valentines for the classroom
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 28 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 28 Standard · 84 Premium
 
 ```text
 Twenty-eight Valentine pages about friendship and kindness: kids making heart cards at a table, a classroom valentine mailbox, two friends sharing a sandwich, a heart-shaped kite, friends on a seesaw, baking heart cookies with grandma, a robot with a heart in its chest, a dinosaur giving flowers, a hot-air balloon of hearts and a picnic with heart sandwiches.
@@ -72,7 +74,7 @@ Twenty-eight Valentine pages about friendship and kindness: kids making heart ca
 
 ## 3. Romantic hearts and roses for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Inspirational · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Inspirational · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty romantic designs: heart mandalas, roses climbing a trellis, love birds on a branch, an antique locket and key, a hot-air balloon made of hearts over a city, a teacup overflowing with roses, a vintage bicycle with a flower basket, swans on a lake forming a heart, heart-shaped wreaths of peonies and a Paris-style café table for two.

@@ -1,5 +1,7 @@
 # Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy
 
+<img src="../../assets/img/halloween-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Halloween coloring books sell from September through October to parents, teachers and adults who love spooky-cozy style. These Halloween coloring book prompts keep everything friendly: smiling pumpkins for little ones, a trick-or-treat night for school-age kids, and a candlelit, witchy, spooky-cozy book for teens and adults. No gore, no scary faces, just the fun side of the season.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=halloween-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Halloween coloring books sell from September through October to parents, teacher
 
 ## 1. Spooky-cute Halloween for little kids
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty friendly Halloween pictures: a smiling jack-o'-lantern, a little ghost holding a lollipop, a black cat in a witch hat, a happy bat, a candy bucket full of treats, an owl on a crescent moon, a friendly monster with one tooth, a pumpkin patch, a scarecrow waving, a spider spinning a heart web, a mummy cat and a kid in a dinosaur costume.
@@ -41,7 +43,7 @@ Thirty friendly Halloween pictures: a smiling jack-o'-lantern, a little ghost ho
 
 ## 2. Trick-or-treat night adventure
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 32 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 32 Standard · 96 Premium
 
 ```text
 Thirty-two pages of a fun Halloween night: kids in costumes trick-or-treating door to door, a haunted house full of friendly ghosts, a monster dance party, a witch flying past a full moon, bobbing for apples, carving pumpkins at the kitchen table, a costume parade at school, a vampire bat sharing candy, a skeleton band playing music and a cozy candy swap in pajamas.
@@ -73,7 +75,7 @@ Thirty-two pages of a fun Halloween night: kids in costumes trick-or-treating do
 
 ## 3. Spooky-cozy witchy book for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty spooky-cozy scenes: a witch's cottage kitchen with bubbling cauldron and potion bottles, a candlelit reading nook with a black cat, a pumpkin patch at dusk, apothecary shelves of jars and dried herbs, a mushroom-ringed cabin in the woods, crows on a garden fence, a tea party for ghosts, a broom by the fireplace, a moonlit greenhouse and a porch stacked with pumpkins and lanterns.

@@ -1,5 +1,7 @@
 # Coloring Book Cover Prompts for Amazon KDP (Front, Spine & Back)
 
+<img src="../../assets/img/coloring-book-cover-prompts.webp" alt="Sample book cover page made with InkChamps" width="320" align="right">
+
 A coloring book cover has about one second to sell the book in an Amazon thumbnail, so the art has to show exactly what is inside. These coloring book cover prompts set up full KDP wraparound covers, front, spine and back, for a kids' animal book, an adult mandala book and a toddler dinosaur book. Enter your sheet count and InkChamps sizes the spine to match.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=coloring-book-cover-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A coloring book cover has about one second to sell the book in an Amazon thumbna
 
 ## 1. Cute animals coloring book cover for kids
 
-**Size:** 8.5 × 11 in · **Interior:** coloring book, 50 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** coloring book, 50 sheets · **Credits:** 2
 
 ```text
 A bright, happy front cover full of cute baby animals peeking out from a big flower meadow: a puppy, a kitten, a bunny, a fox cub, a panda and a duckling. Sunny yellow sky, rainbow accents and a playful title area at the top. The back repeats a few of the animals as small line-art previews. Cheerful, gift-ready, for kids ages 4-8.
@@ -38,7 +40,7 @@ A bright, happy front cover full of cute baby animals peeking out from a big flo
 
 ## 2. Adult mandala coloring book cover
 
-**Size:** 8.5 × 11 in · **Interior:** coloring book, 60 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** coloring book, 60 sheets · **Credits:** 2
 
 ```text
 An elegant cover for an adult mandala coloring book: one large, intricate mandala on the front, half colored in deep teal, gold and plum and half left as crisp black line art, so buyers see both the finished look and the pages to color. Dark navy background, calm and premium. The back shows two smaller mandala previews.
@@ -68,7 +70,7 @@ An elegant cover for an adult mandala coloring book: one large, intricate mandal
 
 ## 3. Toddler dinosaur coloring book cover
 
-**Size:** 8.5 × 11 in · **Interior:** coloring book, 40 sheets · **InkChamps credits:** 2
+**Size:** 8.5 × 11 in · **Interior:** coloring book, 40 sheets · **Credits:** 2
 
 ```text
 A chunky, simple cover for toddlers: three big smiling dinosaurs, a green brachiosaurus, an orange triceratops and a blue baby T. rex, standing together in front of a gentle volcano and palm trees. Bold shapes, soft rounded lines, bright primary colors and lots of empty space for a large title. Friendly, never scary, for ages 2-4.

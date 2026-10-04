@@ -1,5 +1,7 @@
 # Good Habits & Manners Coloring Book Prompts for Kids
 
+<img src="../../assets/img/good-habits-manners-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Good habits coloring books turn daily routines and manners into something children want to do, which is why parents, preschool teachers and homeschoolers keep buying them. These good habits and manners coloring book prompts list one habit per page, each shown as a clear picture of a child doing it, with the habit as a caption. Choose daily routines for toddlers, everyday manners for kids or responsibility habits for tweens.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=good-habits-manners-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Good habits coloring books turn daily routines and manners into something childr
 
 ## 1. Daily routines for toddlers
 
-**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 16 Standard · 48 Premium
+**Ages:** 3-6 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
 
 ```text
 A good habits book, one habit per page, each showing a happy child doing it: brushing teeth, washing hands, bath time (a child in pajamas with a towel and a rubber duck), getting dressed by myself, making my bed, eating vegetables, drinking water, tidying up toys, putting on my shoes, using the potty (a proud, fully dressed child standing next to it), combing my hair, putting dirty clothes in the basket, eating breakfast, wearing a sun hat, buckling my seat belt, going to bed on time.
@@ -41,7 +43,7 @@ A good habits book, one habit per page, each showing a happy child doing it: bru
 
 ## 2. Everyday manners at home and school
 
-**Ages:** 6-9 · **Pages:** 18 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 18 Standard · 54 Premium
+**Ages:** 6-9 · **Pages:** 18 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 18 Standard · 54 Premium
 
 ```text
 A manners book, one good manner per page, each showing kids practising it at home or at school: saying please, saying thank you, sharing toys, taking turns, waiting in line, saying sorry, holding the door, using an indoor voice, covering a cough or sneeze, listening when others talk, raising my hand in class, saying hello to a new friend, chewing with my mouth closed, asking before borrowing, helping someone who fell, cleaning up after snack time, being gentle with pets, including a friend in a game.
@@ -73,7 +75,7 @@ A manners book, one good manner per page, each showing kids practising it at hom
 
 ## 3. Responsibility habits for tweens
 
-**Ages:** 9-13 · **Pages:** 20 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 20 Standard · 60 Premium
+**Ages:** 9-13 · **Pages:** 20 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 20 Standard · 60 Premium
 
 ```text
 A responsibility habits book, one habit per page, each showing a tween doing it in a real setting: feeding the pet, packing my school bag, helping cook dinner, sorting the recycling, saving coins in a jar, reading every day, doing homework before play, exercising outdoors, turning off lights, watering the plants, folding laundry, keeping my room tidy, setting an alarm, taking a screen break, helping a younger sibling, planting a garden, wearing a bike helmet, writing a to-do list, packing a healthy lunch, getting enough sleep.

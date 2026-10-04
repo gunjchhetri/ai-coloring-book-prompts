@@ -1,5 +1,7 @@
 # Space Adventure Story Coloring Book Prompts
 
+<img src="../../assets/img/space-adventure-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 A space adventure story coloring book turns the solar system into a journey: each page is a new planet, a moon or a starry rescue. These prompts give curious kids a reason to learn that Saturn has rings and Mars has dust storms while following a hero home. They suit space-mad children, teachers adding a story to a science unit and KDP sellers in the space niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-adventure-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A space adventure story coloring book turns the solar system into a journey: eac
 
 ## 1. Little Rocket's birthday delivery
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Universe space · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Universe space · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Zip, a small round rocket with a red nose cone and porthole eyes, has an important job: deliver a birthday cake to the Moon. He blasts off past the clouds, waves to a satellite, dodges a sleepy comet, bounces through a sprinkle of shooting stars and loops around a smiling space station. The cake wobbles but never falls. On the Moon, the moon mice are throwing a party, and they share the cake with Zip before he zooms home to bed.
@@ -40,7 +42,7 @@ Zip, a small round rocket with a red nose cone and porthole eyes, has an importa
 
 ## 2. Captain Ada and the lost star
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Quality:** Standard · **InkChamps credits:** 60 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Quality:** Standard · **Credits:** 60 Standard · 90 Premium
 
 ```text
 Ada, a girl in a silver helmet two sizes too big, finds a tiny fallen star glowing in her backyard. With her dog Comet in his own fishbowl helmet, she builds a cardboard rocket to take it home. They pass the cratered Moon, crawl through a Mars dust storm, ask Jupiter's great storm for directions and skate on Saturn's icy rings. At the edge of the sky they find the empty gap in a constellation. Ada puts the star back, and the constellation now looks just like Comet.
@@ -72,7 +74,7 @@ Ada, a girl in a silver helmet two sizes too big, finds a tiny fallen star glowi
 
 ## 3. Space station kids and the last seed
 
-**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Quality:** Standard · **InkChamps credits:** 72 Standard · 108 Premium
+**Ages:** 9-13 · **Pages:** 36 · **Size:** 8.5 × 11 in · **Style:** Universe space · **Quality:** Standard · **Credits:** 72 Standard · 108 Premium
 
 ```text
 Ravi and Jo are the only two kids living on Halcyon, a ring-shaped space station orbiting Earth. They float to school, eat from pouches and tend the station greenhouse. When a solar storm knocks out the greenhouse lights, every plant wilts except one tomato seedling. The two of them rewire a lamp from spare parts, take turns watching it through the night shift and hand-pollinate its first flower. The book ends with the whole crew sharing one small red tomato as Earth rises in the window.

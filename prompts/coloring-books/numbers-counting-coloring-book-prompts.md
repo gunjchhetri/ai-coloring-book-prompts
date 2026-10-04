@@ -1,5 +1,7 @@
 # Numbers & Counting Coloring Book Prompts for Kids
 
+<img src="../../assets/img/numbers-counting-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Counting coloring books help toddlers and preschoolers link a number to an amount, and they are a staple for parents, preschool teachers and homeschoolers. These numbers coloring book prompts list every number with the objects to count, so each page shows one number and exactly that many things to color. Pick a toddler 1 to 10 book, a classic 1 to 20 book or a 1 to 30 garden challenge.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=numbers-counting-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Counting coloring books help toddlers and preschoolers link a number to an amoun
 
 ## 1. Count 1 to 10 on the farm
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
 
 ```text
 A counting book on the farm, one number per page showing the number and exactly that many big friendly things to count: 1 cow, 2 pigs, 3 sheep, 4 hens, 5 chicks, 6 ducks, 7 bunnies, 8 eggs, 9 carrots, 10 pumpkins.
@@ -41,7 +43,7 @@ A counting book on the farm, one number per page showing the number and exactly 
 
 ## 2. Count 1 to 20 everyday things
 
-**Ages:** 3-6 · **Pages:** 20 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 20 Standard · 60 Premium
+**Ages:** 3-6 · **Pages:** 20 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 20 Standard · 60 Premium
 
 ```text
 A counting book from 1 to 20, one number per page showing the number and exactly that many objects: 1 sun, 2 owls, 3 ladybugs, 4 apples, 5 ducks, 6 balloons, 7 fish, 8 stars, 9 cupcakes, 10 butterflies, 11 strawberries, 12 seashells, 13 snails, 14 leaves, 15 bubbles, 16 buttons, 17 raindrops, 18 cookies, 19 flowers, 20 marbles.
@@ -73,7 +75,7 @@ A counting book from 1 to 20, one number per page showing the number and exactly
 
 ## 3. Count 1 to 30 in the garden
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 A garden counting book from 1 to 30, one number per page with the number and exactly that many things in a garden scene: 1 snail, 2 worms, 3 bees, 4 tulips, 5 ladybugs, 6 acorns, 7 mushrooms, 8 butterflies, 9 pebbles, 10 carrots, 11 peas, 12 daisies, 13 ants, 14 radishes, 15 seeds, 16 apples, 17 leaves, 18 strawberries, 19 cherries, 20 raindrops, 21 clover, 22 berries, 23 dewdrops, 24 blossoms, 25 fireflies, 26 petals, 27 beans, 28 grapes, 29 dots on a mushroom, 30 stars.

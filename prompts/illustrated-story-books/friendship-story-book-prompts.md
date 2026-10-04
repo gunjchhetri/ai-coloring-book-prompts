@@ -1,5 +1,7 @@
 # Friendship Story Book Prompts for Children's Picture Books
 
+<img src="../../assets/img/friendship-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 Friendship stories are the backbone of children's picture books: two characters who don't fit together, a problem, and the moment they realise they need each other. These prompts give InkChamps an odd couple and a turning point, and it writes and illustrates the book. They work for parents talking about making friends, teachers covering social skills and KDP sellers who want evergreen themes.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=friendship-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Friendship stories are the backbone of children's picture books: two characters 
 
 ## 1. Pebble the tortoise and Dabble the duckling
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Pebble, a careful tortoise with a moss-green shell, and Dabble, a splashy yellow duckling with one wonky feather, disagree about everything. Pebble likes slow walks; Dabble likes to race. Pebble likes quiet; Dabble quacks all day. When a storm floods the meadow, Dabble can swim but can't find the way home, and Pebble knows every path but can't swim. Dabble paddles while Pebble rides on her back and gives directions. They get home together, and decide being different is the best part.
@@ -41,7 +43,7 @@ Pebble, a careful tortoise with a moss-green shell, and Dabble, a splashy yellow
 
 ## 2. Cog the clock-shop robot
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Cog, a small rusty robot with one wobbly wheel and a lightbulb antenna, lives alone in a dusty clock-repair shop after the old clockmaker retires. He builds friends out of springs and gears: a teapot dog, a pocket-watch bird, a toaster with a smile. But none of them can talk back. Then Nell, a girl with a toolbox and orange overalls, comes in looking for spare parts. She fixes Cog's wheel; he helps her finish her go-kart. Cog learns a friend isn't something you build. It's someone who listens and helps.
@@ -74,7 +76,7 @@ Cog, a small rusty robot with one wobbly wheel and a lightbulb antenna, lives al
 
 ## 3. Mateo and Hana's balcony pulley
 
-**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Colored pencil · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 64 Standard · 96 Premium
+**Ages:** 6-9 · **Pages:** 32 · **Size:** 8.5 × 11 in · **Style:** Colored pencil · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 64 Standard · 96 Premium
 
 ```text
 Mateo, a boy with round glasses, lives on a fourth-floor balcony across a narrow street from Hana, a new girl with a red hair clip who doesn't speak his language yet. One day Mateo strings a rope between the balconies and sends over a drawing in a basket. Hana sends one back. All spring they trade pictures, snacks and paper boats, learning each other's words. When they finally meet at the bakery downstairs, they're too shy to talk, so they draw together on a napkin.

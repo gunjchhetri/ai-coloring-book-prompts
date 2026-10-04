@@ -1,5 +1,7 @@
 # Ocean Animal Coloring Book Prompts: Sea Creatures & Coral Reefs
 
+<img src="../../assets/img/ocean-animal-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Sea creatures work for every age, from a toddler's first smiling whale to an adult colorist's intricate jellyfish mandala. Ocean coloring books sell steadily on KDP and Etsy in summer and as beach-trip gifts, and teachers use them for ocean units. These ocean animal coloring book prompts cover a gentle under-the-sea book, a reef-to-deep-sea explorer book, and a premium ocean mandala collection.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=ocean-animal-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Sea creatures work for every age, from a toddler's first smiling whale to an adu
 
 ## 1. Under-the-sea friends for little kids
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Smiling sea creatures in a sunny ocean: a baby whale spouting water, a sea turtle swimming past swaying seaweed, a clownfish peeking out of an anemone, a crab building a sandcastle, an octopus juggling seashells, a jellyfish floating among bubbles, a seahorse family, a starfish sunbathing on a rock, a dolphin leaping over a wave, and a pufferfish puffed up in surprise.
@@ -41,7 +43,7 @@ Smiling sea creatures in a sunny ocean: a baby whale spouting water, a sea turtl
 
 ## 2. Coral reef to deep sea explorer
 
-**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Explore every layer of the ocean: a bright coral reef crowded with angelfish, parrotfish and a reef shark, a sea turtle resting in seagrass, a diver meeting a manta ray, sea otters floating in a kelp forest, a humpback whale and her calf, a glowing anglerfish in the dark deep sea, a giant squid beside a little submarine, a sunken ship with treasure chests, and hermit crabs swapping shells in a tide pool.
@@ -74,7 +76,7 @@ Explore every layer of the ocean: a bright coral reef crowded with angelfish, pa
 
 ## 3. Ocean mandalas for adults
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala sea · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala sea · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Intricate patterned sea life for slow, relaxing coloring: a sea turtle whose shell is a web of interlocking designs, a whale filled with waves and swirls, a jellyfish with lace-like trailing tentacles, an octopus wrapped around a round mandala, seahorses framed by branching coral, a school of patterned fish forming a circle, nautilus shells, starfish and sand dollars arranged into medallions, and a manta ray gliding over an ornamental reef.

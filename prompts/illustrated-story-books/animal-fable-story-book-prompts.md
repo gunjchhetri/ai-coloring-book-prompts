@@ -1,5 +1,7 @@
 # Animal Fable Story Book Prompts with a Moral
 
+<img src="../../assets/img/animal-fable-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+
 Fables use animals to teach one clear lesson, which is why they have lasted for thousands of years. These are original fables, not retellings, each with a memorable animal, a mistake, a consequence and a moral children can say in one line. They suit homeschoolers and teachers covering character education, parents who want stories with values and KDP sellers looking for a fresh fable series.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=animal-fable-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Fables use animals to teach one clear lesson, which is why they have lasted for 
 
 ## 1. Nutmeg the squirrel who hid too much
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Paper cut-out collage · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Paper cut-out collage · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Nutmeg, a red squirrel with a bushy tail, gathers far more acorns than she needs and buries them all over the wood, refusing to share with the mice and the jays. When winter comes she can't remember where she hid any of them, and she goes hungry. The mice she turned away share their seeds with her. In spring, Nutmeg gives her leftover acorns to the mice to plant, and oak saplings sprout across the wood, enough for everyone. Moral: what you give away comes back to you, and grows.
@@ -41,7 +43,7 @@ Nutmeg, a red squirrel with a bushy tail, gathers far more acorns than she needs
 
 ## 2. Rufus the fox and the echo
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Colored pencil · **Layout:** Text page left, picture right · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Colored pencil · **Layout:** Text page left, picture right · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Rufus, a boastful young fox with a white-tipped tail, shouts into a canyon, You're slow and silly! The canyon shouts it right back. Furious, Rufus thinks another fox is mocking him and shouts even ruder things, until he's hoarse and sad. Old Sorrel, a grey owl, tells him to try kind words instead. Rufus calls out, You're a good friend! and hears it come back. He tries it on the rabbits and the badgers too. Moral: the words you send out are the words that come back.
@@ -74,7 +76,7 @@ Rufus, a boastful young fox with a white-tipped tail, shouts into a canyon, You'
 
 ## 3. Barley the beaver who built alone
 
-**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 6-9 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** 2D hand-drawn · **Layout:** Picture on top, text below · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Barley, a proud young beaver with a notched front tooth, wants to build the biggest dam on the river all by himself. When the otters, muskrats and ducks offer help, he says no. His dam goes up fast, but it's thin, and the first spring storm washes it away. Barley is ashamed, but his neighbors come anyway. The otters roll stones, the muskrats pack mud, the ducks weave reeds, and the new dam holds through the next storm. Moral: many paws make strong work.

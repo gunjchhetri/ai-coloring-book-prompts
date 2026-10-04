@@ -1,5 +1,7 @@
 # Flower & Botanical Coloring Book Prompts
 
+<img src="../../assets/img/flower-botanical-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+
 Flower coloring books are a perennial bestseller: gardeners, nature lovers and adult colorists buy them year-round, and they sell especially well around Mother's Day and spring. These flower and botanical coloring book prompts include a premium vintage botanical edition, a relaxing bouquets-and-gardens book, and a cheerful easy book for kids.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=flower-botanical-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ Flower coloring books are a perennial bestseller: gardeners, nature lovers and a
 
 ## 1. Vintage botanical studies for adults
 
-**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Quality:** Premium · **InkChamps credits:** 50 Standard · 150 Premium
+**Ages:** 13+ · **Pages:** 50 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Quality:** Premium · **Credits:** 50 Standard · 150 Premium
 
 ```text
 Fifty detailed botanical studies in the style of an old herbarium: a peony in full bloom with buds, a magnolia branch, bearded iris, foxgloves, a fern frond unrolling, lily of the valley, a sunflower head with seeds, poppies with seed pods, a rose stem, wild orchids, a lavender bundle, a passionflower, a sprig of olive and a cluster of hydrangea, each with leaves, stems and roots.
@@ -40,7 +42,7 @@ Fifty detailed botanical studies in the style of an old herbarium: a peony in fu
 
 ## 2. Bouquets, wreaths and garden corners
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **InkChamps credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
 Forty relaxing floral pages: a bouquet of roses in a jug, a wildflower meadow with butterflies, a garden arch covered in climbing roses, a watering can spilling daisies, a tulip field with a windmill, a wreath of peonies and eucalyptus, a potting bench with seedlings, a teapot full of pansies, a window box of geraniums, a basket of cut flowers and a hummingbird at honeysuckle.
@@ -71,7 +73,7 @@ Forty relaxing floral pages: a bouquet of roses in a jug, a wildflower meadow wi
 
 ## 3. Happy flowers for kids
 
-**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **InkChamps credits:** 30 Standard · 90 Premium
+**Ages:** 6-9 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
 
 ```text
 Thirty bright flower pages for kids: a giant sunflower taller than a fence, tulips in a pot, a daisy chain, a ladybug on a rose, bees visiting lavender, a butterfly on a zinnia, a watering can and seed packets, a flower crown, a cactus with a pink bloom, a strawberry plant with flowers, a hummingbird at a trumpet flower and a garden path lined with pansies.

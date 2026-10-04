@@ -1,5 +1,7 @@
 # New Baby Sibling Story Coloring Book Prompts
 
+<img src="../../assets/img/story-coloring-books.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+
 A new baby sibling story coloring book gives an older child something of their own while the house fills up with baby things. These stories name the big feelings, waiting, jealousy and feeling left out, and end with the older child finding a job only they can do. They make a thoughtful hospital-bag gift and a steady seller for KDP and Etsy shops in the baby-shower niche.
 
 > **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
@@ -8,7 +10,7 @@ A new baby sibling story coloring book gives an older child something of their o
 
 ## 1. Big Sister Bea the elephant
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Bea, a young elephant with a pink bow on one ear, waits for her baby brother to arrive. She gathers soft leaves for his bed and practices gentle trunk hugs. When baby Kito comes, he cries all day and everyone is busy, and Bea feels forgotten. Grandpa Elephant shows her the old watering hole where she once took her first wobbly steps. Bea finds her special job: trumpeting a soft song that rocks Kito to sleep. She is the only one who can do it.
@@ -40,7 +42,7 @@ Bea, a young elephant with a pink bow on one ear, waits for her baby brother to 
 
 ## 2. Flurry the penguin waits for the egg
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Quality:** Standard · **InkChamps credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
 
 ```text
 Flurry, a little penguin with a fluffy grey coat, watches Papa balance a big egg on his feet all through the long, snowy winter. Flurry wants to play, but Papa must keep still. So Flurry brings Papa fish, tells him jokes, builds a snow wall against the wind and counts the stars beside him. One morning the egg goes crack, and out peeks a tiny chick. Flurry gently shows the chick the snow, the sea and the sky, and Papa calls him the best big brother on the ice.
@@ -72,7 +74,7 @@ Flurry, a little penguin with a fluffy grey coat, watches Papa balance a big egg
 
 ## 3. Leo becomes a big brother
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **InkChamps credits:** 56 Standard · 84 Premium
+**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
 
 ```text
 Leo, a freckled boy in a dinosaur T-shirt, helps paint the nursery and picks a toy giraffe for the baby. When baby Mila arrives, everyone coos over her, and Leo feels invisible. He makes a list of everything he can do that Mila can't: ride a bike, whistle, build a tall tower. Then Mom tells him love doesn't get cut in half when a baby comes; it grows, like a garden. On the last page Leo reads his favorite book to Mila, and she grabs his finger.
