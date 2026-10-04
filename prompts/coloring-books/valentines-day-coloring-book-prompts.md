@@ -1,10 +1,8 @@
-# Valentine's Day Coloring Book Prompts
+# Valentine's Day Coloring Book: prompts
 
-<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/coloring-books.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Valentine's Day coloring books are a quick, high-volume seasonal sale: parents add them to valentine baskets, teachers hand them out in class, and adults buy romantic pattern books for themselves or a partner. These Valentine's Day coloring book prompts keep the kids' books about friendship and kindness, and give adults hearts, roses and love birds in rich detail.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=valentines-day-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/valentines-day/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Cute animals with hearts for toddlers](#1-cute-animals-with-hearts-for-toddlers) · [Friendship valentines for the classroom](#2-friendship-valentines-for-the-classroom) · [Romantic hearts and roses for adults](#3-romantic-hearts-and-roses-for-adults)
 
@@ -17,8 +15,6 @@ Thirty sweet Valentine pictures: a teddy bear hugging a big heart, two otters ho
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20sweet%20Valentine%20pictures%3A%20a%20teddy%20bear%20hugging%20a%20big%20heart%2C%20two%20otters%20holding%20hands%2C%20a%20puppy%20with%20a%20heart%20balloon%2C%20a%20kitten%20in%20a%20basket%20of%20hearts%2C%20a%20heart-shaped%20cupcake%2C%20a%20penguin%20giving%20a%20flower%2C%20a%20bunny%20carrying%20a%20heart%20envelope%2C%20a%20llama%20with%20heart%20sunglasses%2C%20a%20ladybug%20with%20heart%20spots%2C%20a%20bee%20on%20a%20rose%20and%20a%20sloth%20hugging%20a%20heart%20pillow.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=valentines-day-coloring-book-prompts-1)
-
-*Why it works:* Parents fill valentine baskets with toddler coloring books, and cute animal pairs are the bestselling subject in this niche.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Twenty-eight Valentine pages about friendship and kindness: kids making heart ca
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Twenty-eight%20Valentine%20pages%20about%20friendship%20and%20kindness%3A%20kids%20making%20heart%20cards%20at%20a%20table%2C%20a%20classroom%20valentine%20mailbox%2C%20two%20friends%20sharing%20a%20sandwich%2C%20a%20heart-shaped%20kite%2C%20friends%20on%20a%20seesaw%2C%20baking%20heart%20cookies%20with%20grandma%2C%20a%20robot%20with%20a%20heart%20in%20its%20chest%2C%20a%20dinosaur%20giving%20flowers%2C%20a%20hot-air%20balloon%20of%20hearts%20and%20a%20picnic%20with%20heart%20sandwiches.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=valentines-day-coloring-book-prompts-2)
 
-*Why it works:* Teachers and parents want an inclusive Valentine's book about friendship rather than romance, ideal for class parties.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -82,8 +76,6 @@ Forty romantic designs: heart mandalas, roses climbing a trellis, love birds on 
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20romantic%20designs%3A%20heart%20mandalas%2C%20roses%20climbing%20a%20trellis%2C%20love%20birds%20on%20a%20branch%2C%20an%20antique%20locket%20and%20key%2C%20a%20hot-air%20balloon%20made%20of%20hearts%20over%20a%20city%2C%20a%20teacup%20overflowing%20with%20roses%2C%20a%20vintage%20bicycle%20with%20a%20flower%20basket%2C%20swans%20on%20a%20lake%20forming%20a%20heart%2C%20heart-shaped%20wreaths%20of%20peonies%20and%20a%20Paris-style%20caf%C3%A9%20table%20for%20two.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=valentines-day-coloring-book-prompts-3)
 
-*Why it works:* Adult colorists and couples buy romantic pattern books as Valentine gifts, and hearts and roses are evergreen searches.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -104,12 +96,6 @@ Forty romantic designs: heart mandalas, roses climbing a trellis, love birds on 
 
 </details>
 
-## Tips for valentine's day coloring book
-
-- For kids, frame Valentine's Day around friendship and kindness; it suits classrooms and every family.
-- Animal pairs (bears hugging, otters holding hands) are the most popular kids' Valentine subjects.
-- Publish in early January; the sales window closes on February 14.
-
 ## More prompts like these
 
 - [Autumn & Thanksgiving Coloring Book Prompts](autumn-thanksgiving-coloring-book-prompts.md)
@@ -121,4 +107,4 @@ Forty romantic designs: heart mandalas, roses climbing a trellis, love birds on 
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/valentines-day-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/valentines-day/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

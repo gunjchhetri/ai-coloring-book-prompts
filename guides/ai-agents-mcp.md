@@ -40,7 +40,7 @@ Tell your agent, for example:
 
 ```text
 Use the InkChamps MCP server to make the "Friendly dinosaurs for preschoolers" book from
-https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/dinosaur-coloring-book-prompts/
+https://inkchamps.com/prompts/coloring-books/dinosaur/
 Check my credits first, then place the order and send me the PDF link when it is done.
 ```
 

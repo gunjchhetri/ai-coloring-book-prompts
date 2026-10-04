@@ -1,10 +1,8 @@
-# Bedtime Story Coloring Book Prompts for Calm Evenings
+# Bedtime Story Coloring Book: prompts
 
-<img src="../../assets/img/bedtime-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/bedtime-story-coloring-book-prompts.webp" alt="Sample story coloring book page made with InkChamps" width="280" align="right">
 
-A bedtime story coloring book gives the last quiet half hour of the day a shape: color a page, read its line, turn to the next. These prompts are slow, soft stories that wind down instead of winding up, with sleepy animals, darkening towns and dreams that end safely back in bed. They suit parents building a bedtime routine and KDP sellers looking for an evergreen gift niche.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bedtime-story-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/story-coloring-books/bedtime/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Oswin the owl tucks in the forest](#1-oswin-the-owl-tucks-in-the-forest) · [Goodnight, Little Town](#2-goodnight-little-town) · [The Dream Kite](#3-the-dream-kite)
 
@@ -17,8 +15,6 @@ Oswin, a young owl with round spectacles and a tiny lantern, flies through the f
 ```
 
 [**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Oswin%2C%20a%20young%20owl%20with%20round%20spectacles%20and%20a%20tiny%20lantern%2C%20flies%20through%20the%20forest%20at%20dusk%20to%20say%20goodnight%20to%20everyone.%20He%20tucks%20the%20rabbits%20under%20the%20hedge%2C%20sings%20to%20the%20ducklings%20on%20the%20pond%2C%20finds%20the%20badger%27s%20lost%20pillow%2C%20helps%20the%20fireflies%20dim%20their%20lights%2C%20counts%20the%20sheep%20in%20the%20meadow%2C%20hums%20to%20the%20deer%20under%20the%20pines%20and%20pulls%20a%20leaf%20blanket%20over%20the%20hedgehog.%20Each%20friend%20yawns%20and%20settles.%20At%20last%20Oswin%20yawns%20too%2C%20and%20his%20mother%20wraps%20him%20in%20her%20wing%20in%20their%20hollow%20tree.%20A%20gentle%2C%20repetitive%20goodnight%20story%20that%20ends%20in%20sleep.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bedtime-story-coloring-book-prompts-1)
-
-*Why it works:* Parents of toddlers get a predictable, soothing pattern of one goodnight per page that works as part of a nightly routine.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Mae, a little girl with two puffy braids and star pajamas, watches from her bedr
 
 [**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Mae%2C%20a%20little%20girl%20with%20two%20puffy%20braids%20and%20star%20pajamas%2C%20watches%20from%20her%20bedroom%20window%20as%20her%20town%20gets%20ready%20for%20night.%20The%20baker%20pulls%20out%20the%20last%20loaf%2C%20the%20bus%20driver%20parks%20the%20big%20red%20bus%2C%20the%20crane%20lowers%20its%20long%20arm%2C%20the%20fire%20engine%20rests%20in%20its%20station%2C%20the%20lighthouse%20switches%20on%20and%20the%20cat%20curls%20up%20on%20the%20bakery%20step.%20Mae%20waves%20goodnight%20to%20each%20one.%20Finally%20her%20dad%20switches%20off%20her%20lamp%20and%20the%20whole%20town%2C%20and%20Mae%2C%20is%20asleep.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bedtime-story-coloring-book-prompts-2)
 
-*Why it works:* Vehicle-loving preschoolers color trucks and cranes while the story quietly steers them toward sleep, which parents and KDP buyers both want.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -82,8 +76,6 @@ Theo, a boy in striped pajamas, finds a paper kite on his windowsill that lifts 
 
 [**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Theo%2C%20a%20boy%20in%20striped%20pajamas%2C%20finds%20a%20paper%20kite%20on%20his%20windowsill%20that%20lifts%20him%20into%20his%20dreams.%20He%20visits%20a%20bakery%20inside%20a%20cloud%2C%20rides%20a%20sleepy%20whale%20who%20hums%20lullabies%2C%20borrows%20a%20book%20from%20a%20library%20on%20the%20moon%20and%20drifts%20through%20a%20meadow%20of%20glowing%20dandelions.%20Each%20dream%20is%20softer%20and%20slower%20than%20the%20last.%20As%20the%20sky%20turns%20pink%2C%20the%20kite%20lowers%20Theo%20back%20into%20his%20bed%2C%20and%20he%20finds%20a%20dandelion%20seed%20on%20his%20pillow.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bedtime-story-coloring-book-prompts-3)
 
-*Why it works:* Early readers enjoy a dreamy adventure with richer scenes to color, and the safe return home makes it a reliable bedtime pick for parents.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -104,12 +96,6 @@ Theo, a boy in striped pajamas, finds a paper kite on his windowsill that lifts 
 
 </details>
 
-## Tips for bedtime story coloring book
-
-- Make the story get quieter as it goes: busy scenes early, stillness and closed eyes by the last pages.
-- End with the child (or the hero) safely in bed, so the book closes the same way bedtime does.
-- KDP paperbacks need at least 24 pages, so keep home-print versions shorter and KDP versions at 24 or more.
-
 ## More prompts like these
 
 - [First Day of School Story Coloring Book Prompts](first-day-of-school-story-coloring-book-prompts.md)
@@ -121,4 +107,4 @@ Theo, a boy in striped pajamas, finds a paper kite on his windowsill that lifts 
 
 ---
 
-[All story coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/story-coloring-books/bedtime-story-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All story coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/story-coloring-books/bedtime/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

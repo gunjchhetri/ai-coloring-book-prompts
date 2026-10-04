@@ -14,7 +14,9 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "assets" / "img"
 SOURCE = ROOT.parent / "ui" / "public"
 
-# key -> source path under ui/public
+# key -> source path under ui/public. A theme with no matching picture is left
+# out and shows its kind of book's sample instead; an off-theme picture (a fish
+# for mermaids) is worse than a general one.
 IMAGES = {
     # home
     "home-coloring": "hero-gallery/rabbit-coloring-page.webp",
@@ -40,8 +42,6 @@ IMAGES = {
     "space-coloring-book-prompts": "generated/coloringbook-astronaut-dog.webp",
     "vehicle-coloring-book-prompts": "kids_coloring/jcb.png",
     "princess-castle-coloring-book-prompts": "generated/coloring-story-knight-dragon.webp",
-    "mermaid-coloring-book-prompts": "hero-gallery/fish-coloring-page.webp",
-    "robot-coloring-book-prompts": "generated/coloringbook-monster-parade.webp",
     "kawaii-food-coloring-book-prompts": "category-previews/food-coloring-pages.webp",
     "mandala-coloring-book-prompts": "generated/generator-mandala.png",
     "animal-mandala-coloring-book-prompts": "hero-gallery/mandala-crab-coloring-page.webp",
@@ -71,7 +71,6 @@ IMAGES = {
     "bravery-overcoming-fears-story-book-prompts": "generated/childrensbook-rocket-adventure.png",
     "first-day-of-school-story-book-prompts": "generated/illustrativestorybook-kitten-school.webp",
     "animal-fable-story-book-prompts": "generated/illustrativestorybook-enchanted-forest.webp",
-    "personalized-birthday-story-book-prompts": "generated/illustrativestorybook-paper-airplane.webp",
     "kindness-and-sharing-story-book-prompts": "generated/illustrativestorybook-puppy-city.webp",
     # activity books
     "preschool-workbook-prompts": "generated/activitybook-tracing-letters.webp",
@@ -88,7 +87,6 @@ IMAGES = {
     "solar-system-coloring-book-prompts": "generated/teachers-solar-system.png",
     "water-cycle-weather-coloring-book-prompts": "generated/educational-coloring-water-cycle.webp",
     "bees-and-pollinators-coloring-book-prompts": "generated/educational-coloring-bees.webp",
-    "volcanoes-earth-science-coloring-book-prompts": "generated/educational-coloring-glacier.webp",
     "world-cultures-landmarks-coloring-book-prompts": "generated/teachers-world-map.png",
     # covers
     "coloring-book-cover-prompts": "cover_illustration.png",

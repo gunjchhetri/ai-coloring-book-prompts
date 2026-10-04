@@ -1,10 +1,8 @@
-# Space Coloring Book Prompts: Planets, Astronauts & Aliens
+# Space Coloring Book: prompts
 
-<img src="../../assets/img/space-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/space-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Space coloring books blend wonder with learning: rockets, planets, astronauts and friendly aliens capture kids' imaginations and give parents a reason to talk about science. They sell well on KDP as gifts for curious kids and to homeschoolers studying the solar system. These space coloring book prompts give you a first-space book for toddlers, a solar system book with every object named, and an alien-world adventure for tweens.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/space/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [First trip to space for toddlers](#1-first-trip-to-space-for-toddlers) · [Solar system and space book](#2-solar-system-and-space-book) · [Alien worlds adventure for tweens](#3-alien-worlds-adventure-for-tweens)
 
@@ -17,8 +15,6 @@ A friendly first trip to space: a smiling rocket blasting off, a child astronaut
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20friendly%20first%20trip%20to%20space%3A%20a%20smiling%20rocket%20blasting%20off%2C%20a%20child%20astronaut%20waving%20from%20the%20moon%2C%20a%20happy%20sun%20next%20to%20a%20sleepy%20moon%2C%20a%20ringed%20planet%20with%20a%20big%20grin%2C%20a%20little%20alien%20saying%20hello%20from%20a%20round%20spaceship%2C%20a%20puppy%20in%20a%20space%20helmet%2C%20twinkling%20stars%20around%20a%20crescent%20moon%2C%20an%20astronaut%20floating%20beside%20a%20satellite%2C%20a%20comet%20with%20a%20long%20tail%2C%20and%20a%20picnic%20in%20a%20moon%20crater.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-coloring-book-prompts-1)
-
-*Why it works:* Parents of rocket-loving preschoolers want a cheerful space book with simple, bold shapes and friendly characters.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ A space book, one subject per page with its name: the Sun, Mercury, Venus, Earth
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20space%20book%2C%20one%20subject%20per%20page%20with%20its%20name%3A%20the%20Sun%2C%20Mercury%2C%20Venus%2C%20Earth%2C%20the%20Moon%2C%20Mars%2C%20Jupiter%2C%20Saturn%2C%20Uranus%2C%20Neptune%2C%20Pluto%20%28dwarf%20planet%29%2C%20an%20asteroid%2C%20a%20comet%2C%20a%20meteor%20shower%2C%20a%20galaxy%2C%20a%20nebula%2C%20a%20black%20hole%2C%20a%20constellation%2C%20an%20astronaut%20with%20plain%20mission%20patches%2C%20a%20rocket%2C%20a%20space%20station%2C%20a%20satellite%2C%20a%20Mars%20rover%2C%20a%20telescope.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-coloring-book-prompts-2)
-
-*Why it works:* Homeschoolers and teachers studying space want each planet and object named on its own page, so the book teaches as kids color.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -85,8 +79,6 @@ A space adventure across the galaxy: astronauts with plain mission patches build
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20space%20adventure%20across%20the%20galaxy%3A%20astronauts%20with%20plain%20mission%20patches%20building%20a%20base%20on%20Mars%2C%20a%20rover%20crossing%20red%20sand%20dunes%2C%20a%20spaceship%20docking%20at%20a%20giant%20space%20station%2C%20friendly%20aliens%20farming%20glowing%20plants%20on%20their%20home%20planet%2C%20a%20spacewalk%20high%20above%20Earth%2C%20a%20rocket%20launch%20in%20billowing%20smoke%2C%20a%20space%20whale%20swimming%20through%20a%20nebula%2C%20robots%20repairing%20a%20satellite%2C%20a%20domed%20city%20on%20the%20moon%2C%20and%20kids%20stargazing%20through%20a%20backyard%20telescope.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=space-coloring-book-prompts-3)
 
-*Why it works:* Science-loving tweens want detailed, imaginative space scenes, and KDP sellers find room in this older age band.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -108,12 +100,6 @@ A space adventure across the galaxy: astronauts with plain mission patches build
 
 </details>
 
-## Tips for space coloring book
-
-- A named solar system book (planets, comets, nebulas, rovers) ranks for educational keywords as well as coloring ones.
-- Friendly aliens and animals in space helmets keep a toddler space book playful instead of empty and dark.
-- For older kids, mix real space exploration with imagined alien worlds so the book appeals to both science fans and dreamers.
-
 ## More prompts like these
 
 - [Vehicle Coloring Book Prompts: Trucks, Diggers, Trains & Cars](vehicle-coloring-book-prompts.md)
@@ -125,4 +111,4 @@ A space adventure across the galaxy: astronauts with plain mission patches build
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/space-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/space/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

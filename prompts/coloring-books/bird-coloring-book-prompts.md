@@ -1,10 +1,8 @@
-# Bird Coloring Book Prompts: Cute Birds, Bird Names & Mandalas
+# Bird Coloring Book: prompts
 
-<img src="../../assets/img/bird-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/bird-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Birds are a quietly strong coloring niche: toddlers love owls, penguins and ducklings, nature-loving families want real backyard birds, and adult colorists adore peacocks and hummingbirds among flowers. Bird coloring books sell to parents, homeschoolers, birdwatchers and gift buyers. These bird coloring book prompts give you a cute baby-bird book, a bird names book with captions, and a floral bird mandala book for adults.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bird-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/bird/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Chubby baby birds for toddlers](#1-chubby-baby-birds-for-toddlers) · [24 birds of the world with names](#2-24-birds-of-the-world-with-names) · [Floral bird mandalas for adults](#3-floral-bird-mandalas-for-adults)
 
@@ -17,8 +15,6 @@ Chubby, smiling birds in gardens, ponds and seashores: an owlet peeking out of a
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Chubby%2C%20smiling%20birds%20in%20gardens%2C%20ponds%20and%20seashores%3A%20an%20owlet%20peeking%20out%20of%20a%20tree%20hollow%2C%20a%20robin%20tugging%20a%20worm%2C%20ducklings%20in%20a%20puddle%2C%20a%20penguin%20chick%20sliding%20on%20its%20belly%2C%20a%20parrot%20eating%20a%20slice%20of%20mango%2C%20baby%20chicks%20in%20a%20nest%20waiting%20for%20breakfast%2C%20a%20flamingo%20standing%20on%20one%20leg%2C%20a%20hummingbird%20at%20a%20flower%2C%20a%20puffin%20with%20a%20fish%2C%20and%20a%20toucan%20in%20a%20banana%20tree.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bird-coloring-book-prompts-1)
-
-*Why it works:* Parents of toddlers want gentle animal books beyond cats and dogs, and round, chubby birds are easy for small hands to color.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ A bird book, one bird per page with its name: robin, blue jay, cardinal, goldfin
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20bird%20book%2C%20one%20bird%20per%20page%20with%20its%20name%3A%20robin%2C%20blue%20jay%2C%20cardinal%2C%20goldfinch%2C%20chickadee%2C%20woodpecker%2C%20hummingbird%2C%20barn%20owl%2C%20bald%20eagle%2C%20peacock%2C%20flamingo%2C%20pelican%2C%20puffin%2C%20emperor%20penguin%2C%20ostrich%2C%20toucan%2C%20scarlet%20macaw%2C%20swan%2C%20mallard%20duck%2C%20kingfisher%2C%20red-tailed%20hawk%2C%20crow%2C%20heron%2C%20cockatoo.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bird-coloring-book-prompts-2)
-
-*Why it works:* Homeschoolers and young birdwatchers get a coloring book and a field guide in one, with every bird named.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -85,8 +79,6 @@ Birds among intricate flowers and patterns: a peacock with a fan of ornate feath
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Birds%20among%20intricate%20flowers%20and%20patterns%3A%20a%20peacock%20with%20a%20fan%20of%20ornate%20feathers%2C%20an%20owl%20on%20a%20branch%20of%20patterned%20leaves%2C%20hummingbirds%20sipping%20from%20hibiscus%2C%20a%20pair%20of%20lovebirds%20inside%20a%20heart%20of%20roses%2C%20a%20heron%20in%20a%20lotus%20pond%2C%20a%20cardinal%20on%20a%20snowy%20berry%20branch%2C%20swallows%20circling%20a%20round%20mandala%2C%20a%20kingfisher%20above%20patterned%20water%2C%20and%20an%20open%20birdcage%20overflowing%20with%20vines%20and%20blossoms.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bird-coloring-book-prompts-3)
 
-*Why it works:* Adult colorists and bird lovers buy elegant bird-and-flower designs for relaxation, a gift-friendly niche with less competition than cats.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -108,12 +100,6 @@ Birds among intricate flowers and patterns: a peacock with a fan of ornate feath
 
 </details>
 
-## Tips for bird coloring book
-
-- A named-bird book works for homeschool nature studies and young birdwatchers; mix backyard birds with exotic favourites like toucans and flamingos.
-- Owls are the single most popular bird for coloring, so give them a page or two in every bird book.
-- For adults, pair birds with flowers (hummingbirds with hibiscus, herons with lotus) to cross into the botanical coloring market.
-
 ## More prompts like these
 
 - [Bug & Insect Coloring Book Prompts for Kids and Adults](bug-insect-coloring-book-prompts.md)
@@ -125,4 +111,4 @@ Birds among intricate flowers and patterns: a peacock with a fan of ornate feath
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/bird-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/bird/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

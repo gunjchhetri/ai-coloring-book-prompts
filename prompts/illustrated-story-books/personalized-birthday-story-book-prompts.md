@@ -1,10 +1,8 @@
-# Personalized Birthday Story Book Prompts for Custom Kids' Books
+# Personalized Birthday Story Book: prompts
 
-<img src="../../assets/img/personalized-birthday-story-book-prompts.webp" alt="Sample illustrated story book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/illustrated-story-books.webp" alt="Sample illustrated story book page made with InkChamps" width="280" align="right">
 
-A personalized birthday story book puts the birthday child at the centre of their own adventure, and it is one of the best-selling custom gifts on Etsy, often priced between $20 and $60. Each prompt below uses [Name] and [age] placeholders: replace them with the child's details before ordering. Etsy sellers can run one prompt for every order, and parents can make a one-of-a-kind present in minutes.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=personalized-birthday-story-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/illustrated-story-books/personalized-birthday/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [[Name]'s birthday parade](#1-names-birthday-parade) · [[Name]'s birthday trip through space](#2-names-birthday-trip-through-space) · [[Name]'s magic treasure map](#3-names-magic-treasure-map)
 
@@ -17,8 +15,6 @@ On the morning [Name] turns [age], a marching band of animals arrives at the fro
 ```
 
 [**▶ Make this illustrated story book on InkChamps**](https://inkchamps.com/dashboard/?tool=illustrative-story-book&prompt=On%20the%20morning%20%5BName%5D%20turns%20%5Bage%5D%2C%20a%20marching%20band%20of%20animals%20arrives%20at%20the%20front%20door.%20A%20lion%20plays%20the%20drum%2C%20a%20giraffe%20carries%20balloons%20and%20a%20tiny%20mouse%20waves%20a%20birthday%20flag.%20They%20lead%20%5BName%5D%20through%20the%20town%2C%20and%20at%20every%20stop%20a%20new%20animal%20joins%20with%20a%20present%2C%20one%20for%20each%20year%2C%20until%20there%20are%20%5Bage%5D%20gifts%20in%20all.%20The%20parade%20ends%20at%20the%20park%2C%20where%20a%20giant%20cake%20waits%20and%20everyone%20sings%20Happy%20Birthday%20to%20%5BName%5D.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=personalized-birthday-story-book-prompts-1)
-
-*Why it works:* Etsy sellers get a simple, joyful template for toddler and preschool birthdays that works for any name and age.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -51,8 +47,6 @@ The night before [Name] turns [age], a small silver rocket lands in the backyard
 
 [**▶ Make this illustrated story book on InkChamps**](https://inkchamps.com/dashboard/?tool=illustrative-story-book&prompt=The%20night%20before%20%5BName%5D%20turns%20%5Bage%5D%2C%20a%20small%20silver%20rocket%20lands%20in%20the%20backyard%20with%20a%20note%3A%20Birthday%20Captain%20wanted.%20%5BName%5D%20climbs%20aboard%20and%20flies%20through%20the%20solar%20system%2C%20and%20every%20planet%20has%20a%20surprise%3A%20Mars%20throws%20a%20dust-glitter%20party%2C%20Saturn%20lends%20its%20rings%20for%20a%20hula-hoop%20contest%2C%20Jupiter%20bakes%20a%20storm-swirl%20cake.%20At%20the%20last%20star%2C%20the%20constellations%20form%20%5BName%5D%27s%20favorite%20animal.%20%5BName%5D%20lands%20home%20just%20in%20time%20to%20blow%20out%20%5Bage%5D%20candles.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=personalized-birthday-story-book-prompts-2)
 
-*Why it works:* A premium keepsake that Etsy shops can price at the top of the $20-60 range for a big birthday.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -84,8 +78,6 @@ On [Name]'s birthday a rolled-up map appears under the pillow, marked with a big
 
 [**▶ Make this illustrated story book on InkChamps**](https://inkchamps.com/dashboard/?tool=illustrative-story-book&prompt=On%20%5BName%5D%27s%20birthday%20a%20rolled-up%20map%20appears%20under%20the%20pillow%2C%20marked%20with%20a%20big%20gold%20X.%20Following%20the%20clues%2C%20%5BName%5D%20finds%20the%20backyard%20turned%20into%20a%20jungle%2C%20the%20bathtub%20into%20a%20pirate%20ship%20and%20the%20garden%20shed%20into%20a%20dragon%27s%20cave%20guarded%20by%20a%20friendly%20green%20dragon.%20Each%20stop%20gives%20a%20clue%20and%20a%20key%2C%20and%20the%20friends%20and%20family%20%5BName%5D%20loves%20join%20the%20hunt.%20The%20last%20key%20opens%20a%20chest%20with%20a%20birthday%20crown%20and%20a%20note%3A%20Happy%20Birthday%2C%20%5BName%5D%21%20You%20are%20%5Bage%5D%21&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=personalized-birthday-story-book-prompts-3)
 
-*Why it works:* An adventure-style personalized book for kids aged 6-9 who feel too old for baby books, a strong Etsy upsell.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -107,12 +99,6 @@ On [Name]'s birthday a rolled-up map appears under the pillow, marked with a big
 
 </details>
 
-## Tips for personalized birthday story book
-
-- Replace every [Name] and [age] before ordering; add a pet, sibling or favorite color to make it feel truly custom.
-- Build the story so the number of gifts or stops matches the child's age; buyers love that detail.
-- Etsy buyers pay more for a premium print: offer a hardcover-style square book alongside the standard one.
-
 ## More prompts like these
 
 - [Kindness and Sharing Story Book Prompts for Kids](kindness-and-sharing-story-book-prompts.md)
@@ -124,4 +110,4 @@ On [Name]'s birthday a rolled-up map appears under the pillow, marked with a big
 
 ---
 
-[All illustrated children's story books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/illustrated-story-books/personalized-birthday-story-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All illustrated children's story books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/illustrated-story-books/personalized-birthday/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

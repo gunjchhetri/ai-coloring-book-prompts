@@ -8,6 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: the build dates pages by the last commit to data/.
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -16,4 +19,4 @@ jobs:
       - name: Generated files are up to date
         run: |
           python3 tools/build.py
-          git diff --exit-code -- prompts README.md prompts.json llms.txt || (echo "Run python3 tools/build.py and commit the result." && exit 1)
+          git diff --exit-code -- prompts README.md prompts.json library.json llms.txt || (echo "Run python3 tools/build.py and commit the result." && exit 1)

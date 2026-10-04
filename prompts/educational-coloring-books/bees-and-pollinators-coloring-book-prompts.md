@@ -1,10 +1,8 @@
-# Bees and Pollinators Coloring Book Prompts for Kids
+# Bees and Pollinators Coloring Book: prompts
 
-<img src="../../assets/img/bees-and-pollinators-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/bees-and-pollinators-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-Bees and pollinators are a spring science favorite, and kids are amazed to learn that many fruits need an insect's visit to grow. These prompts cover a honeybee's day for preschoolers, the many kinds of pollinators for 6 to 9 year olds and life inside a honeybee colony for older kids. Every fact is short and true.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/bees-and-pollinators/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [A busy bee's day for preschoolers](#1-a-busy-bees-day-for-preschoolers) · [Pollinators and the food we eat](#2-pollinators-and-the-food-we-eat) · [Inside the honeybee colony for ages 9-13](#3-inside-the-honeybee-colony-for-ages-9-13)
 
@@ -17,8 +15,6 @@ A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in
 ```
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=A%20honeybee%27s%20busy%20day%2C%20one%20idea%20per%20page%3A%201.%20A%20honeybee%20flies%20out%20of%20the%20hive%20in%20the%20morning.%202.%20She%20lands%20on%20a%20flower.%203.%20She%20sips%20sweet%20nectar.%204.%20Yellow%20pollen%20sticks%20to%20her%20fuzzy%20body.%205.%20She%20carries%20pollen%20to%20the%20next%20flower.%206.%20That%20helps%20the%20flower%20make%20seeds%20and%20fruit%2C%20like%20apples%20and%20strawberries.%207.%20She%20flies%20home%20to%20the%20hive.%208.%20Bees%20build%20honeycomb%20with%20six-sided%20cells.%209.%20Bees%20turn%20nectar%20into%20honey.%2010.%20The%20queen%20bee%20lays%20eggs%20that%20grow%20into%20new%20bees.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-1)
-
-*Why it works:* Preschool teachers doing a spring insect unit want a friendly bee story with one clear idea per page, and it eases kids' fear of bees. Its short length is great for home printing.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -47,8 +43,6 @@ Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Ho
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Meet%20the%20pollinators%20and%20the%20foods%20they%20help%20grow%3A%201.%20What%20pollination%20is.%202.%20Honeybees.%203.%20Bumblebees%20can%20buzz%20pollen%20loose%20from%20tomato%20flowers.%204.%20Butterflies.%205.%20Moths%20visit%20flowers%20at%20night.%206.%20Hummingbirds%20drink%20nectar%20from%20tube-shaped%20flowers.%207.%20Some%20bats%20pollinate%20agave%20and%20banana%20flowers.%208.%20Beetles.%209.%20Flies.%2010.%20Wind%20carries%20pollen%20for%20corn%20and%20grasses.%2011.%20Apples%2C%20strawberries%20and%20pumpkins%20need%20pollinators.%2012.%20Almonds%20need%20bees.%2013.%20Plant%20a%20pollinator%20garden.%2014.%20Leave%20clover%20and%20dandelions%20for%20the%20bees.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-2)
 
-*Why it works:* Grade 1-3 teachers love a pollinator unit that links insects to lunchbox food, and it makes a strong Earth Day or spring science book. Its short length is great for home printing.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -76,8 +70,6 @@ Life inside a honeybee colony: 1. A colony has one queen, many workers and some 
 
 [**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Life%20inside%20a%20honeybee%20colony%3A%201.%20A%20colony%20has%20one%20queen%2C%20many%20workers%20and%20some%20drones.%202.%20The%20queen%20lays%20up%20to%201%2C500%20eggs%20a%20day.%203.%20Egg.%204.%20Larva.%205.%20Pupa.%206.%20Adult%20bee.%207.%20Young%20workers%20clean%20cells.%208.%20Nurse%20bees%20feed%20larvae.%209.%20Builders%20make%20wax%20comb.%2010.%20Guards%20protect%20the%20entrance.%2011.%20Foragers%20collect%20nectar%20and%20pollen.%2012.%20Pollen%20baskets%20on%20the%20back%20legs.%2013.%20The%20waggle%20dance%20shows%20where%20flowers%20are.%2014.%20Bees%20fan%20nectar%20to%20dry%20it%20into%20honey.%2015.%20Solitary%20bees%20like%20mason%20bees.%2016.%20Threats%20to%20bees%20and%20how%20to%20help.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-3)
 
-*Why it works:* Homeschoolers and middle-grade science teachers get a full honeybee biology unit, from metamorphosis to the waggle dance, in one book. Its short length is great for home printing.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -95,12 +87,6 @@ Life inside a honeybee colony: 1. A colony has one queen, many workers and some 
 
 </details>
 
-## Tips for bees and pollinators coloring book
-
-- Show the pollen on the bee's fuzzy body; it is the picture that makes pollination click for kids.
-- Include non-bee pollinators like bats, moths and hummingbirds; teachers love the surprise.
-- End with something kids can do, like planting flowers bees like.
-
 ## More prompts like these
 
 - [Volcano and Earth Science Coloring Book Prompts for Kids](volcanoes-earth-science-coloring-book-prompts.md)
@@ -112,4 +98,4 @@ Life inside a honeybee colony: 1. A colony has one queen, many workers and some 
 
 ---
 
-[All educational coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/educational-coloring-books/bees-and-pollinators-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All educational coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/educational-coloring-books/bees-and-pollinators/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

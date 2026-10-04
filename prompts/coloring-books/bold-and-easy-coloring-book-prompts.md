@@ -1,10 +1,8 @@
-# Bold and Easy Coloring Book Prompts for Adults & Seniors
+# Bold and Easy Coloring Book: prompts
 
-<img src="../../assets/img/bold-and-easy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/bold-and-easy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Bold and easy coloring books have big, simple shapes and large areas to fill, which makes them a top seller for adults who want quick relaxation, seniors, people with low vision and anyone using markers. These bold and easy coloring book prompts give you an everyday-objects book, a nostalgic set for seniors and a set of cute animals, each with one clear subject per page.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bold-and-easy-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/bold-and-easy/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Bold and easy everyday things](#1-bold-and-easy-everyday-things) · [Nostalgic bold and easy pages for seniors](#2-nostalgic-bold-and-easy-pages-for-seniors) · [Bold and easy cute animals](#3-bold-and-easy-cute-animals)
 
@@ -17,8 +15,6 @@ Fifty simple, bold pages of everyday favourites: a teacup with a saucer, a cupca
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Fifty%20simple%2C%20bold%20pages%20of%20everyday%20favourites%3A%20a%20teacup%20with%20a%20saucer%2C%20a%20cupcake%20with%20a%20cherry%2C%20a%20potted%20cactus%2C%20a%20sneaker%2C%20a%20vintage%20camera%2C%20a%20sunflower%20in%20a%20jar%2C%20a%20little%20house%20with%20a%20picket%20fence%2C%20a%20bicycle%2C%20a%20slice%20of%20pizza%2C%20a%20record%20player%2C%20a%20pair%20of%20mittens%2C%20a%20snail%20on%20a%20mushroom%2C%20a%20watering%20can%20and%20a%20cozy%20armchair%20with%20a%20cat%2C%20one%20large%20subject%20per%20page.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bold-and-easy-coloring-book-prompts-1)
-
-*Why it works:* Adults who want quick, satisfying sessions with markers make bold and easy one of the best-selling KDP formats right now.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Thirty large, simple pictures of familiar, happy things for seniors: a classic c
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty%20large%2C%20simple%20pictures%20of%20familiar%2C%20happy%20things%20for%20seniors%3A%20a%20classic%20car%20from%20the%20fifties%2C%20a%20robin%20on%20a%20branch%2C%20a%20pie%20cooling%20on%20a%20windowsill%2C%20a%20sailboat%20on%20the%20water%2C%20a%20red%20barn%20with%20a%20rooster%2C%20a%20sewing%20basket%2C%20a%20rotary%20telephone%2C%20a%20garden%20of%20tulips%2C%20a%20front%20porch%20with%20a%20rocking%20chair%2C%20a%20kitten%20with%20a%20ball%20of%20yarn%20and%20a%20picnic%20basket.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bold-and-easy-coloring-book-prompts-2)
 
-*Why it works:* Families, care homes and activity coordinators buy large-print, nostalgic books for seniors and people living with dementia; recognisable subjects spark conversation.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -81,8 +75,6 @@ Forty big, simple cute animals for relaxed coloring: a round chubby cat, a sleep
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20big%2C%20simple%20cute%20animals%20for%20relaxed%20coloring%3A%20a%20round%20chubby%20cat%2C%20a%20sleepy%20panda%2C%20a%20smiling%20whale%2C%20a%20hedgehog%20with%20an%20apple%2C%20a%20penguin%20in%20a%20scarf%2C%20a%20sloth%20hugging%20a%20branch%2C%20an%20owl%20on%20a%20moon%2C%20a%20bunny%20in%20a%20teacup%2C%20a%20fox%20curled%20up%20asleep%2C%20a%20turtle%20with%20a%20flower%20on%20its%20shell%20and%20a%20puppy%20in%20a%20basket%2C%20each%20one%20large%20and%20centred%20on%20the%20page.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bold-and-easy-coloring-book-prompts-3)
 
-*Why it works:* Adults and teens who like cute subjects but want fast, low-effort pages buy bold and easy animal books as quick wins and gifts.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -102,12 +94,6 @@ Forty big, simple cute animals for relaxed coloring: a round chubby cat, a sleep
 
 </details>
 
-## Tips for bold and easy coloring book
-
-- Keep to one main subject per page; a teacup or a cactus with a few props reads better than a crowded scene.
-- Choose familiar, friendly objects; recognisable subjects are what make bold and easy books relaxing.
-- Market the book for alcohol markers and gel pens; big areas suit them and that is how buyers search.
-
 ## More prompts like these
 
 - [Flower & Botanical Coloring Book Prompts](flower-botanical-coloring-book-prompts.md)
@@ -119,4 +105,4 @@ Forty big, simple cute animals for relaxed coloring: a round chubby cat, a sleep
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/bold-and-easy-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/bold-and-easy/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

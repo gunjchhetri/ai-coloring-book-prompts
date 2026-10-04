@@ -1,10 +1,8 @@
-# Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes
+# Cozy Coloring Book: prompts
 
-<img src="../../assets/img/cozy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/cozy-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Cozy coloring books are one of the hottest niches on Amazon KDP right now: warm interiors, rainy windows, steaming mugs and little shops full of charm. Adults and teens buy them to feel calm and at home, and they make easy gifts. These cozy coloring book prompts cover hygge home life, cottagecore countryside and a sweet set of animal-run cafés and shops.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=cozy-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/cozy/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Hygge home moments for adults](#1-hygge-home-moments-for-adults) · [Cottagecore countryside](#2-cottagecore-countryside) · [Cozy animal cafés and little shops](#3-cozy-animal-cafs-and-little-shops)
 
@@ -17,8 +15,6 @@ Forty cozy indoor scenes: a reading nook with a knitted blanket and a sleeping c
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20cozy%20indoor%20scenes%3A%20a%20reading%20nook%20with%20a%20knitted%20blanket%20and%20a%20sleeping%20cat%2C%20a%20kitchen%20with%20bread%20cooling%20on%20the%20counter%2C%20socks%20warming%20by%20a%20wood%20stove%2C%20a%20bathtub%20with%20candles%20and%20plants%2C%20a%20bedroom%20with%20string%20lights%20and%20stacked%20books%2C%20a%20rainy%20window%20with%20tea%20and%20cookies%2C%20a%20sunroom%20full%20of%20houseplants%2C%20a%20pantry%20of%20jars%2C%20a%20window%20seat%20in%20snowfall%20and%20a%20cluttered%20craft%20table%20with%20yarn.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=cozy-coloring-book-prompts-1)
-
-*Why it works:* Adult colorists who love the hygge aesthetic are one of the fastest-growing KDP audiences, and detailed interiors are exactly what they search for.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ Forty cottagecore pages of slow country life: a thatched cottage with roses over
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20cottagecore%20pages%20of%20slow%20country%20life%3A%20a%20thatched%20cottage%20with%20roses%20over%20the%20door%2C%20a%20garden%20gate%20and%20vegetable%20beds%2C%20a%20picnic%20basket%20on%20a%20quilt%20by%20a%20stream%2C%20beehives%20in%20a%20meadow%2C%20a%20farmers%20market%20stall%20of%20jams%20and%20bread%2C%20sheep%20grazing%20near%20a%20stone%20wall%2C%20mushroom%20foraging%20in%20a%20mossy%20wood%2C%20a%20village%20bakery%2C%20a%20greenhouse%2C%20a%20washing%20line%20in%20the%20breeze%20and%20a%20bicycle%20with%20a%20flower%20basket.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=cozy-coloring-book-prompts-2)
 
-*Why it works:* Teens and adults drawn to the cottagecore look want countryside charm, a strong-selling cousin of the cozy niche on KDP and Etsy.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -81,8 +75,6 @@ Thirty-six charming little shops run by animals: a hedgehog bakery with cinnamon
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Thirty-six%20charming%20little%20shops%20run%20by%20animals%3A%20a%20hedgehog%20bakery%20with%20cinnamon%20rolls%2C%20a%20bear%20caf%C3%A9%20pouring%20hot%20cocoa%2C%20a%20cat%20bookshop%20with%20cushions%20in%20the%20window%2C%20a%20rabbit%20flower%20shop%2C%20a%20fox%20tea%20house%2C%20a%20raccoon%20antique%20store%2C%20an%20otter%20ice-cream%20parlour%2C%20a%20mouse%20cheese%20shop%2C%20a%20frog%20plant%20nursery%2C%20a%20panda%20noodle%20bar%20and%20a%20badger%20yarn%20store%2C%20each%20shown%20inside%20or%20at%20its%20front%20door%20on%20a%20rainy%20evening.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=cozy-coloring-book-prompts-3)
 
-*Why it works:* Tweens, teens and adults who love the cute-cozy look buy animal-shop books in volume, and an original cast keeps the book safe to sell.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -102,12 +94,6 @@ Thirty-six charming little shops run by animals: a hedgehog bakery with cinnamon
 
 </details>
 
-## Tips for cozy coloring book
-
-- Fill each room with small comforting objects (blankets, teapots, plants, books, string lights); the clutter is the charm.
-- Mix seasons and weather (rainy, snowy, autumn, spring) to keep a cozy book varied across 40 pages.
-- Animal shopkeepers and cafés give the book a character hook buyers remember, without leaning on any famous brand.
-
 ## More prompts like these
 
 - [Bold and Easy Coloring Book Prompts for Adults & Seniors](bold-and-easy-coloring-book-prompts.md)
@@ -119,4 +105,4 @@ Thirty-six charming little shops run by animals: a hedgehog bakery with cinnamon
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/cozy-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/cozy/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)

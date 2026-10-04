@@ -1,10 +1,8 @@
-# Bug & Insect Coloring Book Prompts for Kids and Adults
+# Bug & Insect Coloring Book: prompts
 
-<img src="../../assets/img/bug-insect-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="320" align="right">
+<img src="../../assets/img/bug-insect-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-Bugs fascinate young children, and a bug coloring book turns that curiosity into hours of quiet coloring. Parents buy insect books for garden-loving kids, teachers use them for minibeast units, and adult colorists love ornate butterflies and beetles. These bug and insect coloring book prompts cover a friendly garden-bug book, a minibeast names book with a caption on every page, and a richly detailed butterfly and beetle collection.
-
-> **Make any of these in one click.** Each prompt opens in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bug-insect-coloring-book-prompts), the AI book maker that turns a brief into a print-ready PDF for Amazon KDP, Etsy or home printing. Or copy the brief into any AI tool you like.
+3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/bug-insect/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
 **Prompts on this page:** [Friendly garden bugs](#1-friendly-garden-bugs) · [24 bugs and minibeasts with names](#2-24-bugs-and-minibeasts-with-names) · [Butterflies, moths and beetles for adults](#3-butterflies-moths-and-beetles-for-adults)
 
@@ -17,8 +15,6 @@ Smiling little bugs in a sunny garden: a ladybug on a strawberry, a bumblebee bu
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Smiling%20little%20bugs%20in%20a%20sunny%20garden%3A%20a%20ladybug%20on%20a%20strawberry%2C%20a%20bumblebee%20buzzing%20around%20a%20sunflower%2C%20a%20caterpillar%20munching%20a%20leaf%2C%20a%20snail%20climbing%20a%20mushroom%2C%20a%20butterfly%20landing%20on%20a%20daisy%2C%20an%20ant%20carrying%20a%20crumb%20of%20bread%2C%20a%20firefly%20glowing%20at%20dusk%2C%20a%20dragonfly%20over%20a%20lily%20pond%2C%20a%20grasshopper%20hopping%20through%20tall%20grass%2C%20and%20a%20spider%20waving%20from%20a%20dewy%20web.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bug-insect-coloring-book-prompts-1)
-
-*Why it works:* Parents of bug-hunting preschoolers want friendly insects with big shapes, and it pairs with spring garden play.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,8 +46,6 @@ A bugs and minibeasts book, one creature per page with its name: honeybee, bumbl
 ```
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20bugs%20and%20minibeasts%20book%2C%20one%20creature%20per%20page%20with%20its%20name%3A%20honeybee%2C%20bumblebee%2C%20ladybug%2C%20monarch%20butterfly%2C%20luna%20moth%2C%20dragonfly%2C%20grasshopper%2C%20cricket%2C%20praying%20mantis%2C%20ant%2C%20firefly%2C%20stag%20beetle%2C%20rhinoceros%20beetle%2C%20caterpillar%2C%20stick%20insect%2C%20cicada%2C%20water%20strider%2C%20dung%20beetle%2C%20termite%2C%20weevil%2C%20wasp%2C%20earwig%2C%20jewel%20beetle%2C%20garden%20spider.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bug-insect-coloring-book-prompts-2)
-
-*Why it works:* Teachers and homeschoolers running a minibeast unit get a named insect on every page, and curious kids learn the real names.
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -85,8 +79,6 @@ Butterflies, moths and beetles in rich decorative detail: a monarch with pattern
 
 [**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Butterflies%2C%20moths%20and%20beetles%20in%20rich%20decorative%20detail%3A%20a%20monarch%20with%20patterned%20wings%20over%20milkweed%2C%20a%20luna%20moth%20beneath%20a%20full%20moon%2C%20a%20swallowtail%20in%20a%20garden%20of%20foxgloves%2C%20jewel%20beetles%20arranged%20like%20a%20vintage%20collector%27s%20display%2C%20a%20dragonfly%20over%20water%20lilies%2C%20a%20bee%20on%20honeycomb%20among%20flowers%2C%20butterflies%20forming%20a%20round%20wreath%2C%20a%20moth%20with%20lace-like%20wings%2C%20and%20a%20stag%20beetle%20on%20an%20oak%20branch%20with%20acorns.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bug-insect-coloring-book-prompts-3)
 
-*Why it works:* Adult colorists love symmetrical, ornate butterflies and beetles, and the vintage-naturalist look sells well as a gift.
-
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
 ```json
@@ -108,12 +100,6 @@ Butterflies, moths and beetles in rich decorative detail: a monarch with pattern
 
 </details>
 
-## Tips for bug & insect coloring book
-
-- Spring and early summer are peak months for bug books, when classrooms run minibeast and life-cycle units.
-- Give toddler bugs friendly faces and simple props (a ladybug on a strawberry) so the book never feels creepy.
-- Butterflies and beetles are naturally symmetrical, which makes them excellent subjects for detailed adult pages.
-
 ## More prompts like these
 
 - [Space Coloring Book Prompts: Planets, Astronauts & Aliens](space-coloring-book-prompts.md)
@@ -125,4 +111,4 @@ Butterflies, moths and beetles in rich decorative detail: a monarch with pattern
 
 ---
 
-[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [Browse on the website](https://gunjchhetri.github.io/ai-coloring-book-prompts/coloring-books/bug-insect-coloring-book-prompts/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
+[All coloring books prompts](README.md) · [Every prompt in the library](../../README.md) · [This page on InkChamps](https://inkchamps.com/prompts/coloring-books/bug-insect/) · Prompts licensed [CC BY 4.0](../../LICENSE) by [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=footer)
