@@ -391,6 +391,7 @@ p{margin:0}
 .hero{padding:clamp(40px,6vw,88px) 0 clamp(40px,5vw,72px);display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(32px,5vw,72px);align-items:center}
 .hero h1 .accent{color:oklch(59% 0.2 31)}
 .hero .lead{margin-top:20px}
+.disclosure{margin-top:12px;font-size:.9rem;color:var(--ink-2)}
 .hero .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:32px}
 .facts{display:flex;flex-wrap:wrap;gap:8px 22px;margin:28px 0 0;padding:0;list-style:none;color:var(--ink-2);font-size:.92rem}
 .facts b{color:var(--ink);font-weight:600}
@@ -662,7 +663,7 @@ def html_prompt_page(category, page, pages):
     parts = [f"""<section class="wrap page-hero">
 <div><h1>{esc(page['title'])}</h1><p class="lead">{esc(page['intro'])}</p>
 <ul class="chips">{''.join(f'<li>{esc(c)}</li>' for c in chips)}</ul>
-<div class="howto"><span>Copy a brief into any AI tool, or open it in InkChamps already filled in.</span></div></div>
+<div class="howto"><span>Made by the InkChamps team. Copy a brief into any AI tool, or open it in InkChamps already filled in.</span></div></div>
 <div class="frame">{img_tag(src, f"Sample {meta['singular']} page made with InkChamps", up, eager=True)}</div>
 </section>""", '<section class="wrap prompts" aria-label="Prompts">']
     items = []
@@ -676,7 +677,7 @@ def html_prompt_page(category, page, pages):
 <div class="brief"><div class="brief-bar"><span>Brief</span><button class="copy" type="button">Copy</button></div><p>{esc(main_text(category, prompt))}</p></div>
 {f'<p class="extra"><b>Extra direction:</b> {esc(extra)}</p>' if extra else ''}
 <p class="why"><b>Why it works.</b> {esc(prompt['why'])}</p>
-<div class="actions"><a class="btn btn-primary" href="{esc(link)}">Make this {esc(meta['singular'])} <span class="arrow" aria-hidden="true">→</span></a></div>
+<div class="actions"><a class="btn btn-primary" href="{esc(link)}" rel="nofollow">Make this {esc(meta['singular'])} <span class="arrow" aria-hidden="true">→</span></a></div>
 <details class="agent"><summary>Exact settings for AI agents (InkChamps MCP)</summary><pre>{esc(json.dumps(mcp_call(category, prompt), indent=2, ensure_ascii=False))}</pre></details>
 </div>
 </article>""")
@@ -687,7 +688,6 @@ def html_prompt_page(category, page, pages):
     parts.append(f'<section class="wrap section"><div class="section-head"><h2>More {esc(meta["label"].lower())} prompts</h2>'
                  f'<a class="more" href="../">All {esc(meta["label"].lower())} <span class="arrow" aria-hidden="true">→</span></a></div>'
                  '<div class="tiles">' + "".join(tile(category, p, up) for p in related(pages, page["slug"], 4)) + "</div></section>")
-    parts.append(band(source=f"band-{page['slug']}"))
     jsonld = [{
         "@context": "https://schema.org", "@type": "ItemList", "name": page["title"],
         "description": page["metaDescription"], "numberOfItems": len(items), "itemListElement": items,
@@ -728,6 +728,7 @@ def html_home(data):
 <div>
 <h1>AI coloring book prompts that become <span class="accent">finished books</span></h1>
 <p class="lead">{total} tested briefs for coloring books, story books, activity books, educational books and KDP covers. Copy one into any AI tool, or open it in InkChamps and download a print-ready PDF.</p>
+<p class="disclosure">Made by the team behind InkChamps. The prompts are free to use anywhere, with or without it.</p>
 <div class="actions"><a class="btn btn-primary" href="#kinds">Browse the prompts <span class="arrow" aria-hidden="true">↓</span></a><a class="btn btn-ghost" href="{inkchamps_link('github_pages', 'home-hero')}">Make a book on InkChamps</a></div>
 <ul class="facts"><li><b>{total}</b> prompts</li><li><b>{themes}</b> themes</li><li>Ages <b>3 to adult</b></li><li>Free, <b>CC BY 4.0</b></li></ul>
 </div>
