@@ -2,7 +2,7 @@
 
 > 231 free, validated AI prompts for coloring books, story coloring books, illustrated children's picture books, activity books (mazes, word search, sudoku, tracing), educational coloring books and Amazon KDP covers. Each prompt is a brief with age band, page count, page size and style, and opens in InkChamps (https://inkchamps.com) with one click to make a print-ready PDF.
 
-Browse: https://inkchamps.com/prompts/ · Full data with exact InkChamps order settings: https://gunjchhetri.github.io/ai-coloring-book-prompts/prompts.json
+Browse: https://inkchamps.com/prompts/ · Full data with exact InkChamps order settings: https://raw.githubusercontent.com/gunjchhetri/ai-coloring-book-prompts/main/prompts.json
 
 ## Coloring Books
 - [Dinosaur Coloring Book Prompts for Kids & KDP](https://inkchamps.com/prompts/coloring-books/dinosaur/): Copy-ready dinosaur coloring book prompts for toddlers, kids and KDP sellers: friendly T-rexes, fossil digs and a dino ABC, ready to print as a PDF.
@@ -95,6 +95,6 @@ Browse: https://inkchamps.com/prompts/ · Full data with exact InkChamps order s
 
 ## Guides
 - [How to use these prompts](https://inkchamps.com/prompts/)
-- [Make a Gemini Gem or custom GPT that writes book prompts](https://gunjchhetri.github.io/ai-coloring-book-prompts/guides/gemini-gem-and-custom-gpt/)
+- [Make a Gemini Gem or custom GPT that writes book prompts](https://github.com/gunjchhetri/ai-coloring-book-prompts/blob/main/guides/gemini-gem-and-custom-gpt.md)
 - [Order books from Claude, Cursor and other AI agents (MCP)](https://inkchamps.com/blog/how-to-automate-coloring-book-creation-with-inkchamps-mcp/)
 - [Can you sell AI coloring books on Amazon KDP?](https://inkchamps.com/blog/sell-ai-generated-coloring-books-amazon/)
