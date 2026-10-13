@@ -101,7 +101,7 @@ Forty boho celestial mandalas for tweens: crescent moons inside rings of stars, 
 - [Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes](cozy-coloring-book-prompts.md)
 - [Bold and Easy Coloring Book Prompts for Adults & Seniors](bold-and-easy-coloring-book-prompts.md)
 - [Flower & Botanical Coloring Book Prompts](flower-botanical-coloring-book-prompts.md)
-- [Christmas Coloring Book Prompts for Kids & Adults](christmas-coloring-book-prompts.md)
+- [Christmas Coloring Book Prompts & Coloring Page Prompts for Kids](christmas-coloring-book-prompts.md)
 
 ---
 

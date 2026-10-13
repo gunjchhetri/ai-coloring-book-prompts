@@ -4,13 +4,13 @@
 
 | Theme | Prompts | Ages |
 |---|---|---|
-| [Bedtime Story Book Prompts for AI Picture Books](bedtime-story-book-prompts.md) | 3 | 3-6, 6-9 |
-| [Friendship Story Book Prompts for Children's Picture Books](friendship-story-book-prompts.md) | 3 | 3-6, 6-9 |
+| [Bedtime Story Prompts for Kids: AI Picture Book Ideas](bedtime-story-book-prompts.md) | 3 | 3-6, 6-9 |
+| [Friendship Story Prompts for Kids' Picture Books](friendship-story-book-prompts.md) | 3 | 3-6, 6-9 |
 | [Bravery Story Book Prompts: Picture Books About Overcoming Fears](bravery-overcoming-fears-story-book-prompts.md) | 3 | 3-6, 6-9 |
 | [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md) | 3 | 3-6 |
 | [First Day of School Story Book Prompts for Picture Books](first-day-of-school-story-book-prompts.md) | 3 | 3-6, 6-9 |
 | [New Baby Sibling Story Book Prompts for Big Brothers and Sisters](new-baby-sibling-story-book-prompts.md) | 3 | 3-6, 6-9 |
-| [Dragon Story Book Prompts for AI Children's Books](dragon-story-book-prompts.md) | 3 | 3-6, 6-9 |
+| [Dragon Story Prompts for Kids' Picture Books](dragon-story-book-prompts.md) | 3 | 3-6, 6-9 |
 | [Animal Fable Story Book Prompts with a Moral](animal-fable-story-book-prompts.md) | 3 | 3-6, 6-9 |
 | [Personalized Birthday Story Book Prompts for Custom Kids' Books](personalized-birthday-story-book-prompts.md) | 3 | 3-6, 6-9 |
 | [Kindness and Sharing Story Book Prompts for Kids](kindness-and-sharing-story-book-prompts.md) | 3 | 3-6, 6-9 |

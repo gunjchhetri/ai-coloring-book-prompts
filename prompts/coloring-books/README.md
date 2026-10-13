@@ -26,8 +26,8 @@
 | [Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes](cozy-coloring-book-prompts.md) | 3 | 9-13, 13+ |
 | [Bold and Easy Coloring Book Prompts for Adults & Seniors](bold-and-easy-coloring-book-prompts.md) | 3 | 13+ |
 | [Flower & Botanical Coloring Book Prompts](flower-botanical-coloring-book-prompts.md) | 3 | 6-9, 13+ |
-| [Christmas Coloring Book Prompts for Kids & Adults](christmas-coloring-book-prompts.md) | 3 | 3-6, 13+ |
-| [Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy](halloween-coloring-book-prompts.md) | 3 | 3-6, 6-9, 13+ |
+| [Christmas Coloring Book Prompts & Coloring Page Prompts for Kids](christmas-coloring-book-prompts.md) | 3 | 3-6, 13+ |
+| [Halloween Coloring Book Prompts & Coloring Page Prompts for Kids](halloween-coloring-book-prompts.md) | 3 | 3-6, 6-9, 13+ |
 | [Easter & Spring Coloring Book Prompts](easter-spring-coloring-book-prompts.md) | 3 | 3-6, 6-9, 13+ |
 | [Valentine's Day Coloring Book Prompts](valentines-day-coloring-book-prompts.md) | 3 | 3-6, 6-9, 13+ |
 | [Autumn & Thanksgiving Coloring Book Prompts](autumn-thanksgiving-coloring-book-prompts.md) | 3 | 3-6, 6-9, 13+ |

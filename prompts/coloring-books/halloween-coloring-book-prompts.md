@@ -6,6 +6,26 @@
 
 **Prompts on this page:** [Spooky-cute Halloween for little kids](#1-spooky-cute-halloween-for-little-kids) · [Trick-or-treat night adventure](#2-trick-or-treat-night-adventure) · [Spooky-cozy witchy book for adults](#3-spooky-cozy-witchy-book-for-adults)
 
+## One-page prompts
+
+One picture each: paste one into ChatGPT, Gemini or any AI image tool.
+
+- A smiling jack-o'-lantern wearing a tiny witch hat, sitting in a pumpkin patch. A Halloween coloring page for kids ages 3-6.
+- A little ghost holding a lollipop and waving hello. A Halloween coloring page for kids ages 3-6.
+- A black cat curled up asleep inside a trick-or-treat bucket. A Halloween coloring page for kids ages 3-6.
+- A happy bat hanging upside down from a branch under a crescent moon. A Halloween coloring page for kids ages 3-6.
+- A friendly monster with one big tooth holding a balloon. A Halloween coloring page for kids ages 3-6.
+- A scarecrow waving from a field of pumpkins, with a crow on his hat. A Halloween coloring page for kids ages 3-6.
+- Three kids dressed as a dinosaur, an astronaut and a pirate trick-or-treating at a front door with carved pumpkins on the steps. A Halloween coloring page for kids ages 6-9.
+- A family carving jack-o'-lanterns together at the kitchen table. A Halloween coloring page for kids ages 6-9.
+- A young witch learning to fly her broom over the rooftops, with her cat holding on behind her. A Halloween coloring page for kids ages 6-9.
+- A skeleton band playing a drum, a trumpet and a guitar at a Halloween party. A Halloween coloring page for kids ages 6-9.
+- A friendly haunted house with a smiling ghost peeking out of every window. A Halloween coloring page for kids ages 6-9.
+- A haunted manor on a hill with a winding path, bare trees and bats crossing a full moon. A Halloween coloring page for kids ages 9-13.
+- A witch's potion shelf with labeled bottles, candles, a spellbook and a sleeping cat. A Halloween coloring page for kids ages 9-13.
+- A pumpkin harvest scene with a red barn, hay bales, a wheelbarrow of pumpkins and crows on the fence. A Halloween coloring page for kids ages 9-13.
+- A dewy spider web stretched across a garden gate, with a small spider resting in the middle. A Halloween coloring page for kids ages 9-13.
+
 ## 1. Spooky-cute Halloween for little kids
 
 **Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium

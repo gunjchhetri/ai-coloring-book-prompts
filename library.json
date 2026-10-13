@@ -1,7 +1,7 @@
 {
  "source": "https://github.com/gunjchhetri/ai-coloring-book-prompts",
  "license": "CC-BY-4.0",
- "updated": "2026-10-04",
+ "updated": "2026-10-10",
  "categories": [
   {
    "id": "coloring-books",
@@ -36,6 +36,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/dinosaur-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -223,6 +224,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/farm-animal-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -411,6 +413,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/ocean-animal-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -594,6 +597,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/unicorn-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -777,6 +781,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/dragon-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -960,6 +965,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/jungle-safari-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -1143,6 +1149,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-books.webp",
      "prompts": [
       {
@@ -1326,6 +1333,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/dog-puppy-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -1514,6 +1522,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bird-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -1702,6 +1711,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bug-insect-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -1890,6 +1900,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/space-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -2078,6 +2089,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/vehicle-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -2266,6 +2278,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/princess-castle-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -2449,6 +2462,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-books.webp",
      "prompts": [
       {
@@ -2632,6 +2646,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-books.webp",
      "prompts": [
       {
@@ -2815,6 +2830,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/kawaii-food-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -2998,6 +3014,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/mandala-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -3176,6 +3193,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/animal-mandala-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -3354,6 +3372,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/stress-relief-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -3532,6 +3551,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/cozy-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -3709,6 +3729,7 @@
      "ages": [
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bold-and-easy-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -3887,6 +3908,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/flower-botanical-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -4042,18 +4064,20 @@
     {
      "slug": "christmas-coloring-book-prompts",
      "urlSlug": "christmas",
-     "title": "Christmas Coloring Book Prompts for Kids & Adults",
+     "title": "Christmas Coloring Book Prompts & Coloring Page Prompts for Kids",
      "theme": "Christmas Coloring Book",
-     "metaDescription": "Christmas coloring book prompts for kids and adults: cute toddler pages, cozy snowy villages and intricate ornament mandalas for KDP.",
-     "intro": "Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts as early as October. Parents buy them for stockings and holiday breaks, while adults buy cozy and intricate editions to color by the fire. These Christmas coloring book prompts cover a toddler book, a cozy adult village book and a premium mandala and ornament book.",
+     "metaDescription": "Christmas coloring page prompts for kids: 15 one-picture prompts for ChatGPT or any AI, plus full Christmas coloring book prompts for kids and adults.",
+     "intro": "Christmas coloring page prompts for kids, from a smiling snowman for preschoolers to a snowy village for tweens. Copy a one-picture prompt into ChatGPT, Gemini or any AI image tool, or open a book prompt in InkChamps to get a whole print-ready Christmas coloring book. Christmas is the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts in October. The book prompts cover toddlers, a cozy adult village and intricate ornament mandalas.",
      "keywords": [
+      "christmas coloring page prompts",
+      "christmas coloring pages for kids",
+      "ai christmas coloring pages",
+      "chatgpt christmas coloring page prompt",
       "christmas coloring book prompts",
       "christmas coloring book for kids",
       "christmas coloring book for adults",
-      "christmas coloring pages",
       "cozy christmas coloring book",
-      "christmas mandala coloring book",
-      "christmas coloring book for toddlers"
+      "christmas mandala coloring book"
      ],
      "tips": [
       "Publish Christmas books by early October; the search peak runs from November to mid-December.",
@@ -4064,6 +4088,23 @@
      "ages": [
       "3-6",
       "13+"
+     ],
+     "pagePrompts": [
+      "A smiling snowman with a carrot nose, a striped scarf and mittens. A Christmas coloring page for kids ages 3-6.",
+      "A teddy bear sitting under a decorated Christmas tree next to wrapped presents. A Christmas coloring page for kids ages 3-6.",
+      "A reindeer with a bell on its collar standing in the snow. A Christmas coloring page for kids ages 3-6.",
+      "A gingerbread house with candy canes by the door and gumdrops on the roof. A Christmas coloring page for kids ages 3-6.",
+      "A penguin in a Santa hat sliding across the ice. A Christmas coloring page for kids ages 3-6.",
+      "A stocking full of toys hanging from a fireplace. A Christmas coloring page for kids ages 3-6.",
+      "Santa's workshop with elves building a rocking horse and wrapping presents. A Christmas coloring page for kids ages 6-9.",
+      "Kids building a snowman and having a snowball fight in the park. A Christmas coloring page for kids ages 6-9.",
+      "A family decorating the Christmas tree together, with a puppy tangled in the lights. A Christmas coloring page for kids ages 6-9.",
+      "Santa's sleigh and reindeer flying across a starry sky above a small town. A Christmas coloring page for kids ages 6-9.",
+      "A polar bear and a fox ice-skating together on a frozen pond. A Christmas coloring page for kids ages 6-9.",
+      "A snowy village street with shop windows, lanterns and a tall tree in the square. A Christmas coloring page for kids ages 9-13.",
+      "A Christmas dinner table with candles, a roast, pies and crackers at every plate. A Christmas coloring page for kids ages 9-13.",
+      "A Christmas wreath of holly, pine cones, berries and a big ribbon bow. A Christmas coloring page for kids ages 9-13.",
+      "A log cabin in the snowy woods with smoke rising from the chimney and deer outside. A Christmas coloring page for kids ages 9-13."
      ],
      "image": "/prompt-library/christmas-coloring-book-prompts.webp",
      "prompts": [
@@ -4221,17 +4262,19 @@
     {
      "slug": "halloween-coloring-book-prompts",
      "urlSlug": "halloween",
-     "title": "Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy",
+     "title": "Halloween Coloring Book Prompts & Coloring Page Prompts for Kids",
      "theme": "Halloween Coloring Book",
-     "metaDescription": "Halloween coloring book prompts: spooky-cute pages for kids, a trick-or-treat adventure and a spooky-cozy book for adults. Nothing gory.",
-     "intro": "Halloween coloring books sell from September through October to parents, teachers and adults who love spooky-cozy style. These Halloween coloring book prompts keep everything friendly: smiling pumpkins for little ones, a trick-or-treat night for school-age kids, and a candlelit, witchy, spooky-cozy book for teens and adults. No gore, no scary faces, just the fun side of the season.",
+     "metaDescription": "Halloween coloring page prompts for kids: 15 one-picture prompts for ChatGPT or any AI, plus full Halloween coloring book prompts. Nothing scary.",
+     "intro": "Halloween coloring page prompts for kids, from smiling pumpkins for preschoolers to a haunted manor for tweens. Copy a one-picture prompt into ChatGPT, Gemini or any AI image tool, or open a book prompt in InkChamps to get a whole print-ready Halloween coloring book. Everything stays friendly: no gore, no scary faces. The spooky-cozy book at the end is for teens and adults.",
      "keywords": [
+      "halloween coloring page prompts",
+      "halloween coloring pages for kids",
+      "ai halloween coloring pages",
+      "chatgpt halloween coloring page prompt",
       "halloween coloring book prompts",
       "halloween coloring book for kids",
       "spooky cute coloring book",
       "spooky cozy coloring book for adults",
-      "halloween coloring pages",
-      "halloween coloring book for toddlers",
       "cute halloween coloring book"
      ],
      "tips": [
@@ -4244,6 +4287,23 @@
       "3-6",
       "6-9",
       "13+"
+     ],
+     "pagePrompts": [
+      "A smiling jack-o'-lantern wearing a tiny witch hat, sitting in a pumpkin patch. A Halloween coloring page for kids ages 3-6.",
+      "A little ghost holding a lollipop and waving hello. A Halloween coloring page for kids ages 3-6.",
+      "A black cat curled up asleep inside a trick-or-treat bucket. A Halloween coloring page for kids ages 3-6.",
+      "A happy bat hanging upside down from a branch under a crescent moon. A Halloween coloring page for kids ages 3-6.",
+      "A friendly monster with one big tooth holding a balloon. A Halloween coloring page for kids ages 3-6.",
+      "A scarecrow waving from a field of pumpkins, with a crow on his hat. A Halloween coloring page for kids ages 3-6.",
+      "Three kids dressed as a dinosaur, an astronaut and a pirate trick-or-treating at a front door with carved pumpkins on the steps. A Halloween coloring page for kids ages 6-9.",
+      "A family carving jack-o'-lanterns together at the kitchen table. A Halloween coloring page for kids ages 6-9.",
+      "A young witch learning to fly her broom over the rooftops, with her cat holding on behind her. A Halloween coloring page for kids ages 6-9.",
+      "A skeleton band playing a drum, a trumpet and a guitar at a Halloween party. A Halloween coloring page for kids ages 6-9.",
+      "A friendly haunted house with a smiling ghost peeking out of every window. A Halloween coloring page for kids ages 6-9.",
+      "A haunted manor on a hill with a winding path, bare trees and bats crossing a full moon. A Halloween coloring page for kids ages 9-13.",
+      "A witch's potion shelf with labeled bottles, candles, a spellbook and a sleeping cat. A Halloween coloring page for kids ages 9-13.",
+      "A pumpkin harvest scene with a red barn, hay bales, a wheelbarrow of pumpkins and crows on the fence. A Halloween coloring page for kids ages 9-13.",
+      "A dewy spider web stretched across a garden gate, with a small spider resting in the middle. A Halloween coloring page for kids ages 9-13."
      ],
      "image": "/prompt-library/halloween-coloring-book-prompts.webp",
      "prompts": [
@@ -4428,6 +4488,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/easter-spring-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -4610,6 +4671,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-books.webp",
      "prompts": [
       {
@@ -4791,6 +4853,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/autumn-thanksgiving-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -4972,6 +5035,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/alphabet-abc-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -5165,6 +5229,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/numbers-counting-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -5358,6 +5423,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-books.webp",
      "prompts": [
       {
@@ -5552,6 +5618,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/good-habits-manners-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -5746,6 +5813,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-books.webp",
      "prompts": [
       {
@@ -5940,6 +6008,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/greek-mythology-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -6120,6 +6189,7 @@
       "6-9",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bible-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -6307,6 +6377,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bedtime-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -6474,6 +6545,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/first-day-of-school-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -6641,6 +6713,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/story-coloring-books.webp",
      "prompts": [
       {
@@ -6809,6 +6882,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/dinosaur-adventure-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -6977,6 +7051,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/space-adventure-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -7144,6 +7219,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/kindness-friendship-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -7311,6 +7387,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/story-coloring-books.webp",
      "prompts": [
       {
@@ -7478,6 +7555,7 @@
       "3-6",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/ocean-adventure-story-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -7632,17 +7710,17 @@
     {
      "slug": "bedtime-story-book-prompts",
      "urlSlug": "bedtime",
-     "title": "Bedtime Story Book Prompts for AI Picture Books",
+     "title": "Bedtime Story Prompts for Kids: AI Picture Book Ideas",
      "theme": "Bedtime Story Book",
-     "metaDescription": "Bedtime story book prompts for picture books that slow toward sleep: a hedgehog in a moonflower garden, ten restless sheep and a boy who borrows the moon.",
+     "metaDescription": "Bedtime story prompts for kids that slow toward sleep: a hedgehog in a moonflower garden, ten restless sheep and a boy who borrows the moon.",
      "intro": "A good bedtime story book slows down as it goes, until the last page is almost a whisper. These prompts give InkChamps a calm premise, a named hero and a sleepy ending, and it writes and illustrates the whole picture book. They suit parents who want a bedtime story of their own and KDP sellers building a cozy picture-book list.",
      "keywords": [
-      "AI bedtime story book",
+      "bedtime story prompts for kids",
+      "bedtime story prompts",
       "bedtime story ideas for kids",
+      "AI bedtime story book",
       "children's bedtime picture book",
-      "AI picture book generator",
-      "sleepy story for toddlers",
-      "bedtime story prompts"
+      "sleepy story for toddlers"
      ],
      "tips": [
       "End every bedtime story with the hero asleep or nearly asleep; the book should land where the child is.",
@@ -7654,6 +7732,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bedtime-story-book-prompts.webp",
      "prompts": [
       {
@@ -7814,28 +7893,29 @@
     {
      "slug": "friendship-story-book-prompts",
      "urlSlug": "friendship",
-     "title": "Friendship Story Book Prompts for Children's Picture Books",
+     "title": "Friendship Story Prompts for Kids' Picture Books",
      "theme": "Friendship Story Book",
-     "metaDescription": "Friendship story book prompts for children's picture books: a tortoise and a duckling, a clock-shop robot and two balcony neighbors who trade drawings.",
+     "metaDescription": "Friendship story prompts for kids' picture books: a tortoise and a duckling, a clock-shop robot and two balcony neighbors who trade drawings.",
      "intro": "Friendship stories are the backbone of children's picture books: two characters who don't fit together, a problem, and the moment they realise they need each other. These prompts give InkChamps an odd couple and a turning point, and it writes and illustrates the book. They work for parents talking about making friends, teachers covering social skills and KDP sellers who want evergreen themes.",
      "keywords": [
-      "friendship story book",
-      "children's book about friendship",
-      "AI picture book about friends",
+      "friendship story prompts",
+      "friendship story prompts for kids",
       "friendship story ideas for kids",
+      "children's book about friendship",
       "making friends picture book",
-      "AI children's book generator"
+      "AI picture book about friends"
      ],
      "tips": [
       "Make the two friends opposites (slow and fast, quiet and loud) so the story has built-in tension.",
       "Let the friendship be tested once before the happy ending; it makes the ending earned.",
       "Give each friend one fixed visual trait so they look the same on every page."
      ],
-     "index": false,
+     "index": true,
      "ages": [
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/friendship-story-book-prompts.webp",
      "prompts": [
       {
@@ -8018,6 +8098,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bravery-overcoming-fears-story-book-prompts.webp",
      "prompts": [
       {
@@ -8199,6 +8280,7 @@
      "ages": [
       "3-6"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/illustrated-story-books.webp",
      "prompts": [
       {
@@ -8381,6 +8463,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/first-day-of-school-story-book-prompts.webp",
      "prompts": [
       {
@@ -8563,6 +8646,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/illustrated-story-books.webp",
      "prompts": [
       {
@@ -8723,28 +8807,29 @@
     {
      "slug": "dragon-story-book-prompts",
      "urlSlug": "dragon",
-     "title": "Dragon Story Book Prompts for AI Children's Books",
+     "title": "Dragon Story Prompts for Kids' Picture Books",
      "theme": "Dragon Story Book",
-     "metaDescription": "Dragon story book prompts for kids: a dragon afraid of fire, a clumsy knight who cures a dragon's toothache and a girl who raises the last dragon egg.",
+     "metaDescription": "Dragon story prompts for kids: a dragon afraid of fire, a clumsy knight who cures a dragon's toothache and a girl who raises the last dragon egg.",
      "intro": "Dragons are a perennial favorite in children's picture books, and the best dragon stories flip expectations: a dragon who is scared, a dragon who is hurting, a dragon who needs a friend. These prompts give InkChamps an original dragon with a clear look and a heartfelt problem. They suit dragon-mad kids, parents who want a gift with adventure and KDP sellers in the fantasy niche.",
      "keywords": [
-      "dragon story book",
-      "children's book about dragons",
-      "AI dragon picture book",
+      "dragon story prompts",
+      "dragon story prompts for kids",
       "dragon story ideas for kids",
+      "children's book about dragons",
       "friendly dragon story",
-      "fantasy picture book for kids"
+      "AI dragon picture book"
      ],
      "tips": [
       "Give the dragon one fixed colour and one small detail (teal scales, a chipped horn) so it stays the same on every page.",
       "Flip the expected: a gentle, scared or silly dragon is more memorable than a fierce one.",
       "Colored pencil and hand-drawn styles show dragon scales and fire well; save comic style for the funny ones."
      ],
-     "index": false,
+     "index": true,
      "ages": [
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/illustrated-story-books.webp",
      "prompts": [
       {
@@ -8927,6 +9012,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/animal-fable-story-book-prompts.webp",
      "prompts": [
       {
@@ -9109,6 +9195,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/illustrated-story-books.webp",
      "prompts": [
       {
@@ -9291,6 +9378,7 @@
       "3-6",
       "6-9"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/kindness-and-sharing-story-book-prompts.webp",
      "prompts": [
       {
@@ -9483,6 +9571,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/dinosaur-activity-book-prompts.webp",
      "prompts": [
       {
@@ -9722,6 +9811,7 @@
      "ages": [
       "3-6"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/preschool-workbook-prompts.webp",
      "prompts": [
       {
@@ -9937,6 +10027,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/travel-activity-book-prompts.webp",
      "prompts": [
       {
@@ -10172,6 +10263,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/space-activity-book-prompts.webp",
      "prompts": [
       {
@@ -10410,6 +10502,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/halloween-activity-book-prompts.webp",
      "prompts": [
       {
@@ -10645,6 +10738,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/activity-books.webp",
      "prompts": [
       {
@@ -10870,6 +10964,7 @@
      "ages": [
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/large-print-word-search-prompts.webp",
      "prompts": [
       {
@@ -11057,6 +11152,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/maze-book-prompts.webp",
      "prompts": [
       {
@@ -11269,6 +11365,7 @@
       "9-13",
       "13+"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/sudoku-puzzle-book-prompts.webp",
      "prompts": [
       {
@@ -11457,6 +11554,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/ocean-activity-book-prompts.webp",
      "prompts": [
       {
@@ -11701,6 +11799,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/life-cycle-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -11848,6 +11947,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/solar-system-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -11995,6 +12095,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/water-cycle-weather-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -12142,6 +12243,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/educational-coloring-books.webp",
      "prompts": [
       {
@@ -12289,6 +12391,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/educational-coloring-books.webp",
      "prompts": [
       {
@@ -12436,6 +12539,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/educational-coloring-books.webp",
      "prompts": [
       {
@@ -12583,6 +12687,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/educational-coloring-books.webp",
      "prompts": [
       {
@@ -12730,6 +12835,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/bees-and-pollinators-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -12877,6 +12983,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/educational-coloring-books.webp",
      "prompts": [
       {
@@ -13024,6 +13131,7 @@
       "6-9",
       "9-13"
      ],
+     "pagePrompts": [],
      "image": "/prompt-library/world-cultures-landmarks-coloring-book-prompts.webp",
      "prompts": [
       {
@@ -13176,6 +13284,7 @@
      ],
      "index": true,
      "ages": [],
+     "pagePrompts": [],
      "image": "/prompt-library/coloring-book-cover-prompts.webp",
      "prompts": [
       {
@@ -13298,6 +13407,7 @@
      ],
      "index": false,
      "ages": [],
+     "pagePrompts": [],
      "image": "/prompt-library/childrens-picture-book-cover-prompts.webp",
      "prompts": [
       {
@@ -13420,6 +13530,7 @@
      ],
      "index": false,
      "ages": [],
+     "pagePrompts": [],
      "image": "/prompt-library/activity-puzzle-book-cover-prompts.webp",
      "prompts": [
       {
@@ -13542,6 +13653,7 @@
      ],
      "index": false,
      "ages": [],
+     "pagePrompts": [],
      "image": "/prompt-library/kdp-book-covers.webp",
      "prompts": [
       {
@@ -13664,6 +13776,7 @@
      ],
      "index": false,
      "ages": [],
+     "pagePrompts": [],
      "image": "/prompt-library/kdp-book-covers.webp",
      "prompts": [
       {

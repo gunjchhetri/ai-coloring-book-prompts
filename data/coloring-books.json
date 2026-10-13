@@ -1456,22 +1456,42 @@
     {
       "slug": "christmas-coloring-book-prompts",
       "index": true,
-      "title": "Christmas Coloring Book Prompts for Kids & Adults",
-      "metaDescription": "Christmas coloring book prompts for kids and adults: cute toddler pages, cozy snowy villages and intricate ornament mandalas for KDP.",
-      "intro": "Christmas coloring books are the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts as early as October. Parents buy them for stockings and holiday breaks, while adults buy cozy and intricate editions to color by the fire. These Christmas coloring book prompts cover a toddler book, a cozy adult village book and a premium mandala and ornament book.",
+      "title": "Christmas Coloring Book Prompts & Coloring Page Prompts for Kids",
+      "theme": "Christmas Coloring Book",
+      "metaDescription": "Christmas coloring page prompts for kids: 15 one-picture prompts for ChatGPT or any AI, plus full Christmas coloring book prompts for kids and adults.",
+      "intro": "Christmas coloring page prompts for kids, from a smiling snowman for preschoolers to a snowy village for tweens. Copy a one-picture prompt into ChatGPT, Gemini or any AI image tool, or open a book prompt in InkChamps to get a whole print-ready Christmas coloring book. Christmas is the biggest seasonal sale of the year on Amazon KDP and Etsy, and demand starts in October. The book prompts cover toddlers, a cozy adult village and intricate ornament mandalas.",
       "keywords": [
+        "christmas coloring page prompts",
+        "christmas coloring pages for kids",
+        "ai christmas coloring pages",
+        "chatgpt christmas coloring page prompt",
         "christmas coloring book prompts",
         "christmas coloring book for kids",
         "christmas coloring book for adults",
-        "christmas coloring pages",
         "cozy christmas coloring book",
-        "christmas mandala coloring book",
-        "christmas coloring book for toddlers"
+        "christmas mandala coloring book"
       ],
       "tips": [
         "Publish Christmas books by early October; the search peak runs from November to mid-December.",
         "Mix classic symbols (stockings, wreaths, gingerbread) with scenes so the book is not 30 lone ornaments.",
         "A cozy adult Christmas book and a kids' one can share a series name, so buyers find both."
+      ],
+      "pagePrompts": [
+        "A smiling snowman with a carrot nose, a striped scarf and mittens. A Christmas coloring page for kids ages 3-6.",
+        "A teddy bear sitting under a decorated Christmas tree next to wrapped presents. A Christmas coloring page for kids ages 3-6.",
+        "A reindeer with a bell on its collar standing in the snow. A Christmas coloring page for kids ages 3-6.",
+        "A gingerbread house with candy canes by the door and gumdrops on the roof. A Christmas coloring page for kids ages 3-6.",
+        "A penguin in a Santa hat sliding across the ice. A Christmas coloring page for kids ages 3-6.",
+        "A stocking full of toys hanging from a fireplace. A Christmas coloring page for kids ages 3-6.",
+        "Santa's workshop with elves building a rocking horse and wrapping presents. A Christmas coloring page for kids ages 6-9.",
+        "Kids building a snowman and having a snowball fight in the park. A Christmas coloring page for kids ages 6-9.",
+        "A family decorating the Christmas tree together, with a puppy tangled in the lights. A Christmas coloring page for kids ages 6-9.",
+        "Santa's sleigh and reindeer flying across a starry sky above a small town. A Christmas coloring page for kids ages 6-9.",
+        "A polar bear and a fox ice-skating together on a frozen pond. A Christmas coloring page for kids ages 6-9.",
+        "A snowy village street with shop windows, lanterns and a tall tree in the square. A Christmas coloring page for kids ages 9-13.",
+        "A Christmas dinner table with candles, a roast, pies and crackers at every plate. A Christmas coloring page for kids ages 9-13.",
+        "A Christmas wreath of holly, pine cones, berries and a big ribbon bow. A Christmas coloring page for kids ages 9-13.",
+        "A log cabin in the snowy woods with smoke rising from the chimney and deer outside. A Christmas coloring page for kids ages 9-13."
       ],
       "prompts": [
         {
@@ -1520,22 +1540,42 @@
     {
       "slug": "halloween-coloring-book-prompts",
       "index": true,
-      "title": "Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy",
-      "metaDescription": "Halloween coloring book prompts: spooky-cute pages for kids, a trick-or-treat adventure and a spooky-cozy book for adults. Nothing gory.",
-      "intro": "Halloween coloring books sell from September through October to parents, teachers and adults who love spooky-cozy style. These Halloween coloring book prompts keep everything friendly: smiling pumpkins for little ones, a trick-or-treat night for school-age kids, and a candlelit, witchy, spooky-cozy book for teens and adults. No gore, no scary faces, just the fun side of the season.",
+      "title": "Halloween Coloring Book Prompts & Coloring Page Prompts for Kids",
+      "theme": "Halloween Coloring Book",
+      "metaDescription": "Halloween coloring page prompts for kids: 15 one-picture prompts for ChatGPT or any AI, plus full Halloween coloring book prompts. Nothing scary.",
+      "intro": "Halloween coloring page prompts for kids, from smiling pumpkins for preschoolers to a haunted manor for tweens. Copy a one-picture prompt into ChatGPT, Gemini or any AI image tool, or open a book prompt in InkChamps to get a whole print-ready Halloween coloring book. Everything stays friendly: no gore, no scary faces. The spooky-cozy book at the end is for teens and adults.",
       "keywords": [
+        "halloween coloring page prompts",
+        "halloween coloring pages for kids",
+        "ai halloween coloring pages",
+        "chatgpt halloween coloring page prompt",
         "halloween coloring book prompts",
         "halloween coloring book for kids",
         "spooky cute coloring book",
         "spooky cozy coloring book for adults",
-        "halloween coloring pages",
-        "halloween coloring book for toddlers",
         "cute halloween coloring book"
       ],
       "tips": [
         "Keep ghosts and monsters smiling for kids; spooky-cute sells, scary returns.",
         "For adults, 'spooky-cozy' (witch cottages, candles, black cats, apothecary shelves) outsells horror on KDP.",
         "Publish by early September so the book is indexed before the October rush."
+      ],
+      "pagePrompts": [
+        "A smiling jack-o'-lantern wearing a tiny witch hat, sitting in a pumpkin patch. A Halloween coloring page for kids ages 3-6.",
+        "A little ghost holding a lollipop and waving hello. A Halloween coloring page for kids ages 3-6.",
+        "A black cat curled up asleep inside a trick-or-treat bucket. A Halloween coloring page for kids ages 3-6.",
+        "A happy bat hanging upside down from a branch under a crescent moon. A Halloween coloring page for kids ages 3-6.",
+        "A friendly monster with one big tooth holding a balloon. A Halloween coloring page for kids ages 3-6.",
+        "A scarecrow waving from a field of pumpkins, with a crow on his hat. A Halloween coloring page for kids ages 3-6.",
+        "Three kids dressed as a dinosaur, an astronaut and a pirate trick-or-treating at a front door with carved pumpkins on the steps. A Halloween coloring page for kids ages 6-9.",
+        "A family carving jack-o'-lanterns together at the kitchen table. A Halloween coloring page for kids ages 6-9.",
+        "A young witch learning to fly her broom over the rooftops, with her cat holding on behind her. A Halloween coloring page for kids ages 6-9.",
+        "A skeleton band playing a drum, a trumpet and a guitar at a Halloween party. A Halloween coloring page for kids ages 6-9.",
+        "A friendly haunted house with a smiling ghost peeking out of every window. A Halloween coloring page for kids ages 6-9.",
+        "A haunted manor on a hill with a winding path, bare trees and bats crossing a full moon. A Halloween coloring page for kids ages 9-13.",
+        "A witch's potion shelf with labeled bottles, candles, a spellbook and a sleeping cat. A Halloween coloring page for kids ages 9-13.",
+        "A pumpkin harvest scene with a red barn, hay bales, a wheelbarrow of pumpkins and crows on the fence. A Halloween coloring page for kids ages 9-13.",
+        "A dewy spider web stretched across a garden gate, with a small spider resting in the middle. A Halloween coloring page for kids ages 9-13."
       ],
       "prompts": [
         {

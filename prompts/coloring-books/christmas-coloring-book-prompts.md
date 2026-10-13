@@ -6,6 +6,26 @@
 
 **Prompts on this page:** [Simple Christmas pages for toddlers](#1-simple-christmas-pages-for-toddlers) · [Cozy Christmas village for adults](#2-cozy-christmas-village-for-adults) · [Christmas ornament and snowflake mandalas](#3-christmas-ornament-and-snowflake-mandalas)
 
+## One-page prompts
+
+One picture each: paste one into ChatGPT, Gemini or any AI image tool.
+
+- A smiling snowman with a carrot nose, a striped scarf and mittens. A Christmas coloring page for kids ages 3-6.
+- A teddy bear sitting under a decorated Christmas tree next to wrapped presents. A Christmas coloring page for kids ages 3-6.
+- A reindeer with a bell on its collar standing in the snow. A Christmas coloring page for kids ages 3-6.
+- A gingerbread house with candy canes by the door and gumdrops on the roof. A Christmas coloring page for kids ages 3-6.
+- A penguin in a Santa hat sliding across the ice. A Christmas coloring page for kids ages 3-6.
+- A stocking full of toys hanging from a fireplace. A Christmas coloring page for kids ages 3-6.
+- Santa's workshop with elves building a rocking horse and wrapping presents. A Christmas coloring page for kids ages 6-9.
+- Kids building a snowman and having a snowball fight in the park. A Christmas coloring page for kids ages 6-9.
+- A family decorating the Christmas tree together, with a puppy tangled in the lights. A Christmas coloring page for kids ages 6-9.
+- Santa's sleigh and reindeer flying across a starry sky above a small town. A Christmas coloring page for kids ages 6-9.
+- A polar bear and a fox ice-skating together on a frozen pond. A Christmas coloring page for kids ages 6-9.
+- A snowy village street with shop windows, lanterns and a tall tree in the square. A Christmas coloring page for kids ages 9-13.
+- A Christmas dinner table with candles, a roast, pies and crackers at every plate. A Christmas coloring page for kids ages 9-13.
+- A Christmas wreath of holly, pine cones, berries and a big ribbon bow. A Christmas coloring page for kids ages 9-13.
+- A log cabin in the snowy woods with smoke rising from the chimney and deer outside. A Christmas coloring page for kids ages 9-13.
+
 ## 1. Simple Christmas pages for toddlers
 
 **Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 11 in · **Style:** Christmas · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
@@ -97,7 +117,7 @@ Forty intricate festive designs: snowflake mandalas, round glass baubles filled 
 
 ## More prompts like these
 
-- [Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy](halloween-coloring-book-prompts.md)
+- [Halloween Coloring Book Prompts & Coloring Page Prompts for Kids](halloween-coloring-book-prompts.md)
 - [Easter & Spring Coloring Book Prompts](easter-spring-coloring-book-prompts.md)
 - [Valentine's Day Coloring Book Prompts](valentines-day-coloring-book-prompts.md)
 - [Autumn & Thanksgiving Coloring Book Prompts](autumn-thanksgiving-coloring-book-prompts.md)

@@ -99,8 +99,8 @@ Thirty calming pages for tweens who need a break from homework and tests: a cozy
 - [Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes](cozy-coloring-book-prompts.md)
 - [Bold and Easy Coloring Book Prompts for Adults & Seniors](bold-and-easy-coloring-book-prompts.md)
 - [Flower & Botanical Coloring Book Prompts](flower-botanical-coloring-book-prompts.md)
-- [Christmas Coloring Book Prompts for Kids & Adults](christmas-coloring-book-prompts.md)
-- [Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy](halloween-coloring-book-prompts.md)
+- [Christmas Coloring Book Prompts & Coloring Page Prompts for Kids](christmas-coloring-book-prompts.md)
+- [Halloween Coloring Book Prompts & Coloring Page Prompts for Kids](halloween-coloring-book-prompts.md)
 - [Easter & Spring Coloring Book Prompts](easter-spring-coloring-book-prompts.md)
 
 ---

@@ -100,8 +100,8 @@ Thirty friendly animals with simple patterns inside them for young colorists: a 
 - [Cozy Coloring Book Prompts: Hygge, Cottagecore & Café Scenes](cozy-coloring-book-prompts.md)
 - [Bold and Easy Coloring Book Prompts for Adults & Seniors](bold-and-easy-coloring-book-prompts.md)
 - [Flower & Botanical Coloring Book Prompts](flower-botanical-coloring-book-prompts.md)
-- [Christmas Coloring Book Prompts for Kids & Adults](christmas-coloring-book-prompts.md)
-- [Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy](halloween-coloring-book-prompts.md)
+- [Christmas Coloring Book Prompts & Coloring Page Prompts for Kids](christmas-coloring-book-prompts.md)
+- [Halloween Coloring Book Prompts & Coloring Page Prompts for Kids](halloween-coloring-book-prompts.md)
 
 ---
 

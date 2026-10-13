@@ -97,8 +97,8 @@ Forty big, simple cute animals for relaxed coloring: a round chubby cat, a sleep
 ## More prompts like these
 
 - [Flower & Botanical Coloring Book Prompts](flower-botanical-coloring-book-prompts.md)
-- [Christmas Coloring Book Prompts for Kids & Adults](christmas-coloring-book-prompts.md)
-- [Halloween Coloring Book Prompts: Spooky-Cute & Spooky-Cozy](halloween-coloring-book-prompts.md)
+- [Christmas Coloring Book Prompts & Coloring Page Prompts for Kids](christmas-coloring-book-prompts.md)
+- [Halloween Coloring Book Prompts & Coloring Page Prompts for Kids](halloween-coloring-book-prompts.md)
 - [Easter & Spring Coloring Book Prompts](easter-spring-coloring-book-prompts.md)
 - [Valentine's Day Coloring Book Prompts](valentines-day-coloring-book-prompts.md)
 - [Autumn & Thanksgiving Coloring Book Prompts](autumn-thanksgiving-coloring-book-prompts.md)

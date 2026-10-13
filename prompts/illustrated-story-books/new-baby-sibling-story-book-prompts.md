@@ -101,12 +101,12 @@ Marcus, a seven-year-old with a high-top fade and a notebook, decides to write t
 
 ## More prompts like these
 
-- [Dragon Story Book Prompts for AI Children's Books](dragon-story-book-prompts.md)
+- [Dragon Story Prompts for Kids' Picture Books](dragon-story-book-prompts.md)
 - [Animal Fable Story Book Prompts with a Moral](animal-fable-story-book-prompts.md)
 - [Personalized Birthday Story Book Prompts for Custom Kids' Books](personalized-birthday-story-book-prompts.md)
 - [Kindness and Sharing Story Book Prompts for Kids](kindness-and-sharing-story-book-prompts.md)
-- [Bedtime Story Book Prompts for AI Picture Books](bedtime-story-book-prompts.md)
-- [Friendship Story Book Prompts for Children's Picture Books](friendship-story-book-prompts.md)
+- [Bedtime Story Prompts for Kids: AI Picture Book Ideas](bedtime-story-book-prompts.md)
+- [Friendship Story Prompts for Kids' Picture Books](friendship-story-book-prompts.md)
 
 ---
 

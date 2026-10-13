@@ -104,7 +104,7 @@ Ivy, a girl with a long yellow scarf, has just moved into a creaky old house by 
 - [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md)
 - [First Day of School Story Book Prompts for Picture Books](first-day-of-school-story-book-prompts.md)
 - [New Baby Sibling Story Book Prompts for Big Brothers and Sisters](new-baby-sibling-story-book-prompts.md)
-- [Dragon Story Book Prompts for AI Children's Books](dragon-story-book-prompts.md)
+- [Dragon Story Prompts for Kids' Picture Books](dragon-story-book-prompts.md)
 - [Animal Fable Story Book Prompts with a Moral](animal-fable-story-book-prompts.md)
 - [Personalized Birthday Story Book Prompts for Custom Kids' Books](personalized-birthday-story-book-prompts.md)
 

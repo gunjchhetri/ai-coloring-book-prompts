@@ -105,7 +105,7 @@ Mateo, a boy with round glasses, lives on a fourth-floor balcony across a narrow
 - [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md)
 - [First Day of School Story Book Prompts for Picture Books](first-day-of-school-story-book-prompts.md)
 - [New Baby Sibling Story Book Prompts for Big Brothers and Sisters](new-baby-sibling-story-book-prompts.md)
-- [Dragon Story Book Prompts for AI Children's Books](dragon-story-book-prompts.md)
+- [Dragon Story Prompts for Kids' Picture Books](dragon-story-book-prompts.md)
 - [Animal Fable Story Book Prompts with a Moral](animal-fable-story-book-prompts.md)
 
 ---
