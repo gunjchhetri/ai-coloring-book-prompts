@@ -62,7 +62,9 @@ def library_url(category, page=None):
 
 
 def theme_name(page):
-    return page["title"].split(" Prompts")[0]
+    # A title written for search ("Bedtime Story Prompts for Kids") can name the
+    # theme differently from the tiles ("Bedtime Story Book"); "theme" says which.
+    return page.get("theme") or page["title"].split(" Prompts")[0]
 
 CATEGORY_ORDER = list(S.CATEGORIES)
 
@@ -215,6 +217,10 @@ def md_prompt_page(category, page, pages):
         ),
         "",
     ]
+    if page.get("pagePrompts"):
+        out += [f"## One-page prompts", "", "One picture each: paste one into ChatGPT, Gemini or any AI image tool.", ""]
+        out += [f"- {text}" for text in page["pagePrompts"]]
+        out.append("")
     for i, prompt in enumerate(page["prompts"]):
         out += [f"## {i + 1}. {prompt['name']}", ""]
         out.append(" · ".join(f"**{k}:** {v}" for k, v in settings(category, prompt)))
@@ -300,7 +306,7 @@ def md_readme(data):
     for category, pages in data.items():
         meta = S.CATEGORIES[category]
         out.append(f"**{meta['label']}:** " + " · ".join(
-            f"[{p['title'].split(' Prompts')[0].replace(' Coloring Book', '').replace(' Story Book', '').replace(' Activity Book', '')}](prompts/{category}/{p['slug']}.md)"
+            f"[{theme_name(p).replace(' Coloring Book', '').replace(' Story Book', '').replace(' Activity Book', '')}](prompts/{category}/{p['slug']}.md)"
             for p in pages
         ))
         out.append("")
@@ -384,6 +390,7 @@ def library_data(data):
                 "slug": page["slug"], "urlSlug": url_slug(page["slug"]), "title": page["title"], "theme": theme_name(page),
                 "metaDescription": page["metaDescription"], "intro": page["intro"], "keywords": page["keywords"],
                 "tips": page["tips"], "index": bool(page.get("index")), "ages": ages_of(page),
+                "pagePrompts": page.get("pagePrompts", []),
                 "image": ("/prompt-library/" + images.image_for(page["slug"], category).split("/")[-1]) if images.image_for(page["slug"], category) else None,
                 "prompts": [{
                     "name": prompt["name"], "brief": main_text(category, prompt),

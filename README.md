@@ -1,6 +1,6 @@
 # AI Coloring Book Prompts
 
-**231 validated AI prompts for coloring books, story books, activity books and KDP covers** — 77 themes, from dinosaurs and mandalas to ABC books, mazes and bedtime stories. Each one is a ready-made brief: copy it into any AI tool, or open it in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-intro) with one click and download a print-ready PDF for Amazon KDP, Etsy or home printing.
+**335 validated AI prompts for coloring books, story books, activity books and KDP covers** — 77 themes, from dinosaurs and mandalas to ABC books, mazes and bedtime stories. Each one is a ready-made brief: copy it into any AI tool, or open it in [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-intro) with one click and download a print-ready PDF for Amazon KDP, Etsy or home printing.
 
 [**Browse the prompt library on InkChamps →**](https://inkchamps.com/prompts/)  ·  [**Make a book on InkChamps →**](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-top)
 
@@ -12,11 +12,11 @@
 
 | Kind of book | Themes | Prompts |
 |---|---|---|
-| [Coloring Books](prompts/coloring-books/README.md) — Themed coloring books for kids, teens and adults: animals, mandalas, holidays, ABC and more. | 34 | 102 |
-| [Story Coloring Books](prompts/story-coloring-books/README.md) — Coloring books that tell one story, a line or two of text on every page. | 8 | 24 |
+| [Coloring Books](prompts/coloring-books/README.md) — Themed coloring books for kids, teens and adults: animals, mandalas, holidays, ABC and more. | 34 | 170 |
+| [Story Coloring Books](prompts/story-coloring-books/README.md) — Coloring books that tell one story, a line or two of text on every page. | 8 | 40 |
 | [Illustrated Children's Story Books](prompts/illustrated-story-books/README.md) — Full-colour children's picture books: bedtime, friendship, bravery, birthdays. | 10 | 30 |
 | [Activity Books](prompts/activity-books/README.md) — Mazes, word search, sudoku, tracing, dot-to-dot and spot the difference, all themed. | 10 | 30 |
-| [Educational Coloring Books](prompts/educational-coloring-books/README.md) — Color-to-learn books that teach one idea per page: life cycles, space, the body. | 10 | 30 |
+| [Educational Coloring Books](prompts/educational-coloring-books/README.md) — Color-to-learn books that teach one idea per page: life cycles, space, the body. | 10 | 50 |
 | [KDP Book Covers](prompts/kdp-book-covers/README.md) — Print-ready Amazon KDP paperback covers with front, spine and back. | 5 | 15 |
 
 ## Every theme

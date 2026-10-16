@@ -101,12 +101,12 @@ Arlo, a boy with messy red hair who wears his blanket as a cape, is scared of th
 
 ## More prompts like these
 
-- [Friendship Story Book Prompts for Children's Picture Books](friendship-story-book-prompts.md)
+- [Friendship Story Prompts for Kids' Picture Books](friendship-story-book-prompts.md)
 - [Bravery Story Book Prompts: Picture Books About Overcoming Fears](bravery-overcoming-fears-story-book-prompts.md)
 - [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md)
 - [First Day of School Story Book Prompts for Picture Books](first-day-of-school-story-book-prompts.md)
 - [New Baby Sibling Story Book Prompts for Big Brothers and Sisters](new-baby-sibling-story-book-prompts.md)
-- [Dragon Story Book Prompts for AI Children's Books](dragon-story-book-prompts.md)
+- [Dragon Story Prompts for Kids' Picture Books](dragon-story-book-prompts.md)
 
 ---
 

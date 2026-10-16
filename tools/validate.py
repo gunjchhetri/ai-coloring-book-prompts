@@ -151,6 +151,13 @@ def check_file(path, errors, seen_slugs):
         meta = page.get("metaDescription", "")
         if meta and not 90 <= len(meta) <= 160:
             _err(errors, where, f"metaDescription is {len(meta)} characters; aim for 120-155")
+        if "theme" in page and not (isinstance(page["theme"], str) and page["theme"].strip()):
+            _err(errors, where, "theme must be a non-empty string")
+        one_page = page.get("pagePrompts", [])
+        if not isinstance(one_page, list) or any(not isinstance(t, str) or not 30 <= len(t) <= 300 for t in one_page):
+            _err(errors, where, "pagePrompts must be a list of one-picture prompts, 30-300 characters each")
+        elif len(set(one_page)) != len(one_page):
+            _err(errors, where, "two pagePrompts are the same")
         if len(page.get("prompts", [])) < 2:
             _err(errors, where, "a page needs at least 2 prompts")
         names = [p.get("name") for p in page.get("prompts", [])]

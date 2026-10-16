@@ -2,19 +2,19 @@
 
 <img src="../../assets/img/bees-and-pollinators-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/bees-and-pollinators/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/bees-and-pollinators/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [A busy bee's day for preschoolers](#1-a-busy-bees-day-for-preschoolers) · [Pollinators and the food we eat](#2-pollinators-and-the-food-we-eat) · [Inside the honeybee colony for ages 9-13](#3-inside-the-honeybee-colony-for-ages-9-13)
+**Prompts on this page:** [Foods pollinators help grow](#1-foods-pollinators-help-grow) · [Pollinators of the world](#2-pollinators-of-the-world) · [A pollinator garden](#3-a-pollinator-garden) · [Inside a honeybee colony](#4-inside-a-honeybee-colony) · [The science of pollination](#5-the-science-of-pollination)
 
-## 1. A busy bee's day for preschoolers
+## 1. Foods pollinators help grow
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in the morning. 2. She lands on a flower. 3. She sips sweet nectar. 4. Yellow pollen sticks to her fuzzy body. 5. She carries pollen to the next flower. 6. That helps the flower make seeds and fruit, like apples and strawberries. 7. She flies home to the hive. 8. Bees build honeycomb with six-sided cells. 9. Bees turn nectar into honey. 10. The queen bee lays eggs that grow into new bees.
+40 crops pollinators help grow, one per page: apples, pears, cherries, plums, peaches, apricots, strawberries, blueberries, raspberries, blackberries, cranberries, watermelon, cantaloupe, pumpkins, squash, zucchini, cucumbers, tomatoes, peppers, eggplant, almonds, cashews, Brazil nuts, avocados, mangoes, kiwifruit, passion fruit, figs, cocoa beans, vanilla, coffee, sunflower seeds, clover, alfalfa, cotton, onion seeds, carrot seeds, broccoli seeds, lychees, buckwheat.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=A%20honeybee%27s%20busy%20day%2C%20one%20idea%20per%20page%3A%201.%20A%20honeybee%20flies%20out%20of%20the%20hive%20in%20the%20morning.%202.%20She%20lands%20on%20a%20flower.%203.%20She%20sips%20sweet%20nectar.%204.%20Yellow%20pollen%20sticks%20to%20her%20fuzzy%20body.%205.%20She%20carries%20pollen%20to%20the%20next%20flower.%206.%20That%20helps%20the%20flower%20make%20seeds%20and%20fruit%2C%20like%20apples%20and%20strawberries.%207.%20She%20flies%20home%20to%20the%20hive.%208.%20Bees%20build%20honeycomb%20with%20six-sided%20cells.%209.%20Bees%20turn%20nectar%20into%20honey.%2010.%20The%20queen%20bee%20lays%20eggs%20that%20grow%20into%20new%20bees.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-1)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20crops%20pollinators%20help%20grow%2C%20one%20per%20page%3A%20apples%2C%20pears%2C%20cherries%2C%20plums%2C%20peaches%2C%20apricots%2C%20strawberries%2C%20blueberries%2C%20raspberries%2C%20blackberries%2C%20cranberries%2C%20watermelon%2C%20cantaloupe%2C%20pumpkins%2C%20squash%2C%20zucchini%2C%20cucumbers%2C%20tomatoes%2C%20peppers%2C%20eggplant%2C%20almonds%2C%20cashews%2C%20Brazil%20nuts%2C%20avocados%2C%20mangoes%2C%20kiwifruit%2C%20passion%20fruit%2C%20figs%2C%20cocoa%20beans%2C%20vanilla%2C%20coffee%2C%20sunflower%20seeds%2C%20clover%2C%20alfalfa%2C%20cotton%2C%20onion%20seeds%2C%20carrot%20seeds%2C%20broccoli%20seeds%2C%20lychees%2C%20buckwheat.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,25 +23,25 @@ A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 10,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in the morning. 2. She lands on a flower. 3. She sips sweet nectar. 4. Yellow pollen sticks to her fuzzy body. 5. She carries pollen to the next flower. 6. That helps the flower make seeds and fruit, like apples and strawberries. 7. She flies home to the hive. 8. Bees build honeycomb with six-sided cells. 9. Bees turn nectar into honey. 10. The queen bee lays eggs that grow into new bees."
+    "description": "40 crops pollinators help grow, one per page: apples, pears, cherries, plums, peaches, apricots, strawberries, blueberries, raspberries, blackberries, cranberries, watermelon, cantaloupe, pumpkins, squash, zucchini, cucumbers, tomatoes, peppers, eggplant, almonds, cashews, Brazil nuts, avocados, mangoes, kiwifruit, passion fruit, figs, cocoa beans, vanilla, coffee, sunflower seeds, clover, alfalfa, cotton, onion seeds, carrot seeds, broccoli seeds, lychees, buckwheat."
   }
 }
 ```
 
 </details>
 
-## 2. Pollinators and the food we eat
+## 2. Pollinators of the world
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Honeybees. 3. Bumblebees can buzz pollen loose from tomato flowers. 4. Butterflies. 5. Moths visit flowers at night. 6. Hummingbirds drink nectar from tube-shaped flowers. 7. Some bats pollinate agave and banana flowers. 8. Beetles. 9. Flies. 10. Wind carries pollen for corn and grasses. 11. Apples, strawberries and pumpkins need pollinators. 12. Almonds need bees. 13. Plant a pollinator garden. 14. Leave clover and dandelions for the bees.
+40 pollinators, one per page: honeybee, bumblebee, mason bee, leafcutter bee, carpenter bee, sweat bee, mining bee, squash bee, orchid bee, stingless bee, monarch butterfly, swallowtail, painted lady, hawk moth, hummingbird hawk-moth, yucca moth, owlet moth, hoverfly, bee fly, cocoa midge, fig wasp, soldier beetle, scarab beetle, paper wasp, ruby-throated hummingbird, sunbird, honeyeater, white-eye, lesser long-nosed bat, flying fox, honey possum, ruffed lemur, gecko, blue-banded bee, sugar glider, carrion fly, thrips, mosquito on an orchid, bellbird, wind as a pollinator.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Meet%20the%20pollinators%20and%20the%20foods%20they%20help%20grow%3A%201.%20What%20pollination%20is.%202.%20Honeybees.%203.%20Bumblebees%20can%20buzz%20pollen%20loose%20from%20tomato%20flowers.%204.%20Butterflies.%205.%20Moths%20visit%20flowers%20at%20night.%206.%20Hummingbirds%20drink%20nectar%20from%20tube-shaped%20flowers.%207.%20Some%20bats%20pollinate%20agave%20and%20banana%20flowers.%208.%20Beetles.%209.%20Flies.%2010.%20Wind%20carries%20pollen%20for%20corn%20and%20grasses.%2011.%20Apples%2C%20strawberries%20and%20pumpkins%20need%20pollinators.%2012.%20Almonds%20need%20bees.%2013.%20Plant%20a%20pollinator%20garden.%2014.%20Leave%20clover%20and%20dandelions%20for%20the%20bees.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-2)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20pollinators%2C%20one%20per%20page%3A%20honeybee%2C%20bumblebee%2C%20mason%20bee%2C%20leafcutter%20bee%2C%20carpenter%20bee%2C%20sweat%20bee%2C%20mining%20bee%2C%20squash%20bee%2C%20orchid%20bee%2C%20stingless%20bee%2C%20monarch%20butterfly%2C%20swallowtail%2C%20painted%20lady%2C%20hawk%20moth%2C%20hummingbird%20hawk-moth%2C%20yucca%20moth%2C%20owlet%20moth%2C%20hoverfly%2C%20bee%20fly%2C%20cocoa%20midge%2C%20fig%20wasp%2C%20soldier%20beetle%2C%20scarab%20beetle%2C%20paper%20wasp%2C%20ruby-throated%20hummingbird%2C%20sunbird%2C%20honeyeater%2C%20white-eye%2C%20lesser%20long-nosed%20bat%2C%20flying%20fox%2C%20honey%20possum%2C%20ruffed%20lemur%2C%20gecko%2C%20blue-banded%20bee%2C%20sugar%20glider%2C%20carrion%20fly%2C%20thrips%2C%20mosquito%20on%20an%20orchid%2C%20bellbird%2C%20wind%20as%20a%20pollinator.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-2)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,25 +50,52 @@ Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Ho
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "6-9",
-    "numberOfPages": 14,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Honeybees. 3. Bumblebees can buzz pollen loose from tomato flowers. 4. Butterflies. 5. Moths visit flowers at night. 6. Hummingbirds drink nectar from tube-shaped flowers. 7. Some bats pollinate agave and banana flowers. 8. Beetles. 9. Flies. 10. Wind carries pollen for corn and grasses. 11. Apples, strawberries and pumpkins need pollinators. 12. Almonds need bees. 13. Plant a pollinator garden. 14. Leave clover and dandelions for the bees."
+    "description": "40 pollinators, one per page: honeybee, bumblebee, mason bee, leafcutter bee, carpenter bee, sweat bee, mining bee, squash bee, orchid bee, stingless bee, monarch butterfly, swallowtail, painted lady, hawk moth, hummingbird hawk-moth, yucca moth, owlet moth, hoverfly, bee fly, cocoa midge, fig wasp, soldier beetle, scarab beetle, paper wasp, ruby-throated hummingbird, sunbird, honeyeater, white-eye, lesser long-nosed bat, flying fox, honey possum, ruffed lemur, gecko, blue-banded bee, sugar glider, carrion fly, thrips, mosquito on an orchid, bellbird, wind as a pollinator."
   }
 }
 ```
 
 </details>
 
-## 3. Inside the honeybee colony for ages 9-13
+## 3. A pollinator garden
 
-**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Life inside a honeybee colony: 1. A colony has one queen, many workers and some drones. 2. The queen lays up to 1,500 eggs a day. 3. Egg. 4. Larva. 5. Pupa. 6. Adult bee. 7. Young workers clean cells. 8. Nurse bees feed larvae. 9. Builders make wax comb. 10. Guards protect the entrance. 11. Foragers collect nectar and pollen. 12. Pollen baskets on the back legs. 13. The waggle dance shows where flowers are. 14. Bees fan nectar to dry it into honey. 15. Solitary bees like mason bees. 16. Threats to bees and how to help.
+One plant or feature per page: lavender, sunflower, purple coneflower, bee balm, milkweed, black-eyed Susan, goldenrod, aster, white clover, dandelion, borage, catmint, salvia, zinnia, cosmos, marigold, foxglove, honeysuckle, trumpet vine, phlox, evening primrose, moonflower, thyme, basil flowers, apple blossom, spring crocus, fall sedum, wildflower meadow, bee hotel, bare soil patch, water dish with stones, log pile, butterfly puddle, hollow stems in winter, no pesticides, caterpillar host plant, hummingbird feeder, bat box, blooms spring to fall, garden sign.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Life%20inside%20a%20honeybee%20colony%3A%201.%20A%20colony%20has%20one%20queen%2C%20many%20workers%20and%20some%20drones.%202.%20The%20queen%20lays%20up%20to%201%2C500%20eggs%20a%20day.%203.%20Egg.%204.%20Larva.%205.%20Pupa.%206.%20Adult%20bee.%207.%20Young%20workers%20clean%20cells.%208.%20Nurse%20bees%20feed%20larvae.%209.%20Builders%20make%20wax%20comb.%2010.%20Guards%20protect%20the%20entrance.%2011.%20Foragers%20collect%20nectar%20and%20pollen.%2012.%20Pollen%20baskets%20on%20the%20back%20legs.%2013.%20The%20waggle%20dance%20shows%20where%20flowers%20are.%2014.%20Bees%20fan%20nectar%20to%20dry%20it%20into%20honey.%2015.%20Solitary%20bees%20like%20mason%20bees.%2016.%20Threats%20to%20bees%20and%20how%20to%20help.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-3)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=One%20plant%20or%20feature%20per%20page%3A%20lavender%2C%20sunflower%2C%20purple%20coneflower%2C%20bee%20balm%2C%20milkweed%2C%20black-eyed%20Susan%2C%20goldenrod%2C%20aster%2C%20white%20clover%2C%20dandelion%2C%20borage%2C%20catmint%2C%20salvia%2C%20zinnia%2C%20cosmos%2C%20marigold%2C%20foxglove%2C%20honeysuckle%2C%20trumpet%20vine%2C%20phlox%2C%20evening%20primrose%2C%20moonflower%2C%20thyme%2C%20basil%20flowers%2C%20apple%20blossom%2C%20spring%20crocus%2C%20fall%20sedum%2C%20wildflower%20meadow%2C%20bee%20hotel%2C%20bare%20soil%20patch%2C%20water%20dish%20with%20stones%2C%20log%20pile%2C%20butterfly%20puddle%2C%20hollow%20stems%20in%20winter%2C%20no%20pesticides%2C%20caterpillar%20host%20plant%2C%20hummingbird%20feeder%2C%20bat%20box%2C%20blooms%20spring%20to%20fall%2C%20garden%20sign.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-3)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "6-9",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "One plant or feature per page: lavender, sunflower, purple coneflower, bee balm, milkweed, black-eyed Susan, goldenrod, aster, white clover, dandelion, borage, catmint, salvia, zinnia, cosmos, marigold, foxglove, honeysuckle, trumpet vine, phlox, evening primrose, moonflower, thyme, basil flowers, apple blossom, spring crocus, fall sedum, wildflower meadow, bee hotel, bare soil patch, water dish with stones, log pile, butterfly puddle, hollow stems in winter, no pesticides, caterpillar host plant, hummingbird feeder, bat box, blooms spring to fall, garden sign."
+  }
+}
+```
+
+</details>
+
+## 4. Inside a honeybee colony
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+Honeybee colony life, one idea per page: queen, workers, drones, hive, comb hexagons, wax glands, queen laying, egg, larva, royal jelly, capped cell, pupa, new bee emerging, cleaner bee, nurse bee, builder bee, undertaker bee, guard bee, fanning bee, forager, queen cell, mating flight, waggle dance, round dance, nectar collecting, honey stomach, nectar to honey, capping honey, pollen baskets, bee bread, propolis, swarm, scout bees, winter cluster, drones pushed out in fall, compound eyes, stinger, hive frame, smoker, honey harvest.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Honeybee%20colony%20life%2C%20one%20idea%20per%20page%3A%20queen%2C%20workers%2C%20drones%2C%20hive%2C%20comb%20hexagons%2C%20wax%20glands%2C%20queen%20laying%2C%20egg%2C%20larva%2C%20royal%20jelly%2C%20capped%20cell%2C%20pupa%2C%20new%20bee%20emerging%2C%20cleaner%20bee%2C%20nurse%20bee%2C%20builder%20bee%2C%20undertaker%20bee%2C%20guard%20bee%2C%20fanning%20bee%2C%20forager%2C%20queen%20cell%2C%20mating%20flight%2C%20waggle%20dance%2C%20round%20dance%2C%20nectar%20collecting%2C%20honey%20stomach%2C%20nectar%20to%20honey%2C%20capping%20honey%2C%20pollen%20baskets%2C%20bee%20bread%2C%20propolis%2C%20swarm%2C%20scout%20bees%2C%20winter%20cluster%2C%20drones%20pushed%20out%20in%20fall%2C%20compound%20eyes%2C%20stinger%2C%20hive%20frame%2C%20smoker%2C%20honey%20harvest.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-4)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -77,10 +104,37 @@ Life inside a honeybee colony: 1. A colony has one queen, many workers and some 
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "9-13",
-    "numberOfPages": 16,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "Life inside a honeybee colony: 1. A colony has one queen, many workers and some drones. 2. The queen lays up to 1,500 eggs a day. 3. Egg. 4. Larva. 5. Pupa. 6. Adult bee. 7. Young workers clean cells. 8. Nurse bees feed larvae. 9. Builders make wax comb. 10. Guards protect the entrance. 11. Foragers collect nectar and pollen. 12. Pollen baskets on the back legs. 13. The waggle dance shows where flowers are. 14. Bees fan nectar to dry it into honey. 15. Solitary bees like mason bees. 16. Threats to bees and how to help."
+    "description": "Honeybee colony life, one idea per page: queen, workers, drones, hive, comb hexagons, wax glands, queen laying, egg, larva, royal jelly, capped cell, pupa, new bee emerging, cleaner bee, nurse bee, builder bee, undertaker bee, guard bee, fanning bee, forager, queen cell, mating flight, waggle dance, round dance, nectar collecting, honey stomach, nectar to honey, capping honey, pollen baskets, bee bread, propolis, swarm, scout bees, winter cluster, drones pushed out in fall, compound eyes, stinger, hive frame, smoker, honey harvest."
+  }
+}
+```
+
+</details>
+
+## 5. The science of pollination
+
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+One idea per page: petal, sepal, stamen, anther, filament, pistil, stigma, style, ovary, ovule, nectary, pollen grain, pollen tube, fertilization, seed forming, fruit forming, self-pollination, cross-pollination, wind-pollinated grass, oak catkins, corn silks, seagrass, buzz pollination, UV nectar guides, bird flowers, moth flowers, bat flowers, beetle flowers, carrion flowers, bee orchid mimicry, fig and fig wasp, yucca and yucca moth, hand-pollinated vanilla, orchard hives, hay fever, fossil pollen, pollen limitation, colony collapse, habitat loss, pollinator corridors.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=One%20idea%20per%20page%3A%20petal%2C%20sepal%2C%20stamen%2C%20anther%2C%20filament%2C%20pistil%2C%20stigma%2C%20style%2C%20ovary%2C%20ovule%2C%20nectary%2C%20pollen%20grain%2C%20pollen%20tube%2C%20fertilization%2C%20seed%20forming%2C%20fruit%20forming%2C%20self-pollination%2C%20cross-pollination%2C%20wind-pollinated%20grass%2C%20oak%20catkins%2C%20corn%20silks%2C%20seagrass%2C%20buzz%20pollination%2C%20UV%20nectar%20guides%2C%20bird%20flowers%2C%20moth%20flowers%2C%20bat%20flowers%2C%20beetle%20flowers%2C%20carrion%20flowers%2C%20bee%20orchid%20mimicry%2C%20fig%20and%20fig%20wasp%2C%20yucca%20and%20yucca%20moth%2C%20hand-pollinated%20vanilla%2C%20orchard%20hives%2C%20hay%20fever%2C%20fossil%20pollen%2C%20pollen%20limitation%2C%20colony%20collapse%2C%20habitat%20loss%2C%20pollinator%20corridors.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=bees-and-pollinators-coloring-book-prompts-5)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "13+",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "One idea per page: petal, sepal, stamen, anther, filament, pistil, stigma, style, ovary, ovule, nectary, pollen grain, pollen tube, fertilization, seed forming, fruit forming, self-pollination, cross-pollination, wind-pollinated grass, oak catkins, corn silks, seagrass, buzz pollination, UV nectar guides, bird flowers, moth flowers, bat flowers, beetle flowers, carrion flowers, bee orchid mimicry, fig and fig wasp, yucca and yucca moth, hand-pollinated vanilla, orchard hives, hay fever, fossil pollen, pollen limitation, colony collapse, habitat loss, pollinator corridors."
   }
 }
 ```

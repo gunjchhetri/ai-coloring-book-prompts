@@ -101,8 +101,8 @@ Gertrude, a gentle giant with patched dungarees and a bird's nest in her hair, g
 
 ## More prompts like these
 
-- [Bedtime Story Book Prompts for AI Picture Books](bedtime-story-book-prompts.md)
-- [Friendship Story Book Prompts for Children's Picture Books](friendship-story-book-prompts.md)
+- [Bedtime Story Prompts for Kids: AI Picture Book Ideas](bedtime-story-book-prompts.md)
+- [Friendship Story Prompts for Kids' Picture Books](friendship-story-book-prompts.md)
 - [Bravery Story Book Prompts: Picture Books About Overcoming Fears](bravery-overcoming-fears-story-book-prompts.md)
 - [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md)
 - [First Day of School Story Book Prompts for Picture Books](first-day-of-school-story-book-prompts.md)

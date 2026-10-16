@@ -5,8 +5,8 @@
       "slug": "life-cycle-coloring-book-prompts",
       "index": true,
       "title": "Life Cycle Coloring Book Prompts: Butterfly, Frog, Chicken & Plant",
-      "metaDescription": "Life cycle coloring book prompts for kids: butterfly, frog, chicken and plant life cycles, one stage per page with a short fact to read and color.",
-      "intro": "Life cycles are on almost every early science curriculum, and coloring each stage helps kids remember the order. These life cycle coloring book prompts give one stage per page with a short, accurate caption, from a monarch egg on a milkweed leaf to a seed carried off by the wind. They suit teachers, homeschoolers and parents of curious kids aged 3 to 13.",
+      "metaDescription": "Life cycle coloring book prompts for five full 40-page books: baby animals, metamorphosis, ocean, land animal and plant life cycles.",
+      "intro": "Life cycles are on almost every early science curriculum, and coloring each stage helps kids remember the order. These five prompts each make a full 40-page book, one stage or one animal per page: baby animal names for preschoolers, insect and frog metamorphosis, mammal, bird and reptile life cycles, ocean life cycles and plant and fungus life cycles. Sold side by side, they cover ages 3 to 13 with barely any repeated page.",
       "keywords": [
         "life cycle coloring book",
         "butterfly life cycle coloring pages",
@@ -16,52 +16,75 @@
         "science coloring book for kids"
       ],
       "tips": [
-        "List the stages in order in the brief; one stage becomes one page, so the page count is the number of stages.",
-        "Use the real vocabulary (chrysalis, tadpole, germination) and the book does the teaching while kids color.",
-        "End on the stage that starts the cycle again, so kids see that it is a circle, not a line."
+        "List every stage in order in the brief; each stage is one page, so a 40-page book needs exactly 40 stages.",
+        "Use the real names of stages (nymph, pupa, alevin, polyp); the caption teaches the word while kids color.",
+        "Keep one book to one kind of life cycle, so a buyer can pair the insect, ocean and plant books as a set."
       ],
       "prompts": [
         {
-          "name": "Butterfly life cycle for preschoolers",
+          "name": "Baby animals and their names",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "How a monarch caterpillar becomes a butterfly, one simple step per page: 1. A butterfly lays a tiny egg on a milkweed leaf. 2. A small caterpillar hatches and eats its eggshell. 3. It munches milkweed leaves all day. 4. It grows so fast it sheds its skin. 5. It hangs upside down in a J shape. 6. It makes a green chrysalis. 7. Inside, its body changes. 8. A butterfly comes out. 9. It dries its wings in the sun. 10. It drinks flower nectar and lays eggs of its own."
+            "description": "40 baby animals with their grown-up, one per page: dog puppy, cat kitten, cow calf, horse foal, sheep lamb, pig piglet, goat kid, hen chick, duckling, gosling, swan cygnet, owlet, eaglet, kangaroo joey, koala joey, lion cub, bear cub, tiger cub, fox kit, rabbit kit, deer fawn, elephant calf, giraffe calf, whale calf, seal pup, bat pup, turkey poult, alpaca cria, hedgehog hoglet, penguin chick, frog tadpole, butterfly caterpillar, fish fry, turtle hatchling, spider spiderling, zebra foal, hippo calf, otter pup, squirrel kit, beaver kit."
           },
-          "why": "Preschool teachers run a butterfly unit every spring, and ten big, simple stages with one short sentence each are just right for a four-year-old. Its short length is great for home printing."
+          "why": "Preschool teachers and parents get a whole term of animal-family vocabulary, and 40 well-known babies fill a full book without repeating a stage."
         },
         {
-          "name": "Frog and chicken life cycles",
+          "name": "Insect and amphibian metamorphosis",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Two life cycles, seven stages each. Frog: 1. Frogspawn, eggs in jelly in a pond. 2. A tadpole hatches and breathes with gills. 3. It swims and eats algae. 4. Back legs grow. 5. Front legs grow. 6. A froglet with a short tail climbs out. 7. An adult frog breathes air and eats insects. Chicken: 8. A hen lays an egg. 9. She keeps it warm for about 21 days. 10. The chick pecks through the shell. 11. The wet chick dries fluffy. 12. Feathers grow in. 13. A young hen scratches for seeds. 14. The grown hen lays eggs."
+            "description": "Metamorphosis, one stage per page: egg, larva, pupa and adult of a butterfly, ladybug, honeybee, ant and mosquito; egg, nymph and adult of a dragonfly, grasshopper, cicada and praying mantis; frogspawn, tadpole, tadpole with back legs, froglet and frog; salamander egg, larva with feathery gills and adult."
           },
-          "why": "Comparing a frog's change in water with a chick's growth in an egg is a standard grade 1-3 lesson, and teachers can use both halves for a compare-and-contrast activity. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers teach complete versus incomplete metamorphosis, and 11 creatures in stage order give them a compare-and-contrast unit in one book."
         },
         {
-          "name": "Flowering plant life cycle in depth",
-          "ageGroup": "9-13",
-          "numberOfPages": 12,
+          "name": "Mammal, bird and reptile life cycles",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "The life cycle of a flowering plant: 1. A seed: seed coat, embryo and stored food. 2. Germination needs water, air and warmth. 3. The root grows down first. 4. The shoot pushes up and the seed leaves (cotyledons) open. 5. True leaves make food by photosynthesis. 6. The grown plant forms a bud. 7. The flower's parts: petals, stamens, pistil. 8. Pollination by insects or wind. 9. Fertilization in the ovary. 10. Seeds form inside a fruit. 11. Seeds spread by wind, water and animals. 12. A seed waits in the soil to start again."
+            "description": "One stage per page: kangaroo: newborn joey, joey in pouch, joey peeking out, adult; platypus: eggs, baby drinking milk, adult; robin: blue eggs, hatchlings, fledgling, adult; chicken: egg, hatching chick, chick, pullet, hen; crocodile: nest, hatchling, carried in mother's jaws, adult; snake: eggs, hatchling, shedding skin, adult; cuckoo: egg in a host's nest, chick ejecting host eggs, adult; elephant: newborn calf, nursing, young in herd, adult; deer: spotted fawn, yearling, buck; bat: pup on mother, first flight, adult; opossum: newborns in pouch, riding on mother's back, adult."
           },
-          "why": "Homeschoolers and grade 4-6 teachers need the right vocabulary (cotyledon, stamen, fertilization) with a picture to anchor each word. Its short length is great for home printing."
+          "why": "Homeschoolers comparing animal groups get egg-layers, pouch mammals and live births side by side, which is the classification lesson in 40 pages."
+        },
+        {
+          "name": "Ocean life cycles",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "One stage per page: salmon: egg, alevin, fry, parr, smolt, spawner; eel: egg in the Sargasso Sea, leaf-like larva, glass eel, elver, yellow eel, silver eel; sea turtle: eggs, hatchling, juvenile in seaweed, adult, nesting female; moon jellyfish: planula, polyp, strobila, ephyra, medusa; seahorse: female passing eggs, eggs in male's pouch, male giving birth; crab: egg, zoea, megalopa, adult; emperor penguin: egg on father's feet, hatching, creche, adult; coral: spawning, planula, polyp settling, colony; octopus: mother guarding eggs, paralarva, adult."
+          },
+          "why": "Middle-grade teachers and homeschoolers get the strange, little-known ocean cycles (alevin, ephyra, megalopa) that no preschool life cycle book covers."
+        },
+        {
+          "name": "Plant and fungus life cycles",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Plant and fungus life cycles, one stage per page: bean: seed, germinating seed, seedling, adult plant, flower, seed pod; sunflower: seed, sprout, bud, bloom, seed head; apple tree: seed, sapling, blossom, bee visiting a blossom, young apple, ripe apple; oak: acorn, seedling, sapling, mature oak; dandelion: rosette of leaves, yellow flower, seed head, seeds on the wind; fern: spores, prothallus, fiddlehead, adult fern; mushroom: spores, mycelium, pinhead, mushroom; pumpkin: seed, vine, flower, pumpkin; coconut: floating coconut, sprouting coconut, palm tree."
+          },
+          "why": "Grade 4-6 teachers can contrast seed plants with spore-making ferns and fungi, a standards topic that most plant coloring books skip."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "solar-system-coloring-book-prompts",
       "index": true,
       "title": "Solar System Coloring Book Prompts: Planets, Moon & Space Facts",
-      "metaDescription": "Solar system coloring book prompts for kids: the Sun, all eight planets, moon phases and eclipses, one fact per page to color and learn.",
-      "intro": "A solar system coloring book turns planet facts into something kids can hold, color and remember. These prompts go from a simple Sun-and-planets tour for preschoolers to orbits, seasons and eclipses for 9 to 13 year olds. Every fact is checked and kept short, so the book works for a classroom space unit or a homeschool science week.",
+      "metaDescription": "Solar system coloring book prompts for five full 40-page books: first space words, life on the space station, moons, constellations, missions.",
+      "intro": "A solar system coloring book turns space facts into something kids can hold, color and remember. These five prompts each make a full 40-page book with one idea per page: first space words for preschoolers, a day on the International Space Station, the moons and small worlds of the solar system, 40 constellations and 40 space missions in launch order. Each book teaches a different slice of space, so they sell well as a set.",
       "keywords": [
         "solar system coloring book",
         "solar system coloring pages",
@@ -71,51 +94,74 @@
         "astronomy for kids"
       ],
       "tips": [
-        "Keep the planets in order from the Sun in the brief; kids learn the order by turning the pages.",
-        "Give each planet one memorable fact (Jupiter is the biggest, Venus is the hottest) rather than a paragraph.",
-        "Mention that Pluto is a dwarf planet; teachers check for that."
+        "Keep lists in a real order (planets from the Sun, missions by launch year); kids learn the order by turning the pages.",
+        "Call Pluto, Ceres and Eris dwarf planets; teachers check for that.",
+        "Name the moon's planet or the constellation's season on each page, so every page carries one fact to remember."
       ],
       "prompts": [
         {
-          "name": "Sun, Moon and planets for little learners",
+          "name": "First space words for preschoolers",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "A first trip through our solar system, one stop per page: 1. The Sun is a star that gives us light and warmth. 2. Mercury is closest to the Sun and the smallest planet. 3. Venus is the hottest planet. 4. Earth is our home, with oceans and air. 5. The Moon goes around Earth. 6. Mars is the red planet. 7. Jupiter is the biggest planet. 8. Saturn has bright rings of ice and rock. 9. Uranus spins on its side. 10. Neptune is cold, blue and very windy."
+            "description": "First space book, one thing per page: the Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune in order, Pluto the dwarf planet, Saturn's rings, Jupiter's Great Red Spot, the Moon, crescent, half and full Moon, day, night, sunrise, sunset, a star, the Big Dipper, the Milky Way, a shooting star, a comet, an asteroid, a meteor crater, a rocket, a rocket launch, an astronaut, a space suit, a space helmet, a footprint on the Moon, a Moon buggy, a Mars rover, a satellite, a telescope, an observatory, Earth seen from space, a solar eclipse."
           },
-          "why": "Parents and preschool teachers want a gentle first space book with one easy fact per planet, in the right order from the Sun. Its short length is great for home printing."
+          "why": "Parents and preschool teachers get a gentle first space book with one familiar thing per page and the planets in the right order from the Sun."
         },
         {
-          "name": "Planets and space neighbors for ages 6-9",
+          "name": "A day on the space station",
           "ageGroup": "6-9",
-          "numberOfPages": 16,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Our solar system for early readers: 1. The Sun, the star at the center. 2. Planets travel around the Sun in orbits. 3. Mercury. 4. Venus. 5. Earth. 6. The Moon has craters. 7. Moon phases. 8. Mars and its rovers. 9. The asteroid belt. 10. Jupiter and its Great Red Spot storm. 11. Saturn's rings. 12. Uranus. 13. Neptune. 14. Pluto, a dwarf planet. 15. Comets have tails that point away from the Sun. 16. Astronauts explore space. Give each planet one fact: size, color, or how hot or cold it is."
+            "description": "Life on the space station, one per page: rocket launch, docking, airlock, cupola window, floating, sleeping bag on the wall, food pouches, tortillas, water ball, drink pouch, space toilet, no-rinse shampoo, brushing teeth, treadmill, exercise bike, weight machine, experiments, growing lettuce, roots in zero-g, fire drill, robotic arm, spacesuit, spacewalk, tethers, solar panels, 16 sunrises a day, Earth at night, aurora, hurricanes, mission control, school radio call, cargo ship, unpacking, vacuum haircut, repairs, photos of Earth, medical check, crew dinner, undocking, landing."
           },
-          "why": "Grade 1-3 teachers can use one page a day during a space unit, and the moon phases and comet pages add facts beyond the planet list. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers and space-mad kids get the everyday life of astronauts in 40 pages, a favorite topic that planet books leave out."
         },
         {
-          "name": "How the solar system works for ages 9-13",
+          "name": "Moons and small worlds",
           "ageGroup": "9-13",
-          "numberOfPages": 16,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "How the solar system works, for upper elementary: 1. Gravity holds the planets in orbit around the Sun. 2. Earth spins once a day. 3. Earth orbits the Sun once a year. 4. Seasons come from Earth's tilted axis. 5. Moon phases. 6. Solar eclipse. 7. Lunar eclipse. 8. Rocky inner planets. 9. Gas and ice giants. 10. The asteroid belt. 11. Jupiter's moons. 12. Saturn's rings are pieces of ice and rock. 13. The Kuiper Belt and dwarf planets. 14. Comets. 15. Telescopes. 16. Rovers and probes explore other worlds."
+            "description": "Moons and small worlds of the solar system, one per page: Earth's Moon, Phobos and Deimos, Io, Europa, Ganymede and Callisto, Titan, Enceladus, Mimas, Iapetus, Rhea, Dione, Tethys and Hyperion, Miranda, Ariel, Umbriel, Titania and Oberon, Triton, Nereid and Proteus, Charon, dwarf planets Ceres, Pluto, Haumea, Makemake and Eris, Eris's moon Dysnomia, asteroids Vesta, Eros, Bennu and Ryugu, Arrokoth, Halley's Comet, comet 67P, the asteroid belt, the Kuiper Belt, the Oort Cloud."
           },
-          "why": "Homeschoolers and middle-grade teachers need the 'why' behind seasons, phases and eclipses, and a labeled picture of each makes the idea stick. Its short length is great for home printing."
+          "why": "Homeschoolers and middle-grade teachers get the moons and dwarf planets behind the eight-planet list, with one world and one fact per page."
+        },
+        {
+          "name": "40 constellations of the night sky",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 constellations, one per page, star pattern with its figure: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius, Capricornus, Aquarius, Pisces; Ursa Major, Ursa Minor, Orion, Cassiopeia, Cygnus, Lyra, Aquila, Canis Major, Canis Minor, Perseus, Andromeda, Pegasus, Draco, Cepheus, Bootes, Hercules, Auriga, Corona Borealis, Crux, Centaurus, Carina, Lepus, Delphinus, Eridanus, Hydra, Ophiuchus, Monoceros, Corvus."
+          },
+          "why": "Stargazing families and science clubs get the 12 zodiac constellations plus 28 famous ones from both hemispheres, enough for a full year of night-sky lessons."
+        },
+        {
+          "name": "Space missions in launch order",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 space missions in launch order, one per page: Sputnik 1, Explorer 1, Vostok 1, Mariner 4, Luna 9, Apollo 8, Apollo 11, Venera 7, Lunokhod 1, Mariner 9, Pioneer 10, Skylab, Mariner 10, Viking 1, Voyager 2, Voyager 1, the first Space Shuttle flight, Mir, Galileo, Hubble, Mars Pathfinder, Cassini-Huygens, the ISS, Spirit and Opportunity, Rosetta, MESSENGER, New Horizons, Dawn, Juno, Curiosity, Hayabusa2, OSIRIS-REx, Parker Solar Probe, Chang'e 4, Perseverance and Ingenuity, DART, James Webb Space Telescope, Artemis I, Chandrayaan-3, Europa Clipper."
+          },
+          "why": "KDP sellers reach teens and adult space fans with a history-of-exploration book, from the first satellite in 1957 to a probe launched in 2024."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "water-cycle-weather-coloring-book-prompts",
       "title": "Water Cycle and Weather Coloring Book Prompts for Kids",
-      "metaDescription": "Water cycle and weather coloring book prompts for kids: evaporation, clouds, rain, snow, rainbows and seasons, one idea per page with a short fact.",
-      "intro": "The water cycle and weather are early science staples, and kids understand evaporation better once they have colored the Sun warming a puddle. These prompts cover a simple rain story for preschoolers, a weather book for 6 to 9 year olds and an in-depth water cycle book with real vocabulary for older kids. Each page holds one idea and one short caption.",
+      "metaDescription": "Water cycle and weather coloring book prompts for five full 40-page books: weather words, the water cycle, clouds, forecasting and extreme weather.",
+      "intro": "The water cycle and weather are early science staples, and kids understand evaporation better once they have colored the Sun warming a puddle. These five prompts each make a full 40-page book, one idea per page: weather and what to wear for preschoolers, the water cycle step by step, clouds and sky light shows, forecasting tools and weather maps, and extreme weather science for teens. Together they take a reader from a rainy day to a supercell.",
       "keywords": [
         "water cycle coloring page",
         "water cycle coloring book",
@@ -125,52 +171,75 @@
         "earth science coloring for kids"
       ],
       "tips": [
-        "Write the cycle as a sequence of steps so the pages follow the water from the sea, up to the clouds and back.",
-        "Use the four key words, evaporation, condensation, precipitation and collection, from age 6 up.",
-        "For weather books, pair each kind of weather with what you wear or do in it; young kids remember the umbrella."
+        "Write the water cycle as a sequence, so the pages follow the water from the sea up to the clouds and back.",
+        "Use the real names of clouds and instruments (cumulonimbus, anemometer); each page then teaches one term.",
+        "For preschool weather books, pair each kind of weather with what you wear or do in it; young kids remember the umbrella."
       ],
       "prompts": [
         {
-          "name": "Where does rain come from",
+          "name": "Weather and what to wear",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "A simple water cycle story for little kids: 1. The Sun warms the water in the sea, lakes and puddles. 2. Tiny bits of water rise into the air where we cannot see them. 3. High up, the air is cold and the water makes clouds. 4. The clouds get full and heavy. 5. Rain falls down. 6. When it is very cold, snow falls instead. 7. Rain makes puddles, streams and rivers. 8. Rivers flow back to the sea. 9. Plants and animals drink the water. 10. The Sun warms the water again and the cycle goes round."
+            "description": "Weather for preschoolers, one idea per page: a sunny day, a cloudy day, a rainy day, a windy day, a snowy day, a foggy morning, a thunderstorm, lightning, a rainbow, hail, frost on a window, icicles, dew on grass, a puddle, a snowflake, an umbrella, rain boots, a raincoat, a sun hat, sunglasses, sunscreen, mittens, a scarf, a winter coat, a snowman, sledding, flying a kite, leaves blowing, jumping in puddles, a wind sock, a weathervane, a thermometer, hot weather, cold weather, spring, summer, autumn, winter, a weather chart, the Sun after rain."
           },
-          "why": "Preschool and kindergarten teachers want the water cycle as a simple circular story with no hard words, and ten steps fit a two-week weather unit. Its short length is great for home printing."
+          "why": "Preschool teachers keep a daily weather chart, and 40 weather words with the clothes that go with them give them a full term of circle-time pages."
         },
         {
-          "name": "Weather and seasons for ages 6-9",
+          "name": "The water cycle step by step",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Kinds of weather and how we measure them: 1. Sunny. 2. Cloudy. 3. Rainy. 4. Windy. 5. Snowy: snowflakes have six sides. 6. Foggy: a cloud near the ground. 7. Thunderstorms: we see lightning before we hear thunder. 8. Rainbows: sunlight shining through raindrops. 9. Hail: balls of ice from storm clouds. 10. Spring. 11. Summer. 12. Fall. 13. Winter. 14. Weather tools: a thermometer, a rain gauge and a wind vane. Show a child dressed right for each weather; for thunderstorms and hail, show the child safely indoors at the window."
+            "description": "The journey of water, one step or place per page: ocean, Sun warming water, evaporation from the sea, evaporation from a puddle, transpiration, water vapor rising, cooling air, condensation, cloud forming, droplets joining, rain cloud, precipitation, rain, snow, sleet, hail, fog, dew, frost, mountain snow, glacier, snowmelt, mountain stream, waterfall, river, lake, pond, wetland, runoff, storm drain, infiltration, groundwater, aquifer, spring, well, roots drinking, animal drinking, river meeting the sea, collection, the cycle repeating."
           },
-          "why": "Grade 1-2 teachers cover weather types, seasons and tools in one unit, and this book matches that outline page for page. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers get evaporation, condensation, precipitation and collection broken into 40 small steps, so one page a day covers a whole water unit."
         },
         {
-          "name": "The water cycle in depth for ages 9-13",
+          "name": "Clouds and sky light shows",
           "ageGroup": "9-13",
-          "numberOfPages": 12,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "The water cycle with real science words: 1. Most of Earth's water is salty ocean; only about 3% is fresh. 2. Evaporation: the Sun turns water into vapor. 3. Transpiration: plants release water through their leaves. 4. Condensation: vapor cools into droplets and forms clouds. 5. Cloud types: cumulus, stratus, cirrus, cumulonimbus. 6. Precipitation: rain, snow, sleet, hail. 7. Runoff into streams. 8. Infiltration into soil. 9. Groundwater and aquifers. 10. Glaciers and ice caps store fresh water. 11. Water treatment. 12. Saving water."
+            "description": "Clouds and sky optics, one per page: cirrus, cirrocumulus, cirrostratus, altocumulus, altostratus, nimbostratus, stratocumulus, stratus, cumulus, cumulonimbus, anvil cloud, mammatus, lenticular cloud, shelf cloud, wall cloud, pileus, Kelvin-Helmholtz waves, asperitas, noctilucent clouds, nacreous clouds, contrails, fog, cap cloud, virga, fallstreak hole, roll cloud, rainbow, double rainbow, supernumerary bows, fogbow, moonbow, 22-degree halo, sun dog, glory, corona, crepuscular rays, green flash, aurora, Belt of Venus, red sunset."
           },
-          "why": "Upper elementary teachers need evaporation, transpiration and infiltration taught as separate steps, and homeschoolers get a ready-made unit. Its short length is great for home printing."
+          "why": "Homeschoolers and young sky-watchers get the ten main cloud types plus 30 rarer clouds and light effects, a field guide they color as they learn."
+        },
+        {
+          "name": "Forecasting tools and weather maps",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Weather tools and maps, one each: thermometer, barometer, anemometer, wind vane, rain gauge, hygrometer, snow gauge, weather station, instrument shelter, weather balloon, radiosonde, weather buoy, weather satellite, Doppler radar, hurricane hunter plane, lightning detector, Celsius and Fahrenheit, air pressure, humidity, dew point, wind speed, Beaufort scale, wind chill, heat index, high pressure, low pressure, isobars, cold front, warm front, stationary front, occluded front, jet stream, air masses, sea breeze, land breeze, radar map, satellite image, forecast map, UV index, weather symbols."
+          },
+          "why": "Grade 4-6 science teachers get every instrument and weather-map symbol of a meteorology unit, one per page, ready for a station-by-station lesson."
+        },
+        {
+          "name": "Extreme weather science",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Extreme weather, one event or idea per page: supercell, mesocyclone, tornado, EF scale, waterspout, dust devil, hailstorm, giant hailstone, downburst, derecho, lightning strike, ball lightning, thunder, hurricane, the eye, the eyewall, rain bands, Saffir-Simpson scale, storm surge, typhoon, cyclone, monsoon, flash flood, river flood, blizzard, whiteout, ice storm, polar vortex, lake-effect snow, heat wave, drought, wildfire weather, pyrocumulus, dust storm, haboob, atmospheric river, landspout, El Nino, La Nina, heat dome."
+          },
+          "why": "KDP sellers reach teens and adult weather fans with the science of tornadoes, hurricanes and droughts, one event per page with its real scale and terms."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "human-body-coloring-book-prompts",
       "index": true,
       "title": "Human Body Coloring Book Prompts: Senses, Organs & Body Systems",
-      "metaDescription": "Human body coloring book prompts for kids: the five senses, heart, lungs, bones, brain and body systems, one idea per page with an easy fact.",
-      "intro": "Kids are endlessly curious about how their own bodies work, and coloring a heart or a skeleton makes anatomy friendly instead of gross. These human body coloring book prompts start with the five senses for preschoolers and build to full organ systems for 9 to 13 year olds. Every fact is short, accurate and age-appropriate.",
+      "metaDescription": "Human body coloring book prompts for five full 40-page books: body parts, organs, healthy habits, body systems and the skeleton bone by bone.",
+      "intro": "Kids are endlessly curious about how their own bodies work, and coloring a heart or a skeleton makes anatomy friendly instead of gross. These five prompts each make a full 40-page book, one idea per page: body parts and senses for preschoolers, organs and what they do, healthy habits, the body systems and the skeleton bone by bone for teens. Every page names one part and one true fact.",
       "keywords": [
         "human body coloring book",
         "human body coloring pages for kids",
@@ -181,50 +250,73 @@
       ],
       "tips": [
         "For young kids, show a friendly child using each body part (smelling a flower, listening to a bell) rather than an anatomy chart.",
-        "Use one system per page for older kids; a page that tries to show everything gets cluttered.",
-        "End with healthy habits like sleep, water and washing hands, so the book closes on something kids can do."
+        "Give each organ or bone its own page; a page that tries to show everything gets cluttered.",
+        "Use the real anatomical names from age 9 up (femur, alveoli); students meet them in tests."
       ],
       "prompts": [
         {
-          "name": "My amazing body for preschoolers",
+          "name": "My body parts and senses",
           "ageGroup": "3-6",
-          "numberOfPages": 12,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "A first book about my body, one idea per page with a child doing something: 1. My eyes see colors. 2. My ears hear music. 3. My nose smells flowers. 4. My tongue tastes food. 5. My skin feels soft and rough things. 6. My heart beats to pump blood. 7. My lungs breathe in air. 8. My bones hold me up. 9. My muscles help me run and jump. 10. My tummy digests food. 11. My brain helps me think and learn. 12. I keep my body healthy: wash hands, eat fruit, sleep."
+            "description": "Body parts and senses for preschoolers, one per page: head, hair, face, eyes, eyebrows, eyelashes, ears, nose, mouth, lips, teeth, tongue, cheeks, chin, neck, shoulders, arms, elbows, wrists, hands, fingers, thumbs, fingernails, chest, tummy, belly button, back, hips, legs, knees, ankles, feet, heels, toes, skin, sight, hearing, smell, taste, touch."
           },
-          "why": "Preschool teachers cover 'my body' and the five senses every year, and showing a child using each part keeps it friendly for a 4-year-old. Its short length is great for home printing."
+          "why": "Preschool teachers and parents teach body-part names and the five senses every year, and 40 parts make a full book for a body unit."
         },
         {
-          "name": "How my body works for ages 6-9",
+          "name": "Organs and what they do",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "How the body works for early readers: 1. Grown-ups have 206 bones. 2. The skull protects the brain. 3. Muscles pull on bones to move us. 4. The heart is a muscle about the size of your fist. 5. Blood travels in tubes called blood vessels. 6. Lungs fill with air when we breathe in. 7. Chewing starts digestion. 8. The stomach mixes food. 9. The intestines take in nutrients. 10. The brain sends messages along nerves. 11. Skin is the largest organ. 12. Kids have 20 baby teeth. 13. The five senses. 14. Sleep helps us grow."
+            "description": "Organs and body parts inside you, one per page: brain, skull, spinal cord, nerves, eyes, eardrum, nasal cavity, taste buds, skin, hair follicle, heart, arteries, veins, blood, lungs, windpipe, diaphragm, voice box, gums, saliva glands, esophagus, stomach, small intestine, large intestine, liver, gallbladder, pancreas, kidneys, bladder, spleen, bones, joints, muscles, tendons, bone marrow, white blood cells, tonsils, thyroid, baby teeth, adult teeth."
           },
-          "why": "Grade 1-3 teachers and homeschoolers get a fact a page that kids can repeat at dinner, which is how they remember it. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers and homeschoolers get one organ per page with its job, a clear step up from body parts before full body systems."
+        },
+        {
+          "name": "Healthy habits for a strong body",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 healthy habits, one per page and why: handwashing, brushing teeth twice a day, flossing, dentist visit, drinking water, vegetables, fruit, whole grains, protein, calcium foods, breakfast, fewer sugary drinks, bedtime routine, enough sleep, running, jump rope, swimming, bike helmet, stretching, outdoor play, sunscreen, sun hat, sunglasses, covering coughs, tissues, bathing, clean nails, washing fruit, good posture, safe lifting, screen breaks, seat belt, booster seat, crossing safely, life jacket, doctor checkup, vaccines, earplugs for loud noise, good reading light, talking to a grown-up."
+          },
+          "why": "Parents and health teachers get 40 everyday habits with the reason each one helps, a book kids can act on the same day."
         },
         {
           "name": "Body systems for ages 9-13",
           "ageGroup": "9-13",
-          "numberOfPages": 16,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "The body's systems, one per page, with the main organs labeled: 1. Cells are the building blocks of life. 2. Skeletal system. 3. Muscular system. 4. Circulatory system: heart, arteries, veins. 5. Red blood cells carry oxygen. 6. Respiratory system: lungs and diaphragm. 7. Digestive system. 8. The liver and kidneys clean the blood. 9. Nervous system. 10. The brain's main parts. 11. The eye. 12. The ear. 13. Skin, hair and nails. 14. Immune system: white blood cells fight germs. 15. Teeth. 16. Exercise, sleep and food keep the systems strong."
+            "description": "Body systems, one part per page: skeletal: skull, spine, ribcage, femur; muscular: biceps and triceps, heart muscle, smooth muscle; nervous: brain, spinal cord, neuron; circulatory: heart chambers, arteries, veins, capillaries, red blood cells; respiratory: trachea, bronchi, lungs, alveoli, diaphragm; digestive: mouth, esophagus, stomach, small intestine, large intestine, liver; urinary: kidneys, bladder; immune: white blood cells, lymph nodes; endocrine: pituitary gland, thyroid, adrenal glands; integumentary: skin layers, hair, nails; senses: eye, ear, nose, tongue."
           },
-          "why": "Middle-grade science covers body systems one at a time, and a labeled coloring page per system works as a study aid before a test. Its short length is great for home printing."
+          "why": "Grade 4-6 teachers get every body system with its key organs on separate pages, the exact order most middle-grade units follow."
+        },
+        {
+          "name": "The skeleton bone by bone",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 bones and bone groups, one per page: cranium, frontal bone, parietal bones, occipital bone, temporal bones, maxilla, mandible, nasal bones, zygomatic bones, hyoid, malleus, incus and stapes, cervical vertebrae, atlas and axis, thoracic vertebrae, lumbar vertebrae, sacrum, coccyx, sternum, ribs, clavicle, scapula, humerus, radius, ulna, carpals, metacarpals, phalanges of the hand, pelvis, ilium, ischium and pubis, femur, patella, tibia, fibula, talus, calcaneus, tarsals, metatarsals, phalanges of the foot, bone cross-section."
+          },
+          "why": "Anatomy students, nursing applicants and adult learners color their way through the skeleton, and KDP sellers reach a study-aid audience with it."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "how-plants-grow-coloring-book-prompts",
       "title": "How Plants Grow Coloring Book Prompts: Seeds, Roots & Photosynthesis",
-      "metaDescription": "How plants grow coloring book prompts for kids: seed to flower, what plants need, plant parts and photosynthesis, one idea per page to color.",
-      "intro": "Planting a seed is one of the first science experiments most kids do, and a coloring book helps them understand what is happening under the soil. These prompts go from a sunflower growing step by step for preschoolers to plant parts and photosynthesis for older kids. They pair beautifully with a real bean in a jar on the windowsill.",
+      "metaDescription": "How plants grow coloring book prompts for five full 40-page books: food plants, seeds on the move, amazing plants, plant parts and photosynthesis.",
+      "intro": "Planting a seed is one of the first science experiments most kids do, and a coloring book helps them understand what is happening under the soil. These five prompts each make a full 40-page book, one idea per page: where fruits and vegetables grow for preschoolers, how seeds travel and sprout, amazing plants of the world, the parts of a plant and the science of photosynthesis for teens. They pair well with a real bean in a jar on the windowsill.",
       "keywords": [
         "how plants grow coloring pages",
         "parts of a plant coloring page",
@@ -234,51 +326,74 @@
         "spring science coloring pages"
       ],
       "tips": [
-        "Show the soil cut away on some pages so kids can see roots growing underground.",
-        "Pair the book with a real seed in a clear cup; kids compare their plant to the page.",
-        "For older kids, name the inputs and outputs of photosynthesis exactly: sunlight, water and carbon dioxide in; sugar and oxygen out."
+        "Show the soil cut away on root and seed pages so kids can see what happens underground.",
+        "Name the real plant on every page (maple, burdock, coconut) instead of a generic flower.",
+        "For older kids, give photosynthesis its exact inputs and outputs: light, water and carbon dioxide in; sugar and oxygen out."
       ],
       "prompts": [
         {
-          "name": "From seed to sunflower",
+          "name": "Where our food grows",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "How a sunflower grows, one step per page with a child gardener: 1. We plant a seed in the soil. 2. We water it. 3. The Sun shines and warms the ground. 4. A tiny root grows down. 5. A sprout pushes up out of the soil. 6. Two small leaves open. 7. The stem grows tall, taller than me. 8. A big bud forms and follows the Sun across the sky. 9. The bud opens into a bright sunflower facing the morning Sun. 10. The flower makes new seeds for birds and for next year."
+            "description": "40 foods shown on the plant they grow on, one per page: carrots underground, potatoes underground, onions, radishes, beets, peanuts underground, tomatoes on a vine, peas in a pod, green beans, corn on a stalk, pumpkins on a vine, cucumbers, zucchini, peppers, eggplant, lettuce, cabbage, broccoli, cauliflower, strawberries, blueberries on a bush, raspberries, grapes on a vine, watermelon, apples on a tree, pears, cherries, peaches, oranges, lemons, bananas on a banana plant, a pineapple plant, coconuts on a palm, mangoes, avocados, sunflower seeds, wheat, rice in a paddy, cocoa pods, olives."
           },
-          "why": "Parents and preschool teachers planting seeds in spring want a book that matches what the child sees in the cup, step by step. Its short length is great for home printing."
+          "why": "Preschool teachers and parents get 40 foods kids already know shown on the plant they come from, a farm-to-table lesson in a full book."
         },
         {
-          "name": "What plants need and plant parts",
+          "name": "How seeds travel and sprout",
           "ageGroup": "6-9",
-          "numberOfPages": 12,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "What plants need and what each part does: 1. Plants need sunlight. 2. Plants need water. 3. Plants need air. 4. Plants need soil with nutrients. 5. Plants need space to grow. 6. Roots hold the plant and drink water. 7. The stem carries water up to the leaves. 8. Leaves make food for the plant. 9. Flowers make seeds. 10. Fruits protect seeds, like an apple or a tomato. 11. Some seeds we eat: peas, corn, beans. 12. Try it: grow a bean in a jar with a wet paper towel."
+            "description": "One per page: dandelion seeds, maple samaras, milkweed fluff, cottonwood fluff, pine cone seeds, tumbleweed, floating coconut, lotus pod, burdock burrs, seeds on socks, birds eating berries, squirrel and acorn, jay and acorn, ants carrying seeds, elephant dung seeds, bat eating figs, popping pods, squirting cucumber, witch hazel, pea pods, dormant seed, seed coat, stored food, embryo, soaking, coat splitting, first root, root hairs, shoot, seed leaves, true leaves, seeking light, roots going down, seedling, bean in a jar, seed tray, transplanting, seed vault, seeds in fruit, seed packet."
           },
-          "why": "Grade 1-2 'plant needs and parts' units are universal, and the bean-in-a-jar page gives teachers a hands-on finish. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers get the wind, water, animal and popping ways seeds spread, then germination step by step, which covers two standards in one book."
         },
         {
-          "name": "Photosynthesis and plant science for ages 9-13",
+          "name": "Amazing plants of the world",
           "ageGroup": "9-13",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Plant science: 1. Plants make their own food. 2. Photosynthesis uses sunlight, water and carbon dioxide. 3. It makes sugar and gives off oxygen. 4. Chlorophyll makes leaves green. 5. Stomata are tiny holes in leaves. 6. Xylem carries water up. 7. Phloem carries sugar around the plant. 8. Root hairs soak up water. 9. Plants grow toward light. 10. Roots grow down with gravity. 11. Fall leaves change color as chlorophyll fades. 12. Cactus stems store water. 13. Carnivorous plants catch insects. 14. Plants feed almost every food chain."
+            "description": "40 remarkable plants, one per page: Venus flytrap, pitcher plant, sundew, bladderwort, giant sequoia, coast redwood, bristlecone pine, baobab, banyan, dragon blood tree, saguaro cactus, welwitschia, living stones, rafflesia, titan arum, jade vine, giant water lily, sacred lotus, mangrove, bamboo, sensitive plant, telegraph plant, strangler fig, rubber tree, cacao tree, vanilla orchid, bee orchid, corkscrew rush, rose of Jericho, resurrection fern, sunflower, quaking aspen grove, dodder, wollemi pine, ginkgo, cycad, Spanish moss, ghost plant, monkey puzzle tree, Middlemist red camellia."
           },
-          "why": "Teachers and homeschoolers need photosynthesis, xylem and phloem drawn clearly, and coloring each part helps kids learn the names. Its short length is great for home printing."
+          "why": "Homeschoolers and middle-grade teachers get meat-eating, record-breaking and very rare plants, the facts that make kids want to read every caption."
+        },
+        {
+          "name": "Parts of a plant up close",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Plant parts and their jobs, one per page: taproot, fibrous roots, root hairs, root cap, stem, xylem, phloem, bark, node, bud, tendril, thorn, leaf blade, petiole, leaf veins, stomata, guard cells, chloroplast, simple leaf, compound leaf, petal, sepal, stamen, anther, filament, pollen grain, pistil, stigma, style, ovary, ovule, nectary, fruit, seed, seed coat, cotyledon, embryo, bulb, tuber, rhizome."
+          },
+          "why": "Grade 4-6 teachers get the full plant-parts vocabulary list with one labeled part per page, ready for a test-prep week."
+        },
+        {
+          "name": "Photosynthesis and plant science",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "One idea per page: sunlight, chlorophyll, chloroplast, thylakoid, stroma, CO2 through stomata, xylem water, light reactions, splitting water, oxygen released, ATP, Calvin cycle, glucose, starch storage, phloem sugar, cellular respiration, transpiration, capillary action, turgor pressure, wilting, phototropism, gravitropism, thigmotropism, auxin, photoperiod, C4 plants, CAM plants, nitrogen-fixing nodules, mycorrhizal fungi, root pressure, germination, dormancy, pollination, fertilization, ethylene ripening, autumn leaf color, deciduous and evergreen, plant cell wall, vacuole, carbon cycle."
+          },
+          "why": "High school biology students and adult learners get photosynthesis and plant physiology one term per page, a study aid KDP sellers can price as one."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "community-helpers-coloring-book-prompts",
       "title": "Community Helpers Coloring Book Prompts for Preschool and Up",
-      "metaDescription": "Community helpers coloring book prompts for kids: firefighters, doctors, teachers, mail carriers and more, each with what they do and the tools they use.",
-      "intro": "Community helpers is a favorite preschool and kindergarten unit, and kids love coloring the firefighter's truck or the vet's stethoscope. These prompts give one helper per page with a sentence about what they do, then build to tools, vehicles and how a town's services connect for older kids. Show a mix of people of different backgrounds, ages and genders in every role.",
+      "metaDescription": "Community helpers coloring book prompts for five full 40-page books: helpers, their vehicles, food helpers, animal careers and how a town works.",
+      "intro": "Community helpers is a favorite preschool and kindergarten unit, and kids love coloring the firefighter's truck or the vet's stethoscope. These five prompts each make a full 40-page book, one helper or service per page: 40 helpers for preschoolers, helpers' vehicles and tools, the people behind our food, careers with animals and nature, and how a town's services work for older kids. Show a mix of people of different backgrounds, ages and genders in every role.",
       "keywords": [
         "community helpers coloring pages",
         "community helpers coloring book",
@@ -289,50 +404,73 @@
       ],
       "tips": [
         "Ask for a diverse mix of people across the helpers; teachers want every child to see themselves in a job.",
-        "Give each helper a tool or vehicle in the picture; it is what kids recognize first.",
-        "For older kids, show how helpers depend on each other, like a 911 dispatcher sending the paramedics."
+        "Give each helper the tool or vehicle they use; it is what kids recognize first.",
+        "For older kids, show how services connect, like a 911 dispatcher sending the paramedics."
       ],
       "prompts": [
         {
-          "name": "Community helpers for preschoolers",
+          "name": "40 community helpers",
           "ageGroup": "3-6",
-          "numberOfPages": 12,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "People who help in our town, one per page with one easy sentence: 1. A firefighter puts out fires. 2. A police officer keeps us safe. 3. A doctor helps us when we are sick. 4. A nurse takes care of patients. 5. A teacher helps us learn. 6. A mail carrier brings letters. 7. A garbage collector keeps streets clean. 8. A farmer grows our food. 9. A baker makes bread. 10. A librarian helps us find books. 11. A dentist checks our teeth. 12. A crossing guard helps us cross the street. Show men and women of many backgrounds."
+            "description": "40 community helpers, one per page with what they do: firefighter, police officer, paramedic, doctor, nurse, dentist, veterinarian, teacher, librarian, mail carrier, garbage collector, recycling collector, bus driver, crossing guard, farmer, baker, grocer, chef, pharmacist, construction worker, electrician, plumber, carpenter, mechanic, pilot, train conductor, lifeguard, park ranger, zookeeper, barber, tailor, delivery driver, school custodian, street sweeper driver, painter, window washer, optometrist, school cook, snowplow driver, road worker."
           },
-          "why": "Community helpers is in nearly every pre-K curriculum, and teachers want one clear helper per page with a sentence a child can repeat. Its short length is great for home printing."
+          "why": "Preschool and kindergarten teachers get one helper a day for eight school weeks, the standard community helpers unit in a single book."
         },
         {
-          "name": "Helpers, tools and vehicles for ages 6-9",
+          "name": "Helpers' vehicles and tools",
+          "ageGroup": "3-6",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 vehicles and tools community helpers use, one per page: fire engine, ladder truck, fire hose, fire hydrant, ambulance, stretcher, police car, police motorcycle, rescue helicopter, fireboat, lifeboat, mail truck, mailbox, garbage truck, recycling truck, street sweeper, snowplow, salt spreader, tow truck, school bus, city bus, train, airplane, tractor, combine harvester, crane, bulldozer, excavator, dump truck, cement mixer, road roller, bucket truck, stethoscope, thermometer, dentist's mirror, vet's scale, toolbox, hard hat, stop sign paddle, library book cart."
+          },
+          "why": "Parents of vehicle-loving preschoolers and daycare teachers get 40 trucks, machines and tools tied to the helper who uses each one."
+        },
+        {
+          "name": "From farm to table",
           "ageGroup": "6-9",
-          "numberOfPages": 16,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Community helpers with the tools and vehicles they use: 1. Firefighter: hose, ladder truck. 2. Paramedic: ambulance, stretcher. 3. Doctor: stethoscope. 4. Veterinarian: caring for a dog. 5. Teacher: whiteboard and books. 6. Mail carrier: mail truck. 7. Pilot: cockpit. 8. Bus driver. 9. Construction worker: hard hat and crane. 10. Electrician: wires and tools. 11. Plumber: wrench and pipes. 12. Farmer: tractor. 13. Chef: kitchen. 14. Librarian. 15. Sanitation worker: recycling truck. 16. Park ranger: trail map."
+            "description": "Food jobs, one per page: seed grower, farmer planting, irrigation worker, crop scientist, beekeeper, orchard picker, combine driver, dairy farmer, egg farmer, rancher, fisher, fish farmer, greenhouse grower, farm vet, grain elevator worker, miller, food scientist, factory line worker, food inspector, packer, truck driver, train freight crew, ship crew, warehouse worker, forklift driver, grocery stocker, produce clerk, butcher, baker, cashier, farmers market seller, chef, line cook, server, dishwasher, school cook, food bank volunteer, delivery rider, compost collector, nutritionist."
           },
-          "why": "Grade 1-2 teachers extend the helpers unit to tools and vehicles, and kids who love trucks get a reason to color every page. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers get the full chain from seed to plate, so kids see the dozens of helpers behind a single lunch."
         },
         {
-          "name": "How a community works for ages 9-13",
+          "name": "Careers with animals and nature",
           "ageGroup": "9-13",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "How a town works: 1. A 911 dispatcher answers emergency calls. 2. Firefighters and paramedics respond. 3. Doctors and nurses work in a hospital. 4. Water treatment workers clean our drinking water. 5. Line workers fix power lines. 6. Sanitation and recycling workers. 7. Road crews fix potholes. 8. Mail carriers. 9. Farmers and grocery workers bring food to town. 10. Teachers and librarians. 11. Town council members make local decisions. 12. Judges. 13. Volunteers at a food bank. 14. How kids can help their community."
+            "description": "Nature jobs, one each: veterinarian, vet technician, zookeeper, aquarium diver, wildlife rescuer, park ranger, game warden, marine biologist, ornithologist, entomologist, herpetologist, primatologist, beekeeper, farrier, dog trainer, guide dog trainer, groomer, shelter worker, riding instructor, shepherd, forester, smokejumper, tree surgeon, botanist, horticulturist, gardener, soil scientist, oceanographer, glaciologist, volcanologist, meteorologist, geologist, paleontologist, conservationist, seed banker, nature photographer, trail builder, zoo vet, fish biologist, nature educator."
           },
-          "why": "Social studies teachers in grades 3-5 cover local government and public services, and this book connects jobs to how a community runs. Its short length is great for home printing."
+          "why": "Homeschoolers and middle-grade teachers running a careers unit get 40 real outdoor and animal jobs, one per page with what the work involves."
+        },
+        {
+          "name": "How a town works",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "One service per page: town hall, mayor's office, city council meeting, voting day, courthouse, fire station, police station, 911 dispatch, emergency room, health clinic, water treatment plant, water tower, wastewater plant, power plant, power lines, recycling center, landfill, post office, public library, public school, school board, bus depot, train station, control tower, road crew, traffic lights, street lights, snow removal, parks department, community garden, food bank, animal shelter, inspector, city planner, tax office, museum, community center, public pool, emergency shelter, town map."
+          },
+          "why": "Grade 4-6 civics teachers get 40 services that keep a town running, one per page, for a local government unit."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "recycling-earth-day-coloring-book-prompts",
       "title": "Recycling and Earth Day Coloring Book Prompts for Kids",
-      "metaDescription": "Recycling and Earth Day coloring book prompts for kids: sorting recycling, reduce reuse recycle, composting and saving energy, one idea per page.",
-      "intro": "Earth Day on April 22 brings a rush of teachers and parents looking for recycling activities that actually teach something. These prompts turn sorting, composting, saving water and the journey of a plastic bottle into one-idea-per-page coloring books. They work for a single Earth Day lesson or a whole green-habits unit.",
+      "metaDescription": "Recycling and Earth Day coloring book prompts for five full 40-page books: green habits, sorting, composting, recycled materials and clean energy.",
+      "intro": "Earth Day on April 22 brings a rush of teachers and parents looking for recycling activities that actually teach something. These five prompts each make a full 40-page book, one idea per page: green habits for preschoolers, what goes in which bin, composting and soil life, the journey of recycled materials and clean energy for teens. They work for an Earth Day week or a whole term of green lessons.",
       "keywords": [
         "recycling coloring pages",
         "earth day coloring book",
@@ -343,50 +481,73 @@
       ],
       "tips": [
         "Publish or print in March; Earth Day searches peak in the weeks before April 22.",
-        "Keep the habits practical (turn off the tap while brushing) so kids can do them the same day.",
+        "Recycling rules differ by town, so the sorting book names usual bins; add a note telling readers to check their local rules.",
         "Avoid scary pictures of polluted oceans for little kids; show the fix, not the disaster."
       ],
       "prompts": [
         {
-          "name": "Helping the Earth for preschoolers",
+          "name": "Green habits for little kids",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Easy ways little kids can help the Earth, one per page: 1. Put paper in the recycling bin. 2. Rinse plastic bottles and recycle them. 3. Recycle glass jars. 4. Recycle metal cans. 5. Reuse a jar as a pencil holder. 6. Turn off the lights when you leave a room. 7. Turn off the tap while you brush your teeth. 8. Pick up litter at the park. 9. Plant a tree. 10. Put banana peels and apple cores in the compost. Show smiling kids and happy animals."
+            "description": "Green habits, one each: tap off, lights off, reusable bottle, cloth bag, lunch box, walking, biking, taking the bus, tree planting, flower planting, watering can, rain barrel, litter pickup, two-sided paper, sharing toys, fixing toys, passing on clothes, secondhand shop, library books, scrap art, sorting recycling, rinsing a jar, squashing a can, composting, short showers, fridge shut, chargers unplugged, line-drying clothes, bird feeder, bee hotel, vegetable patch, eating leftovers, zero-waste picnic, beach cleanup, TV off, a sweater, reusable straw, growing herbs, nature walk, Earth Day."
           },
-          "why": "Pre-K teachers want an Earth Day book with ten simple actions a four-year-old can actually do, shown cheerfully. Its short length is great for home printing."
+          "why": "Preschool teachers want Earth Day habits kids can do the same day, and 40 of them fill a full book for April or all year."
         },
         {
-          "name": "Where does recycling go, ages 6-9",
+          "name": "What goes in which bin",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "After the recycling bin: 1. Reduce, reuse, recycle. 2. Sort paper, plastic, glass and metal. 3. The recycling truck collects the bins. 4. At the sorting center, machines separate everything. 5. Paper becomes pulp, then new paper. 6. Plastic bottles can become fleece jackets. 7. Aluminum cans can be recycled again and again. 8. Glass is melted into new jars. 9. Composting turns food scraps into soil. 10. Worms help compost. 11. Reusable bags and bottles. 12. Save water. 13. Save energy. 14. Earth Day is April 22."
+            "description": "One item and its usual bin per page: newspaper, cardboard box, cereal box, office paper, magazine, paper bag, egg carton, aluminum can, steel can, foil tray, glass bottle, glass jar, plastic bottle, milk jug, shampoo bottle, yogurt pot, banana peel, apple core, eggshells, coffee grounds, tea leaves, veggie scraps, fall leaves, grass clippings, batteries, light bulbs and paint to a drop-off, old phone to e-waste, clothes, toys and books to donate, plastic bags to a store, chip bag, used tissue and broken mug to trash, jar as a pencil pot, box as a toy, recycling, compost and trash bins."
           },
-          "why": "Grade 1-3 teachers want to show the journey after the bin, which answers the question kids always ask: where does it go? Its short length is great for home printing."
+          "why": "Grade 1-3 teachers running a sorting lesson get 40 everyday items, one per page, which turns the recycling unit into a whole-class game."
         },
         {
-          "name": "Protecting our planet for ages 9-13",
-          "ageGroup": "9-13",
-          "numberOfPages": 14,
+          "name": "Compost and soil life",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Bigger ideas about caring for the planet: 1. What a landfill is. 2. Some materials take hundreds of years to break down. 3. How litter reaches rivers and the ocean. 4. Microplastics. 5. Composting returns nutrients to soil. 6. Upcycling old things into new ones. 7. Renewable energy: solar panels. 8. Wind turbines. 9. Saving electricity at home. 10. Saving water. 11. Trees take in carbon dioxide and give off oxygen. 12. Protecting animal habitats. 13. A community cleanup. 14. Make an Earth Day pledge."
+            "description": "Composting and the living soil, one per page: a compost bin, a compost heap, greens, browns, fruit peels, vegetable scraps, coffee grounds, eggshells, dry leaves, shredded paper, straw, grass clippings, turning the pile, air in the pile, water in the pile, a warm pile, bacteria, fungi, mold, earthworms, red wigglers, worm castings, pill bugs, millipedes, springtails, mites, beetles, snails, slugs, ants, centipedes, a worm bin, finished compost, spreading compost, humus, topsoil, subsoil, a healthy garden, a seedling in compost, a compost thermometer."
           },
-          "why": "Upper elementary teachers need a science-based environment unit that ends on action, and homeschoolers get a full Earth Day week in one book. Its short length is great for home printing."
+          "why": "Homeschoolers and garden-club teachers get composting from peel to soil with the creatures that do the work, a hands-on science unit in 40 pages."
+        },
+        {
+          "name": "Journeys of recycled materials",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Recycling journeys, one step per page: can: collected, shredded, melted, rolled, new can; plastic bottle: sorted, washed, flaked, pellets, fleece fiber, jacket; paper: baled, pulped, de-inked, pressed, new paper; glass: color sorting, cullet, melting, new jar; steel: magnet pickup, melting, new beam; phone: dismantled, metals recovered; food scraps: collected, composted, spread on farms; tires: shredded, playground surface; recycling truck, sorting conveyor, optical sorter, eddy current separator, baler, recycling symbols; reduce, reuse, recycle, recover."
+          },
+          "why": "Grade 4-6 teachers get the step-by-step journeys of cans, bottles, paper and glass, the part of recycling kids never see."
+        },
+        {
+          "name": "Clean energy and saving resources",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "One idea per page: solar panels, solar farm, solar thermal, wind turbine, offshore wind, hydro dam, river hydro, tidal power, wave energy, geothermal plant, heat pump, biogas digester, biomass, green hydrogen, battery storage, pumped storage, smart grid, electric car, electric bus, high-speed rail, bike lanes, LED bulbs, insulation, double glazing, green roof, solar water heater, low-flow taps, rain barrel, greywater reuse, drip irrigation, carbon footprint, greenhouse effect, carbon capture, reforestation, mangroves, peat bogs, energy labels, repair cafe, circular economy, net-zero home."
+          },
+          "why": "High school teachers and adult learners get renewable energy and resource saving one technology per page, a solid Earth Day title for KDP sellers."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "bees-and-pollinators-coloring-book-prompts",
       "title": "Bees and Pollinators Coloring Book Prompts for Kids",
-      "metaDescription": "Bees and pollinators coloring book prompts for kids: how bees make honey, pollination, butterflies, bats and hummingbirds, one fact per page.",
-      "intro": "Bees and pollinators are a spring science favorite, and kids are amazed to learn that many fruits need an insect's visit to grow. These prompts cover a honeybee's day for preschoolers, the many kinds of pollinators for 6 to 9 year olds and life inside a honeybee colony for older kids. Every fact is short and true.",
+      "metaDescription": "Bees and pollinators coloring book prompts for five full 40-page books: foods bees give us, pollinators, the hive, a pollinator garden, pollination.",
+      "intro": "Bees and pollinators are a spring science favorite, and kids are amazed to learn that many fruits need an insect's visit to grow. These five prompts each make a full 40-page book, one idea per page: foods pollinators help grow for preschoolers, 40 pollinators of the world, a pollinator garden, life inside a honeybee colony and the science of pollination for teens. Every caption is short and true.",
       "keywords": [
         "bee coloring pages",
         "bees coloring book",
@@ -397,50 +558,73 @@
       ],
       "tips": [
         "Show the pollen on the bee's fuzzy body; it is the picture that makes pollination click for kids.",
-        "Include non-bee pollinators like bats, moths and hummingbirds; teachers love the surprise.",
-        "End with something kids can do, like planting flowers bees like."
+        "Include non-bee pollinators like bats, moths, beetles and hummingbirds; teachers love the surprise.",
+        "End the garden book with something kids can do, like leaving a patch of bare soil for ground-nesting bees."
       ],
       "prompts": [
         {
-          "name": "A busy bee's day for preschoolers",
+          "name": "Foods pollinators help grow",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "A honeybee's busy day, one idea per page: 1. A honeybee flies out of the hive in the morning. 2. She lands on a flower. 3. She sips sweet nectar. 4. Yellow pollen sticks to her fuzzy body. 5. She carries pollen to the next flower. 6. That helps the flower make seeds and fruit, like apples and strawberries. 7. She flies home to the hive. 8. Bees build honeycomb with six-sided cells. 9. Bees turn nectar into honey. 10. The queen bee lays eggs that grow into new bees."
+            "description": "40 crops pollinators help grow, one per page: apples, pears, cherries, plums, peaches, apricots, strawberries, blueberries, raspberries, blackberries, cranberries, watermelon, cantaloupe, pumpkins, squash, zucchini, cucumbers, tomatoes, peppers, eggplant, almonds, cashews, Brazil nuts, avocados, mangoes, kiwifruit, passion fruit, figs, cocoa beans, vanilla, coffee, sunflower seeds, clover, alfalfa, cotton, onion seeds, carrot seeds, broccoli seeds, lychees, buckwheat."
           },
-          "why": "Preschool teachers doing a spring insect unit want a friendly bee story with one clear idea per page, and it eases kids' fear of bees. Its short length is great for home printing."
+          "why": "Preschool teachers and parents get 40 familiar foods, each with the pollinator that helps it grow, which makes 'why bees matter' concrete for a four-year-old."
         },
         {
-          "name": "Pollinators and the food we eat",
+          "name": "Pollinators of the world",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Meet the pollinators and the foods they help grow: 1. What pollination is. 2. Honeybees. 3. Bumblebees can buzz pollen loose from tomato flowers. 4. Butterflies. 5. Moths visit flowers at night. 6. Hummingbirds drink nectar from tube-shaped flowers. 7. Some bats pollinate agave and banana flowers. 8. Beetles. 9. Flies. 10. Wind carries pollen for corn and grasses. 11. Apples, strawberries and pumpkins need pollinators. 12. Almonds need bees. 13. Plant a pollinator garden. 14. Leave clover and dandelions for the bees."
+            "description": "40 pollinators, one per page: honeybee, bumblebee, mason bee, leafcutter bee, carpenter bee, sweat bee, mining bee, squash bee, orchid bee, stingless bee, monarch butterfly, swallowtail, painted lady, hawk moth, hummingbird hawk-moth, yucca moth, owlet moth, hoverfly, bee fly, cocoa midge, fig wasp, soldier beetle, scarab beetle, paper wasp, ruby-throated hummingbird, sunbird, honeyeater, white-eye, lesser long-nosed bat, flying fox, honey possum, ruffed lemur, gecko, blue-banded bee, sugar glider, carrion fly, thrips, mosquito on an orchid, bellbird, wind as a pollinator."
           },
-          "why": "Grade 1-3 teachers love a pollinator unit that links insects to lunchbox food, and it makes a strong Earth Day or spring science book. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers get bees, moths, flies, birds, bats and even a lemur, so kids learn that pollination is not just a bee's job."
         },
         {
-          "name": "Inside the honeybee colony for ages 9-13",
-          "ageGroup": "9-13",
-          "numberOfPages": 16,
+          "name": "A pollinator garden",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Life inside a honeybee colony: 1. A colony has one queen, many workers and some drones. 2. The queen lays up to 1,500 eggs a day. 3. Egg. 4. Larva. 5. Pupa. 6. Adult bee. 7. Young workers clean cells. 8. Nurse bees feed larvae. 9. Builders make wax comb. 10. Guards protect the entrance. 11. Foragers collect nectar and pollen. 12. Pollen baskets on the back legs. 13. The waggle dance shows where flowers are. 14. Bees fan nectar to dry it into honey. 15. Solitary bees like mason bees. 16. Threats to bees and how to help."
+            "description": "One plant or feature per page: lavender, sunflower, purple coneflower, bee balm, milkweed, black-eyed Susan, goldenrod, aster, white clover, dandelion, borage, catmint, salvia, zinnia, cosmos, marigold, foxglove, honeysuckle, trumpet vine, phlox, evening primrose, moonflower, thyme, basil flowers, apple blossom, spring crocus, fall sedum, wildflower meadow, bee hotel, bare soil patch, water dish with stones, log pile, butterfly puddle, hollow stems in winter, no pesticides, caterpillar host plant, hummingbird feeder, bat box, blooms spring to fall, garden sign."
           },
-          "why": "Homeschoolers and middle-grade science teachers get a full honeybee biology unit, from metamorphosis to the waggle dance, in one book. Its short length is great for home printing."
+          "why": "Parents and school-garden leaders get 40 plants and habitat features that really feed pollinators, a book that ends with planting outdoors."
+        },
+        {
+          "name": "Inside a honeybee colony",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Honeybee colony life, one idea per page: queen, workers, drones, hive, comb hexagons, wax glands, queen laying, egg, larva, royal jelly, capped cell, pupa, new bee emerging, cleaner bee, nurse bee, builder bee, undertaker bee, guard bee, fanning bee, forager, queen cell, mating flight, waggle dance, round dance, nectar collecting, honey stomach, nectar to honey, capping honey, pollen baskets, bee bread, propolis, swarm, scout bees, winter cluster, drones pushed out in fall, compound eyes, stinger, hive frame, smoker, honey harvest."
+          },
+          "why": "Homeschoolers and middle-grade teachers get every job and stage inside a colony, a deep-dive unit most bee coloring books only touch on."
+        },
+        {
+          "name": "The science of pollination",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "One idea per page: petal, sepal, stamen, anther, filament, pistil, stigma, style, ovary, ovule, nectary, pollen grain, pollen tube, fertilization, seed forming, fruit forming, self-pollination, cross-pollination, wind-pollinated grass, oak catkins, corn silks, seagrass, buzz pollination, UV nectar guides, bird flowers, moth flowers, bat flowers, beetle flowers, carrion flowers, bee orchid mimicry, fig and fig wasp, yucca and yucca moth, hand-pollinated vanilla, orchard hives, hay fever, fossil pollen, pollen limitation, colony collapse, habitat loss, pollinator corridors."
+          },
+          "why": "High school biology students and adult gardeners get flower anatomy and pollinator partnerships one idea per page, a study-ready book for KDP sellers."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "volcanoes-earth-science-coloring-book-prompts",
       "title": "Volcano and Earth Science Coloring Book Prompts for Kids",
-      "metaDescription": "Volcano and earth science coloring book prompts for kids: how volcanoes erupt, Earth's layers, tectonic plates and the rock cycle, one idea per page.",
-      "intro": "Volcanoes are a gateway to earth science: once kids see magma rising, they want to know about Earth's layers, plates and rocks. These prompts start with a friendly volcano story for preschoolers and build to tectonic plates and the full rock cycle for 9 to 13 year olds. Each page explains one idea with a clear cutaway drawing.",
+      "metaDescription": "Volcano and earth science coloring book prompts for five full 40-page books: landforms, how volcanoes work, famous volcanoes, rocks, plate tectonics.",
+      "intro": "Volcanoes are a gateway to earth science: once kids see magma rising, they want to know about Earth's layers, plates and rocks. These five prompts each make a full 40-page book, one idea per page: landforms for preschoolers, how a volcano works, 40 famous volcanoes, rocks, minerals and the rock cycle, and Earth's layers and plate tectonics for teens. Each page explains one idea with a clear cutaway or a real place.",
       "keywords": [
         "volcano coloring pages",
         "volcano coloring book",
@@ -452,49 +636,72 @@
       "tips": [
         "Ask for cutaway views on key pages so kids can see the magma chamber and Earth's layers inside.",
         "Teach magma versus lava early: it is magma underground and lava once it comes out.",
-        "Finish with rocks kids can find, like pumice or granite, so the book connects to a nature walk."
+        "Name the country on every famous-volcano page, so the book teaches geography as well as geology."
       ],
       "prompts": [
         {
-          "name": "Volcanoes for little learners",
+          "name": "Landforms for little explorers",
           "ageGroup": "3-6",
-          "numberOfPages": 10,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "A first volcano book, one idea per page: 1. A volcano is a mountain with an opening at the top. 2. Deep under the ground it is very hot. 3. The heat melts rock into magma. 4. Magma rises up inside the volcano. 5. When the volcano erupts, the magma comes out and is called lava. 6. Clouds of ash puff into the sky. 7. Lava cools down and turns into new rock. 8. Some volcanoes make new islands in the sea. 9. Scientists called volcanologists study volcanoes safely. 10. After a long time, plants grow back on the volcano."
+            "description": "40 landforms and water features, one per page: mountain, volcano, hill, valley, canyon, cliff, cave, plain, plateau, mesa, butte, desert, sand dune, oasis, island, peninsula, beach, bay, cape, coral reef, ocean, sea, lake, pond, river, stream, waterfall, delta, swamp, marsh, glacier, iceberg, fjord, geyser, hot spring, forest, jungle, grassland, tundra, arch."
           },
-          "why": "Volcano-loving preschoolers get real science in tiny steps, and parents like a book that explains the eruption without anything frightening. Its short length is great for home printing."
+          "why": "Preschool and kindergarten teachers get the landform words of an early geography unit, one big picture per page."
         },
         {
-          "name": "Earth's layers and volcanoes for ages 6-9",
+          "name": "How a volcano works",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Inside the Earth: 1. The crust is the thin layer we live on. 2. The mantle is hot, slowly moving rock. 3. The outer core is liquid metal. 4. The inner core is solid metal. 5. The crust is broken into tectonic plates. 6. Plates moving cause earthquakes. 7. The Ring of Fire around the Pacific Ocean. 8. Magma vs lava. 9. Shield volcanoes have gentle slopes. 10. Stratovolcanoes are tall and steep. 11. Cinder cones are small. 12. Pumice is so full of air it floats. 13. Obsidian is natural volcanic glass. 14. Geysers shoot hot water up."
+            "description": "One idea per page: magma chamber, magma rising, the vent, the crater, lava flow, magma versus lava, ash cloud, lava bombs, pumice, obsidian, basalt, pahoehoe lava, aa lava, pillow lava, lava tube, shield volcano, cinder cone, stratovolcano, caldera, lava dome, fissure eruption, underwater volcano, a new volcanic island, pyroclastic flow, lahar, volcanic lightning, active, dormant and extinct, geyser, hot spring, fumarole, mud pot, crater lake, volcanologist, seismometer, gas sensor, heat camera, evacuation plan, rich volcanic soil, plants returning, volcanoes on other worlds."
           },
-          "why": "Grade 2-3 teachers covering Earth's structure want each layer and volcano type on its own page, and the floating pumice fact always gets a reaction. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers get the volcano unit from magma chamber to new island, one idea per page with the real vocabulary."
         },
         {
-          "name": "Rocks and the rock cycle for ages 9-13",
+          "name": "40 famous volcanoes",
           "ageGroup": "9-13",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "The rock cycle: 1. Rocks are made of minerals. 2. Igneous rock forms when magma or lava cools. 3. Granite cools slowly underground. 4. Basalt cools fast at the surface. 5. Weathering breaks rock apart. 6. Water, wind and ice carry sediment away. 7. Sediment settles in layers. 8. Layers press into sedimentary rock like sandstone. 9. Fossils hide in sedimentary rock. 10. Heat and pressure make metamorphic rock. 11. Limestone becomes marble. 12. Shale becomes slate. 13. Rock melts back into magma. 14. The Mohs scale: talc is 1, diamond is 10."
+            "description": "40 famous volcanoes, one per page: Vesuvius, Etna, Stromboli, Santorini, Teide, Hekla, Eyjafjallajokull, Surtsey, Mount Fuji, Sakurajima, Krakatoa, Tambora, Merapi, Pinatubo, Taal, Kilauea, Mauna Loa, Mauna Kea, Mount St. Helens, Mount Rainier, Mount Shasta, Crater Lake, Lassen Peak, Yellowstone Caldera, Popocatepetl, Paricutin, Arenal, Cotopaxi, Ojos del Salado, Villarrica, Mount Pelee, Kilimanjaro, Nyiragongo, Ol Doinyo Lengai, Mount Cameroon, Piton de la Fournaise, Mount Erebus, Ruapehu, Hunga Tonga-Hunga Ha'apai, Olympus Mons on Mars."
           },
-          "why": "Upper elementary earth science always includes the rock cycle, and a labeled page per stage gives homeschoolers and teachers a ready study guide. Its short length is great for home printing."
+          "why": "Homeschoolers and middle-grade geography teachers get 40 real volcanoes from every continent, each with its country and one true fact."
+        },
+        {
+          "name": "Rocks, minerals and the rock cycle",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "Rocks and minerals, one per page: the rock cycle: weathering, erosion, deposition, compaction and cementation, heat and pressure, melting, cooling; igneous: granite, basalt, obsidian, pumice, gabbro; sedimentary: sandstone, limestone, shale, conglomerate, chalk, coal; metamorphic: marble, slate, quartzite, gneiss, schist; Mohs scale: talc, gypsum, calcite, fluorite, apatite, orthoclase, quartz, topaz, corundum, diamond; mica, pyrite, halite, magnetite, malachite, geode, fossil in limestone."
+          },
+          "why": "Grade 4-6 teachers and young rock collectors get the rock cycle, the three rock types and the full Mohs scale, the core of a rocks and minerals unit."
+        },
+        {
+          "name": "Earth's layers and plate tectonics",
+          "ageGroup": "13+",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "One idea per page: inner core, outer core, mantle, continental crust, ocean crust, lithosphere, asthenosphere, mantle convection, Pangaea, continental drift, Pacific, North American, South American, Eurasian, African, Indian, Australian, Antarctic and Nazca plates, divergent boundary, convergent boundary, transform boundary, mid-ocean ridge, seafloor spreading, rift valley, subduction zone, Mariana Trench, Himalayas, San Andreas Fault, Ring of Fire, Hawaii hot spot, normal fault, reverse fault, strike-slip fault, focus and epicenter, P waves, S waves, seismograph, magnitude, tsunami."
+          },
+          "why": "High school earth science students and adult learners get plate tectonics one plate and one process per page, a study aid KDP sellers can list for teens."
         }
-      ]
+      ],
+      "pagePrompts": []
     },
     {
       "slug": "world-cultures-landmarks-coloring-book-prompts",
       "title": "World Cultures and Landmarks Coloring Book Prompts for Kids",
-      "metaDescription": "World cultures coloring book prompts for kids: hello in many languages, famous world landmarks and festivals around the world, respectful and factual.",
-      "intro": "A world cultures coloring book helps kids see how big and varied the world is, from saying hello in Swahili to lighting lamps for Diwali. These prompts cover greetings for preschoolers, famous landmarks for 6 to 9 year olds and festivals around the world for older kids. Each brief asks for respectful, everyday, modern pictures of people and places, never costumes or stereotypes.",
+      "metaDescription": "World cultures coloring book prompts for five full 40-page books: instruments, landmarks, flags, festivals and foods from around the world.",
+      "intro": "A world cultures coloring book helps kids see how big and varied the world is, from a West African djembe to lamps lit for Diwali. These five prompts each make a full 40-page book, one idea per page: musical instruments for preschoolers, 40 world landmarks, 40 flags, festivals around the world and foods around the world. Each page names the country and one true fact, with respectful, everyday, modern pictures of people and places.",
       "keywords": [
         "world cultures coloring pages",
         "around the world coloring book",
@@ -504,45 +711,68 @@
         "geography coloring pages for kids"
       ],
       "tips": [
-        "Ask for people in everyday modern clothes at home, school or a market; traditional dress only where the occasion calls for it, like a festival.",
-        "Name the country and a true fact on every page, so the book teaches geography as well as culture.",
-        "Check spellings of greetings and festival names in the brief; they appear in the captions."
+        "Ask for people in everyday modern clothes; traditional dress only where the occasion calls for it, like a festival.",
+        "Name the country on every page, so the book teaches geography as well as culture.",
+        "Check spellings of festival, dish and instrument names in the brief; they appear in the captions."
       ],
       "prompts": [
         {
-          "name": "Hello around the world for preschoolers",
+          "name": "Musical instruments around the world",
           "ageGroup": "3-6",
-          "numberOfPages": 12,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Saying hello around the world, one child and one greeting per page, with an animal or place from that country: 1. Hola, Mexico (monarch butterflies). 2. Bonjour, France (Eiffel Tower). 3. Jambo, Kenya (giraffe). 4. Konnichiwa, Japan (cherry blossoms). 5. Namaste, India (peacock). 6. Ni hao, China (panda). 7. Ciao, Italy (Leaning Tower of Pisa). 8. Marhaba, Egypt (pyramids). 9. Olá, Brazil (toucan). 10. Kia ora, New Zealand (kiwi bird). 11. Annyeonghaseyo, South Korea (hanok house). 12. Hello, Canada (moose). Children in everyday modern clothes, smiling and waving, never in costume."
+            "description": "40 instruments, one per page with where it comes from: djembe, talking drum, kora, mbira, sitar, tabla, harmonium, erhu, guzheng, koto, taiko drum, shamisen, gamelan gong, angklung, didgeridoo, ukulele, steel pan, maracas, bongos, conga, marimba, pan flute, charango, cajon, bandoneon, guitar, castanets, bagpipes, Irish harp, bodhran, alphorn, accordion, balalaika, bouzouki, oud, darbuka, violin, banjo, rain stick, kalimba."
           },
-          "why": "Preschool teachers building a multicultural classroom want a gentle first look at other languages, and kids love saying each hello out loud. Its short length is great for home printing."
+          "why": "Preschool music teachers and parents get 40 instruments from every continent, a world-music unit kids can color while they listen."
         },
         {
-          "name": "Famous landmarks of the world for ages 6-9",
+          "name": "40 landmarks of the world",
           "ageGroup": "6-9",
-          "numberOfPages": 14,
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Famous landmarks with one fact each: 1. Great Wall of China, thousands of miles long. 2. Pyramids of Giza, Egypt, over 4,500 years old. 3. Eiffel Tower, Paris. 4. Taj Mahal, India, white marble. 5. Machu Picchu, Peru, high in the Andes. 6. Statue of Liberty, New York. 7. Great Barrier Reef, Australia, seen from space. 8. Colosseum, Rome. 9. Petra, Jordan, carved into rock. 10. Mount Kilimanjaro, Tanzania. 11. Angkor Wat, Cambodia. 12. Chichen Itza, Mexico. 13. Stonehenge, England. 14. Iguazu Falls, on the border of Brazil and Argentina."
+            "description": "40 landmarks, one per page: Eiffel Tower, Great Wall, Taj Mahal, Giza pyramids, Great Sphinx, Colosseum, Tower of Pisa, Big Ben, Tower Bridge, Stonehenge, Statue of Liberty, Golden Gate Bridge, Grand Canyon, Niagara Falls, CN Tower, Chichen Itza, Machu Picchu, Christ the Redeemer, Iguazu Falls, Moai of Rapa Nui, Sydney Opera House, Uluru, Great Barrier Reef, Mount Fuji, Forbidden City, Angkor Wat, Borobudur, Petronas Towers, Burj Khalifa, Petra, Hagia Sophia, Parthenon, Sagrada Familia, Alhambra, Neuschwanstein, Mont-Saint-Michel, St. Basil's, Victoria Falls, Kilimanjaro, Table Mountain."
           },
-          "why": "Teachers and homeschoolers use landmarks to anchor geography, and one landmark per page with a fact makes a map unit hands-on. Its short length is great for home printing."
+          "why": "Grade 1-3 teachers and homeschoolers get a round-the-world tour of 40 landmarks, each page naming the country and one fact."
         },
         {
-          "name": "Festivals around the world for ages 9-13",
-          "ageGroup": "9-13",
-          "numberOfPages": 14,
+          "name": "40 flags of the world",
+          "ageGroup": "6-9",
+          "numberOfPages": 40,
           "pageSize": "8.5x11",
           "highQuality": false,
           "fields": {
-            "description": "Festivals, shown respectfully with families taking part: 1. Diwali, lamps and rangoli. 2. Lunar New Year, lion dance and red envelopes. 3. Holi, colored powder in spring. 4. Eid al-Fitr ends Ramadan with a family meal. 5. Hanukkah, the menorah's eight nights. 6. Christmas, Jesus's birth, a decorated tree. 7. Kwanzaa, the kinara. 8. Day of the Dead, marigolds for loved ones. 9. Carnival in Brazil, kids parading with drums and confetti. 10. Songkran, Thai New Year. 11. Nowruz, Persian New Year. 12. Mid-Autumn Festival, mooncakes. 13. Inti Raymi, Peru. 14. Homowo, Ghana, a harvest feast."
+            "description": "40 national flags, one per page with its country: Japan, France, Italy, Germany, Ireland, Belgium, Netherlands, Poland, Ukraine, Sweden, Norway, Denmark, Finland, Iceland, Switzerland, Greece, Spain, United Kingdom, Canada, United States, Mexico, Jamaica, Brazil, Argentina, Chile, Peru, Colombia, Nigeria, Ghana, Kenya, South Africa, Egypt, Morocco, India, China, South Korea, Thailand, Indonesia, Australia, New Zealand."
           },
-          "why": "Teachers building an inclusive classroom want festivals from many faiths and countries treated equally and accurately, one per page. Its short length is great for home printing."
+          "why": "Parents and grade 1-3 teachers get the classic color-the-flag geography book with countries from every inhabited continent."
+        },
+        {
+          "name": "Festivals around the world",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 festivals, one per page with where it is celebrated and one custom: Lunar New Year, Lantern Festival, Tet, Nowruz, Holi, Diwali, Pongal, Onam, Durga Puja, Vesak, Songkran, Loy Krathong, Chuseok, Mid-Autumn Festival, Dragon Boat Festival, Hanami, Obon, Children's Day in Japan, Eid al-Fitr, Eid al-Adha, Hanukkah, Passover, Rosh Hashanah, Christmas, Easter, Saint Lucia's Day, Midsummer, Carnival in Brazil, Carnival of Venice, Day of the Dead, Inti Raymi, Junkanoo, Kwanzaa, Thanksgiving, Timkat, Meskel, Homowo, Matariki, La Tomatina, Up Helly Aa."
+          },
+          "why": "Middle-grade teachers building an inclusive calendar get 40 festivals from every faith and region, a page for nearly every week of the school year."
+        },
+        {
+          "name": "Foods around the world",
+          "ageGroup": "9-13",
+          "numberOfPages": 40,
+          "pageSize": "8.5x11",
+          "highQuality": false,
+          "fields": {
+            "description": "40 dishes, one per page with the country it comes from: sushi, ramen, dumplings, kimchi, pho, pad thai, nasi goreng, adobo, laksa, biryani, dosa, injera, jollof rice, fufu, ugali, bobotie, couscous, tagine, falafel, hummus, baklava, borscht, pierogi, goulash, paella, croissant, crepes, pizza, pretzel, fish and chips, poutine, tacos, tamales, arepas, ceviche, feijoada, empanadas, jerk chicken, gumbo, meat pie."
+          },
+          "why": "Homeschoolers and teachers running an around-the-world unit get 40 well-known dishes with their home country, a geography lesson kids remember through food."
         }
-      ]
+      ],
+      "pagePrompts": []
     }
   ]
 }

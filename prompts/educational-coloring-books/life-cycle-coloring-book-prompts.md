@@ -2,19 +2,19 @@
 
 <img src="../../assets/img/life-cycle-coloring-book-prompts.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/life-cycle/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/life-cycle/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [Butterfly life cycle for preschoolers](#1-butterfly-life-cycle-for-preschoolers) · [Frog and chicken life cycles](#2-frog-and-chicken-life-cycles) · [Flowering plant life cycle in depth](#3-flowering-plant-life-cycle-in-depth)
+**Prompts on this page:** [Baby animals and their names](#1-baby-animals-and-their-names) · [Insect and amphibian metamorphosis](#2-insect-and-amphibian-metamorphosis) · [Mammal, bird and reptile life cycles](#3-mammal-bird-and-reptile-life-cycles) · [Ocean life cycles](#4-ocean-life-cycles) · [Plant and fungus life cycles](#5-plant-and-fungus-life-cycles)
 
-## 1. Butterfly life cycle for preschoolers
+## 1. Baby animals and their names
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-How a monarch caterpillar becomes a butterfly, one simple step per page: 1. A butterfly lays a tiny egg on a milkweed leaf. 2. A small caterpillar hatches and eats its eggshell. 3. It munches milkweed leaves all day. 4. It grows so fast it sheds its skin. 5. It hangs upside down in a J shape. 6. It makes a green chrysalis. 7. Inside, its body changes. 8. A butterfly comes out. 9. It dries its wings in the sun. 10. It drinks flower nectar and lays eggs of its own.
+40 baby animals with their grown-up, one per page: dog puppy, cat kitten, cow calf, horse foal, sheep lamb, pig piglet, goat kid, hen chick, duckling, gosling, swan cygnet, owlet, eaglet, kangaroo joey, koala joey, lion cub, bear cub, tiger cub, fox kit, rabbit kit, deer fawn, elephant calf, giraffe calf, whale calf, seal pup, bat pup, turkey poult, alpaca cria, hedgehog hoglet, penguin chick, frog tadpole, butterfly caterpillar, fish fry, turtle hatchling, spider spiderling, zebra foal, hippo calf, otter pup, squirrel kit, beaver kit.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=How%20a%20monarch%20caterpillar%20becomes%20a%20butterfly%2C%20one%20simple%20step%20per%20page%3A%201.%20A%20butterfly%20lays%20a%20tiny%20egg%20on%20a%20milkweed%20leaf.%202.%20A%20small%20caterpillar%20hatches%20and%20eats%20its%20eggshell.%203.%20It%20munches%20milkweed%20leaves%20all%20day.%204.%20It%20grows%20so%20fast%20it%20sheds%20its%20skin.%205.%20It%20hangs%20upside%20down%20in%20a%20J%20shape.%206.%20It%20makes%20a%20green%20chrysalis.%207.%20Inside%2C%20its%20body%20changes.%208.%20A%20butterfly%20comes%20out.%209.%20It%20dries%20its%20wings%20in%20the%20sun.%2010.%20It%20drinks%20flower%20nectar%20and%20lays%20eggs%20of%20its%20own.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-1)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20baby%20animals%20with%20their%20grown-up%2C%20one%20per%20page%3A%20dog%20puppy%2C%20cat%20kitten%2C%20cow%20calf%2C%20horse%20foal%2C%20sheep%20lamb%2C%20pig%20piglet%2C%20goat%20kid%2C%20hen%20chick%2C%20duckling%2C%20gosling%2C%20swan%20cygnet%2C%20owlet%2C%20eaglet%2C%20kangaroo%20joey%2C%20koala%20joey%2C%20lion%20cub%2C%20bear%20cub%2C%20tiger%20cub%2C%20fox%20kit%2C%20rabbit%20kit%2C%20deer%20fawn%2C%20elephant%20calf%2C%20giraffe%20calf%2C%20whale%20calf%2C%20seal%20pup%2C%20bat%20pup%2C%20turkey%20poult%2C%20alpaca%20cria%2C%20hedgehog%20hoglet%2C%20penguin%20chick%2C%20frog%20tadpole%2C%20butterfly%20caterpillar%2C%20fish%20fry%2C%20turtle%20hatchling%2C%20spider%20spiderling%2C%20zebra%20foal%2C%20hippo%20calf%2C%20otter%20pup%2C%20squirrel%20kit%2C%20beaver%20kit.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,25 +23,25 @@ How a monarch caterpillar becomes a butterfly, one simple step per page: 1. A bu
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 10,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "How a monarch caterpillar becomes a butterfly, one simple step per page: 1. A butterfly lays a tiny egg on a milkweed leaf. 2. A small caterpillar hatches and eats its eggshell. 3. It munches milkweed leaves all day. 4. It grows so fast it sheds its skin. 5. It hangs upside down in a J shape. 6. It makes a green chrysalis. 7. Inside, its body changes. 8. A butterfly comes out. 9. It dries its wings in the sun. 10. It drinks flower nectar and lays eggs of its own."
+    "description": "40 baby animals with their grown-up, one per page: dog puppy, cat kitten, cow calf, horse foal, sheep lamb, pig piglet, goat kid, hen chick, duckling, gosling, swan cygnet, owlet, eaglet, kangaroo joey, koala joey, lion cub, bear cub, tiger cub, fox kit, rabbit kit, deer fawn, elephant calf, giraffe calf, whale calf, seal pup, bat pup, turkey poult, alpaca cria, hedgehog hoglet, penguin chick, frog tadpole, butterfly caterpillar, fish fry, turtle hatchling, spider spiderling, zebra foal, hippo calf, otter pup, squirrel kit, beaver kit."
   }
 }
 ```
 
 </details>
 
-## 2. Frog and chicken life cycles
+## 2. Insect and amphibian metamorphosis
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Two life cycles, seven stages each. Frog: 1. Frogspawn, eggs in jelly in a pond. 2. A tadpole hatches and breathes with gills. 3. It swims and eats algae. 4. Back legs grow. 5. Front legs grow. 6. A froglet with a short tail climbs out. 7. An adult frog breathes air and eats insects. Chicken: 8. A hen lays an egg. 9. She keeps it warm for about 21 days. 10. The chick pecks through the shell. 11. The wet chick dries fluffy. 12. Feathers grow in. 13. A young hen scratches for seeds. 14. The grown hen lays eggs.
+Metamorphosis, one stage per page: egg, larva, pupa and adult of a butterfly, ladybug, honeybee, ant and mosquito; egg, nymph and adult of a dragonfly, grasshopper, cicada and praying mantis; frogspawn, tadpole, tadpole with back legs, froglet and frog; salamander egg, larva with feathery gills and adult.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Two%20life%20cycles%2C%20seven%20stages%20each.%20Frog%3A%201.%20Frogspawn%2C%20eggs%20in%20jelly%20in%20a%20pond.%202.%20A%20tadpole%20hatches%20and%20breathes%20with%20gills.%203.%20It%20swims%20and%20eats%20algae.%204.%20Back%20legs%20grow.%205.%20Front%20legs%20grow.%206.%20A%20froglet%20with%20a%20short%20tail%20climbs%20out.%207.%20An%20adult%20frog%20breathes%20air%20and%20eats%20insects.%20Chicken%3A%208.%20A%20hen%20lays%20an%20egg.%209.%20She%20keeps%20it%20warm%20for%20about%2021%20days.%2010.%20The%20chick%20pecks%20through%20the%20shell.%2011.%20The%20wet%20chick%20dries%20fluffy.%2012.%20Feathers%20grow%20in.%2013.%20A%20young%20hen%20scratches%20for%20seeds.%2014.%20The%20grown%20hen%20lays%20eggs.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-2)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Metamorphosis%2C%20one%20stage%20per%20page%3A%20egg%2C%20larva%2C%20pupa%20and%20adult%20of%20a%20butterfly%2C%20ladybug%2C%20honeybee%2C%20ant%20and%20mosquito%3B%20egg%2C%20nymph%20and%20adult%20of%20a%20dragonfly%2C%20grasshopper%2C%20cicada%20and%20praying%20mantis%3B%20frogspawn%2C%20tadpole%2C%20tadpole%20with%20back%20legs%2C%20froglet%20and%20frog%3B%20salamander%20egg%2C%20larva%20with%20feathery%20gills%20and%20adult.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-2)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,25 +50,52 @@ Two life cycles, seven stages each. Frog: 1. Frogspawn, eggs in jelly in a pond.
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "6-9",
-    "numberOfPages": 14,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "Two life cycles, seven stages each. Frog: 1. Frogspawn, eggs in jelly in a pond. 2. A tadpole hatches and breathes with gills. 3. It swims and eats algae. 4. Back legs grow. 5. Front legs grow. 6. A froglet with a short tail climbs out. 7. An adult frog breathes air and eats insects. Chicken: 8. A hen lays an egg. 9. She keeps it warm for about 21 days. 10. The chick pecks through the shell. 11. The wet chick dries fluffy. 12. Feathers grow in. 13. A young hen scratches for seeds. 14. The grown hen lays eggs."
+    "description": "Metamorphosis, one stage per page: egg, larva, pupa and adult of a butterfly, ladybug, honeybee, ant and mosquito; egg, nymph and adult of a dragonfly, grasshopper, cicada and praying mantis; frogspawn, tadpole, tadpole with back legs, froglet and frog; salamander egg, larva with feathery gills and adult."
   }
 }
 ```
 
 </details>
 
-## 3. Flowering plant life cycle in depth
+## 3. Mammal, bird and reptile life cycles
 
-**Ages:** 9-13 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-The life cycle of a flowering plant: 1. A seed: seed coat, embryo and stored food. 2. Germination needs water, air and warmth. 3. The root grows down first. 4. The shoot pushes up and the seed leaves (cotyledons) open. 5. True leaves make food by photosynthesis. 6. The grown plant forms a bud. 7. The flower's parts: petals, stamens, pistil. 8. Pollination by insects or wind. 9. Fertilization in the ovary. 10. Seeds form inside a fruit. 11. Seeds spread by wind, water and animals. 12. A seed waits in the soil to start again.
+One stage per page: kangaroo: newborn joey, joey in pouch, joey peeking out, adult; platypus: eggs, baby drinking milk, adult; robin: blue eggs, hatchlings, fledgling, adult; chicken: egg, hatching chick, chick, pullet, hen; crocodile: nest, hatchling, carried in mother's jaws, adult; snake: eggs, hatchling, shedding skin, adult; cuckoo: egg in a host's nest, chick ejecting host eggs, adult; elephant: newborn calf, nursing, young in herd, adult; deer: spotted fawn, yearling, buck; bat: pup on mother, first flight, adult; opossum: newborns in pouch, riding on mother's back, adult.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=The%20life%20cycle%20of%20a%20flowering%20plant%3A%201.%20A%20seed%3A%20seed%20coat%2C%20embryo%20and%20stored%20food.%202.%20Germination%20needs%20water%2C%20air%20and%20warmth.%203.%20The%20root%20grows%20down%20first.%204.%20The%20shoot%20pushes%20up%20and%20the%20seed%20leaves%20%28cotyledons%29%20open.%205.%20True%20leaves%20make%20food%20by%20photosynthesis.%206.%20The%20grown%20plant%20forms%20a%20bud.%207.%20The%20flower%27s%20parts%3A%20petals%2C%20stamens%2C%20pistil.%208.%20Pollination%20by%20insects%20or%20wind.%209.%20Fertilization%20in%20the%20ovary.%2010.%20Seeds%20form%20inside%20a%20fruit.%2011.%20Seeds%20spread%20by%20wind%2C%20water%20and%20animals.%2012.%20A%20seed%20waits%20in%20the%20soil%20to%20start%20again.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-3)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=One%20stage%20per%20page%3A%20kangaroo%3A%20newborn%20joey%2C%20joey%20in%20pouch%2C%20joey%20peeking%20out%2C%20adult%3B%20platypus%3A%20eggs%2C%20baby%20drinking%20milk%2C%20adult%3B%20robin%3A%20blue%20eggs%2C%20hatchlings%2C%20fledgling%2C%20adult%3B%20chicken%3A%20egg%2C%20hatching%20chick%2C%20chick%2C%20pullet%2C%20hen%3B%20crocodile%3A%20nest%2C%20hatchling%2C%20carried%20in%20mother%27s%20jaws%2C%20adult%3B%20snake%3A%20eggs%2C%20hatchling%2C%20shedding%20skin%2C%20adult%3B%20cuckoo%3A%20egg%20in%20a%20host%27s%20nest%2C%20chick%20ejecting%20host%20eggs%2C%20adult%3B%20elephant%3A%20newborn%20calf%2C%20nursing%2C%20young%20in%20herd%2C%20adult%3B%20deer%3A%20spotted%20fawn%2C%20yearling%2C%20buck%3B%20bat%3A%20pup%20on%20mother%2C%20first%20flight%2C%20adult%3B%20opossum%3A%20newborns%20in%20pouch%2C%20riding%20on%20mother%27s%20back%2C%20adult.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-3)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "6-9",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "One stage per page: kangaroo: newborn joey, joey in pouch, joey peeking out, adult; platypus: eggs, baby drinking milk, adult; robin: blue eggs, hatchlings, fledgling, adult; chicken: egg, hatching chick, chick, pullet, hen; crocodile: nest, hatchling, carried in mother's jaws, adult; snake: eggs, hatchling, shedding skin, adult; cuckoo: egg in a host's nest, chick ejecting host eggs, adult; elephant: newborn calf, nursing, young in herd, adult; deer: spotted fawn, yearling, buck; bat: pup on mother, first flight, adult; opossum: newborns in pouch, riding on mother's back, adult."
+  }
+}
+```
+
+</details>
+
+## 4. Ocean life cycles
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+One stage per page: salmon: egg, alevin, fry, parr, smolt, spawner; eel: egg in the Sargasso Sea, leaf-like larva, glass eel, elver, yellow eel, silver eel; sea turtle: eggs, hatchling, juvenile in seaweed, adult, nesting female; moon jellyfish: planula, polyp, strobila, ephyra, medusa; seahorse: female passing eggs, eggs in male's pouch, male giving birth; crab: egg, zoea, megalopa, adult; emperor penguin: egg on father's feet, hatching, creche, adult; coral: spawning, planula, polyp settling, colony; octopus: mother guarding eggs, paralarva, adult.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=One%20stage%20per%20page%3A%20salmon%3A%20egg%2C%20alevin%2C%20fry%2C%20parr%2C%20smolt%2C%20spawner%3B%20eel%3A%20egg%20in%20the%20Sargasso%20Sea%2C%20leaf-like%20larva%2C%20glass%20eel%2C%20elver%2C%20yellow%20eel%2C%20silver%20eel%3B%20sea%20turtle%3A%20eggs%2C%20hatchling%2C%20juvenile%20in%20seaweed%2C%20adult%2C%20nesting%20female%3B%20moon%20jellyfish%3A%20planula%2C%20polyp%2C%20strobila%2C%20ephyra%2C%20medusa%3B%20seahorse%3A%20female%20passing%20eggs%2C%20eggs%20in%20male%27s%20pouch%2C%20male%20giving%20birth%3B%20crab%3A%20egg%2C%20zoea%2C%20megalopa%2C%20adult%3B%20emperor%20penguin%3A%20egg%20on%20father%27s%20feet%2C%20hatching%2C%20creche%2C%20adult%3B%20coral%3A%20spawning%2C%20planula%2C%20polyp%20settling%2C%20colony%3B%20octopus%3A%20mother%20guarding%20eggs%2C%20paralarva%2C%20adult.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-4)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -77,10 +104,37 @@ The life cycle of a flowering plant: 1. A seed: seed coat, embryo and stored foo
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "9-13",
-    "numberOfPages": 12,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "The life cycle of a flowering plant: 1. A seed: seed coat, embryo and stored food. 2. Germination needs water, air and warmth. 3. The root grows down first. 4. The shoot pushes up and the seed leaves (cotyledons) open. 5. True leaves make food by photosynthesis. 6. The grown plant forms a bud. 7. The flower's parts: petals, stamens, pistil. 8. Pollination by insects or wind. 9. Fertilization in the ovary. 10. Seeds form inside a fruit. 11. Seeds spread by wind, water and animals. 12. A seed waits in the soil to start again."
+    "description": "One stage per page: salmon: egg, alevin, fry, parr, smolt, spawner; eel: egg in the Sargasso Sea, leaf-like larva, glass eel, elver, yellow eel, silver eel; sea turtle: eggs, hatchling, juvenile in seaweed, adult, nesting female; moon jellyfish: planula, polyp, strobila, ephyra, medusa; seahorse: female passing eggs, eggs in male's pouch, male giving birth; crab: egg, zoea, megalopa, adult; emperor penguin: egg on father's feet, hatching, creche, adult; coral: spawning, planula, polyp settling, colony; octopus: mother guarding eggs, paralarva, adult."
+  }
+}
+```
+
+</details>
+
+## 5. Plant and fungus life cycles
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+Plant and fungus life cycles, one stage per page: bean: seed, germinating seed, seedling, adult plant, flower, seed pod; sunflower: seed, sprout, bud, bloom, seed head; apple tree: seed, sapling, blossom, bee visiting a blossom, young apple, ripe apple; oak: acorn, seedling, sapling, mature oak; dandelion: rosette of leaves, yellow flower, seed head, seeds on the wind; fern: spores, prothallus, fiddlehead, adult fern; mushroom: spores, mycelium, pinhead, mushroom; pumpkin: seed, vine, flower, pumpkin; coconut: floating coconut, sprouting coconut, palm tree.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Plant%20and%20fungus%20life%20cycles%2C%20one%20stage%20per%20page%3A%20bean%3A%20seed%2C%20germinating%20seed%2C%20seedling%2C%20adult%20plant%2C%20flower%2C%20seed%20pod%3B%20sunflower%3A%20seed%2C%20sprout%2C%20bud%2C%20bloom%2C%20seed%20head%3B%20apple%20tree%3A%20seed%2C%20sapling%2C%20blossom%2C%20bee%20visiting%20a%20blossom%2C%20young%20apple%2C%20ripe%20apple%3B%20oak%3A%20acorn%2C%20seedling%2C%20sapling%2C%20mature%20oak%3B%20dandelion%3A%20rosette%20of%20leaves%2C%20yellow%20flower%2C%20seed%20head%2C%20seeds%20on%20the%20wind%3B%20fern%3A%20spores%2C%20prothallus%2C%20fiddlehead%2C%20adult%20fern%3B%20mushroom%3A%20spores%2C%20mycelium%2C%20pinhead%2C%20mushroom%3B%20pumpkin%3A%20seed%2C%20vine%2C%20flower%2C%20pumpkin%3B%20coconut%3A%20floating%20coconut%2C%20sprouting%20coconut%2C%20palm%20tree.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=life-cycle-coloring-book-prompts-5)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "9-13",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "Plant and fungus life cycles, one stage per page: bean: seed, germinating seed, seedling, adult plant, flower, seed pod; sunflower: seed, sprout, bud, bloom, seed head; apple tree: seed, sapling, blossom, bee visiting a blossom, young apple, ripe apple; oak: acorn, seedling, sapling, mature oak; dandelion: rosette of leaves, yellow flower, seed head, seeds on the wind; fern: spores, prothallus, fiddlehead, adult fern; mushroom: spores, mycelium, pinhead, mushroom; pumpkin: seed, vine, flower, pumpkin; coconut: floating coconut, sprouting coconut, palm tree."
   }
 }
 ```

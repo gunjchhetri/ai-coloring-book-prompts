@@ -2,19 +2,21 @@
 
 <img src="../../assets/img/alphabet-abc-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/alphabet-abc/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/alphabet-abc/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [A to Z animals](#1-a-to-z-animals) · [A to Z yummy foods](#2-a-to-z-yummy-foods) · [A to Z things that go](#3-a-to-z-things-that-go)
+**Prompts on this page:** [ABC animals and an alphabet parade](#1-abc-animals-and-an-alphabet-parade) · [First-words picture dictionary](#2-first-words-picture-dictionary) · [Phonics: letter sounds, vowels and letter teams](#3-phonics-letter-sounds-vowels-and-letter-teams) · [A to Z jobs and where people work](#4-a-to-z-jobs-and-where-people-work) · [Floral alphabet, numbers and symbols for adults](#5-floral-alphabet-numbers-and-symbols-for-adults)
 
-## 1. A to Z animals
+## 1. ABC animals and an alphabet parade
 
-**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-An alphabet book of animals, one letter per page, each page showing the letter and one big friendly animal: A alligator, B bear, C cat, D duck, E elephant, F fox, G giraffe, H hippo, I iguana, J jellyfish, K koala, L lion, M monkey, N narwhal, O owl, P penguin, Q quail, R rabbit, S sloth, T turtle, U umbrellabird, V vulture, W whale, X x-ray fish, Y yak, Z zebra.
+An alphabet book of animals, one item per page with its caption. Pages 1-26, each big uppercase letter with its animal: A alligator, B bear, C cat, D duck, E elephant, F fox, G giraffe, H hippo, I iguana, J jellyfish, K koala, L lion, M monkey, N narwhal, O owl, P penguin, Q quail, R rabbit, S sloth, T turtle, U umbrellabird, V vole, W walrus, X x-ray fish, Y yak, Z zebra. Pages 27-39, the alphabet parade, two letters' animals marching together: A and B, C and D, E and F, G and H, I and J, K and L, M and N, O and P, Q and R, S and T, U and V, W and X, Y and Z.
 ```
 
-[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=An%20alphabet%20book%20of%20animals%2C%20one%20letter%20per%20page%2C%20each%20page%20showing%20the%20letter%20and%20one%20big%20friendly%20animal%3A%20A%20alligator%2C%20B%20bear%2C%20C%20cat%2C%20D%20duck%2C%20E%20elephant%2C%20F%20fox%2C%20G%20giraffe%2C%20H%20hippo%2C%20I%20iguana%2C%20J%20jellyfish%2C%20K%20koala%2C%20L%20lion%2C%20M%20monkey%2C%20N%20narwhal%2C%20O%20owl%2C%20P%20penguin%2C%20Q%20quail%2C%20R%20rabbit%2C%20S%20sloth%2C%20T%20turtle%2C%20U%20umbrellabird%2C%20V%20vulture%2C%20W%20whale%2C%20X%20x-ray%20fish%2C%20Y%20yak%2C%20Z%20zebra.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-1)
+**Extra direction:** Page 40: all 26 animals marching in one long parade.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=An%20alphabet%20book%20of%20animals%2C%20one%20item%20per%20page%20with%20its%20caption.%20Pages%201-26%2C%20each%20big%20uppercase%20letter%20with%20its%20animal%3A%20A%20alligator%2C%20B%20bear%2C%20C%20cat%2C%20D%20duck%2C%20E%20elephant%2C%20F%20fox%2C%20G%20giraffe%2C%20H%20hippo%2C%20I%20iguana%2C%20J%20jellyfish%2C%20K%20koala%2C%20L%20lion%2C%20M%20monkey%2C%20N%20narwhal%2C%20O%20owl%2C%20P%20penguin%2C%20Q%20quail%2C%20R%20rabbit%2C%20S%20sloth%2C%20T%20turtle%2C%20U%20umbrellabird%2C%20V%20vole%2C%20W%20walrus%2C%20X%20x-ray%20fish%2C%20Y%20yak%2C%20Z%20zebra.%20Pages%2027-39%2C%20the%20alphabet%20parade%2C%20two%20letters%27%20animals%20marching%20together%3A%20A%20and%20B%2C%20C%20and%20D%2C%20E%20and%20F%2C%20G%20and%20H%2C%20I%20and%20J%2C%20K%20and%20L%2C%20M%20and%20N%2C%20O%20and%20P%2C%20Q%20and%20R%2C%20S%20and%20T%2C%20U%20and%20V%2C%20W%20and%20X%2C%20Y%20and%20Z.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,13 +25,14 @@ An alphabet book of animals, one letter per page, each page showing the letter a
   "tool": "create_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 26,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "An alphabet book of animals, one letter per page, each page showing the letter and one big friendly animal: A alligator, B bear, C cat, D duck, E elephant, F fox, G giraffe, H hippo, I iguana, J jellyfish, K koala, L lion, M monkey, N narwhal, O owl, P penguin, Q quail, R rabbit, S sloth, T turtle, U umbrellabird, V vulture, W whale, X x-ray fish, Y yak, Z zebra.",
+    "description": "An alphabet book of animals, one item per page with its caption. Pages 1-26, each big uppercase letter with its animal: A alligator, B bear, C cat, D duck, E elephant, F fox, G giraffe, H hippo, I iguana, J jellyfish, K koala, L lion, M monkey, N narwhal, O owl, P penguin, Q quail, R rabbit, S sloth, T turtle, U umbrellabird, V vole, W walrus, X x-ray fish, Y yak, Z zebra. Pages 27-39, the alphabet parade, two letters' animals marching together: A and B, C and D, E and F, G and H, I and J, K and L, M and N, O and P, Q and R, S and T, U and V, W and X, Y and Z.",
+    "additionalInstructions": "Page 40: all 26 animals marching in one long parade.",
     "style": "cute_animals",
     "complexity": "easy",
-    "title": "ABC Animals Coloring Book",
+    "title": "ABC Animal Parade",
     "pageCategory": "concept"
   }
 }
@@ -37,15 +40,15 @@ An alphabet book of animals, one letter per page, each page showing the letter a
 
 </details>
 
-## 2. A to Z yummy foods
+## 2. First-words picture dictionary
 
-**Ages:** 3-6 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** Food fun · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Easy · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-An alphabet book of foods, one letter per page with the letter and one big tasty food: A apple, B banana, C carrot, D doughnut, E egg, F fig, G grapes, H honey, I ice cream, J jam, K kiwi, L lemon, M muffin, N noodles, O orange, P pear, Q quiche, R raspberry, S strawberry, T tomato, U upside-down cake, V vegetable soup, W watermelon, X xiao long bao dumplings, Y yogurt, Z zucchini.
+An ABC picture dictionary of everyday things at home and outdoors, in alphabetical order, one word per page with its letter and the word as the caption. Pages 1-40: A acorn, A airplane, B ball, B boat, C car, C cup, D door, D drum, E envelope, F flower, F fork, G gate, G guitar, H hat, H house, I igloo, J jar, K kite, L lamp, L leaf, M mitten, M moon, N nest, O oven, P pail, P pillow, Q quilt, R rocket, R rug, S sock, S sun, T tent, T train, U umbrella, V violin, W wagon, W window, X xylophone, Y yo-yo, Z zipper.
 ```
 
-[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=An%20alphabet%20book%20of%20foods%2C%20one%20letter%20per%20page%20with%20the%20letter%20and%20one%20big%20tasty%20food%3A%20A%20apple%2C%20B%20banana%2C%20C%20carrot%2C%20D%20doughnut%2C%20E%20egg%2C%20F%20fig%2C%20G%20grapes%2C%20H%20honey%2C%20I%20ice%20cream%2C%20J%20jam%2C%20K%20kiwi%2C%20L%20lemon%2C%20M%20muffin%2C%20N%20noodles%2C%20O%20orange%2C%20P%20pear%2C%20Q%20quiche%2C%20R%20raspberry%2C%20S%20strawberry%2C%20T%20tomato%2C%20U%20upside-down%20cake%2C%20V%20vegetable%20soup%2C%20W%20watermelon%2C%20X%20xiao%20long%20bao%20dumplings%2C%20Y%20yogurt%2C%20Z%20zucchini.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-2)
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=An%20ABC%20picture%20dictionary%20of%20everyday%20things%20at%20home%20and%20outdoors%2C%20in%20alphabetical%20order%2C%20one%20word%20per%20page%20with%20its%20letter%20and%20the%20word%20as%20the%20caption.%20Pages%201-40%3A%20A%20acorn%2C%20A%20airplane%2C%20B%20ball%2C%20B%20boat%2C%20C%20car%2C%20C%20cup%2C%20D%20door%2C%20D%20drum%2C%20E%20envelope%2C%20F%20flower%2C%20F%20fork%2C%20G%20gate%2C%20G%20guitar%2C%20H%20hat%2C%20H%20house%2C%20I%20igloo%2C%20J%20jar%2C%20K%20kite%2C%20L%20lamp%2C%20L%20leaf%2C%20M%20mitten%2C%20M%20moon%2C%20N%20nest%2C%20O%20oven%2C%20P%20pail%2C%20P%20pillow%2C%20Q%20quilt%2C%20R%20rocket%2C%20R%20rug%2C%20S%20sock%2C%20S%20sun%2C%20T%20tent%2C%20T%20train%2C%20U%20umbrella%2C%20V%20violin%2C%20W%20wagon%2C%20W%20window%2C%20X%20xylophone%2C%20Y%20yo-yo%2C%20Z%20zipper.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-2)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -54,12 +57,13 @@ An alphabet book of foods, one letter per page with the letter and one big tasty
   "tool": "create_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 26,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "An alphabet book of foods, one letter per page with the letter and one big tasty food: A apple, B banana, C carrot, D doughnut, E egg, F fig, G grapes, H honey, I ice cream, J jam, K kiwi, L lemon, M muffin, N noodles, O orange, P pear, Q quiche, R raspberry, S strawberry, T tomato, U upside-down cake, V vegetable soup, W watermelon, X xiao long bao dumplings, Y yogurt, Z zucchini.",
-    "style": "food_fun",
+    "description": "An ABC picture dictionary of everyday things at home and outdoors, in alphabetical order, one word per page with its letter and the word as the caption. Pages 1-40: A acorn, A airplane, B ball, B boat, C car, C cup, D door, D drum, E envelope, F flower, F fork, G gate, G guitar, H hat, H house, I igloo, J jar, K kite, L lamp, L leaf, M mitten, M moon, N nest, O oven, P pail, P pillow, Q quilt, R rocket, R rug, S sock, S sun, T tent, T train, U umbrella, V violin, W wagon, W window, X xylophone, Y yo-yo, Z zipper.",
+    "style": "general_coloring",
     "complexity": "easy",
+    "title": "My First ABC Picture Dictionary",
     "pageCategory": "concept"
   }
 }
@@ -67,15 +71,17 @@ An alphabet book of foods, one letter per page with the letter and one big tasty
 
 </details>
 
-## 3. A to Z things that go
+## 3. Phonics: letter sounds, vowels and letter teams
 
-**Ages:** 6-9 · **Pages:** 26 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 26 Standard · 78 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-An alphabet book of vehicles, one letter per page, each showing the letter and the vehicle at work in a simple scene: A ambulance, B bulldozer, C cement mixer, D dump truck, E excavator, F fire truck, G garbage truck, H helicopter, I ice cream truck, J jet plane, K kayak, L locomotive, M motorcycle, N narrowboat, O ocean liner, P police car, Q quad bike, R rocket, S submarine, T tractor, U unicycle, V van, W wagon, X xebec sailing ship, Y yacht, Z zeppelin.
+A phonics book, one item per page with its caption. Pages 1-21, each letter in a scene of things that start with its sound: A astronaut with an apple, B boy with a ball and bucket, C cat in a car, D dragon with a drum, E elf with an egg, F fairy with a flower, G goat with a guitar, H horse in a hat, I iguana by an igloo, J juggler with jam jars, K king with a kite, L lemon on a ladder, M monkey on the moon, N nurse with a net, O octopus with an olive, P pirate with a pizza, Q queen with a quilt, R robot with a rose, S sailor with a seal, T tiger with a teapot, U umbrella upside down.
 ```
 
-[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=An%20alphabet%20book%20of%20vehicles%2C%20one%20letter%20per%20page%2C%20each%20showing%20the%20letter%20and%20the%20vehicle%20at%20work%20in%20a%20simple%20scene%3A%20A%20ambulance%2C%20B%20bulldozer%2C%20C%20cement%20mixer%2C%20D%20dump%20truck%2C%20E%20excavator%2C%20F%20fire%20truck%2C%20G%20garbage%20truck%2C%20H%20helicopter%2C%20I%20ice%20cream%20truck%2C%20J%20jet%20plane%2C%20K%20kayak%2C%20L%20locomotive%2C%20M%20motorcycle%2C%20N%20narrowboat%2C%20O%20ocean%20liner%2C%20P%20police%20car%2C%20Q%20quad%20bike%2C%20R%20rocket%2C%20S%20submarine%2C%20T%20tractor%2C%20U%20unicycle%2C%20V%20van%2C%20W%20wagon%2C%20X%20xebec%20sailing%20ship%2C%20Y%20yacht%2C%20Z%20zeppelin.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-3)
+**Extra direction:** Pages 22-26, each letter in a scene of things that start with its sound: V van of vegetables, W wizard with a wand, X fox in a box, Y yak with a yo-yo, Z zebra with a zipper. Pages 27-36, vowel sounds: short a: cat, hat, map; short e: bed, hen, jet; short i: pig, fish, six; short o: dog, pot, sock; short u: bug, cup, sun; long a: cake, rain, snail; long e: bee, leaf, tree; long i: kite, pie, bike; long o: boat, rope, snow; long u: cube, flute, mule. Pages 37-40, letter teams: sh: ship, shell, sheep; ch: chair, cheese, chick; th: thumb, three, throne; wh: whale, wheel, whistle.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20phonics%20book%2C%20one%20item%20per%20page%20with%20its%20caption.%20Pages%201-21%2C%20each%20letter%20in%20a%20scene%20of%20things%20that%20start%20with%20its%20sound%3A%20A%20astronaut%20with%20an%20apple%2C%20B%20boy%20with%20a%20ball%20and%20bucket%2C%20C%20cat%20in%20a%20car%2C%20D%20dragon%20with%20a%20drum%2C%20E%20elf%20with%20an%20egg%2C%20F%20fairy%20with%20a%20flower%2C%20G%20goat%20with%20a%20guitar%2C%20H%20horse%20in%20a%20hat%2C%20I%20iguana%20by%20an%20igloo%2C%20J%20juggler%20with%20jam%20jars%2C%20K%20king%20with%20a%20kite%2C%20L%20lemon%20on%20a%20ladder%2C%20M%20monkey%20on%20the%20moon%2C%20N%20nurse%20with%20a%20net%2C%20O%20octopus%20with%20an%20olive%2C%20P%20pirate%20with%20a%20pizza%2C%20Q%20queen%20with%20a%20quilt%2C%20R%20robot%20with%20a%20rose%2C%20S%20sailor%20with%20a%20seal%2C%20T%20tiger%20with%20a%20teapot%2C%20U%20umbrella%20upside%20down.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-3)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -84,12 +90,82 @@ An alphabet book of vehicles, one letter per page, each showing the letter and t
   "tool": "create_coloring_book",
   "arguments": {
     "ageGroup": "6-9",
-    "numberOfPages": 26,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "An alphabet book of vehicles, one letter per page, each showing the letter and the vehicle at work in a simple scene: A ambulance, B bulldozer, C cement mixer, D dump truck, E excavator, F fire truck, G garbage truck, H helicopter, I ice cream truck, J jet plane, K kayak, L locomotive, M motorcycle, N narrowboat, O ocean liner, P police car, Q quad bike, R rocket, S submarine, T tractor, U unicycle, V van, W wagon, X xebec sailing ship, Y yacht, Z zeppelin.",
+    "description": "A phonics book, one item per page with its caption. Pages 1-21, each letter in a scene of things that start with its sound: A astronaut with an apple, B boy with a ball and bucket, C cat in a car, D dragon with a drum, E elf with an egg, F fairy with a flower, G goat with a guitar, H horse in a hat, I iguana by an igloo, J juggler with jam jars, K king with a kite, L lemon on a ladder, M monkey on the moon, N nurse with a net, O octopus with an olive, P pirate with a pizza, Q queen with a quilt, R robot with a rose, S sailor with a seal, T tiger with a teapot, U umbrella upside down.",
+    "additionalInstructions": "Pages 22-26, each letter in a scene of things that start with its sound: V van of vegetables, W wizard with a wand, X fox in a box, Y yak with a yo-yo, Z zebra with a zipper. Pages 27-36, vowel sounds: short a: cat, hat, map; short e: bed, hen, jet; short i: pig, fish, six; short o: dog, pot, sock; short u: bug, cup, sun; long a: cake, rain, snail; long e: bee, leaf, tree; long i: kite, pie, bike; long o: boat, rope, snow; long u: cube, flute, mule. Pages 37-40, letter teams: sh: ship, shell, sheep; ch: chair, cheese, chick; th: thumb, three, throne; wh: whale, wheel, whistle.",
     "style": "general_coloring",
     "complexity": "medium",
+    "title": "Phonics Fun: Letter Sounds A to Z",
+    "pageCategory": "concept"
+  }
+}
+```
+
+</details>
+
+## 4. A to Z jobs and where people work
+
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Medium · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+An alphabet of jobs, each page showing a worker at the job with the letter and job name as the caption, then the places in town where people work. Pages 1-26, jobs: A architect, B baker, C carpenter, D dentist, E electrician, F firefighter, G gardener, H hairdresser, I illustrator, J janitor, K kindergarten teacher, L librarian, M mail carrier, N nurse, O optician, P pilot, Q quilter, R recycling collector, S scientist, T tailor, U umpire, V vet, W window washer, X x-ray technician, Y yoga teacher, Z zookeeper. Pages 27-31, workplaces: airport, bakery, building site, dentist's office, farm.
+```
+
+**Extra direction:** Pages 32-40, workplaces: fire station, hospital, library, post office, school, science lab, train station, vet clinic, zoo.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=An%20alphabet%20of%20jobs%2C%20each%20page%20showing%20a%20worker%20at%20the%20job%20with%20the%20letter%20and%20job%20name%20as%20the%20caption%2C%20then%20the%20places%20in%20town%20where%20people%20work.%20Pages%201-26%2C%20jobs%3A%20A%20architect%2C%20B%20baker%2C%20C%20carpenter%2C%20D%20dentist%2C%20E%20electrician%2C%20F%20firefighter%2C%20G%20gardener%2C%20H%20hairdresser%2C%20I%20illustrator%2C%20J%20janitor%2C%20K%20kindergarten%20teacher%2C%20L%20librarian%2C%20M%20mail%20carrier%2C%20N%20nurse%2C%20O%20optician%2C%20P%20pilot%2C%20Q%20quilter%2C%20R%20recycling%20collector%2C%20S%20scientist%2C%20T%20tailor%2C%20U%20umpire%2C%20V%20vet%2C%20W%20window%20washer%2C%20X%20x-ray%20technician%2C%20Y%20yoga%20teacher%2C%20Z%20zookeeper.%20Pages%2027-31%2C%20workplaces%3A%20airport%2C%20bakery%2C%20building%20site%2C%20dentist%27s%20office%2C%20farm.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-4)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_coloring_book",
+  "arguments": {
+    "ageGroup": "6-9",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "An alphabet of jobs, each page showing a worker at the job with the letter and job name as the caption, then the places in town where people work. Pages 1-26, jobs: A architect, B baker, C carpenter, D dentist, E electrician, F firefighter, G gardener, H hairdresser, I illustrator, J janitor, K kindergarten teacher, L librarian, M mail carrier, N nurse, O optician, P pilot, Q quilter, R recycling collector, S scientist, T tailor, U umpire, V vet, W window washer, X x-ray technician, Y yoga teacher, Z zookeeper. Pages 27-31, workplaces: airport, bakery, building site, dentist's office, farm.",
+    "additionalInstructions": "Pages 32-40, workplaces: fire station, hospital, library, post office, school, science lab, train station, vet clinic, zoo.",
+    "style": "general_coloring",
+    "complexity": "medium",
+    "title": "ABC Jobs: People at Work",
+    "pageCategory": "concept"
+  }
+}
+```
+
+</details>
+
+## 5. Floral alphabet, numbers and symbols for adults
+
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** General coloring · **Detail:** Hard · **Layout:** One item per page, with its caption · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+A decorative lettering book for adult colorists, one character per page with its caption: each big letter woven with a flower that starts with that letter, then numbers and symbols wreathed in leaves and vines. Pages 1-26, letters: A anemone, B bluebell, C camellia, D daffodil, E echinacea, F foxglove, G gardenia, H hibiscus, I iris, J jasmine, K king protea, L lily, M magnolia, N narcissus, O orchid, P peony, Q Queen Anne's lace, R rose, S sunflower, T tulip, U ursinia, V violet, W wisteria, X xeranthemum, Y yarrow, Z zinnia. Pages 27-36, numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+```
+
+**Extra direction:** Pages 37-39, symbols: ampersand, exclamation mark, question mark. Page 40: the whole alphabet together as a sampler.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=A%20decorative%20lettering%20book%20for%20adult%20colorists%2C%20one%20character%20per%20page%20with%20its%20caption%3A%20each%20big%20letter%20woven%20with%20a%20flower%20that%20starts%20with%20that%20letter%2C%20then%20numbers%20and%20symbols%20wreathed%20in%20leaves%20and%20vines.%20Pages%201-26%2C%20letters%3A%20A%20anemone%2C%20B%20bluebell%2C%20C%20camellia%2C%20D%20daffodil%2C%20E%20echinacea%2C%20F%20foxglove%2C%20G%20gardenia%2C%20H%20hibiscus%2C%20I%20iris%2C%20J%20jasmine%2C%20K%20king%20protea%2C%20L%20lily%2C%20M%20magnolia%2C%20N%20narcissus%2C%20O%20orchid%2C%20P%20peony%2C%20Q%20Queen%20Anne%27s%20lace%2C%20R%20rose%2C%20S%20sunflower%2C%20T%20tulip%2C%20U%20ursinia%2C%20V%20violet%2C%20W%20wisteria%2C%20X%20xeranthemum%2C%20Y%20yarrow%2C%20Z%20zinnia.%20Pages%2027-36%2C%20numbers%3A%200%2C%201%2C%202%2C%203%2C%204%2C%205%2C%206%2C%207%2C%208%2C%209.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=alphabet-abc-coloring-book-prompts-5)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_coloring_book",
+  "arguments": {
+    "ageGroup": "13+",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "A decorative lettering book for adult colorists, one character per page with its caption: each big letter woven with a flower that starts with that letter, then numbers and symbols wreathed in leaves and vines. Pages 1-26, letters: A anemone, B bluebell, C camellia, D daffodil, E echinacea, F foxglove, G gardenia, H hibiscus, I iris, J jasmine, K king protea, L lily, M magnolia, N narcissus, O orchid, P peony, Q Queen Anne's lace, R rose, S sunflower, T tulip, U ursinia, V violet, W wisteria, X xeranthemum, Y yarrow, Z zinnia. Pages 27-36, numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.",
+    "additionalInstructions": "Pages 37-39, symbols: ampersand, exclamation mark, question mark. Page 40: the whole alphabet together as a sampler.",
+    "style": "general_coloring",
+    "complexity": "hard",
+    "title": "Blooming Letters: A Floral Alphabet",
     "pageCategory": "concept"
   }
 }

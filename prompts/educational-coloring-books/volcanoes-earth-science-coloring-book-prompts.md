@@ -2,19 +2,19 @@
 
 <img src="../../assets/img/educational-coloring-books.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/volcanoes-earth-science/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/volcanoes-earth-science/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [Volcanoes for little learners](#1-volcanoes-for-little-learners) · [Earth's layers and volcanoes for ages 6-9](#2-earths-layers-and-volcanoes-for-ages-6-9) · [Rocks and the rock cycle for ages 9-13](#3-rocks-and-the-rock-cycle-for-ages-9-13)
+**Prompts on this page:** [Landforms for little explorers](#1-landforms-for-little-explorers) · [How a volcano works](#2-how-a-volcano-works) · [40 famous volcanoes](#3-40-famous-volcanoes) · [Rocks, minerals and the rock cycle](#4-rocks-minerals-and-the-rock-cycle) · [Earth's layers and plate tectonics](#5-earths-layers-and-plate-tectonics)
 
-## 1. Volcanoes for little learners
+## 1. Landforms for little explorers
 
-**Ages:** 3-6 · **Pages:** 10 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 10 Standard · 30 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-A first volcano book, one idea per page: 1. A volcano is a mountain with an opening at the top. 2. Deep under the ground it is very hot. 3. The heat melts rock into magma. 4. Magma rises up inside the volcano. 5. When the volcano erupts, the magma comes out and is called lava. 6. Clouds of ash puff into the sky. 7. Lava cools down and turns into new rock. 8. Some volcanoes make new islands in the sea. 9. Scientists called volcanologists study volcanoes safely. 10. After a long time, plants grow back on the volcano.
+40 landforms and water features, one per page: mountain, volcano, hill, valley, canyon, cliff, cave, plain, plateau, mesa, butte, desert, sand dune, oasis, island, peninsula, beach, bay, cape, coral reef, ocean, sea, lake, pond, river, stream, waterfall, delta, swamp, marsh, glacier, iceberg, fjord, geyser, hot spring, forest, jungle, grassland, tundra, arch.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=A%20first%20volcano%20book%2C%20one%20idea%20per%20page%3A%201.%20A%20volcano%20is%20a%20mountain%20with%20an%20opening%20at%20the%20top.%202.%20Deep%20under%20the%20ground%20it%20is%20very%20hot.%203.%20The%20heat%20melts%20rock%20into%20magma.%204.%20Magma%20rises%20up%20inside%20the%20volcano.%205.%20When%20the%20volcano%20erupts%2C%20the%20magma%20comes%20out%20and%20is%20called%20lava.%206.%20Clouds%20of%20ash%20puff%20into%20the%20sky.%207.%20Lava%20cools%20down%20and%20turns%20into%20new%20rock.%208.%20Some%20volcanoes%20make%20new%20islands%20in%20the%20sea.%209.%20Scientists%20called%20volcanologists%20study%20volcanoes%20safely.%2010.%20After%20a%20long%20time%2C%20plants%20grow%20back%20on%20the%20volcano.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-1)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20landforms%20and%20water%20features%2C%20one%20per%20page%3A%20mountain%2C%20volcano%2C%20hill%2C%20valley%2C%20canyon%2C%20cliff%2C%20cave%2C%20plain%2C%20plateau%2C%20mesa%2C%20butte%2C%20desert%2C%20sand%20dune%2C%20oasis%2C%20island%2C%20peninsula%2C%20beach%2C%20bay%2C%20cape%2C%20coral%20reef%2C%20ocean%2C%20sea%2C%20lake%2C%20pond%2C%20river%2C%20stream%2C%20waterfall%2C%20delta%2C%20swamp%2C%20marsh%2C%20glacier%2C%20iceberg%2C%20fjord%2C%20geyser%2C%20hot%20spring%2C%20forest%2C%20jungle%2C%20grassland%2C%20tundra%2C%20arch.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,25 +23,25 @@ A first volcano book, one idea per page: 1. A volcano is a mountain with an open
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 10,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "A first volcano book, one idea per page: 1. A volcano is a mountain with an opening at the top. 2. Deep under the ground it is very hot. 3. The heat melts rock into magma. 4. Magma rises up inside the volcano. 5. When the volcano erupts, the magma comes out and is called lava. 6. Clouds of ash puff into the sky. 7. Lava cools down and turns into new rock. 8. Some volcanoes make new islands in the sea. 9. Scientists called volcanologists study volcanoes safely. 10. After a long time, plants grow back on the volcano."
+    "description": "40 landforms and water features, one per page: mountain, volcano, hill, valley, canyon, cliff, cave, plain, plateau, mesa, butte, desert, sand dune, oasis, island, peninsula, beach, bay, cape, coral reef, ocean, sea, lake, pond, river, stream, waterfall, delta, swamp, marsh, glacier, iceberg, fjord, geyser, hot spring, forest, jungle, grassland, tundra, arch."
   }
 }
 ```
 
 </details>
 
-## 2. Earth's layers and volcanoes for ages 6-9
+## 2. How a volcano works
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Inside the Earth: 1. The crust is the thin layer we live on. 2. The mantle is hot, slowly moving rock. 3. The outer core is liquid metal. 4. The inner core is solid metal. 5. The crust is broken into tectonic plates. 6. Plates moving cause earthquakes. 7. The Ring of Fire around the Pacific Ocean. 8. Magma vs lava. 9. Shield volcanoes have gentle slopes. 10. Stratovolcanoes are tall and steep. 11. Cinder cones are small. 12. Pumice is so full of air it floats. 13. Obsidian is natural volcanic glass. 14. Geysers shoot hot water up.
+One idea per page: magma chamber, magma rising, the vent, the crater, lava flow, magma versus lava, ash cloud, lava bombs, pumice, obsidian, basalt, pahoehoe lava, aa lava, pillow lava, lava tube, shield volcano, cinder cone, stratovolcano, caldera, lava dome, fissure eruption, underwater volcano, a new volcanic island, pyroclastic flow, lahar, volcanic lightning, active, dormant and extinct, geyser, hot spring, fumarole, mud pot, crater lake, volcanologist, seismometer, gas sensor, heat camera, evacuation plan, rich volcanic soil, plants returning, volcanoes on other worlds.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Inside%20the%20Earth%3A%201.%20The%20crust%20is%20the%20thin%20layer%20we%20live%20on.%202.%20The%20mantle%20is%20hot%2C%20slowly%20moving%20rock.%203.%20The%20outer%20core%20is%20liquid%20metal.%204.%20The%20inner%20core%20is%20solid%20metal.%205.%20The%20crust%20is%20broken%20into%20tectonic%20plates.%206.%20Plates%20moving%20cause%20earthquakes.%207.%20The%20Ring%20of%20Fire%20around%20the%20Pacific%20Ocean.%208.%20Magma%20vs%20lava.%209.%20Shield%20volcanoes%20have%20gentle%20slopes.%2010.%20Stratovolcanoes%20are%20tall%20and%20steep.%2011.%20Cinder%20cones%20are%20small.%2012.%20Pumice%20is%20so%20full%20of%20air%20it%20floats.%2013.%20Obsidian%20is%20natural%20volcanic%20glass.%2014.%20Geysers%20shoot%20hot%20water%20up.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-2)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=One%20idea%20per%20page%3A%20magma%20chamber%2C%20magma%20rising%2C%20the%20vent%2C%20the%20crater%2C%20lava%20flow%2C%20magma%20versus%20lava%2C%20ash%20cloud%2C%20lava%20bombs%2C%20pumice%2C%20obsidian%2C%20basalt%2C%20pahoehoe%20lava%2C%20aa%20lava%2C%20pillow%20lava%2C%20lava%20tube%2C%20shield%20volcano%2C%20cinder%20cone%2C%20stratovolcano%2C%20caldera%2C%20lava%20dome%2C%20fissure%20eruption%2C%20underwater%20volcano%2C%20a%20new%20volcanic%20island%2C%20pyroclastic%20flow%2C%20lahar%2C%20volcanic%20lightning%2C%20active%2C%20dormant%20and%20extinct%2C%20geyser%2C%20hot%20spring%2C%20fumarole%2C%20mud%20pot%2C%20crater%20lake%2C%20volcanologist%2C%20seismometer%2C%20gas%20sensor%2C%20heat%20camera%2C%20evacuation%20plan%2C%20rich%20volcanic%20soil%2C%20plants%20returning%2C%20volcanoes%20on%20other%20worlds.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-2)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,25 +50,25 @@ Inside the Earth: 1. The crust is the thin layer we live on. 2. The mantle is ho
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "6-9",
-    "numberOfPages": 14,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "Inside the Earth: 1. The crust is the thin layer we live on. 2. The mantle is hot, slowly moving rock. 3. The outer core is liquid metal. 4. The inner core is solid metal. 5. The crust is broken into tectonic plates. 6. Plates moving cause earthquakes. 7. The Ring of Fire around the Pacific Ocean. 8. Magma vs lava. 9. Shield volcanoes have gentle slopes. 10. Stratovolcanoes are tall and steep. 11. Cinder cones are small. 12. Pumice is so full of air it floats. 13. Obsidian is natural volcanic glass. 14. Geysers shoot hot water up."
+    "description": "One idea per page: magma chamber, magma rising, the vent, the crater, lava flow, magma versus lava, ash cloud, lava bombs, pumice, obsidian, basalt, pahoehoe lava, aa lava, pillow lava, lava tube, shield volcano, cinder cone, stratovolcano, caldera, lava dome, fissure eruption, underwater volcano, a new volcanic island, pyroclastic flow, lahar, volcanic lightning, active, dormant and extinct, geyser, hot spring, fumarole, mud pot, crater lake, volcanologist, seismometer, gas sensor, heat camera, evacuation plan, rich volcanic soil, plants returning, volcanoes on other worlds."
   }
 }
 ```
 
 </details>
 
-## 3. Rocks and the rock cycle for ages 9-13
+## 3. 40 famous volcanoes
 
-**Ages:** 9-13 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-The rock cycle: 1. Rocks are made of minerals. 2. Igneous rock forms when magma or lava cools. 3. Granite cools slowly underground. 4. Basalt cools fast at the surface. 5. Weathering breaks rock apart. 6. Water, wind and ice carry sediment away. 7. Sediment settles in layers. 8. Layers press into sedimentary rock like sandstone. 9. Fossils hide in sedimentary rock. 10. Heat and pressure make metamorphic rock. 11. Limestone becomes marble. 12. Shale becomes slate. 13. Rock melts back into magma. 14. The Mohs scale: talc is 1, diamond is 10.
+40 famous volcanoes, one per page: Vesuvius, Etna, Stromboli, Santorini, Teide, Hekla, Eyjafjallajokull, Surtsey, Mount Fuji, Sakurajima, Krakatoa, Tambora, Merapi, Pinatubo, Taal, Kilauea, Mauna Loa, Mauna Kea, Mount St. Helens, Mount Rainier, Mount Shasta, Crater Lake, Lassen Peak, Yellowstone Caldera, Popocatepetl, Paricutin, Arenal, Cotopaxi, Ojos del Salado, Villarrica, Mount Pelee, Kilimanjaro, Nyiragongo, Ol Doinyo Lengai, Mount Cameroon, Piton de la Fournaise, Mount Erebus, Ruapehu, Hunga Tonga-Hunga Ha'apai, Olympus Mons on Mars.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=The%20rock%20cycle%3A%201.%20Rocks%20are%20made%20of%20minerals.%202.%20Igneous%20rock%20forms%20when%20magma%20or%20lava%20cools.%203.%20Granite%20cools%20slowly%20underground.%204.%20Basalt%20cools%20fast%20at%20the%20surface.%205.%20Weathering%20breaks%20rock%20apart.%206.%20Water%2C%20wind%20and%20ice%20carry%20sediment%20away.%207.%20Sediment%20settles%20in%20layers.%208.%20Layers%20press%20into%20sedimentary%20rock%20like%20sandstone.%209.%20Fossils%20hide%20in%20sedimentary%20rock.%2010.%20Heat%20and%20pressure%20make%20metamorphic%20rock.%2011.%20Limestone%20becomes%20marble.%2012.%20Shale%20becomes%20slate.%2013.%20Rock%20melts%20back%20into%20magma.%2014.%20The%20Mohs%20scale%3A%20talc%20is%201%2C%20diamond%20is%2010.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-3)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20famous%20volcanoes%2C%20one%20per%20page%3A%20Vesuvius%2C%20Etna%2C%20Stromboli%2C%20Santorini%2C%20Teide%2C%20Hekla%2C%20Eyjafjallajokull%2C%20Surtsey%2C%20Mount%20Fuji%2C%20Sakurajima%2C%20Krakatoa%2C%20Tambora%2C%20Merapi%2C%20Pinatubo%2C%20Taal%2C%20Kilauea%2C%20Mauna%20Loa%2C%20Mauna%20Kea%2C%20Mount%20St.%20Helens%2C%20Mount%20Rainier%2C%20Mount%20Shasta%2C%20Crater%20Lake%2C%20Lassen%20Peak%2C%20Yellowstone%20Caldera%2C%20Popocatepetl%2C%20Paricutin%2C%20Arenal%2C%20Cotopaxi%2C%20Ojos%20del%20Salado%2C%20Villarrica%2C%20Mount%20Pelee%2C%20Kilimanjaro%2C%20Nyiragongo%2C%20Ol%20Doinyo%20Lengai%2C%20Mount%20Cameroon%2C%20Piton%20de%20la%20Fournaise%2C%20Mount%20Erebus%2C%20Ruapehu%2C%20Hunga%20Tonga-Hunga%20Ha%27apai%2C%20Olympus%20Mons%20on%20Mars.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-3)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -77,10 +77,64 @@ The rock cycle: 1. Rocks are made of minerals. 2. Igneous rock forms when magma 
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "9-13",
-    "numberOfPages": 14,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "The rock cycle: 1. Rocks are made of minerals. 2. Igneous rock forms when magma or lava cools. 3. Granite cools slowly underground. 4. Basalt cools fast at the surface. 5. Weathering breaks rock apart. 6. Water, wind and ice carry sediment away. 7. Sediment settles in layers. 8. Layers press into sedimentary rock like sandstone. 9. Fossils hide in sedimentary rock. 10. Heat and pressure make metamorphic rock. 11. Limestone becomes marble. 12. Shale becomes slate. 13. Rock melts back into magma. 14. The Mohs scale: talc is 1, diamond is 10."
+    "description": "40 famous volcanoes, one per page: Vesuvius, Etna, Stromboli, Santorini, Teide, Hekla, Eyjafjallajokull, Surtsey, Mount Fuji, Sakurajima, Krakatoa, Tambora, Merapi, Pinatubo, Taal, Kilauea, Mauna Loa, Mauna Kea, Mount St. Helens, Mount Rainier, Mount Shasta, Crater Lake, Lassen Peak, Yellowstone Caldera, Popocatepetl, Paricutin, Arenal, Cotopaxi, Ojos del Salado, Villarrica, Mount Pelee, Kilimanjaro, Nyiragongo, Ol Doinyo Lengai, Mount Cameroon, Piton de la Fournaise, Mount Erebus, Ruapehu, Hunga Tonga-Hunga Ha'apai, Olympus Mons on Mars."
+  }
+}
+```
+
+</details>
+
+## 4. Rocks, minerals and the rock cycle
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+Rocks and minerals, one per page: the rock cycle: weathering, erosion, deposition, compaction and cementation, heat and pressure, melting, cooling; igneous: granite, basalt, obsidian, pumice, gabbro; sedimentary: sandstone, limestone, shale, conglomerate, chalk, coal; metamorphic: marble, slate, quartzite, gneiss, schist; Mohs scale: talc, gypsum, calcite, fluorite, apatite, orthoclase, quartz, topaz, corundum, diamond; mica, pyrite, halite, magnetite, malachite, geode, fossil in limestone.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Rocks%20and%20minerals%2C%20one%20per%20page%3A%20the%20rock%20cycle%3A%20weathering%2C%20erosion%2C%20deposition%2C%20compaction%20and%20cementation%2C%20heat%20and%20pressure%2C%20melting%2C%20cooling%3B%20igneous%3A%20granite%2C%20basalt%2C%20obsidian%2C%20pumice%2C%20gabbro%3B%20sedimentary%3A%20sandstone%2C%20limestone%2C%20shale%2C%20conglomerate%2C%20chalk%2C%20coal%3B%20metamorphic%3A%20marble%2C%20slate%2C%20quartzite%2C%20gneiss%2C%20schist%3B%20Mohs%20scale%3A%20talc%2C%20gypsum%2C%20calcite%2C%20fluorite%2C%20apatite%2C%20orthoclase%2C%20quartz%2C%20topaz%2C%20corundum%2C%20diamond%3B%20mica%2C%20pyrite%2C%20halite%2C%20magnetite%2C%20malachite%2C%20geode%2C%20fossil%20in%20limestone.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-4)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "9-13",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "Rocks and minerals, one per page: the rock cycle: weathering, erosion, deposition, compaction and cementation, heat and pressure, melting, cooling; igneous: granite, basalt, obsidian, pumice, gabbro; sedimentary: sandstone, limestone, shale, conglomerate, chalk, coal; metamorphic: marble, slate, quartzite, gneiss, schist; Mohs scale: talc, gypsum, calcite, fluorite, apatite, orthoclase, quartz, topaz, corundum, diamond; mica, pyrite, halite, magnetite, malachite, geode, fossil in limestone."
+  }
+}
+```
+
+</details>
+
+## 5. Earth's layers and plate tectonics
+
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+One idea per page: inner core, outer core, mantle, continental crust, ocean crust, lithosphere, asthenosphere, mantle convection, Pangaea, continental drift, Pacific, North American, South American, Eurasian, African, Indian, Australian, Antarctic and Nazca plates, divergent boundary, convergent boundary, transform boundary, mid-ocean ridge, seafloor spreading, rift valley, subduction zone, Mariana Trench, Himalayas, San Andreas Fault, Ring of Fire, Hawaii hot spot, normal fault, reverse fault, strike-slip fault, focus and epicenter, P waves, S waves, seismograph, magnitude, tsunami.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=One%20idea%20per%20page%3A%20inner%20core%2C%20outer%20core%2C%20mantle%2C%20continental%20crust%2C%20ocean%20crust%2C%20lithosphere%2C%20asthenosphere%2C%20mantle%20convection%2C%20Pangaea%2C%20continental%20drift%2C%20Pacific%2C%20North%20American%2C%20South%20American%2C%20Eurasian%2C%20African%2C%20Indian%2C%20Australian%2C%20Antarctic%20and%20Nazca%20plates%2C%20divergent%20boundary%2C%20convergent%20boundary%2C%20transform%20boundary%2C%20mid-ocean%20ridge%2C%20seafloor%20spreading%2C%20rift%20valley%2C%20subduction%20zone%2C%20Mariana%20Trench%2C%20Himalayas%2C%20San%20Andreas%20Fault%2C%20Ring%20of%20Fire%2C%20Hawaii%20hot%20spot%2C%20normal%20fault%2C%20reverse%20fault%2C%20strike-slip%20fault%2C%20focus%20and%20epicenter%2C%20P%20waves%2C%20S%20waves%2C%20seismograph%2C%20magnitude%2C%20tsunami.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=volcanoes-earth-science-coloring-book-prompts-5)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "13+",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "One idea per page: inner core, outer core, mantle, continental crust, ocean crust, lithosphere, asthenosphere, mantle convection, Pangaea, continental drift, Pacific, North American, South American, Eurasian, African, Indian, Australian, Antarctic and Nazca plates, divergent boundary, convergent boundary, transform boundary, mid-ocean ridge, seafloor spreading, rift valley, subduction zone, Mariana Trench, Himalayas, San Andreas Fault, Ring of Fire, Hawaii hot spot, normal fault, reverse fault, strike-slip fault, focus and epicenter, P waves, S waves, seismograph, magnitude, tsunami."
   }
 }
 ```

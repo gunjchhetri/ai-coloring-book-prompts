@@ -103,8 +103,8 @@ Barley, a proud young beaver with a notched front tooth, wants to build the bigg
 
 - [Personalized Birthday Story Book Prompts for Custom Kids' Books](personalized-birthday-story-book-prompts.md)
 - [Kindness and Sharing Story Book Prompts for Kids](kindness-and-sharing-story-book-prompts.md)
-- [Bedtime Story Book Prompts for AI Picture Books](bedtime-story-book-prompts.md)
-- [Friendship Story Book Prompts for Children's Picture Books](friendship-story-book-prompts.md)
+- [Bedtime Story Prompts for Kids: AI Picture Book Ideas](bedtime-story-book-prompts.md)
+- [Friendship Story Prompts for Kids' Picture Books](friendship-story-book-prompts.md)
 - [Bravery Story Book Prompts: Picture Books About Overcoming Fears](bravery-overcoming-fears-story-book-prompts.md)
 - [Potty Training Story Book Prompts for Toddlers](potty-training-story-book-prompts.md)
 

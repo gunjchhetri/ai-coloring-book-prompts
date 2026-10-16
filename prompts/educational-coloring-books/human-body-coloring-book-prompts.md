@@ -2,19 +2,19 @@
 
 <img src="../../assets/img/educational-coloring-books.webp" alt="Sample educational coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/human-body/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/educational-coloring-books/human-body/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [My amazing body for preschoolers](#1-my-amazing-body-for-preschoolers) · [How my body works for ages 6-9](#2-how-my-body-works-for-ages-6-9) · [Body systems for ages 9-13](#3-body-systems-for-ages-9-13)
+**Prompts on this page:** [My body parts and senses](#1-my-body-parts-and-senses) · [Organs and what they do](#2-organs-and-what-they-do) · [Healthy habits for a strong body](#3-healthy-habits-for-a-strong-body) · [Body systems for ages 9-13](#4-body-systems-for-ages-9-13) · [The skeleton bone by bone](#5-the-skeleton-bone-by-bone)
 
-## 1. My amazing body for preschoolers
+## 1. My body parts and senses
 
-**Ages:** 3-6 · **Pages:** 12 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 12 Standard · 36 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-A first book about my body, one idea per page with a child doing something: 1. My eyes see colors. 2. My ears hear music. 3. My nose smells flowers. 4. My tongue tastes food. 5. My skin feels soft and rough things. 6. My heart beats to pump blood. 7. My lungs breathe in air. 8. My bones hold me up. 9. My muscles help me run and jump. 10. My tummy digests food. 11. My brain helps me think and learn. 12. I keep my body healthy: wash hands, eat fruit, sleep.
+Body parts and senses for preschoolers, one per page: head, hair, face, eyes, eyebrows, eyelashes, ears, nose, mouth, lips, teeth, tongue, cheeks, chin, neck, shoulders, arms, elbows, wrists, hands, fingers, thumbs, fingernails, chest, tummy, belly button, back, hips, legs, knees, ankles, feet, heels, toes, skin, sight, hearing, smell, taste, touch.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=A%20first%20book%20about%20my%20body%2C%20one%20idea%20per%20page%20with%20a%20child%20doing%20something%3A%201.%20My%20eyes%20see%20colors.%202.%20My%20ears%20hear%20music.%203.%20My%20nose%20smells%20flowers.%204.%20My%20tongue%20tastes%20food.%205.%20My%20skin%20feels%20soft%20and%20rough%20things.%206.%20My%20heart%20beats%20to%20pump%20blood.%207.%20My%20lungs%20breathe%20in%20air.%208.%20My%20bones%20hold%20me%20up.%209.%20My%20muscles%20help%20me%20run%20and%20jump.%2010.%20My%20tummy%20digests%20food.%2011.%20My%20brain%20helps%20me%20think%20and%20learn.%2012.%20I%20keep%20my%20body%20healthy%3A%20wash%20hands%2C%20eat%20fruit%2C%20sleep.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-1)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Body%20parts%20and%20senses%20for%20preschoolers%2C%20one%20per%20page%3A%20head%2C%20hair%2C%20face%2C%20eyes%2C%20eyebrows%2C%20eyelashes%2C%20ears%2C%20nose%2C%20mouth%2C%20lips%2C%20teeth%2C%20tongue%2C%20cheeks%2C%20chin%2C%20neck%2C%20shoulders%2C%20arms%2C%20elbows%2C%20wrists%2C%20hands%2C%20fingers%2C%20thumbs%2C%20fingernails%2C%20chest%2C%20tummy%2C%20belly%20button%2C%20back%2C%20hips%2C%20legs%2C%20knees%2C%20ankles%2C%20feet%2C%20heels%2C%20toes%2C%20skin%2C%20sight%2C%20hearing%2C%20smell%2C%20taste%2C%20touch.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,25 +23,25 @@ A first book about my body, one idea per page with a child doing something: 1. M
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 12,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "A first book about my body, one idea per page with a child doing something: 1. My eyes see colors. 2. My ears hear music. 3. My nose smells flowers. 4. My tongue tastes food. 5. My skin feels soft and rough things. 6. My heart beats to pump blood. 7. My lungs breathe in air. 8. My bones hold me up. 9. My muscles help me run and jump. 10. My tummy digests food. 11. My brain helps me think and learn. 12. I keep my body healthy: wash hands, eat fruit, sleep."
+    "description": "Body parts and senses for preschoolers, one per page: head, hair, face, eyes, eyebrows, eyelashes, ears, nose, mouth, lips, teeth, tongue, cheeks, chin, neck, shoulders, arms, elbows, wrists, hands, fingers, thumbs, fingernails, chest, tummy, belly button, back, hips, legs, knees, ankles, feet, heels, toes, skin, sight, hearing, smell, taste, touch."
   }
 }
 ```
 
 </details>
 
-## 2. How my body works for ages 6-9
+## 2. Organs and what they do
 
-**Ages:** 6-9 · **Pages:** 14 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 14 Standard · 42 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-How the body works for early readers: 1. Grown-ups have 206 bones. 2. The skull protects the brain. 3. Muscles pull on bones to move us. 4. The heart is a muscle about the size of your fist. 5. Blood travels in tubes called blood vessels. 6. Lungs fill with air when we breathe in. 7. Chewing starts digestion. 8. The stomach mixes food. 9. The intestines take in nutrients. 10. The brain sends messages along nerves. 11. Skin is the largest organ. 12. Kids have 20 baby teeth. 13. The five senses. 14. Sleep helps us grow.
+Organs and body parts inside you, one per page: brain, skull, spinal cord, nerves, eyes, eardrum, nasal cavity, taste buds, skin, hair follicle, heart, arteries, veins, blood, lungs, windpipe, diaphragm, voice box, gums, saliva glands, esophagus, stomach, small intestine, large intestine, liver, gallbladder, pancreas, kidneys, bladder, spleen, bones, joints, muscles, tendons, bone marrow, white blood cells, tonsils, thyroid, baby teeth, adult teeth.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=How%20the%20body%20works%20for%20early%20readers%3A%201.%20Grown-ups%20have%20206%20bones.%202.%20The%20skull%20protects%20the%20brain.%203.%20Muscles%20pull%20on%20bones%20to%20move%20us.%204.%20The%20heart%20is%20a%20muscle%20about%20the%20size%20of%20your%20fist.%205.%20Blood%20travels%20in%20tubes%20called%20blood%20vessels.%206.%20Lungs%20fill%20with%20air%20when%20we%20breathe%20in.%207.%20Chewing%20starts%20digestion.%208.%20The%20stomach%20mixes%20food.%209.%20The%20intestines%20take%20in%20nutrients.%2010.%20The%20brain%20sends%20messages%20along%20nerves.%2011.%20Skin%20is%20the%20largest%20organ.%2012.%20Kids%20have%2020%20baby%20teeth.%2013.%20The%20five%20senses.%2014.%20Sleep%20helps%20us%20grow.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-2)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Organs%20and%20body%20parts%20inside%20you%2C%20one%20per%20page%3A%20brain%2C%20skull%2C%20spinal%20cord%2C%20nerves%2C%20eyes%2C%20eardrum%2C%20nasal%20cavity%2C%20taste%20buds%2C%20skin%2C%20hair%20follicle%2C%20heart%2C%20arteries%2C%20veins%2C%20blood%2C%20lungs%2C%20windpipe%2C%20diaphragm%2C%20voice%20box%2C%20gums%2C%20saliva%20glands%2C%20esophagus%2C%20stomach%2C%20small%20intestine%2C%20large%20intestine%2C%20liver%2C%20gallbladder%2C%20pancreas%2C%20kidneys%2C%20bladder%2C%20spleen%2C%20bones%2C%20joints%2C%20muscles%2C%20tendons%2C%20bone%20marrow%2C%20white%20blood%20cells%2C%20tonsils%2C%20thyroid%2C%20baby%20teeth%2C%20adult%20teeth.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-2)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -50,25 +50,52 @@ How the body works for early readers: 1. Grown-ups have 206 bones. 2. The skull 
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "6-9",
-    "numberOfPages": 14,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "How the body works for early readers: 1. Grown-ups have 206 bones. 2. The skull protects the brain. 3. Muscles pull on bones to move us. 4. The heart is a muscle about the size of your fist. 5. Blood travels in tubes called blood vessels. 6. Lungs fill with air when we breathe in. 7. Chewing starts digestion. 8. The stomach mixes food. 9. The intestines take in nutrients. 10. The brain sends messages along nerves. 11. Skin is the largest organ. 12. Kids have 20 baby teeth. 13. The five senses. 14. Sleep helps us grow."
+    "description": "Organs and body parts inside you, one per page: brain, skull, spinal cord, nerves, eyes, eardrum, nasal cavity, taste buds, skin, hair follicle, heart, arteries, veins, blood, lungs, windpipe, diaphragm, voice box, gums, saliva glands, esophagus, stomach, small intestine, large intestine, liver, gallbladder, pancreas, kidneys, bladder, spleen, bones, joints, muscles, tendons, bone marrow, white blood cells, tonsils, thyroid, baby teeth, adult teeth."
   }
 }
 ```
 
 </details>
 
-## 3. Body systems for ages 9-13
+## 3. Healthy habits for a strong body
 
-**Ages:** 9-13 · **Pages:** 16 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 16 Standard · 48 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-The body's systems, one per page, with the main organs labeled: 1. Cells are the building blocks of life. 2. Skeletal system. 3. Muscular system. 4. Circulatory system: heart, arteries, veins. 5. Red blood cells carry oxygen. 6. Respiratory system: lungs and diaphragm. 7. Digestive system. 8. The liver and kidneys clean the blood. 9. Nervous system. 10. The brain's main parts. 11. The eye. 12. The ear. 13. Skin, hair and nails. 14. Immune system: white blood cells fight germs. 15. Teeth. 16. Exercise, sleep and food keep the systems strong.
+40 healthy habits, one per page and why: handwashing, brushing teeth twice a day, flossing, dentist visit, drinking water, vegetables, fruit, whole grains, protein, calcium foods, breakfast, fewer sugary drinks, bedtime routine, enough sleep, running, jump rope, swimming, bike helmet, stretching, outdoor play, sunscreen, sun hat, sunglasses, covering coughs, tissues, bathing, clean nails, washing fruit, good posture, safe lifting, screen breaks, seat belt, booster seat, crossing safely, life jacket, doctor checkup, vaccines, earplugs for loud noise, good reading light, talking to a grown-up.
 ```
 
-[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=The%20body%27s%20systems%2C%20one%20per%20page%2C%20with%20the%20main%20organs%20labeled%3A%201.%20Cells%20are%20the%20building%20blocks%20of%20life.%202.%20Skeletal%20system.%203.%20Muscular%20system.%204.%20Circulatory%20system%3A%20heart%2C%20arteries%2C%20veins.%205.%20Red%20blood%20cells%20carry%20oxygen.%206.%20Respiratory%20system%3A%20lungs%20and%20diaphragm.%207.%20Digestive%20system.%208.%20The%20liver%20and%20kidneys%20clean%20the%20blood.%209.%20Nervous%20system.%2010.%20The%20brain%27s%20main%20parts.%2011.%20The%20eye.%2012.%20The%20ear.%2013.%20Skin%2C%20hair%20and%20nails.%2014.%20Immune%20system%3A%20white%20blood%20cells%20fight%20germs.%2015.%20Teeth.%2016.%20Exercise%2C%20sleep%20and%20food%20keep%20the%20systems%20strong.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-3)
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20healthy%20habits%2C%20one%20per%20page%20and%20why%3A%20handwashing%2C%20brushing%20teeth%20twice%20a%20day%2C%20flossing%2C%20dentist%20visit%2C%20drinking%20water%2C%20vegetables%2C%20fruit%2C%20whole%20grains%2C%20protein%2C%20calcium%20foods%2C%20breakfast%2C%20fewer%20sugary%20drinks%2C%20bedtime%20routine%2C%20enough%20sleep%2C%20running%2C%20jump%20rope%2C%20swimming%2C%20bike%20helmet%2C%20stretching%2C%20outdoor%20play%2C%20sunscreen%2C%20sun%20hat%2C%20sunglasses%2C%20covering%20coughs%2C%20tissues%2C%20bathing%2C%20clean%20nails%2C%20washing%20fruit%2C%20good%20posture%2C%20safe%20lifting%2C%20screen%20breaks%2C%20seat%20belt%2C%20booster%20seat%2C%20crossing%20safely%2C%20life%20jacket%2C%20doctor%20checkup%2C%20vaccines%2C%20earplugs%20for%20loud%20noise%2C%20good%20reading%20light%2C%20talking%20to%20a%20grown-up.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-3)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "6-9",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "40 healthy habits, one per page and why: handwashing, brushing teeth twice a day, flossing, dentist visit, drinking water, vegetables, fruit, whole grains, protein, calcium foods, breakfast, fewer sugary drinks, bedtime routine, enough sleep, running, jump rope, swimming, bike helmet, stretching, outdoor play, sunscreen, sun hat, sunglasses, covering coughs, tissues, bathing, clean nails, washing fruit, good posture, safe lifting, screen breaks, seat belt, booster seat, crossing safely, life jacket, doctor checkup, vaccines, earplugs for loud noise, good reading light, talking to a grown-up."
+  }
+}
+```
+
+</details>
+
+## 4. Body systems for ages 9-13
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+Body systems, one part per page: skeletal: skull, spine, ribcage, femur; muscular: biceps and triceps, heart muscle, smooth muscle; nervous: brain, spinal cord, neuron; circulatory: heart chambers, arteries, veins, capillaries, red blood cells; respiratory: trachea, bronchi, lungs, alveoli, diaphragm; digestive: mouth, esophagus, stomach, small intestine, large intestine, liver; urinary: kidneys, bladder; immune: white blood cells, lymph nodes; endocrine: pituitary gland, thyroid, adrenal glands; integumentary: skin layers, hair, nails; senses: eye, ear, nose, tongue.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=Body%20systems%2C%20one%20part%20per%20page%3A%20skeletal%3A%20skull%2C%20spine%2C%20ribcage%2C%20femur%3B%20muscular%3A%20biceps%20and%20triceps%2C%20heart%20muscle%2C%20smooth%20muscle%3B%20nervous%3A%20brain%2C%20spinal%20cord%2C%20neuron%3B%20circulatory%3A%20heart%20chambers%2C%20arteries%2C%20veins%2C%20capillaries%2C%20red%20blood%20cells%3B%20respiratory%3A%20trachea%2C%20bronchi%2C%20lungs%2C%20alveoli%2C%20diaphragm%3B%20digestive%3A%20mouth%2C%20esophagus%2C%20stomach%2C%20small%20intestine%2C%20large%20intestine%2C%20liver%3B%20urinary%3A%20kidneys%2C%20bladder%3B%20immune%3A%20white%20blood%20cells%2C%20lymph%20nodes%3B%20endocrine%3A%20pituitary%20gland%2C%20thyroid%2C%20adrenal%20glands%3B%20integumentary%3A%20skin%20layers%2C%20hair%2C%20nails%3B%20senses%3A%20eye%2C%20ear%2C%20nose%2C%20tongue.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-4)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -77,10 +104,37 @@ The body's systems, one per page, with the main organs labeled: 1. Cells are the
   "tool": "create_educational_coloring_book",
   "arguments": {
     "ageGroup": "9-13",
-    "numberOfPages": 16,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "The body's systems, one per page, with the main organs labeled: 1. Cells are the building blocks of life. 2. Skeletal system. 3. Muscular system. 4. Circulatory system: heart, arteries, veins. 5. Red blood cells carry oxygen. 6. Respiratory system: lungs and diaphragm. 7. Digestive system. 8. The liver and kidneys clean the blood. 9. Nervous system. 10. The brain's main parts. 11. The eye. 12. The ear. 13. Skin, hair and nails. 14. Immune system: white blood cells fight germs. 15. Teeth. 16. Exercise, sleep and food keep the systems strong."
+    "description": "Body systems, one part per page: skeletal: skull, spine, ribcage, femur; muscular: biceps and triceps, heart muscle, smooth muscle; nervous: brain, spinal cord, neuron; circulatory: heart chambers, arteries, veins, capillaries, red blood cells; respiratory: trachea, bronchi, lungs, alveoli, diaphragm; digestive: mouth, esophagus, stomach, small intestine, large intestine, liver; urinary: kidneys, bladder; immune: white blood cells, lymph nodes; endocrine: pituitary gland, thyroid, adrenal glands; integumentary: skin layers, hair, nails; senses: eye, ear, nose, tongue."
+  }
+}
+```
+
+</details>
+
+## 5. The skeleton bone by bone
+
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+40 bones and bone groups, one per page: cranium, frontal bone, parietal bones, occipital bone, temporal bones, maxilla, mandible, nasal bones, zygomatic bones, hyoid, malleus, incus and stapes, cervical vertebrae, atlas and axis, thoracic vertebrae, lumbar vertebrae, sacrum, coccyx, sternum, ribs, clavicle, scapula, humerus, radius, ulna, carpals, metacarpals, phalanges of the hand, pelvis, ilium, ischium and pubis, femur, patella, tibia, fibula, talus, calcaneus, tarsals, metatarsals, phalanges of the foot, bone cross-section.
+```
+
+[**▶ Make this educational coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=educational-coloring&prompt=40%20bones%20and%20bone%20groups%2C%20one%20per%20page%3A%20cranium%2C%20frontal%20bone%2C%20parietal%20bones%2C%20occipital%20bone%2C%20temporal%20bones%2C%20maxilla%2C%20mandible%2C%20nasal%20bones%2C%20zygomatic%20bones%2C%20hyoid%2C%20malleus%2C%20incus%20and%20stapes%2C%20cervical%20vertebrae%2C%20atlas%20and%20axis%2C%20thoracic%20vertebrae%2C%20lumbar%20vertebrae%2C%20sacrum%2C%20coccyx%2C%20sternum%2C%20ribs%2C%20clavicle%2C%20scapula%2C%20humerus%2C%20radius%2C%20ulna%2C%20carpals%2C%20metacarpals%2C%20phalanges%20of%20the%20hand%2C%20pelvis%2C%20ilium%2C%20ischium%20and%20pubis%2C%20femur%2C%20patella%2C%20tibia%2C%20fibula%2C%20talus%2C%20calcaneus%2C%20tarsals%2C%20metatarsals%2C%20phalanges%20of%20the%20foot%2C%20bone%20cross-section.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=human-body-coloring-book-prompts-5)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_educational_coloring_book",
+  "arguments": {
+    "ageGroup": "13+",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "40 bones and bone groups, one per page: cranium, frontal bone, parietal bones, occipital bone, temporal bones, maxilla, mandible, nasal bones, zygomatic bones, hyoid, malleus, incus and stapes, cervical vertebrae, atlas and axis, thoracic vertebrae, lumbar vertebrae, sacrum, coccyx, sternum, ribs, clavicle, scapula, humerus, radius, ulna, carpals, metacarpals, phalanges of the hand, pelvis, ilium, ischium and pubis, femur, patella, tibia, fibula, talus, calcaneus, tarsals, metatarsals, phalanges of the foot, bone cross-section."
   }
 }
 ```
