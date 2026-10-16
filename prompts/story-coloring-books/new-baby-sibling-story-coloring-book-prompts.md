@@ -2,19 +2,19 @@
 
 <img src="../../assets/img/story-coloring-books.webp" alt="Sample story coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/story-coloring-books/new-baby-sibling/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/story-coloring-books/new-baby-sibling/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [Big Sister Bea the elephant](#1-big-sister-bea-the-elephant) · [Flurry the penguin waits for the egg](#2-flurry-the-penguin-waits-for-the-egg) · [Leo becomes a big brother](#3-leo-becomes-a-big-brother)
+**Prompts on this page:** [Juniper the bunny waits for the baby](#1-juniper-the-bunny-waits-for-the-baby) · [Kai becomes a big brother](#2-kai-becomes-a-big-brother) · [Rosa and the twin brothers](#3-rosa-and-the-twin-brothers) · [Tumble the otter and the new pup](#4-tumble-the-otter-and-the-new-pup) · [Eli's family adopts baby Ruby](#5-elis-family-adopts-baby-ruby)
 
-## 1. Big Sister Bea the elephant
+## 1. Juniper the bunny waits for the baby
 
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 80 Standard · 120 Premium
 
 ```text
-Bea, a young elephant with a pink bow on one ear, waits for her baby brother to arrive. She gathers soft leaves for his bed and practices gentle trunk hugs. When baby Kito comes, he cries all day and everyone is busy, and Bea feels forgotten. Grandpa Elephant shows her the old watering hole where she once took her first wobbly steps. Bea finds her special job: trumpeting a soft song that rocks Kito to sleep. She is the only one who can do it.
+Juniper, a young bunny with one floppy ear and a yellow sweater, learns her mama is having a baby. She watches Mama's tummy grow through spring, helps Papa paint the nursery with carrots, picks her old rattle to give the baby, sorts tiny socks, and stays with Grandma Rabbit when the baby comes. At the burrow hospital she meets her baby brother, Sprout. At home he cries, sleeps and needs lots of Mama, and Juniper feels left out, but when she sings her carrot song, Sprout stops crying. The last pages show Juniper singing to him every night.
 ```
 
-[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Bea%2C%20a%20young%20elephant%20with%20a%20pink%20bow%20on%20one%20ear%2C%20waits%20for%20her%20baby%20brother%20to%20arrive.%20She%20gathers%20soft%20leaves%20for%20his%20bed%20and%20practices%20gentle%20trunk%20hugs.%20When%20baby%20Kito%20comes%2C%20he%20cries%20all%20day%20and%20everyone%20is%20busy%2C%20and%20Bea%20feels%20forgotten.%20Grandpa%20Elephant%20shows%20her%20the%20old%20watering%20hole%20where%20she%20once%20took%20her%20first%20wobbly%20steps.%20Bea%20finds%20her%20special%20job%3A%20trumpeting%20a%20soft%20song%20that%20rocks%20Kito%20to%20sleep.%20She%20is%20the%20only%20one%20who%20can%20do%20it.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-1)
+[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Juniper%2C%20a%20young%20bunny%20with%20one%20floppy%20ear%20and%20a%20yellow%20sweater%2C%20learns%20her%20mama%20is%20having%20a%20baby.%20She%20watches%20Mama%27s%20tummy%20grow%20through%20spring%2C%20helps%20Papa%20paint%20the%20nursery%20with%20carrots%2C%20picks%20her%20old%20rattle%20to%20give%20the%20baby%2C%20sorts%20tiny%20socks%2C%20and%20stays%20with%20Grandma%20Rabbit%20when%20the%20baby%20comes.%20At%20the%20burrow%20hospital%20she%20meets%20her%20baby%20brother%2C%20Sprout.%20At%20home%20he%20cries%2C%20sleeps%20and%20needs%20lots%20of%20Mama%2C%20and%20Juniper%20feels%20left%20out%2C%20but%20when%20she%20sings%20her%20carrot%20song%2C%20Sprout%20stops%20crying.%20The%20last%20pages%20show%20Juniper%20singing%20to%20him%20every%20night.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,58 +23,58 @@ Bea, a young elephant with a pink bow on one ear, waits for her baby brother to 
   "tool": "create_story_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 24,
-    "highQuality": false,
-    "pageSize": "8.5x8.5",
-    "title": "Big Sister Bea",
-    "theme": "Becoming a big sister",
-    "style": "cute_animals",
-    "description": "Bea, a young elephant with a pink bow on one ear, waits for her baby brother to arrive. She gathers soft leaves for his bed and practices gentle trunk hugs. When baby Kito comes, he cries all day and everyone is busy, and Bea feels forgotten. Grandpa Elephant shows her the old watering hole where she once took her first wobbly steps. Bea finds her special job: trumpeting a soft song that rocks Kito to sleep. She is the only one who can do it."
-  }
-}
-```
-
-</details>
-
-## 2. Flurry the penguin waits for the egg
-
-**Ages:** 3-6 · **Pages:** 24 · **Size:** 8.5 × 11 in · **Style:** Cute animals · **Quality:** Standard · **Credits:** 48 Standard · 72 Premium
-
-```text
-Flurry, a little penguin with a fluffy grey coat, watches Papa balance a big egg on his feet all through the long, snowy winter. Flurry wants to play, but Papa must keep still. So Flurry brings Papa fish, tells him jokes, builds a snow wall against the wind and counts the stars beside him. One morning the egg goes crack, and out peeks a tiny chick. Flurry gently shows the chick the snow, the sea and the sky, and Papa calls him the best big brother on the ice.
-```
-
-[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Flurry%2C%20a%20little%20penguin%20with%20a%20fluffy%20grey%20coat%2C%20watches%20Papa%20balance%20a%20big%20egg%20on%20his%20feet%20all%20through%20the%20long%2C%20snowy%20winter.%20Flurry%20wants%20to%20play%2C%20but%20Papa%20must%20keep%20still.%20So%20Flurry%20brings%20Papa%20fish%2C%20tells%20him%20jokes%2C%20builds%20a%20snow%20wall%20against%20the%20wind%20and%20counts%20the%20stars%20beside%20him.%20One%20morning%20the%20egg%20goes%20crack%2C%20and%20out%20peeks%20a%20tiny%20chick.%20Flurry%20gently%20shows%20the%20chick%20the%20snow%2C%20the%20sea%20and%20the%20sky%2C%20and%20Papa%20calls%20him%20the%20best%20big%20brother%20on%20the%20ice.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-2)
-
-<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
-
-```json
-{
-  "tool": "create_story_coloring_book",
-  "arguments": {
-    "ageGroup": "3-6",
-    "numberOfPages": 24,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "title": "Flurry Waits for the Egg",
+    "title": "Juniper Is a Big Sister",
     "theme": "Waiting for a new baby",
-    "style": "cute_animals",
-    "description": "Flurry, a little penguin with a fluffy grey coat, watches Papa balance a big egg on his feet all through the long, snowy winter. Flurry wants to play, but Papa must keep still. So Flurry brings Papa fish, tells him jokes, builds a snow wall against the wind and counts the stars beside him. One morning the egg goes crack, and out peeks a tiny chick. Flurry gently shows the chick the snow, the sea and the sky, and Papa calls him the best big brother on the ice."
+    "style": "story",
+    "description": "Juniper, a young bunny with one floppy ear and a yellow sweater, learns her mama is having a baby. She watches Mama's tummy grow through spring, helps Papa paint the nursery with carrots, picks her old rattle to give the baby, sorts tiny socks, and stays with Grandma Rabbit when the baby comes. At the burrow hospital she meets her baby brother, Sprout. At home he cries, sleeps and needs lots of Mama, and Juniper feels left out, but when she sings her carrot song, Sprout stops crying. The last pages show Juniper singing to him every night."
   }
 }
 ```
 
 </details>
 
-## 3. Leo becomes a big brother
+## 2. Kai becomes a big brother
 
-**Ages:** 6-9 · **Pages:** 28 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 56 Standard · 84 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 80 Standard · 120 Premium
 
 ```text
-Leo, a freckled boy in a dinosaur T-shirt, helps paint the nursery and picks a toy giraffe for the baby. When baby Mila arrives, everyone coos over her, and Leo feels invisible. He makes a list of everything he can do that Mila can't: ride a bike, whistle, build a tall tower. Then Mom tells him love doesn't get cut in half when a baby comes; it grows, like a garden. On the last page Leo reads his favorite book to Mila, and she grabs his finger.
+Kai, four, with black hair that sticks straight up and a favorite red cape, is going to be a big brother. He helps Dad build the crib, picks a stuffed whale for the baby and packs the hospital bag. Then he visits Mom and meets his baby sister, Lani. At home Kai fetches diapers, holds Lani on the couch with Dad's help, pushes the stroller to the park, tells her about his toy trucks, reads her a book upside down, gets bored when she sleeps all day and has a special afternoon at the zoo with Grandpa. On the last page Lani grabs his finger and Kai teaches her to clap.
 ```
 
-[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Leo%2C%20a%20freckled%20boy%20in%20a%20dinosaur%20T-shirt%2C%20helps%20paint%20the%20nursery%20and%20picks%20a%20toy%20giraffe%20for%20the%20baby.%20When%20baby%20Mila%20arrives%2C%20everyone%20coos%20over%20her%2C%20and%20Leo%20feels%20invisible.%20He%20makes%20a%20list%20of%20everything%20he%20can%20do%20that%20Mila%20can%27t%3A%20ride%20a%20bike%2C%20whistle%2C%20build%20a%20tall%20tower.%20Then%20Mom%20tells%20him%20love%20doesn%27t%20get%20cut%20in%20half%20when%20a%20baby%20comes%3B%20it%20grows%2C%20like%20a%20garden.%20On%20the%20last%20page%20Leo%20reads%20his%20favorite%20book%20to%20Mila%2C%20and%20she%20grabs%20his%20finger.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-3)
+[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Kai%2C%20four%2C%20with%20black%20hair%20that%20sticks%20straight%20up%20and%20a%20favorite%20red%20cape%2C%20is%20going%20to%20be%20a%20big%20brother.%20He%20helps%20Dad%20build%20the%20crib%2C%20picks%20a%20stuffed%20whale%20for%20the%20baby%20and%20packs%20the%20hospital%20bag.%20Then%20he%20visits%20Mom%20and%20meets%20his%20baby%20sister%2C%20Lani.%20At%20home%20Kai%20fetches%20diapers%2C%20holds%20Lani%20on%20the%20couch%20with%20Dad%27s%20help%2C%20pushes%20the%20stroller%20to%20the%20park%2C%20tells%20her%20about%20his%20toy%20trucks%2C%20reads%20her%20a%20book%20upside%20down%2C%20gets%20bored%20when%20she%20sleeps%20all%20day%20and%20has%20a%20special%20afternoon%20at%20the%20zoo%20with%20Grandpa.%20On%20the%20last%20page%20Lani%20grabs%20his%20finger%20and%20Kai%20teaches%20her%20to%20clap.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-2)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_story_coloring_book",
+  "arguments": {
+    "ageGroup": "3-6",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "title": "Kai and Baby Lani",
+    "theme": "Becoming a big brother",
+    "style": "story",
+    "description": "Kai, four, with black hair that sticks straight up and a favorite red cape, is going to be a big brother. He helps Dad build the crib, picks a stuffed whale for the baby and packs the hospital bag. Then he visits Mom and meets his baby sister, Lani. At home Kai fetches diapers, holds Lani on the couch with Dad's help, pushes the stroller to the park, tells her about his toy trucks, reads her a book upside down, gets bored when she sleeps all day and has a special afternoon at the zoo with Grandpa. On the last page Lani grabs his finger and Kai teaches her to clap."
+  }
+}
+```
+
+</details>
+
+## 3. Rosa and the twin brothers
+
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 80 Standard · 120 Premium
+
+```text
+Rosa, seven, with freckles and a gap-toothed grin, finds out her family is having twins. Everything doubles: two cribs, two car seats, two of every tiny hat. The boys, Leo and Max, arrive and look exactly alike, until Rosa spots the freckle on Max's ear. She becomes the house's twin expert through the busy months: double bath time, double crying at 3 a.m., a stroller as wide as the sidewalk, matching outfits mixed up, first smiles, first rolls and first foods splattered on the wall. The book ends at the twins' first birthday, where Rosa helps them blow out one candle each.
+```
+
+[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Rosa%2C%20seven%2C%20with%20freckles%20and%20a%20gap-toothed%20grin%2C%20finds%20out%20her%20family%20is%20having%20twins.%20Everything%20doubles%3A%20two%20cribs%2C%20two%20car%20seats%2C%20two%20of%20every%20tiny%20hat.%20The%20boys%2C%20Leo%20and%20Max%2C%20arrive%20and%20look%20exactly%20alike%2C%20until%20Rosa%20spots%20the%20freckle%20on%20Max%27s%20ear.%20She%20becomes%20the%20house%27s%20twin%20expert%20through%20the%20busy%20months%3A%20double%20bath%20time%2C%20double%20crying%20at%203%20a.m.%2C%20a%20stroller%20as%20wide%20as%20the%20sidewalk%2C%20matching%20outfits%20mixed%20up%2C%20first%20smiles%2C%20first%20rolls%20and%20first%20foods%20splattered%20on%20the%20wall.%20The%20book%20ends%20at%20the%20twins%27%20first%20birthday%2C%20where%20Rosa%20helps%20them%20blow%20out%20one%20candle%20each.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-3)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -83,13 +83,73 @@ Leo, a freckled boy in a dinosaur T-shirt, helps paint the nursery and picks a t
   "tool": "create_story_coloring_book",
   "arguments": {
     "ageGroup": "6-9",
-    "numberOfPages": 28,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "title": "Leo Becomes a Big Brother",
-    "theme": "Jealousy and love for a new sibling",
+    "title": "Double Trouble for Rosa",
+    "theme": "Twin siblings arriving",
     "style": "story",
-    "description": "Leo, a freckled boy in a dinosaur T-shirt, helps paint the nursery and picks a toy giraffe for the baby. When baby Mila arrives, everyone coos over her, and Leo feels invisible. He makes a list of everything he can do that Mila can't: ride a bike, whistle, build a tall tower. Then Mom tells him love doesn't get cut in half when a baby comes; it grows, like a garden. On the last page Leo reads his favorite book to Mila, and she grabs his finger."
+    "description": "Rosa, seven, with freckles and a gap-toothed grin, finds out her family is having twins. Everything doubles: two cribs, two car seats, two of every tiny hat. The boys, Leo and Max, arrive and look exactly alike, until Rosa spots the freckle on Max's ear. She becomes the house's twin expert through the busy months: double bath time, double crying at 3 a.m., a stroller as wide as the sidewalk, matching outfits mixed up, first smiles, first rolls and first foods splattered on the wall. The book ends at the twins' first birthday, where Rosa helps them blow out one candle each."
+  }
+}
+```
+
+</details>
+
+## 4. Tumble the otter and the new pup
+
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 80 Standard · 120 Premium
+
+```text
+Tumble, a young river otter with extra-long whiskers, wakes up to find a new pup curled on Mama's tummy in the den. The pup, called Ripple, can't swim yet, so Tumble shows her the river world as she grows: floating on her back, holding paws so the current doesn't carry them apart, diving for crayfish, cracking a mussel on a stone, sliding down the mud bank, hiding from a heron and napping in a raft of otters. When Ripple finally swims to the far bank on her own, Tumble races her home.
+```
+
+[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Tumble%2C%20a%20young%20river%20otter%20with%20extra-long%20whiskers%2C%20wakes%20up%20to%20find%20a%20new%20pup%20curled%20on%20Mama%27s%20tummy%20in%20the%20den.%20The%20pup%2C%20called%20Ripple%2C%20can%27t%20swim%20yet%2C%20so%20Tumble%20shows%20her%20the%20river%20world%20as%20she%20grows%3A%20floating%20on%20her%20back%2C%20holding%20paws%20so%20the%20current%20doesn%27t%20carry%20them%20apart%2C%20diving%20for%20crayfish%2C%20cracking%20a%20mussel%20on%20a%20stone%2C%20sliding%20down%20the%20mud%20bank%2C%20hiding%20from%20a%20heron%20and%20napping%20in%20a%20raft%20of%20otters.%20When%20Ripple%20finally%20swims%20to%20the%20far%20bank%20on%20her%20own%2C%20Tumble%20races%20her%20home.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-4)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_story_coloring_book",
+  "arguments": {
+    "ageGroup": "3-6",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "title": "Tumble Teaches the Pup",
+    "theme": "A new otter sibling",
+    "style": "story",
+    "description": "Tumble, a young river otter with extra-long whiskers, wakes up to find a new pup curled on Mama's tummy in the den. The pup, called Ripple, can't swim yet, so Tumble shows her the river world as she grows: floating on her back, holding paws so the current doesn't carry them apart, diving for crayfish, cracking a mussel on a stone, sliding down the mud bank, hiding from a heron and napping in a raft of otters. When Ripple finally swims to the far bank on her own, Tumble races her home."
+  }
+}
+```
+
+</details>
+
+## 5. Eli's family adopts baby Ruby
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Story · **Quality:** Standard · **Credits:** 80 Standard · 120 Premium
+
+```text
+Eli, nine, tall for his age and never without his camera, learns his parents are adopting a baby. The book follows the wait: a social worker's home visit, painting the spare room, a year of checking the phone, then the call that a baby girl named Ruby has been born in another state. The family drives through the night, meets Ruby at the hospital, spends a week in a hotel waiting for papers, then flies home. Neighbors hang a banner, Grandma arrives with a quilt and Eli gives Ruby her first bath with Dad. The last pages show the photo album Eli makes of the trip.
+```
+
+[**▶ Make this story coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book-story&prompt=Eli%2C%20nine%2C%20tall%20for%20his%20age%20and%20never%20without%20his%20camera%2C%20learns%20his%20parents%20are%20adopting%20a%20baby.%20The%20book%20follows%20the%20wait%3A%20a%20social%20worker%27s%20home%20visit%2C%20painting%20the%20spare%20room%2C%20a%20year%20of%20checking%20the%20phone%2C%20then%20the%20call%20that%20a%20baby%20girl%20named%20Ruby%20has%20been%20born%20in%20another%20state.%20The%20family%20drives%20through%20the%20night%2C%20meets%20Ruby%20at%20the%20hospital%2C%20spends%20a%20week%20in%20a%20hotel%20waiting%20for%20papers%2C%20then%20flies%20home.%20Neighbors%20hang%20a%20banner%2C%20Grandma%20arrives%20with%20a%20quilt%20and%20Eli%20gives%20Ruby%20her%20first%20bath%20with%20Dad.%20The%20last%20pages%20show%20the%20photo%20album%20Eli%20makes%20of%20the%20trip.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=new-baby-sibling-story-coloring-book-prompts-5)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_story_coloring_book",
+  "arguments": {
+    "ageGroup": "9-13",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "title": "Welcome Home, Ruby",
+    "theme": "A baby sister by adoption",
+    "style": "story",
+    "description": "Eli, nine, tall for his age and never without his camera, learns his parents are adopting a baby. The book follows the wait: a social worker's home visit, painting the spare room, a year of checking the phone, then the call that a baby girl named Ruby has been born in another state. The family drives through the night, meets Ruby at the hospital, spends a week in a hotel waiting for papers, then flies home. Neighbors hang a banner, Grandma arrives with a quilt and Eli gives Ruby her first bath with Dad. The last pages show the photo album Eli makes of the trip."
   }
 }
 ```

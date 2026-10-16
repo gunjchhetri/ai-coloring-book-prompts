@@ -2,19 +2,21 @@
 
 <img src="../../assets/img/dragon-coloring-book-prompts.webp" alt="Sample coloring book page made with InkChamps" width="280" align="right">
 
-3 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/dragon/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
+5 prompts. The full page, with sample pages and tips, is in the [InkChamps prompt library](https://inkchamps.com/prompts/coloring-books/dragon/). Each prompt below opens in InkChamps with one click; or copy the brief into any AI tool.
 
-**Prompts on this page:** [Cuddly baby dragons](#1-cuddly-baby-dragons) · [Epic dragon adventures for tweens](#2-epic-dragon-adventures-for-tweens) · [Intricate dragons for adults](#3-intricate-dragons-for-adults)
+**Prompts on this page:** [Silly baby dragons](#1-silly-baby-dragons) · [Dragons of every element](#2-dragons-of-every-element) · [Dragon riders adventure](#3-dragon-riders-adventure) · [Eastern dragons and festivals](#4-eastern-dragons-and-festivals) · [Intricate dragon art for adults](#5-intricate-dragon-art-for-adults)
 
-## 1. Cuddly baby dragons
+## 1. Silly baby dragons
 
-**Ages:** 3-6 · **Pages:** 30 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 30 Standard · 90 Premium
+**Ages:** 3-6 · **Pages:** 40 · **Size:** 8.5 × 8.5 in · **Style:** Cute animals · **Detail:** Easy · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Friendly little dragons who are more silly than scary: a baby dragon hatching from a spotted egg, toasting marshmallows with a tiny puff of fire, learning to fly on wobbly wings, napping on a pile of pillows, playing hide and seek in a castle, stomping in a puddle, sharing berries with a squirrel, flying a kite, wearing a knight's helmet that is far too big, and hugging a teddy bear at bedtime.
+Forty pages of baby dragons, one big one per page: a dragon hatching from a spotted egg, toasting a marshmallow with a tiny flame, a wobbly first flight, napping on a pile of gold coins, splashing in a bubble bath, sneezing a puff of smoke, wearing a knight's helmet that is too big, eating a giant strawberry, cuddling a teddy, and a mother dragon with her babies in a nest.
 ```
 
-[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Friendly%20little%20dragons%20who%20are%20more%20silly%20than%20scary%3A%20a%20baby%20dragon%20hatching%20from%20a%20spotted%20egg%2C%20toasting%20marshmallows%20with%20a%20tiny%20puff%20of%20fire%2C%20learning%20to%20fly%20on%20wobbly%20wings%2C%20napping%20on%20a%20pile%20of%20pillows%2C%20playing%20hide%20and%20seek%20in%20a%20castle%2C%20stomping%20in%20a%20puddle%2C%20sharing%20berries%20with%20a%20squirrel%2C%20flying%20a%20kite%2C%20wearing%20a%20knight%27s%20helmet%20that%20is%20far%20too%20big%2C%20and%20hugging%20a%20teddy%20bear%20at%20bedtime.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-1)
+**Extra direction:** More pages: a baby dragon building a sandcastle, flying a kite, at a birthday party lighting candles, reading in a cave with a lantern, playing hide and seek behind a rock, riding a skateboard, catching butterflies, in rain boots, baking bread in a stone oven, with a pet mouse, on a swing, roasting a pumpkin, wrapped in a blanket, looking at the stars.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20pages%20of%20baby%20dragons%2C%20one%20big%20one%20per%20page%3A%20a%20dragon%20hatching%20from%20a%20spotted%20egg%2C%20toasting%20a%20marshmallow%20with%20a%20tiny%20flame%2C%20a%20wobbly%20first%20flight%2C%20napping%20on%20a%20pile%20of%20gold%20coins%2C%20splashing%20in%20a%20bubble%20bath%2C%20sneezing%20a%20puff%20of%20smoke%2C%20wearing%20a%20knight%27s%20helmet%20that%20is%20too%20big%2C%20eating%20a%20giant%20strawberry%2C%20cuddling%20a%20teddy%2C%20and%20a%20mother%20dragon%20with%20her%20babies%20in%20a%20nest.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-1)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -23,29 +25,66 @@ Friendly little dragons who are more silly than scary: a baby dragon hatching fr
   "tool": "create_coloring_book",
   "arguments": {
     "ageGroup": "3-6",
-    "numberOfPages": 30,
+    "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x8.5",
-    "description": "Friendly little dragons who are more silly than scary: a baby dragon hatching from a spotted egg, toasting marshmallows with a tiny puff of fire, learning to fly on wobbly wings, napping on a pile of pillows, playing hide and seek in a castle, stomping in a puddle, sharing berries with a squirrel, flying a kite, wearing a knight's helmet that is far too big, and hugging a teddy bear at bedtime.",
+    "description": "Forty pages of baby dragons, one big one per page: a dragon hatching from a spotted egg, toasting a marshmallow with a tiny flame, a wobbly first flight, napping on a pile of gold coins, splashing in a bubble bath, sneezing a puff of smoke, wearing a knight's helmet that is too big, eating a giant strawberry, cuddling a teddy, and a mother dragon with her babies in a nest.",
     "style": "cute_animals",
     "complexity": "easy",
     "theme": "baby dragons",
-    "title": "Little Dragons Coloring Book"
+    "title": "Little Dragons Coloring Book",
+    "additionalInstructions": "More pages: a baby dragon building a sandcastle, flying a kite, at a birthday party lighting candles, reading in a cave with a lantern, playing hide and seek behind a rock, riding a skateboard, catching butterflies, in rain boots, baking bread in a stone oven, with a pet mouse, on a swing, roasting a pumpkin, wrapped in a blanket, looking at the stars."
   }
 }
 ```
 
 </details>
 
-## 2. Epic dragon adventures for tweens
+## 2. Dragons of every element
 
-**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+**Ages:** 6-9 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Medium · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Epic dragons across a fantasy world: a dragon curled around a mountain of gold coins, a dragon rider soaring over a misty valley, a sea dragon rising from stormy waves, a forest dragon covered in moss and leaves, an ice dragon perched on a glacier cliff, a long Eastern dragon weaving through clouds, a nest of dragon eggs inside a volcano, a young wizard befriending a dragon in a library tower, and two dragons facing off over a canyon.
+Forty dragons, each from a different element or land: a fire dragon on a volcano, an ice dragon on a glacier, a forest dragon with leaf wings, a sea dragon in waves, a storm dragon in lightning clouds, a desert dragon by a dune, a crystal dragon in a cave of gems, a lava dragon in a river of fire, a cloud dragon, a swamp dragon in reeds, a snow dragon with a yeti, a sun dragon and a moon dragon.
 ```
 
-[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Epic%20dragons%20across%20a%20fantasy%20world%3A%20a%20dragon%20curled%20around%20a%20mountain%20of%20gold%20coins%2C%20a%20dragon%20rider%20soaring%20over%20a%20misty%20valley%2C%20a%20sea%20dragon%20rising%20from%20stormy%20waves%2C%20a%20forest%20dragon%20covered%20in%20moss%20and%20leaves%2C%20an%20ice%20dragon%20perched%20on%20a%20glacier%20cliff%2C%20a%20long%20Eastern%20dragon%20weaving%20through%20clouds%2C%20a%20nest%20of%20dragon%20eggs%20inside%20a%20volcano%2C%20a%20young%20wizard%20befriending%20a%20dragon%20in%20a%20library%20tower%2C%20and%20two%20dragons%20facing%20off%20over%20a%20canyon.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-2)
+**Extra direction:** More pages: a thunder dragon over a mountain, a jungle dragon with vines, a coral reef dragon, a rainbow dragon, a shadow dragon in moonlight, a flower dragon in a garden, a metal dragon with gears, a sand dragon in a canyon, a waterfall dragon, a mushroom dragon, a candy dragon, a star dragon in space, a two-headed dragon, a tiny pocket dragon, a dragon egg collection, a dragon map of all the lands.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20dragons%2C%20each%20from%20a%20different%20element%20or%20land%3A%20a%20fire%20dragon%20on%20a%20volcano%2C%20an%20ice%20dragon%20on%20a%20glacier%2C%20a%20forest%20dragon%20with%20leaf%20wings%2C%20a%20sea%20dragon%20in%20waves%2C%20a%20storm%20dragon%20in%20lightning%20clouds%2C%20a%20desert%20dragon%20by%20a%20dune%2C%20a%20crystal%20dragon%20in%20a%20cave%20of%20gems%2C%20a%20lava%20dragon%20in%20a%20river%20of%20fire%2C%20a%20cloud%20dragon%2C%20a%20swamp%20dragon%20in%20reeds%2C%20a%20snow%20dragon%20with%20a%20yeti%2C%20a%20sun%20dragon%20and%20a%20moon%20dragon.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-2)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_coloring_book",
+  "arguments": {
+    "ageGroup": "6-9",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "Forty dragons, each from a different element or land: a fire dragon on a volcano, an ice dragon on a glacier, a forest dragon with leaf wings, a sea dragon in waves, a storm dragon in lightning clouds, a desert dragon by a dune, a crystal dragon in a cave of gems, a lava dragon in a river of fire, a cloud dragon, a swamp dragon in reeds, a snow dragon with a yeti, a sun dragon and a moon dragon.",
+    "style": "mythology",
+    "complexity": "medium",
+    "theme": "elemental dragons",
+    "title": "Dragons of Fire, Ice and Storm",
+    "additionalInstructions": "More pages: a thunder dragon over a mountain, a jungle dragon with vines, a coral reef dragon, a rainbow dragon, a shadow dragon in moonlight, a flower dragon in a garden, a metal dragon with gears, a sand dragon in a canyon, a waterfall dragon, a mushroom dragon, a candy dragon, a star dragon in space, a two-headed dragon, a tiny pocket dragon, a dragon egg collection, a dragon map of all the lands."
+  }
+}
+```
+
+</details>
+
+## 3. Dragon riders adventure
+
+**Ages:** 9-13 · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
+
+```text
+Forty pages of a dragon riders' world: a young rider choosing an egg in a hatchery, training a dragon in a castle courtyard, a saddle and armour workshop, a dragon stable, a rider and dragon diving over a sea cliff, a dragon race between mountain peaks, a treasure hoard in a mountain lair, a wizard's tower, a dragon market, a knight's tournament, and a sky battle above a fortress.
+```
+
+**Extra direction:** More pages: a dragon library of scrolls, a map room, riders camping on a ridge, a dragon flying through a storm, an icy northern keep, a desert caravan with dragons, a harbour with dragon-drawn ships, a dragon healer, a moonlit patrol, a graduation in the great hall, a dragon carrying a rider over a waterfall, a forge with a dragon heating metal, a dragon nesting on a castle roof, an old dragon telling stories.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20pages%20of%20a%20dragon%20riders%27%20world%3A%20a%20young%20rider%20choosing%20an%20egg%20in%20a%20hatchery%2C%20training%20a%20dragon%20in%20a%20castle%20courtyard%2C%20a%20saddle%20and%20armour%20workshop%2C%20a%20dragon%20stable%2C%20a%20rider%20and%20dragon%20diving%20over%20a%20sea%20cliff%2C%20a%20dragon%20race%20between%20mountain%20peaks%2C%20a%20treasure%20hoard%20in%20a%20mountain%20lair%2C%20a%20wizard%27s%20tower%2C%20a%20dragon%20market%2C%20a%20knight%27s%20tournament%2C%20and%20a%20sky%20battle%20above%20a%20fortress.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-3)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -57,26 +96,63 @@ Epic dragons across a fantasy world: a dragon curled around a mountain of gold c
     "numberOfPages": 40,
     "highQuality": false,
     "pageSize": "8.5x11",
-    "description": "Epic dragons across a fantasy world: a dragon curled around a mountain of gold coins, a dragon rider soaring over a misty valley, a sea dragon rising from stormy waves, a forest dragon covered in moss and leaves, an ice dragon perched on a glacier cliff, a long Eastern dragon weaving through clouds, a nest of dragon eggs inside a volcano, a young wizard befriending a dragon in a library tower, and two dragons facing off over a canyon.",
+    "description": "Forty pages of a dragon riders' world: a young rider choosing an egg in a hatchery, training a dragon in a castle courtyard, a saddle and armour workshop, a dragon stable, a rider and dragon diving over a sea cliff, a dragon race between mountain peaks, a treasure hoard in a mountain lair, a wizard's tower, a dragon market, a knight's tournament, and a sky battle above a fortress.",
     "style": "mythology",
-    "complexity": "medium",
-    "theme": "fantasy dragons",
-    "title": "Dragon Realms Coloring Book"
+    "complexity": "hard",
+    "theme": "dragon riders and fantasy castles",
+    "title": "Sky Academy: Dragon Rider Coloring Book",
+    "additionalInstructions": "More pages: a dragon library of scrolls, a map room, riders camping on a ridge, a dragon flying through a storm, an icy northern keep, a desert caravan with dragons, a harbour with dragon-drawn ships, a dragon healer, a moonlit patrol, a graduation in the great hall, a dragon carrying a rider over a waterfall, a forge with a dragon heating metal, a dragon nesting on a castle roof, an old dragon telling stories."
   }
 }
 ```
 
 </details>
 
-## 3. Intricate dragons for adults
+## 4. Eastern dragons and festivals
 
-**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mythology · **Detail:** Hard · **Quality:** Standard · **Credits:** 40 Standard · 120 Premium
 
 ```text
-Majestic, finely detailed dragons for adult colorists: a dragon with every scale patterned like filigree, a dragon coiled around a full-moon mandala, a sleeping dragon in a cave of crystals, a dragon perched on a gothic cathedral, a celestial dragon made of stars and constellations, a dragon in a lotus garden with koi, a close-up dragon eye ringed with ornament, and two dragons circling to form a yin-yang.
+Forty long, serpentine Eastern dragons and the scenes around them: a dragon coiling through clouds, a dragon chasing a flaming pearl, a dragon above a pagoda, a dragon in a waterfall with koi leaping, a dragon wrapped around a temple pillar, a Lunar New Year dragon dance, a dragon boat race, a dragon over rice terraces, a dragon among cherry blossoms, a dragon in moonlit waves, and a dragon with a phoenix.
 ```
 
-[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Majestic%2C%20finely%20detailed%20dragons%20for%20adult%20colorists%3A%20a%20dragon%20with%20every%20scale%20patterned%20like%20filigree%2C%20a%20dragon%20coiled%20around%20a%20full-moon%20mandala%2C%20a%20sleeping%20dragon%20in%20a%20cave%20of%20crystals%2C%20a%20dragon%20perched%20on%20a%20gothic%20cathedral%2C%20a%20celestial%20dragon%20made%20of%20stars%20and%20constellations%2C%20a%20dragon%20in%20a%20lotus%20garden%20with%20koi%2C%20a%20close-up%20dragon%20eye%20ringed%20with%20ornament%2C%20and%20two%20dragons%20circling%20to%20form%20a%20yin-yang.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-3)
+**Extra direction:** More pages: a dragon gate with a carp turning into a dragon, a dragon over misty volcanic peaks, a dragon among bamboo, a dragon lantern parade, a jade dragon carving, a dragon on a folding fan, a dragon and tiger, a dragon in a storm over the sea, a dragon curled around a vase, a dragon emperor's throne, a dragon kite, a dragon over a stone bridge, a dragon in a temple garden, a sleeping dragon on a mountain.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20long%2C%20serpentine%20Eastern%20dragons%20and%20the%20scenes%20around%20them%3A%20a%20dragon%20coiling%20through%20clouds%2C%20a%20dragon%20chasing%20a%20flaming%20pearl%2C%20a%20dragon%20above%20a%20pagoda%2C%20a%20dragon%20in%20a%20waterfall%20with%20koi%20leaping%2C%20a%20dragon%20wrapped%20around%20a%20temple%20pillar%2C%20a%20Lunar%20New%20Year%20dragon%20dance%2C%20a%20dragon%20boat%20race%2C%20a%20dragon%20over%20rice%20terraces%2C%20a%20dragon%20among%20cherry%20blossoms%2C%20a%20dragon%20in%20moonlit%20waves%2C%20and%20a%20dragon%20with%20a%20phoenix.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-4)
+
+<details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
+
+```json
+{
+  "tool": "create_coloring_book",
+  "arguments": {
+    "ageGroup": "13+",
+    "numberOfPages": 40,
+    "highQuality": false,
+    "pageSize": "8.5x11",
+    "description": "Forty long, serpentine Eastern dragons and the scenes around them: a dragon coiling through clouds, a dragon chasing a flaming pearl, a dragon above a pagoda, a dragon in a waterfall with koi leaping, a dragon wrapped around a temple pillar, a Lunar New Year dragon dance, a dragon boat race, a dragon over rice terraces, a dragon among cherry blossoms, a dragon in moonlit waves, and a dragon with a phoenix.",
+    "style": "mythology",
+    "complexity": "hard",
+    "theme": "Chinese and Japanese style Eastern dragons",
+    "title": "Eastern Dragons Coloring Book",
+    "additionalInstructions": "More pages: a dragon gate with a carp turning into a dragon, a dragon over misty volcanic peaks, a dragon among bamboo, a dragon lantern parade, a jade dragon carving, a dragon on a folding fan, a dragon and tiger, a dragon in a storm over the sea, a dragon curled around a vase, a dragon emperor's throne, a dragon kite, a dragon over a stone bridge, a dragon in a temple garden, a sleeping dragon on a mountain."
+  }
+}
+```
+
+</details>
+
+## 5. Intricate dragon art for adults
+
+**Ages:** 13+ · **Pages:** 40 · **Size:** 8.5 × 11 in · **Style:** Mandala animal · **Detail:** Hard · **Quality:** Premium · **Credits:** 40 Standard · 120 Premium
+
+```text
+Forty intricate dragons for adult colorists: a dragon wrapped around a castle tower, a dragon skull with roses, a close-up of a dragon's eye, a Celtic knotwork dragon, a steampunk dragon with gears, a dragon curled around a full moon, a dragon guarding a crystal, a dragon in a mandala circle, a dragon with stained-glass wings, a dragon perched on a sword, and two dragons forming a heart.
+```
+
+**Extra direction:** More pages: a dragon hatchling in a jewelled egg, a dragon in a gothic window, a dragon and a knight's shield, a dragon sleeping on a hoard, a skeletal dragon, a dragon among autumn leaves, a dragon in a snow globe, a dragon around an hourglass, a dragon in a tarot-card frame, a dragon over a stormy sea, a dragon chess piece, a dragon and a lantern, a dragon tattoo-style design, a dragon wing close-up.
+
+[**▶ Make this coloring book on InkChamps**](https://inkchamps.com/dashboard/?tool=coloring-book&prompt=Forty%20intricate%20dragons%20for%20adult%20colorists%3A%20a%20dragon%20wrapped%20around%20a%20castle%20tower%2C%20a%20dragon%20skull%20with%20roses%2C%20a%20close-up%20of%20a%20dragon%27s%20eye%2C%20a%20Celtic%20knotwork%20dragon%2C%20a%20steampunk%20dragon%20with%20gears%2C%20a%20dragon%20curled%20around%20a%20full%20moon%2C%20a%20dragon%20guarding%20a%20crystal%2C%20a%20dragon%20in%20a%20mandala%20circle%2C%20a%20dragon%20with%20stained-glass%20wings%2C%20a%20dragon%20perched%20on%20a%20sword%2C%20and%20two%20dragons%20forming%20a%20heart.&utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=dragon-coloring-book-prompts-5)
 
 <details><summary>Exact settings for AI agents (InkChamps MCP)</summary>
 
@@ -88,11 +164,12 @@ Majestic, finely detailed dragons for adult colorists: a dragon with every scale
     "numberOfPages": 40,
     "highQuality": true,
     "pageSize": "8.5x11",
-    "description": "Majestic, finely detailed dragons for adult colorists: a dragon with every scale patterned like filigree, a dragon coiled around a full-moon mandala, a sleeping dragon in a cave of crystals, a dragon perched on a gothic cathedral, a celestial dragon made of stars and constellations, a dragon in a lotus garden with koi, a close-up dragon eye ringed with ornament, and two dragons circling to form a yin-yang.",
-    "style": "mythology",
+    "description": "Forty intricate dragons for adult colorists: a dragon wrapped around a castle tower, a dragon skull with roses, a close-up of a dragon's eye, a Celtic knotwork dragon, a steampunk dragon with gears, a dragon curled around a full moon, a dragon guarding a crystal, a dragon in a mandala circle, a dragon with stained-glass wings, a dragon perched on a sword, and two dragons forming a heart.",
+    "style": "mandala_animal",
     "complexity": "hard",
-    "theme": "majestic dragons",
-    "title": "Dragons: A Detailed Coloring Book for Adults"
+    "theme": "intricate dragons for adults",
+    "title": "Dragon Mandalas: Adult Coloring Book",
+    "additionalInstructions": "More pages: a dragon hatchling in a jewelled egg, a dragon in a gothic window, a dragon and a knight's shield, a dragon sleeping on a hoard, a skeletal dragon, a dragon among autumn leaves, a dragon in a snow globe, a dragon around an hourglass, a dragon in a tarot-card frame, a dragon over a stormy sea, a dragon chess piece, a dragon and a lantern, a dragon tattoo-style design, a dragon wing close-up."
   }
 }
 ```
