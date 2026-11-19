@@ -10,6 +10,16 @@ PAGE_SIZES = ["8.5x11", "8.5x8.5", "6x9"]
 MIN_PAGES, MAX_PAGES = 2, 120
 MAX_BRIEF_CHARS = 600
 MAX_INSTRUCTION_CHARS = 600
+# A book written out page by page: one scene per page, plus one style line the
+# copy button adds to every page so each prompt works alone in any image tool.
+BOOK_PAGES = 24
+# An A-to-Z book keeps a page per letter.
+ALPHABET_PAGES = 26
+# Story books carry the words printed on each page beside the picture.
+STORY_CATEGORIES = {"story-coloring-books", "illustrated-story-books"}
+PAGE_TEXT_CHARS = (10, 400)
+PAGE_SCENE_CHARS = (60, 320)
+PAGE_STYLE_CHARS = (80, 400)
 
 COLORING_STYLES = [
     "cute_animals", "cute_birds", "cute_insects", "mandala_animal", "mandala_sea",
