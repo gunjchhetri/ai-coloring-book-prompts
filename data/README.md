@@ -73,6 +73,26 @@ These are what make a prompt work first time in InkChamps.
 8. **Give a real reason.** `why` names the buyer (KDP seller, Etsy shop,
    parent, teacher, homeschooler, adult colorist) and why this book works.
 
+## Page by page
+
+A book can also be written out page by page, so it works in ChatGPT, Gemini or
+any image tool, one picture at a time. Add two keys beside `fields`:
+
+```json
+"numberOfPages": 24,
+"pageStyle": "Black-and-white coloring page for a child aged 3 to 6: thick bold outlines, ...",
+"pages": ["A baby T-rex brushing its teeth at the bathroom sink, ...", "... 24 in all"]
+```
+
+- **24 pages**, one scene each, in reading order. `numberOfPages` is 24.
+- **Each page is one picture**: who is in it, what they are doing, where, and
+  two or three props. 60-320 characters. No two pages alike.
+- **`pageStyle` is the drawing direction**, written once and added after every
+  page when it is copied: the age, black and white or colour, line weight, how
+  much background, no shading, no words, the page shape. Rule 1 is for the
+  brief InkChamps reads; another image tool needs this line spelled out.
+- The brief in `fields` still describes the whole book and says 24 pages.
+
 ## Per category
 
 | File | Tool | Notes |

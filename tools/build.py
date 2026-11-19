@@ -111,6 +111,11 @@ def main_text(category, prompt):
     return fields.get("description", "")
 
 
+def page_prompt(prompt, scene):
+    """One page as a whole prompt: its scene, then the style line every page shares."""
+    return f"{scene} {prompt['pageStyle']}"
+
+
 def credits(category, prompt):
     rates = S.CATEGORIES[category]["rates"]
     if rates is None:
@@ -228,6 +233,13 @@ def md_prompt_page(category, page, pages):
         extra = prompt["fields"].get("additionalInstructions")
         if extra:
             out += [f"**Extra direction:** {extra}", ""]
+        if prompt.get("pages"):
+            out += [f"### Page by page ({len(prompt['pages'])} pages)", "",
+                    "Paste one page at a time into ChatGPT, Gemini or any AI image tool, with this line after it:", "",
+                    f"> {prompt['pageStyle']}", ""]
+            texts = prompt.get("pageTexts") or []
+            out += [f"{n}. {scene}" + (f"  \n   *Words:* {texts[n - 1]}" if texts else "") for n, scene in enumerate(prompt["pages"], 1)]
+            out.append("")
         out += [
             f"[**▶ Make this {meta['singular']} on InkChamps**]({make_link(category, prompt, page['slug'], i, 'github')})",
             "",
@@ -315,7 +327,7 @@ def md_readme(data):
         "",
         "1. **Pick a theme** and a prompt that fits your reader's age.",
         f"2. **Click \"Make this book on InkChamps\".** The brief opens in the [InkChamps]({inkchamps_link('github', 'readme-howto')}) creator, already filled in. Check the age and page count, press create, and download the PDF.",
-        "3. **Or copy the brief** into ChatGPT, Gemini, Claude or another image tool. The briefs describe the pages, not one tool's settings, so they travel.",
+        "3. **Or go page by page** in ChatGPT, Gemini or another image tool. Every book is written out as 24 page prompts (26 for an A-to-Z book) with one style line to add to each, so the pages match.",
         "4. **Using an AI agent?** Every prompt has its exact InkChamps MCP call under *Exact settings for AI agents*. See the [agent guide](guides/ai-agents-mcp.md).",
         "",
         "Every prompt states its age band, page count, page size and style, because a book for a 4-year-old and a book for an adult are drawn differently: line weight, detail and how much background a page carries all change with age.",
@@ -397,6 +409,8 @@ def library_data(data):
                     "extra": prompt["fields"].get("additionalInstructions"), "why": prompt["why"],
                     "settings": [list(row) for row in settings(category, prompt)],
                     "makePath": internal_make_path(category, prompt), "mcp": mcp_call(category, prompt),
+                    **({"pageStyle": prompt["pageStyle"], "pages": prompt["pages"]} if prompt.get("pages") else {}),
+                    **({"pageTexts": prompt["pageTexts"]} if prompt.get("pageTexts") else {}),
                 } for prompt in page["prompts"]],
             } for page in pages],
         })
@@ -431,6 +445,8 @@ def build():
                     "id": f"{page['slug']}-{i + 1}", "category": category, "theme": page["title"],
                     "name": prompt["name"], "brief": main_text(category, prompt), "why": prompt["why"],
                     "credits": {"standard": std, "premium": premium},
+                    **({"pages": [page_prompt(prompt, scene) for scene in prompt["pages"]]} if prompt.get("pages") else {}),
+                    **({"pageTexts": prompt["pageTexts"]} if prompt.get("pageTexts") else {}),
                     "inkchamps": {"mcp": mcp_call(category, prompt), "makeUrl": make_link(category, prompt, page["slug"], i, "prompts_json")},
                     "page": f"{library_url(category, page)}#prompt-{i + 1}",
                 })

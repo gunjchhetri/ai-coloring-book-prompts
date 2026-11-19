@@ -37,7 +37,7 @@
 
 1. **Pick a theme** and a prompt that fits your reader's age.
 2. **Click "Make this book on InkChamps".** The brief opens in the [InkChamps](https://inkchamps.com/?utm_source=github&utm_medium=prompt_library&utm_campaign=ai-coloring-book-prompts&utm_content=readme-howto) creator, already filled in. Check the age and page count, press create, and download the PDF.
-3. **Or copy the brief** into ChatGPT, Gemini, Claude or another image tool. The briefs describe the pages, not one tool's settings, so they travel.
+3. **Or go page by page** in ChatGPT, Gemini or another image tool. Every book is written out as 24 page prompts (26 for an A-to-Z book) with one style line to add to each, so the pages match.
 4. **Using an AI agent?** Every prompt has its exact InkChamps MCP call under *Exact settings for AI agents*. See the [agent guide](guides/ai-agents-mcp.md).
 
 Every prompt states its age band, page count, page size and style, because a book for a 4-year-old and a book for an adult are drawn differently: line weight, detail and how much background a page carries all change with age.

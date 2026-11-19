@@ -31,7 +31,7 @@ def check_prompt(category, page_slug, index, prompt, errors):
     if not isinstance(fields, dict):
         return
 
-    extra = set(prompt) - {"name", "why", "fields", "ageGroup", "numberOfPages", "pageSize", "highQuality"}
+    extra = set(prompt) - {"name", "why", "fields", "ageGroup", "numberOfPages", "pageSize", "highQuality", "pageStyle", "pages", "pageTexts"}
     if extra:
         _err(errors, where, f"unknown keys {sorted(extra)}")
 
@@ -59,10 +59,46 @@ def check_prompt(category, page_slug, index, prompt, errors):
         if value is not None and len(value) > S.MAX_BRIEF_CHARS:
             _err(errors, where, f"{key} is {len(value)} characters; keep it under {S.MAX_BRIEF_CHARS}")
 
+    scenes = prompt.get("pages")
+    if scenes is not None or "pageStyle" in prompt:
+        style = prompt.get("pageStyle")
+        lo, hi = S.PAGE_STYLE_CHARS
+        if not isinstance(style, str) or not lo <= len(style) <= hi:
+            _err(errors, where, f"pageStyle (the line added to every page) must be {lo}-{hi} characters")
+        if not isinstance(scenes, list) or any(not isinstance(t, str) for t in scenes):
+            _err(errors, where, "pages must be a list of page prompts")
+            scenes = []
+        if len(scenes) != prompt.get("numberOfPages"):
+            _err(errors, where, f"{len(scenes)} pages written but numberOfPages is {prompt.get('numberOfPages')}")
+        allowed = {S.BOOK_PAGES}
+        if fields.get("pageCategory") == "concept":
+            allowed.add(S.ALPHABET_PAGES)
+        if prompt.get("numberOfPages") not in allowed:
+            _err(errors, where, f"a book written page by page has {S.BOOK_PAGES} pages ({S.ALPHABET_PAGES} for an A-to-Z book)")
+        texts = prompt.get("pageTexts")
+        if category in S.STORY_CATEGORIES and texts is None:
+            _err(errors, where, "a story book written page by page needs pageTexts, the words on each page")
+        if texts is not None:
+            lo, hi = S.PAGE_TEXT_CHARS
+            if not isinstance(texts, list) or len(texts) != len(scenes):
+                _err(errors, where, "pageTexts needs one entry per page")
+            else:
+                for n, text in enumerate(texts, 1):
+                    if not isinstance(text, str) or not lo <= len(text) <= hi:
+                        _err(errors, where, f"page {n} words must be {lo}-{hi} characters")
+        lo, hi = S.PAGE_SCENE_CHARS
+        for n, text in enumerate(scenes, 1):
+            if not lo <= len(text) <= hi:
+                _err(errors, where, f"page {n} is {len(text)} characters; write {lo}-{hi}")
+        if len(set(scenes)) != len(scenes):
+            _err(errors, where, "two pages are the same")
+
     # Style ids count too ("pixar_3d" is public text in the agent JSON), so
     # underscores split words before the whole-word match.
     blob = " ".join(str(fields.get(k, "")) for k in TEXT_FIELDS + ("style",)).lower()
-    blob = (blob + " " + prompt.get("name", "").lower()).replace("_", " ")
+    blob = " ".join([blob, prompt.get("name", ""), str(prompt.get("pageStyle", "")),
+                     *map(str, prompt.get("pages") or []), *map(str, prompt.get("pageTexts") or [])])
+    blob = blob.lower().replace("_", " ")
     for term in S.BANNED_TERMS:
         if re.search(rf"\b{re.escape(term)}\b", blob):
             _err(errors, where, f"mentions a brand or famous character: '{term}'")
